@@ -1,0 +1,45 @@
+{
+  "school_code": "STS",
+  "school_name": "Trường Đại Học Sư Phạm Thể Dục Thể Thao TPHCM",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Giáo dục thể chất",
+          "Tổ hợp môn": "T00; T02; T05; T08",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": "Kết hợp điểm thi TN THPT với năng khiếu"
+        }
+      ],
+      "row_count": 1
+    },
+    {
+      "table_title": "Điểm xét tuyển kết hợp năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Giáo dục thể chất",
+          "Tổ hợp môn": "T00; T02; T05; T08",
+          "Điểm chuẩn": "25.24",
+          "Ghi chú": "Kết hợp học bạ THPT với năng khiếu"
+        }
+      ],
+      "row_count": 1
+    }
+  ],
+  "table_count": 2,
+  "crawled_at": "2025-07-18T23:27:47.561653",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-su-pham-the-duc-the-thao-tphcm-STS.html"
+}

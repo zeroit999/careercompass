@@ -1,0 +1,501 @@
+{
+  "school_code": "DHT",
+  "school_name": "Trường Đại Học Khoa Học Huế",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Hán Nôm",
+          "Tổ hợp môn": "C00; C19; D14",
+          "Điểm chuẩn": "16.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Triết học",
+          "Tổ hợp môn": "A00; C19; D01; D66",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Lịch sử",
+          "Tổ hợp môn": "C00; C19; D01; D14",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Văn học",
+          "Tổ hợp môn": "C00; C19; D14",
+          "Điểm chuẩn": "16.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý văn hóa",
+          "Tổ hợp môn": "C00; C19; D01; D14",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "C14; C19; D01; D66",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xã hội học",
+          "Tổ hợp môn": "C00; C19; D01; D14",
+          "Điểm chuẩn": "16.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đông phương học",
+          "Tổ hợp môn": "C00; C19; D01; D14",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Báo chí",
+          "Tổ hợp môn": "C00; D01; D15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông số",
+          "Tổ hợp môn": "C00; D01; D15",
+          "Điểm chuẩn": "17.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "A00; B00; D01; D08",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Vật lý học",
+          "Tổ hợp môn": "A00; A01; A10; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hóa học",
+          "Tổ hợp môn": "A00; B00; D01; D07",
+          "Điểm chuẩn": "15.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học môi trường",
+          "Tổ hợp môn": "A00; B00; D07; D15",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị và phân tích dữ liệu (thí điểm)",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "16.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "17.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - Viễn thông",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "16.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật hóa học",
+          "Tổ hợp môn": "A00; B00; D01; D07",
+          "Điểm chuẩn": "15.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật trắc địa - bản đồ",
+          "Tổ hợp môn": "A00; B00; D01; D10",
+          "Điểm chuẩn": "15.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "V00; V01; V02",
+          "Điểm chuẩn": "16.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Địa kỹ thuật xây dựng",
+          "Tổ hợp môn": "A00; B00; D01; D10",
+          "Điểm chuẩn": "15.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "C00; C19; D01; D14",
+          "Điểm chuẩn": "16.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "B00; C04; D01; D10",
+          "Điểm chuẩn": "15.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý an toàn, sức khỏe và môi trường",
+          "Tổ hợp môn": "A00; B00; D07; D15",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 25
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Hán - Nôm",
+          "Tổ hợp môn": "C00; C19; D14",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Triết học",
+          "Tổ hợp môn": "A00; C19; D01; D66",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Lịch sử",
+          "Tổ hợp môn": "C00; C19; D01; D14",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Văn học",
+          "Tổ hợp môn": "C00; C19; D14",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý văn hóa",
+          "Tổ hợp môn": "C00; C19; D01; D14",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "C14; C19; D01; D66",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xã hội học",
+          "Tổ hợp môn": "C00; C19; D01; D14",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đông phương học",
+          "Tổ hợp môn": "C00; C19; D01; D14",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Báo chí",
+          "Tổ hợp môn": "C00; D01; D15",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông số",
+          "Tổ hợp môn": "C00; D01; D15",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "A00; B00; D01; D08",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Vật lý học",
+          "Tổ hợp môn": "A00; A01; A10; D01",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hoá học",
+          "Tổ hợp môn": "A00; B00; D01; D07",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học môi trường",
+          "Tổ hợp môn": "A00; B00; D07; D15",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị và phân tích dữ liệu",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử -Viễn thông",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật hóa học",
+          "Tổ hợp môn": "A00; B00; D01; D07",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật trắc địa - bản đồ",
+          "Tổ hợp môn": "A00; B00; D01; D10",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "V00; V01; V02",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Địa kỹ thuật xây dựng",
+          "Tổ hợp môn": "A00; B00; D01; D10",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "C00; C19; D01; D14",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "B00; C04. D01; D10",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý an toàn; sức khỏe và môi trường",
+          "Tổ hợp môn": "A00; B00; D07; D15",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 25
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Hán - Nôm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Triết học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Lịch sử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Văn học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý văn hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xã hội học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đông phương học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Báo chí",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông số",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Vật lý học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hoá học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học môi trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị và phân tích dữ liệu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị và phân tích dừ liệu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử -Viễn thông",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật hóa học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật trắc địa - bản đồ",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Địa kỹ thuật xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý an toàn; sức khỏe và môi trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 26
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:30:41.534568",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-khoa-hoc-hue-DHT.html"
+}

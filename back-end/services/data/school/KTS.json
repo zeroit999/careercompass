@@ -1,0 +1,375 @@
+{
+  "school_code": "KTS",
+  "school_name": "Trường Đại Học Kiến Trúc TPHCM",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Mỹ thuật đô thị",
+          "Tổ hợp môn": "V00; V01; V02",
+          "Điểm chuẩn": "22.76",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế công nghiệp",
+          "Tổ hợp môn": "H01; H02",
+          "Điểm chuẩn": "24.72",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế đồ họa",
+          "Tổ hợp môn": "H01; H06",
+          "Điểm chuẩn": "25.54",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế thời trang",
+          "Tổ hợp môn": "H01; H06",
+          "Điểm chuẩn": "24.81",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "V00; V01; V02",
+          "Điểm chuẩn": "24.09",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc (CLC)",
+          "Tổ hợp môn": "V00; V01; V02",
+          "Điểm chuẩn": "23.68",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc (CT)",
+          "Tổ hợp môn": "V00; V01; V02",
+          "Điểm chuẩn": "22.78",
+          "Ghi chú": "Đào tạo tại cơ sở Cần Thơ"
+        },
+        {
+          "Tên ngành": "Kiến trúc (DL)",
+          "Tổ hợp môn": "V00; V01; V02",
+          "Điểm chuẩn": "22.15",
+          "Ghi chú": "Đào tạo tại cơ sở Đà Lạt"
+        },
+        {
+          "Tên ngành": "Kiến trúc cảnh quan",
+          "Tổ hợp môn": "V00; V01; V02",
+          "Điểm chuẩn": "23.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quy hoạch vùng và đô thị",
+          "Tổ hợp môn": "V00; V01; V02",
+          "Điểm chuẩn": "23.12",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quy hoạch vùng và đô thị (CLC)",
+          "Tổ hợp môn": "V00; V01; V02",
+          "Điểm chuẩn": "22.32",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế nội thất",
+          "Tổ hợp môn": "V00; V01; V02",
+          "Điểm chuẩn": "23.91",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế nội thất (CT)",
+          "Tổ hợp môn": "V00; V01; V02",
+          "Điểm chuẩn": "21.81",
+          "Ghi chú": "Đào tạo tại cơ sở Cần Thơ"
+        },
+        {
+          "Tên ngành": "Thiết kế đô thị (CT tiên tiến)",
+          "Tổ hợp môn": "V00; V01; V02",
+          "Điểm chuẩn": "21.39",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "A00; A01; C01; C02",
+          "Điểm chuẩn": "21.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng (CLC)",
+          "Tổ hợp môn": "A00; A01; C01; C02",
+          "Điểm chuẩn": "21.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng (CT)",
+          "Tổ hợp môn": "A00; A01; C01; C02",
+          "Điểm chuẩn": "17.35",
+          "Ghi chú": "Đào tạo tại cơ sở Cần Thơ"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng (DL)",
+          "Tổ hợp môn": "A00; A01; C01; C02",
+          "Điểm chuẩn": "15.95",
+          "Ghi chú": "Đào tạo tại cơ sở Đà Lạt"
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ sở hạ tầng",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng",
+          "Tổ hợp môn": "A00; A01; C01; C02",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 20
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Mỹ thuật đô thị",
+          "Tổ hợp môn": "V00; V01; V02",
+          "Điểm chuẩn": "23.05",
+          "Ghi chú": "Tại TPHCM, HS THPT Chuyên, năng khiếu"
+        },
+        {
+          "Tên ngành": "Thiết kế công nghiệp",
+          "Tổ hợp môn": "H01; H02",
+          "Điểm chuẩn": "25.05",
+          "Ghi chú": "Tại TPHCM, HS THPT Chuyên, năng khiếu"
+        },
+        {
+          "Tên ngành": "Thiết kế đồ họa",
+          "Tổ hợp môn": "H01; H06",
+          "Điểm chuẩn": "25.44",
+          "Ghi chú": "Tại TPHCM, HS THPT Chuyên, năng khiếu"
+        },
+        {
+          "Tên ngành": "Thiết kế thời trang",
+          "Tổ hợp môn": "H01; H06",
+          "Điểm chuẩn": "25.04",
+          "Ghi chú": "Tại TPHCM, HS THPT Chuyên, năng khiếu"
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "V00; V01; V02",
+          "Điểm chuẩn": "25.14",
+          "Ghi chú": "Tại TPHCM, HS THPT Chuyên, năng khiếu"
+        },
+        {
+          "Tên ngành": "Kiến trúc (Chất lượng cao)",
+          "Tổ hợp môn": "V00; V01; V02",
+          "Điểm chuẩn": "24.78",
+          "Ghi chú": "Tại TPHCM, HS THPT Chuyên, năng khiếu"
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "V00; V01; V02",
+          "Điểm chuẩn": "21.17",
+          "Ghi chú": "Tại TTĐT CS Cần Thơ, HS THPT Chuyên, năng khiếu"
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "V00; V01; V02",
+          "Điểm chuẩn": "21.61",
+          "Ghi chú": "Tại TTĐT CS Đà Lạt, HS THPT Chuyên, năng khiếu"
+        },
+        {
+          "Tên ngành": "Kiến trúc cảnh quan",
+          "Tổ hợp môn": "V00; V01; V02",
+          "Điểm chuẩn": "24.24",
+          "Ghi chú": "Tại TPHCM, HS THPT Chuyên, năng khiếu"
+        },
+        {
+          "Tên ngành": "Quy hoạch vùng và đô thị",
+          "Tổ hợp môn": "V00; V01; V02",
+          "Điểm chuẩn": "23.49",
+          "Ghi chú": "Tại TPHCM, HS THPT Chuyên, năng khiếu"
+        },
+        {
+          "Tên ngành": "Quy hoạch vùng và đô thị (Chất lượng cao)",
+          "Tổ hợp môn": "V00; V01; V02",
+          "Điểm chuẩn": "22.49",
+          "Ghi chú": "Tại TPHCM, HS THPT Chuyên, năng khiếu"
+        },
+        {
+          "Tên ngành": "Thiết kế nội thất",
+          "Tổ hợp môn": "V00; V01; V02",
+          "Điểm chuẩn": "25.06",
+          "Ghi chú": "Tại TPHCM, HS THPT Chuyên, năng khiếu"
+        },
+        {
+          "Tên ngành": "Thiết kế nội thất",
+          "Tổ hợp môn": "V00; V01; V02",
+          "Điểm chuẩn": "22.87",
+          "Ghi chú": "Tại TTĐT CS Cần Thơ, HS THPT Chuyên, năng khiếu"
+        },
+        {
+          "Tên ngành": "Thiết kế đô thị (Chương trình tiên tiến)",
+          "Tổ hợp môn": "V00; V01; V02",
+          "Điểm chuẩn": "22.66",
+          "Ghi chú": "Tại TPHCM, HS THPT Chuyên, năng khiếu"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "A00; A01; C01; C02",
+          "Điểm chuẩn": "24.53",
+          "Ghi chú": "Tại TPHCM, HS THPT Chuyên, năng khiếu"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng (Chất lượng cao)",
+          "Tổ hợp môn": "A00; A01; C01; C02",
+          "Điểm chuẩn": "24.6",
+          "Ghi chú": "Tại TPHCM, HS THPT Chuyên, năng khiếu"
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ sở hạ tầng",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "24.96",
+          "Ghi chú": "Tại TPHCM, HS THPT Chuyên, năng khiếu"
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng",
+          "Tổ hợp môn": "A00; A01; C01; C02",
+          "Điểm chuẩn": "24.72",
+          "Ghi chú": "Tại TPHCM, HS THPT Chuyên, năng khiếu"
+        }
+      ],
+      "row_count": 18
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Mỹ thuật đô thị",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.77",
+          "Ghi chú": "Tại TP HCM"
+        },
+        {
+          "Tên ngành": "Thiết kế công nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.37",
+          "Ghi chú": "Tại TP HCM"
+        },
+        {
+          "Tên ngành": "Thiết kế đồ họa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Tại TP HCM"
+        },
+        {
+          "Tên ngành": "Thiết kế thời trang",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.89",
+          "Ghi chú": "Tại TP HCM"
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.76",
+          "Ghi chú": "Tại TP HCM"
+        },
+        {
+          "Tên ngành": "Kiến trúc (Chất lượng cao)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.56",
+          "Ghi chú": "Tại TP HCM"
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.29",
+          "Ghi chú": "Tại TTĐT CS Cần Thơ"
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.74",
+          "Ghi chú": "Tại TTĐT CS Đà Lạt"
+        },
+        {
+          "Tên ngành": "Kiến trúc cảnh quan",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.09",
+          "Ghi chú": "Tại TP HCM"
+        },
+        {
+          "Tên ngành": "Quy hoạch vùng và đô thị",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.86",
+          "Ghi chú": "Tại TP HCM"
+        },
+        {
+          "Tên ngành": "Quy hoạch vùng và đô thị (Chất lượng cao)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.81",
+          "Ghi chú": "Tại TP HCM"
+        },
+        {
+          "Tên ngành": "Thiết kế nội thất",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": "Tại TP HCM"
+        },
+        {
+          "Tên ngành": "Thiết kế đô thị (Chương trình tiên tiến)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.27",
+          "Ghi chú": "Tại TP HCM"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.78",
+          "Ghi chú": "Tại TP HCM"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng (Chất lượng cao)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.2",
+          "Ghi chú": "Tại TP HCM"
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ sở hạ tầng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.83",
+          "Ghi chú": "Tại TP HCM"
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.2",
+          "Ghi chú": "Tại TP HCM"
+        }
+      ],
+      "row_count": 17
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:25:36.677730",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-kien-truc-tphcm-KTS.html"
+}

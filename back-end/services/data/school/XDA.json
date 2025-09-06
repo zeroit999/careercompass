@@ -1,0 +1,1077 @@
+{
+  "school_code": "XDA",
+  "school_name": "Trường Đại Học Xây Dựng Hà Nội",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Mỹ thuật đô thị",
+          "Tổ hợp môn": "H01; H06; V00; V02",
+          "Điểm chuẩn": "18.01",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý dự án",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học Máy tính",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính (Chương trình đào tạo liên kết với Đại học Mississippi - Hoa Kỳ)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin/ Công nghệ đa phương tiện",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Kỹ thuật Vật liệu xây dựng",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "19.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng/ Logistics đô thị",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "23.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí/ Máy xây dựng",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "20.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí/ Kỹ thuật cơ điện",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "23.95",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí/ Kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "24.35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "23.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật vật liệu",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "21.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Môi trường",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "V00; V02; V10",
+          "Điểm chuẩn": "21.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc/ Kiến trúc công nghệ",
+          "Tổ hợp môn": "V00; V02",
+          "Điểm chuẩn": "21.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc nội thất",
+          "Tổ hợp môn": "V00; V02",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc cảnh quan",
+          "Tổ hợp môn": "V00; V02; V06",
+          "Điểm chuẩn": "21.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quy hoạch vùng và đô thị",
+          "Tổ hợp môn": "V00; V01; V02",
+          "Điểm chuẩn": "21.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "21.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng/ Xây dựng Dân dụng và Công nghiệp",
+          "Tổ hợp môn": "A00; A01; D07; D24; D29",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng/ Hệ thống kỹ thuật trong công trình",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "22.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng/ Tin học xây dựng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "23.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng/Kỹ thuật công trình thủy",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng/ Kỹ thuật công trình biển",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng (Chương trình đào tạo kỹ sư Việt - Pháp PFIEV)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng (Chương trình đào tạo liên kết với Đại học Mississippi - Hoa Kỳ)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình Giao thông/ Xây dựng Cầu đường",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "21.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Cấp thoát nước/ Kỹ thuật nước - Môi trường nước",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế xây dựng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "23.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng/ Kinh tế và quản lý đô thị",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "23.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng/ Kinh tế và quản lý bất động sản",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "23.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng/ Quản lý hạ tầng. đất đai đô thị",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng/ Kiểm toán đầu tư xây dựng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "22.9",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 36
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản lý dự án",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học Máy tính",
+          "Tổ hợp môn": "A00; A0l; D01; D07",
+          "Điểm chuẩn": "27.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin/ Công nghê đa phương tiện",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Vật liệu xây dựng",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng/ Logistics đô thị",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "26.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí/ Máy xây dựng",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí/ Kỹ thuật cơ điện",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí/ Kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật vật liệu",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Môi trường",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng/ Xây dựng Dân dụng và Công nghiệp",
+          "Tổ hợp môn": "A00; A01; D07; D24; D29",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng/ Hệ thống kỹ thuật trong công trình",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng/ Tin học xây dựng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng/ Kỹ thuật Công trình thủy",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng/ Kỹ thuật công trình biển",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng (Chương trình đào tạo kỹ sư Việt _ Pháp PFIEV)",
+          "Tổ hợp môn": "A00; A01; D01; D07; D24; D29",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính (Chương trình đào tạo liên kết với Đại học Mississippi _ Hoa Kỳ)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng (Chương trình đào tạo liên kết với Đại học Mississippi _ Hoa Kỳ)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình Giao thông/ Xây dựng Cầu đường",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cấp thoát nước/ Kỹ thuật nước _ Môi trường nước",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế xây dựng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng/ Kinh tế và quản lý đô thị",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng/ Kinh tế và quản lý bất động sản",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng/ Quản lý hạ tầng. đất đai đô thị",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng/ Kiểm toán đầu tư xây dựng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 30
+    },
+    {
+      "table_title": "Điểm Đánh giá Tư duy năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản lý dự án",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Kết quả kỳ thi ĐGTD năm 2023, 2024"
+        },
+        {
+          "Tên ngành": "Khoa học Máy tính",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "60",
+          "Ghi chú": "Kết quả kỳ thi ĐGTD năm 2023, 2024"
+        },
+        {
+          "Tên ngành": "Khoa học máy tính (Chương trình đào tạo liên kết với Đại học Mississippi - Hoa Kỳ)",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Kết quả kỳ thi ĐGTD năm 2023, 2024"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "60",
+          "Ghi chú": "Kết quả kỳ thi ĐGTD năm 2023, 2024"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin/ Công nghệ đa phương tiện",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Kết quả kỳ thi ĐGTD năm 2023, 2024"
+        },
+        {
+          "Tên ngành": "Công nghệ Kỹ thuật Vật liệu xây dựng",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Kết quả kỳ thi ĐGTD năm 2023, 2024"
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "60",
+          "Ghi chú": "Kết quả kỳ thi ĐGTD năm 2023, 2024"
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng/ Logistics đô thị",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Kết quả kỳ thi ĐGTD năm 2023, 2024"
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí/ Máy xây dựng",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Kết quả kỳ thi ĐGTD năm 2023, 2024"
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí/ Kỹ thuật cơ điện",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Kết quả kỳ thi ĐGTD năm 2023, 2024"
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí/ Kỹ thuật ô tô",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "60",
+          "Ghi chú": "Kết quả kỳ thi ĐGTD năm 2023, 2024"
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Kết quả kỳ thi ĐGTD năm 2023, 2024"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Kết quả kỳ thi ĐGTD năm 2023, 2024"
+        },
+        {
+          "Tên ngành": "Kỹ thuật vật liệu",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Kết quả kỳ thi ĐGTD năm 2023, 2024"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Môi trường",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Kết quả kỳ thi ĐGTD năm 2023, 2024"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Kết quả kỳ thi ĐGTD năm 2023, 2024"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng/ Xây dựng Dân dụng và Công nghiệp",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Kết quả kỳ thi ĐGTD năm 2023, 2024"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng/ Xây dựng kỹ thuật trong công trình",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Kết quả kỳ thi ĐGTD năm 2023, 2024"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng/ Tin học xây dựng",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Kết quả kỳ thi ĐGTD năm 2023, 2024"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng/Kỹ thuật công trình thủy",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Kết quả kỳ thi ĐGTD năm 2023, 2024"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng/ Kỹ thuật công trình biển",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Kết quả kỳ thi ĐGTD năm 2023, 2024"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng (Chương trình đào tạo kỹ sư Việt - Pháp PFIEV)",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Kết quả kỳ thi ĐGTD năm 2023, 2024"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng (Chương trình đào tạo liên kết với Đại học Mississippi - Hoa Kỳ)",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Kết quả kỳ thi ĐGTD năm 2023, 2024"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình Giao thông/ Xây dựng Cầu đường",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Kết quả kỳ thi ĐGTD năm 2023, 2024"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Cấp thoát nước/ Kỹ thuật nước - Môi trường nước",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Kết quả kỳ thi ĐGTD năm 2023, 2024"
+        },
+        {
+          "Tên ngành": "Kinh tế xây dựng",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Kết quả kỳ thi ĐGTD năm 2023, 2024"
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng/ Kinh tế và quản lý đô thị",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Kết quả kỳ thi ĐGTD năm 2023, 2024"
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng/ Kinh tế và quản lý bất động sản",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Kết quả kỳ thi ĐGTD năm 2023, 2024"
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng/ Quản lý hạ tầng. đất đai đô thị",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Kết quả kỳ thi ĐGTD năm 2023, 2024"
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng/ Kiểm toán đầu tư xây dựng",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Kết quả kỳ thi ĐGTD năm 2023, 2024"
+        }
+      ],
+      "row_count": 30
+    },
+    {
+      "table_title": "Điểm xét tuyển kết hợp năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Mỹ thuật đô thị",
+          "Tổ hợp môn": "X06; X08",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "CCQTTA ( Tiếng Pháp) và kết quả 2 môn thi tốt nghiệp THPT"
+        },
+        {
+          "Tên ngành": "Quản lý dự án",
+          "Tổ hợp môn": "X01; X03; X05",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "CCQTTA ( Tiếng Pháp) và kết quả 2 môn thi tốt nghiệp THPT"
+        },
+        {
+          "Tên ngành": "Khoa học Máy tính",
+          "Tổ hợp môn": "X01; X03; X05",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "CCQTTA ( Tiếng Pháp) và kết quả 2 môn thi tốt nghiệp THPT"
+        },
+        {
+          "Tên ngành": "Khoa học máy tính (Chương trinh đào tạo liên kết với Đại học Mississippi - Hoa Kỳ)",
+          "Tổ hợp môn": "X01; X03; X05",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "CCQTTA ( Tiếng Pháp) và kết quả 2 môn thi tốt nghiệp THPT"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "X01; X03; X05",
+          "Điểm chuẩn": "26.9",
+          "Ghi chú": "CCQTTA ( Tiếng Pháp) và kết quả 2 môn thi tốt nghiệp THPT"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin/ Công nghệ đa phương tiện",
+          "Tổ hợp môn": "X01; X03; X05",
+          "Điểm chuẩn": "26.6",
+          "Ghi chú": "CCQTTA ( Tiếng Pháp) và kết quả 2 môn thi tốt nghiệp THPT"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Vật liệu xây dựng",
+          "Tổ hợp môn": "X01; X03",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "CCQTTA ( Tiếng Pháp) và kết quả 2 môn thi tốt nghiệp THPT"
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "X01; X03; X05",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "CCQTTA ( Tiếng Pháp) và kết quả 2 môn thi tốt nghiệp THPT"
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng/ Logistics đô thị",
+          "Tổ hợp môn": "X01; X03; X05",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "CCQTTA ( Tiếng Pháp) và kết quả 2 môn thi tốt nghiệp THPT"
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí",
+          "Tổ hợp môn": "X01; X03",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "CCQTTA ( Tiếng Pháp) và kết quả 2 môn thi tốt nghiệp THPT"
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí/ Máy xây dựng",
+          "Tổ hợp môn": "X01; X03",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "CCQTTA ( Tiếng Pháp) và kết quả 2 môn thi tốt nghiệp THPT"
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí/ Kỹ thuật cơ điện",
+          "Tổ hợp môn": "X01; X03",
+          "Điểm chuẩn": "25.75",
+          "Ghi chú": "CCQTTA ( Tiếng Pháp) và kết quả 2 môn thi tốt nghiệp THPT"
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí/ Kỹ thuật ô tô",
+          "Tổ hợp môn": "X01; X03",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": "CCQTTA ( Tiếng Pháp) và kết quả 2 môn thi tốt nghiệp THPT"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện",
+          "Tổ hợp môn": "X01; X03",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": "CCQTTA ( Tiếng Pháp) và kết quả 2 môn thi tốt nghiệp THPT"
+        },
+        {
+          "Tên ngành": "Kỹ thuật vật liệu",
+          "Tổ hợp môn": "X01; X03",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "CCQTTA ( Tiếng Pháp) và kết quả 2 môn thi tốt nghiệp THPT"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Môi trường",
+          "Tổ hợp môn": "X01; X03",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "CCQTTA ( Tiếng Pháp) và kết quả 2 môn thi tốt nghiệp THPT"
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "X06; X07",
+          "Điểm chuẩn": "25.75",
+          "Ghi chú": "CCQTTA ( Tiếng Pháp) và kết quả 2 môn thi tốt nghiệp THPT"
+        },
+        {
+          "Tên ngành": "Kiến trúc/ Kiến trúc công nghệ",
+          "Tổ hợp môn": "X06",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "CCQTTA ( Tiếng Pháp) và kết quả 2 môn thi tốt nghiệp THPT"
+        },
+        {
+          "Tên ngành": "Kiến trúc cảnh quan",
+          "Tổ hợp môn": "X06",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": "CCQTTA ( Tiếng Pháp) và kết quả 2 môn thi tốt nghiệp THPT"
+        },
+        {
+          "Tên ngành": "Kiến trúc Nội thất",
+          "Tổ hợp môn": "X06",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "CCQTTA ( Tiếng Pháp) và kết quả 2 môn thi tốt nghiệp THPT"
+        },
+        {
+          "Tên ngành": "Quy hoạch vùng và đô thị",
+          "Tổ hợp môn": "X06",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "CCQTTA ( Tiếng Pháp) và kết quả 2 môn thi tốt nghiệp THPT"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "X01; X03; X05",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "CCQTTA ( Tiếng Pháp) và kết quả 2 môn thi tốt nghiệp THPT"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng/ Xây dựng Dân dụng và công nghiệp",
+          "Tổ hợp môn": "X01; X02; X03; X04",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "CCQTTA ( Tiếng Pháp) và kết quả 2 môn thi tốt nghiệp THPT"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng/ Hệ thống kỹ thuật trong công trình",
+          "Tổ hợp môn": "X01; X03",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "CCQTTA ( Tiếng Pháp) và kết quả 2 môn thi tốt nghiệp THPT"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng/ Tin học xây dựng",
+          "Tổ hợp môn": "X01; X03; X05",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": "CCQTTA ( Tiếng Pháp) và kết quả 2 môn thi tốt nghiệp THPT"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng/ Kỹ thuật công trình thủy",
+          "Tổ hợp môn": "X01; X03; X05",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "CCQTTA ( Tiếng Pháp) và kết quả 2 môn thi tốt nghiệp THPT"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng/ kỹ thuật công trình biển",
+          "Tổ hợp môn": "X01; X03; X05",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "CCQTTA ( Tiếng Pháp) và kết quả 2 môn thi tốt nghiệp THPT"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng (Chương trình đào tạo kỹ sư Việt - Pháp PFIEV)",
+          "Tổ hợp môn": "X01; X02; X03; X04; X05",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "CCQTTA ( Tiếng Pháp) và kết quả 2 môn thi tốt nghiệp THPT"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng (Chương trinh đảo tạo liên kết với Đại học Mississippi - Hoa Kỳ)",
+          "Tổ hợp môn": "X01; X03; X05",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "CCQTTA ( Tiếng Pháp) và kết quả 2 môn thi tốt nghiệp THPT"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình Giao thông/ Xây dựng Cầu đường",
+          "Tổ hợp môn": "X01; X03; X05",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "CCQTTA ( Tiếng Pháp) và kết quả 2 môn thi tốt nghiệp THPT"
+        },
+        {
+          "Tên ngành": "Kỹ thuật cấp thoát nước/ Kỹ thuật nước - Môi trường nước",
+          "Tổ hợp môn": "X01; X03",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "CCQTTA ( Tiếng Pháp) và kết quả 2 môn thi tốt nghiệp THPT"
+        },
+        {
+          "Tên ngành": "Kinh tế xây dựng",
+          "Tổ hợp môn": "X01; X03; X05",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "CCQTTA ( Tiếng Pháp) và kết quả 2 môn thi tốt nghiệp THPT"
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng/ Kinh tế và quản lý đô thị",
+          "Tổ hợp môn": "X01; X03; X05",
+          "Điểm chuẩn": "25.75",
+          "Ghi chú": "CCQTTA ( Tiếng Pháp) và kết quả 2 môn thi tốt nghiệp THPT"
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng/ Kinh tế và quản lý bất động sản",
+          "Tổ hợp môn": "X01; X03; X05",
+          "Điểm chuẩn": "26.25",
+          "Ghi chú": "CCQTTA ( Tiếng Pháp) và kết quả 2 môn thi tốt nghiệp THPT"
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng/ Chuyên Quản lý hạ tầng, đất đai đô thị",
+          "Tổ hợp môn": "X01; X03; X05",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "CCQTTA ( Tiếng Pháp) và kết quả 2 môn thi tốt nghiệp THPT"
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng/ Kiểm toán đầu tư xây dựng",
+          "Tổ hợp môn": "X01; X03; X05",
+          "Điểm chuẩn": "25.65",
+          "Ghi chú": "CCQTTA ( Tiếng Pháp) và kết quả 2 môn thi tốt nghiệp THPT"
+        }
+      ],
+      "row_count": 36
+    },
+    {
+      "table_title": "ƯTXT, XT thẳng năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Mỹ thuật đô thị",
+          "Tổ hợp môn": "H01; H06; V00; V02",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý dự án",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học Máy tính",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính (Chương trinh đào tạo liên kết với Đại học Mississippi - Hoa Kỳ)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin/ Công nghệ đa phương tiện",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Vật liệu xây dựng",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng/ Logistics đô thị",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí/ Máy xây dựng",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí/ Kỹ thuật cơ điện",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí/ Kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật vật liệu",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Môi trường",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "V00; V02; V10",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc/ Kiến trúc công nghệ",
+          "Tổ hợp môn": "V00; V02",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc cảnh quan",
+          "Tổ hợp môn": "V00; V02; V06",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc Nội thất",
+          "Tổ hợp môn": "V00; V02",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quy hoạch vùng và đô thị",
+          "Tổ hợp môn": "V00; V01; V02",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng/ Xây dựng Dân dụng và công nghiệp",
+          "Tổ hợp môn": "A00; A01; D07; D24; D29",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng/ Hệ thống kỹ thuật trong công trình",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng/ Tin học xây dựng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng/ Kỹ thuật công trình thủy",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng/ kỹ thuật công trình biển",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng (Chương trình đào tạo kỹ sư Việt - Pháp PFIEV)",
+          "Tổ hợp môn": "A00; A0A1; D01; D07; D24; D29",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng (Chương trinh đảo tạo liên kết với Đại học Mississippi - Hoa Kỳ)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình Giao thông/ Xây dựng Cầu đường",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cấp thoát nước/ Kỹ thuật nước - Môi trường nước",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế xây dựng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng/ Kinh tế và quản lý đô thị",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng/ Kinh tế và quản lý bất động sản",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng/ Chuyên Quản lý hạ tầng, đất đai đô thị",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng/ Kiểm toán đầu tư xây dựng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 36
+    }
+  ],
+  "table_count": 5,
+  "crawled_at": "2025-07-18T23:27:16.291763",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-xay-dung-ha-noi-XDA.html"
+}

@@ -1,0 +1,351 @@
+{
+  "school_code": "DBG",
+  "school_name": "Trường Đại học Nông Lâm Bắc Giang",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A00; D01; D14; D15",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "D01; D04; D14; D15",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; C20",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; B00; D01; C20",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; C20",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nông nghiệp",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chăn nuôi",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học cây trồng",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Bảo vệ thực vật",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên rừng",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thú y",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "A01; B00; D01; C20",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "A01; B00; D01; C20",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý đất đai",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 17
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A00; D01; D14; D15",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "Điểm trung bình 5 học kỳ (lớp 10, lớp 11 và HK 1 lớp 12, thang điểm 10)."
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Tổng ĐTB 3 môn cả năm lớp 12 theo tổ hợp XT (môn Toán x2, thang điểm 40)"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "D01; D04; D14; D15",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "Điểm trung bình 5 học kỳ (lớp 10, lớp 11 và HK 1 lớp 12, thang điểm 10)."
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Tổng ĐTB 3 môn cả năm lớp 12 theo tổ hợp XT (môn Toán x2, thang điểm 40)"
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; C20",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "Điểm trung bình 5 học kỳ (lớp 10, lớp 11 và HK 1 lớp 12, thang điểm 10)."
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Tổng ĐTB 3 môn cả năm lớp 12 theo tổ hợp XT (môn Toán x2, thang điểm 40)"
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Tổng ĐTB 3 môn cả năm lớp 12 theo tổ hợp XT (môn Toán x2, thang điểm 40)"
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; B00; D01; C20",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "Điểm trung bình 5 học kỳ (lớp 10, lớp 11 và HK 1 lớp 12, thang điểm 10)."
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; C20",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "Điểm trung bình 5 học kỳ (lớp 10, lớp 11 và HK 1 lớp 12, thang điểm 10)."
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Tổng ĐTB 3 môn cả năm lớp 12 theo tổ hợp XT (môn Toán x2, thang điểm 40)"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Tổng ĐTB 3 môn cả năm lớp 12 theo tổ hợp XT (môn Toán x2, thang điểm 40)"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "Điểm trung bình 5 học kỳ (lớp 10, lớp 11 và HK 1 lớp 12, thang điểm 10)."
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Tổng ĐTB 3 môn cả năm lớp 12 theo tổ hợp XT (môn Toán x2, thang điểm 40)"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "Điểm trung bình 5 học kỳ (lớp 10, lớp 11 và HK 1 lớp 12, thang điểm 10)."
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "Điểm trung bình 5 học kỳ (lớp 10, lớp 11 và HK 1 lớp 12, thang điểm 10)."
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Tổng ĐTB 3 môn cả năm lớp 12 theo tổ hợp XT (môn Toán x2, thang điểm 40)"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "Điểm trung bình 5 học kỳ (lớp 10, lớp 11 và HK 1 lớp 12, thang điểm 10)."
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Tổng ĐTB 3 môn cả năm lớp 12 theo tổ hợp XT (môn Toán x2, thang điểm 40)"
+        },
+        {
+          "Tên ngành": "Nông nghiệp",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "Điểm trung bình 5 học kỳ (lớp 10, lớp 11 và HK 1 lớp 12, thang điểm 10)."
+        },
+        {
+          "Tên ngành": "Nông nghiệp",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Tổng ĐTB 3 môn cả năm lớp 12 theo tổ hợp XT (môn Toán x2, thang điểm 40)"
+        },
+        {
+          "Tên ngành": "Chăn nuôi",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Tổng ĐTB 3 môn cả năm lớp 12 theo tổ hợp XT (môn Toán x2, thang điểm 40)"
+        },
+        {
+          "Tên ngành": "Chăn nuôi",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "Điểm trung bình 5 học kỳ (lớp 10, lớp 11 và HK 1 lớp 12, thang điểm 10)."
+        },
+        {
+          "Tên ngành": "Khoa học cây trồng",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Tổng ĐTB 3 môn cả năm lớp 12 theo tổ hợp XT (môn Toán x2, thang điểm 40)"
+        },
+        {
+          "Tên ngành": "Khoa học cây trồng",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "Điểm trung bình 5 học kỳ (lớp 10, lớp 11 và HK 1 lớp 12, thang điểm 10)."
+        },
+        {
+          "Tên ngành": "Bảo vệ thực vật",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "Điểm trung bình 5 học kỳ (lớp 10, lớp 11 và HK 1 lớp 12, thang điểm 10)."
+        },
+        {
+          "Tên ngành": "Bảo vệ thực vật",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Tổng ĐTB 3 môn cả năm lớp 12 theo tổ hợp XT (môn Toán x2, thang điểm 40)"
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên rừng",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Tổng ĐTB 3 môn cả năm lớp 12 theo tổ hợp XT (môn Toán x2, thang điểm 40)"
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên rừng",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "Điểm trung bình 5 học kỳ (lớp 10, lớp 11 và HK 1 lớp 12, thang điểm 10)."
+        },
+        {
+          "Tên ngành": "Thú y",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "Điểm trung bình 5 học kỳ (lớp 10, lớp 11 và HK 1 lớp 12, thang điểm 10)."
+        },
+        {
+          "Tên ngành": "Thú y",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Tổng ĐTB 3 môn cả năm lớp 12 theo tổ hợp XT (môn Toán x2, thang điểm 40)"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "A01; B00; D01; C20",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "Điểm trung bình 5 học kỳ (lớp 10, lớp 11 và HK 1 lớp 12, thang điểm 10)."
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Tổng ĐTB 3 môn cả năm lớp 12 theo tổ hợp XT (môn Toán x2, thang điểm 40)"
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "A01; B00; D01; C20",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "Điểm trung bình 5 học kỳ (lớp 10, lớp 11 và HK 1 lớp 12, thang điểm 10)."
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Tổng ĐTB 3 môn cả năm lớp 12 theo tổ hợp XT (môn Toán x2, thang điểm 40)"
+        },
+        {
+          "Tên ngành": "Quản lý đất đai",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Tổng ĐTB 3 môn cả năm lớp 12 theo tổ hợp XT (môn Toán x2, thang điểm 40)"
+        },
+        {
+          "Tên ngành": "Quản lý đất đai",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "Điểm trung bình 5 học kỳ (lớp 10, lớp 11 và HK 1 lớp 12, thang điểm 10)."
+        }
+      ],
+      "row_count": 36
+    }
+  ],
+  "table_count": 2,
+  "crawled_at": "2025-07-18T23:32:01.881257",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-nong-lam-bac-giang-DBG.html"
+}

@@ -1,0 +1,69 @@
+{
+  "school_code": "HCA",
+  "school_name": "Học Viện Chính Trị Công An Nhân Dân",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền nhà nước",
+          "Tổ hợp môn": "A01; C00; C03; D01",
+          "Điểm chuẩn": "19.97",
+          "Ghi chú": "Nam, phía Bắc (Mã bài thi CA1)"
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền nhà nước",
+          "Tổ hợp môn": "A01; C00; C03; D01",
+          "Điểm chuẩn": "23.49",
+          "Ghi chú": "Nam, phía Bắc (Mã bài thi CA2)"
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền nhà nước",
+          "Tổ hợp môn": "A01; C00; C03; D01",
+          "Điểm chuẩn": "21.02",
+          "Ghi chú": "Nam, phía Nam (Mã bài thi CA1)"
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền nhà nước",
+          "Tổ hợp môn": "A01; C00; C03; D01",
+          "Điểm chuẩn": "22.68",
+          "Ghi chú": "Nam, phía Nam (Mã bài thi CA2)"
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền nhà nước",
+          "Tổ hợp môn": "A01; C00; C03; D01",
+          "Điểm chuẩn": "20.81",
+          "Ghi chú": "Nữ, phía Bắc (Mã bài thi CA1)"
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền nhà nước",
+          "Tổ hợp môn": "A01; C00; C03; D01",
+          "Điểm chuẩn": "25.52",
+          "Ghi chú": "Nữ, phía Bắc (Mã bài thi CA2)"
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền nhà nước",
+          "Tổ hợp môn": "A01; C00; C03; D01",
+          "Điểm chuẩn": "23.96",
+          "Ghi chú": "Nữ, phía Nam (Mã bài thi CA2)"
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền nhà nước",
+          "Tổ hợp môn": "A01; C00; C03; D01",
+          "Điểm chuẩn": "16.36",
+          "Ghi chú": "Nữ, phía Nam (Mã bài thi CA1)"
+        }
+      ],
+      "row_count": 8
+    }
+  ],
+  "table_count": 1,
+  "crawled_at": "2025-07-18T23:25:38.586782",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-chinh-tri-cong-an-nhan-dan-HCA.html"
+}

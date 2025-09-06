@@ -1,0 +1,1275 @@
+{
+  "school_code": "QHX",
+  "school_name": "Trường Đại Học Khoa Học Xã Hội và Nhân Văn Hà Nội",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Báo chí",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "29.03",
+          "Ghi chú": "Thứ tự NV 3"
+        },
+        {
+          "Tên ngành": "Báo chí",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "26.07",
+          "Ghi chú": "Thứ tự NV 1"
+        },
+        {
+          "Tên ngành": "Báo chí",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "25.51",
+          "Ghi chú": "Thứ tự NV 4"
+        },
+        {
+          "Tên ngành": "Báo chí",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "26.97",
+          "Ghi chú": "Thứ tự NV 2"
+        },
+        {
+          "Tên ngành": "Chính trị học",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "26.28",
+          "Ghi chú": "Thứ tự NV 2"
+        },
+        {
+          "Tên ngành": "Chính trị học",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.98",
+          "Ghi chú": "Thứ tự NV 1"
+        },
+        {
+          "Tên ngành": "Chính trị học",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.35",
+          "Ghi chú": "Thứ tự NV 3"
+        },
+        {
+          "Tên ngành": "Chính trị học",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "24.6",
+          "Ghi chú": "Thứ tự NV 2"
+        },
+        {
+          "Tên ngành": "Chính trị học",
+          "Tổ hợp môn": "D04",
+          "Điểm chuẩn": "24.95",
+          "Ghi chú": "Thứ tự NV 4"
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "24.39",
+          "Ghi chú": "Thứ tự NV 7"
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.94",
+          "Ghi chú": "Thứ tự NV 3"
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.3",
+          "Ghi chú": "Thứ tự NV 8"
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "26.01",
+          "Ghi chú": "Thứ tự NV 4"
+        },
+        {
+          "Tên ngành": "Đông Nam Á học",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "23.48",
+          "Ghi chú": "Thứ tự NV 8"
+        },
+        {
+          "Tên ngành": "Đông Nam Á học",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": "Thứ tự NV 2"
+        },
+        {
+          "Tên ngành": "Đông Nam Á học",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "24.64",
+          "Ghi chú": "Thứ tự NV 3"
+        },
+        {
+          "Tên ngành": "Đông Nam Á học",
+          "Tổ hợp môn": "D14",
+          "Điểm chuẩn": "25.29",
+          "Ghi chú": "Thứ tự NV 2"
+        },
+        {
+          "Tên ngành": "Đông phương học",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.83",
+          "Ghi chú": "Thứ tự NV 2"
+        },
+        {
+          "Tên ngành": "Đông phương học",
+          "Tổ hợp môn": "D04",
+          "Điểm chuẩn": "25.8",
+          "Ghi chú": "Thứ tự NV 4"
+        },
+        {
+          "Tên ngành": "Đông phương học",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "26.71",
+          "Ghi chú": "Thứ tự NV 1"
+        },
+        {
+          "Tên ngành": "Đông phương học",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.99",
+          "Ghi chú": "Thứ tự NV 5"
+        },
+        {
+          "Tên ngành": "Hán Nôm",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.26",
+          "Ghi chú": "Thứ tự NV 3"
+        },
+        {
+          "Tên ngành": "Hán Nôm",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.05",
+          "Ghi chú": "Thứ tự NV 2"
+        },
+        {
+          "Tên ngành": "Hán Nôm",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "25.96",
+          "Ghi chú": "Thứ tự NV 6"
+        },
+        {
+          "Tên ngành": "Hán Nôm",
+          "Tổ hợp môn": "D04",
+          "Điểm chuẩn": "25.8",
+          "Ghi chú": "Thứ tự NV 2"
+        },
+        {
+          "Tên ngành": "Khoa học quản lý",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "26.26",
+          "Ghi chú": "Thứ tự NV 1"
+        },
+        {
+          "Tên ngành": "Khoa học quản lý",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "25.07",
+          "Ghi chú": "Thứ tự NV 7"
+        },
+        {
+          "Tên ngành": "Khoa học quản lý",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.58",
+          "Ghi chú": "Thứ tự NV 2"
+        },
+        {
+          "Tên ngành": "Khoa học quản lý",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.41",
+          "Ghi chú": "Thứ tự NV 3"
+        },
+        {
+          "Tên ngành": "Lịch sử",
+          "Tổ hợp môn": "D14",
+          "Điểm chuẩn": "26.8",
+          "Ghi chú": "Thứ tự NV 5"
+        },
+        {
+          "Tên ngành": "Lịch sử",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.37",
+          "Ghi chú": "Thứ tự NV 3"
+        },
+        {
+          "Tên ngành": "Lịch sử",
+          "Tổ hợp môn": "D04",
+          "Điểm chuẩn": "25.02",
+          "Ghi chú": "Thứ tự NV 6"
+        },
+        {
+          "Tên ngành": "Lịch sử",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "26.38",
+          "Ghi chú": "Thứ tự NV 3"
+        },
+        {
+          "Tên ngành": "Lịch sử",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.01",
+          "Ghi chú": "Thứ tự NV 1"
+        },
+        {
+          "Tên ngành": "Lưu trữ học",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.22",
+          "Ghi chú": "Thứ tự NV 11"
+        },
+        {
+          "Tên ngành": "Lưu trữ học",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "24.49",
+          "Ghi chú": "Thứ tự NV 2"
+        },
+        {
+          "Tên ngành": "Lưu trữ học",
+          "Tổ hợp môn": "D04",
+          "Điểm chuẩn": "25.02",
+          "Ghi chú": "Thứ tự NV 14"
+        },
+        {
+          "Tên ngành": "Lưu trữ học",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.58",
+          "Ghi chú": "Thứ tự NV 3"
+        },
+        {
+          "Tên ngành": "Lưu trữ học",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "25.73",
+          "Ghi chú": "Thứ tự NV 1"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ học",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "26.3",
+          "Ghi chú": "Thứ tự NV 5"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ học",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.94",
+          "Ghi chú": "Thứ tự NV 4"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ học",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.45",
+          "Ghi chú": "Thứ tự NV 5"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ học",
+          "Tổ hợp môn": "D04",
+          "Điểm chuẩn": "25.69",
+          "Ghi chú": "Thứ tự NV 2"
+        },
+        {
+          "Tên ngành": "Nhân học",
+          "Tổ hợp môn": "D04",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": "Thứ tự NV 7"
+        },
+        {
+          "Tên ngành": "Nhân học",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "24.93",
+          "Ghi chú": "Thứ tự NV 6"
+        },
+        {
+          "Tên ngành": "Nhân học",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.43",
+          "Ghi chú": "Thứ tự NV 4"
+        },
+        {
+          "Tên ngành": "Nhân học",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "25.39",
+          "Ghi chú": "Thứ tự NV 6"
+        },
+        {
+          "Tên ngành": "Nhân học",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "23.67",
+          "Ghi chú": "Thứ tự NV 6"
+        },
+        {
+          "Tên ngành": "Nhật Bản học",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "26.43",
+          "Ghi chú": "Thứ tự NV 1"
+        },
+        {
+          "Tên ngành": "Nhật Bản học",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.75",
+          "Ghi chú": "Thứ tự NV 4"
+        },
+        {
+          "Tên ngành": "Nhật Bản học",
+          "Tổ hợp môn": "D06",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Thứ tự NV 1"
+        },
+        {
+          "Tên ngành": "Quan hệ công chúng",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "27.36",
+          "Ghi chú": "Thứ tự NV 3"
+        },
+        {
+          "Tên ngành": "Quan hệ công chúng",
+          "Tổ hợp môn": "D04",
+          "Điểm chuẩn": "26.4",
+          "Ghi chú": "Thứ tự NV 1"
+        },
+        {
+          "Tên ngành": "Quan hệ công chúng",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "29.1",
+          "Ghi chú": "Thứ tự NV 2"
+        },
+        {
+          "Tên ngành": "Quan hệ công chúng",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "26.45",
+          "Ghi chú": "Thứ tự NV 1"
+        },
+        {
+          "Tên ngành": "Quản lý thông tin",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "25.36",
+          "Ghi chú": "Thứ tự NV 5"
+        },
+        {
+          "Tên ngành": "Quản lý thông tin",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.37",
+          "Ghi chú": "Thứ tự NV 2"
+        },
+        {
+          "Tên ngành": "Quản lý thông tin",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.83",
+          "Ghi chú": "Thứ tự NV 6"
+        },
+        {
+          "Tên ngành": "Quản lý thông tin",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "26.36",
+          "Ghi chú": "Thứ tự NV 3"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "25.61",
+          "Ghi chú": "Thứ tự NV 1"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "26.74",
+          "Ghi chú": "Thứ tự NV 2"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.58",
+          "Ghi chú": "Thứ tự NV 2"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.99",
+          "Ghi chú": "Thứ tự NV 2"
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "26.38",
+          "Ghi chú": "Thứ tự NV 11"
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.71",
+          "Ghi chú": "Thứ tự NV 3"
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "25.46",
+          "Ghi chú": "Thứ tự NV 6"
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.26",
+          "Ghi chú": "Thứ tự NV 2"
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.6",
+          "Ghi chú": "Thứ tự NV 7"
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.73",
+          "Ghi chú": "Thứ tự NV 2"
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": "Thứ tự NV 1"
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "D04",
+          "Điểm chuẩn": "25.57",
+          "Ghi chú": "Thứ tự NV 6"
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "26.52",
+          "Ghi chú": "Thứ tự NV 1"
+        },
+        {
+          "Tên ngành": "Quốc tế học",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.33",
+          "Ghi chú": "Thứ tự NV 3"
+        },
+        {
+          "Tên ngành": "Quốc tế học",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "26.18",
+          "Ghi chú": "Thứ tự NV 2"
+        },
+        {
+          "Tên ngành": "Quốc tế học",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "24.68",
+          "Ghi chú": "Thứ tự NV 10"
+        },
+        {
+          "Tên ngành": "Quốc tế học",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.55",
+          "Ghi chú": "Thứ tự NV 3"
+        },
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "26.18",
+          "Ghi chú": "Thứ tự NV 1"
+        },
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "26.47",
+          "Ghi chú": "Thứ tự NV 1"
+        },
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "26.71",
+          "Ghi chú": "Thứ tự NV 3"
+        },
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.6",
+          "Ghi chú": "Thứ tự NV 1"
+        },
+        {
+          "Tên ngành": "Thông tin - thư viện",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.38",
+          "Ghi chú": "Thứ tự NV 7"
+        },
+        {
+          "Tên ngành": "Thông tin - thư viện",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "25.55",
+          "Ghi chú": "Thứ tự NV 1"
+        },
+        {
+          "Tên ngành": "Thông tin - thư viện",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "24.82",
+          "Ghi chú": "Thứ tự NV 6"
+        },
+        {
+          "Tên ngành": "Thông tin - thư viện",
+          "Tổ hợp môn": "D14",
+          "Điểm chuẩn": "26.23",
+          "Ghi chú": "Thứ tự NV 1"
+        },
+        {
+          "Tên ngành": "Tôn giáo học",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "24.49",
+          "Ghi chú": "Thứ tự NV 5"
+        },
+        {
+          "Tên ngành": "Tôn giáo học",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "26.73",
+          "Ghi chú": "Thứ tự NV 12"
+        },
+        {
+          "Tên ngành": "Tôn giáo học",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "22.95",
+          "Ghi chú": "Thứ tự NV 8"
+        },
+        {
+          "Tên ngành": "Tôn giáo học",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "24.78",
+          "Ghi chú": "Thứ tự NV 2"
+        },
+        {
+          "Tên ngành": "Tôn giáo học",
+          "Tổ hợp môn": "D04",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": "Thứ tự NV 8"
+        },
+        {
+          "Tên ngành": "Triết học",
+          "Tổ hợp môn": "D04",
+          "Điểm chuẩn": "24.3",
+          "Ghi chú": "Thứ tự NV 31"
+        },
+        {
+          "Tên ngành": "Triết học",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.02",
+          "Ghi chú": "Thứ tự NV 6"
+        },
+        {
+          "Tên ngành": "Triết học",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.58",
+          "Ghi chú": "Thứ tự NV 11"
+        },
+        {
+          "Tên ngành": "Triết học",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "25.54",
+          "Ghi chú": "Thứ tự NV 1"
+        },
+        {
+          "Tên ngành": "Văn học",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.99",
+          "Ghi chú": "Thứ tự NV 4"
+        },
+        {
+          "Tên ngành": "Văn học",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "26.82",
+          "Ghi chú": "Thứ tự NV 1"
+        },
+        {
+          "Tên ngành": "Văn học",
+          "Tổ hợp môn": "D04",
+          "Điểm chuẩn": "25.3",
+          "Ghi chú": "Thứ tự NV 7"
+        },
+        {
+          "Tên ngành": "Văn học",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.31",
+          "Ghi chú": "Thứ tự NV 3"
+        },
+        {
+          "Tên ngành": "Việt Nam học",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.75",
+          "Ghi chú": "Thứ tự NV 3"
+        },
+        {
+          "Tên ngành": "Việt Nam học",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "25.68",
+          "Ghi chú": "Thứ tự NV 7"
+        },
+        {
+          "Tên ngành": "Việt Nam học",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "24.97",
+          "Ghi chú": "Thứ tự NV 4"
+        },
+        {
+          "Tên ngành": "Việt Nam học",
+          "Tổ hợp môn": "D04",
+          "Điểm chuẩn": "25.29",
+          "Ghi chú": "Thứ tự NV 6"
+        },
+        {
+          "Tên ngành": "Xã hội học",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "26.34",
+          "Ghi chú": "Thứ tự NV 7"
+        },
+        {
+          "Tên ngành": "Xã hội học",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.65",
+          "Ghi chú": "Thứ tự NV 11"
+        },
+        {
+          "Tên ngành": "Xã hội học",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.25",
+          "Ghi chú": "Thứ tự NV 2"
+        },
+        {
+          "Tên ngành": "Xã hội học",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "25.2",
+          "Ghi chú": "Thứ tự NV 12"
+        },
+        {
+          "Tên ngành": "Hàn Quốc",
+          "Tổ hợp môn": "DD2",
+          "Điểm chuẩn": "26.25",
+          "Ghi chú": "Thứ tự NV 3"
+        },
+        {
+          "Tên ngành": "Hàn Quốc",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "26.2",
+          "Ghi chú": "Thứ tự NV 3"
+        },
+        {
+          "Tên ngành": "Hàn Quốc",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "29.05",
+          "Ghi chú": "Thứ tự NV 1"
+        },
+        {
+          "Tên ngành": "Hàn Quốc",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "27.13",
+          "Ghi chú": "Thứ tự NV 3"
+        },
+        {
+          "Tên ngành": "Hàn Quốc",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "26.3",
+          "Ghi chú": "Thứ tự NV 1"
+        },
+        {
+          "Tên ngành": "Văn hoá học",
+          "Tổ hợp môn": "D14",
+          "Điểm chuẩn": "26.05",
+          "Ghi chú": "Thứ tự NV 10"
+        },
+        {
+          "Tên ngành": "Văn hoá học",
+          "Tổ hợp môn": "D04",
+          "Điểm chuẩn": "25.31",
+          "Ghi chú": "Thứ tự NV 4"
+        },
+        {
+          "Tên ngành": "Văn hoá học",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.9",
+          "Ghi chú": "Thứ tự NV 1"
+        },
+        {
+          "Tên ngành": "Văn hoá học",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.26",
+          "Ghi chú": "Thứ tự NV 10"
+        },
+        {
+          "Tên ngành": "Văn hoá học",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "26.13",
+          "Ghi chú": "Thứ tự NV 1"
+        },
+        {
+          "Tên ngành": "Điện ảnh và Nghệ thuật đại chúng",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "26.45",
+          "Ghi chú": "Thứ tự NV 4"
+        },
+        {
+          "Tên ngành": "Điện ảnh và Nghệ thuật đại chúng",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.77",
+          "Ghi chú": "Thứ tự NV 3"
+        },
+        {
+          "Tên ngành": "Điện ảnh và Nghệ thuật đại chúng",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.98",
+          "Ghi chú": "Thứ tự NV 5"
+        },
+        {
+          "Tên ngành": "Điện ảnh và Nghệ thuật đại chúng",
+          "Tổ hợp môn": "D04",
+          "Điểm chuẩn": "25.17",
+          "Ghi chú": "Thứ tự NV 4"
+        }
+      ],
+      "row_count": 119
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Báo chí",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "97.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chính trị học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "82.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "82.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đông Nam Á học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đông phương học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "90",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hán Nôm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học quản lý",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "95",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Lịch sử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Lưu trữ học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nhân học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nhật Bản học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "82.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ công chúng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "104",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "90",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "95",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "92.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "89",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quốc tế học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "87.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "101.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thông tin - Thư viện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tôn giáo học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Triết học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Văn học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "87.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Việt Nam học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xã hội học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hàn Quốc học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "95",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Văn hóa học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điện ảnh và nghệ thuật đại chúng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "85",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 28
+    },
+    {
+      "table_title": "Điểm xét tuyển kết hợp năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Báo chí",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Chính trị học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Đông Nam Á học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Đông phương học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Hán Nôm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Khoa học quản lý",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Lịch sử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Lưu trữ học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Nhân học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Nhật Bản học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Quan hệ công chúng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Quản lý thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Quốc tế học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Thông tin - thư viện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Tôn giáo học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Triết học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Văn học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Việt Nam học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Xã hội học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Hàn Quốc học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26.75",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Văn hóa học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Điện ảnh và nghệ thuật đại chúng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        }
+      ],
+      "row_count": 28
+    },
+    {
+      "table_title": "Chứng chỉ quốc tế năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Báo chí",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1140",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Chính trị học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1140",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1140",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Đông Nam Á học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1140",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Đông phương học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1140",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Hán Nôm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1140",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Khoa học quản lý",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1140",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Lịch sử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1140",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Lưu trữ học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1140",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1140",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Nhân học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1140",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Nhật Bản học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1140",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Quan hệ công chúng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1173",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Quản lý thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1140",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1140",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1140",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1140",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Quốc tế học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1140",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1227",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Thông tin - Thư viện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1140",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Tôn giáo học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1140",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Triết học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1140",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Văn học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1140",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Việt Nam học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1140",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Xã hội học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1140",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Hàn Quốc học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1140",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Văn hóa học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1140",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Điện ảnh và nghệ thuật đại chúng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1140",
+          "Ghi chú": "CCQT SAT"
+        }
+      ],
+      "row_count": 28
+    }
+  ],
+  "table_count": 4,
+  "crawled_at": "2025-07-18T23:24:02.609559",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-ha-noi-QHX.html"
+}

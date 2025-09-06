@@ -1,0 +1,285 @@
+{
+  "school_code": "CMC",
+  "school_name": "Trường Đại Học CMC",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản trị Kinh doanh",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học Máy tính",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Điện tử - Viễn thông",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế Đồ hoạ",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Thông tin Việt - Nhật (ngành Công nghệ Thông tin)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Thông tin Việt - Hàn (ngành Công nghệ Thông tin)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật",
+          "Tổ hợp môn": "A01; C00; D01; D06",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "A01; C00; D01; D10",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 10
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản trị Kinh doanh",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học Máy tính",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Điện tử - Viễn thông",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế Đồ hoạ",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Thông tin Việt - Nhật (ngành Công nghệ Thông tin)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Thông tin Việt - Hàn (ngành Công nghệ Thông tin)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật",
+          "Tổ hợp môn": "A01; C00; D01; D06",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "A01; C00; D01; D10",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 10
+    },
+    {
+      "table_title": "Điểm xét tuyển kết hợp năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản trị Kinh doanh",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Xét kết hợp học bạ với CCQT"
+        },
+        {
+          "Tên ngành": "Quản trị Kinh doanh",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Xét kết hợp điểm thi tốt nghiệp THPT với CCQT"
+        },
+        {
+          "Tên ngành": "Khoa học Máy tính",
+          "Tổ hợp môn": "A01; D01; D90",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Xét kết hợp học bạ với CCQT"
+        },
+        {
+          "Tên ngành": "Khoa học Máy tính",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Xét kết hợp điểm thi tốt nghiệp THPT với CCQT"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Điện tử - Viễn thông",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Xét kết hợp điểm thi tốt nghiệp THPT với CCQT"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Điện tử - Viễn thông",
+          "Tổ hợp môn": "A01; D01; D90",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Xét kết hợp học bạ với CCQT"
+        },
+        {
+          "Tên ngành": "Thiết kế Đồ hoạ",
+          "Tổ hợp môn": "A01; D90",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Xét kết hợp học bạ với CCQT"
+        },
+        {
+          "Tên ngành": "Thiết kế Đồ hoạ",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Xét kết hợp điểm thi tốt nghiệp THPT với CCQT"
+        },
+        {
+          "Tên ngành": "Công nghệ Thông tin",
+          "Tổ hợp môn": "A01; D01; D90",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Xét kết hợp học bạ với CCQT"
+        },
+        {
+          "Tên ngành": "Công nghệ Thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Xét kết hợp điểm thi tốt nghiệp THPT với CCQT"
+        },
+        {
+          "Tên ngành": "Công nghệ Thông tin Việt - Nhật (ngành Công nghệ Thông tin)",
+          "Tổ hợp môn": "A01; D01; D90",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Xét kết hợp học bạ với CCQT"
+        },
+        {
+          "Tên ngành": "Công nghệ Thông tin Việt - Nhật (ngành Công nghệ Thông tin)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Xét kết hợp điểm thi tốt nghiệp THPT với CCQT"
+        },
+        {
+          "Tên ngành": "Công nghệ Thông tin Việt - Hàn (ngành Công nghệ Thông tin)",
+          "Tổ hợp môn": "A01; D01; D90",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Xét kết hợp học bạ với CCQT"
+        },
+        {
+          "Tên ngành": "Công nghệ Thông tin Việt - Hàn (ngành Công nghệ Thông tin)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Xét kết hợp điểm thi tốt nghiệp THPT với CCQT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật",
+          "Tổ hợp môn": "A01; C00; D01; D06",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Xét kết hợp điểm thi tốt nghiệp THPT với CCQT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật",
+          "Tổ hợp môn": "A01; D01; D06",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Xét kết hợp học bạ với CCQT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "A01; D01; D10",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Xét kết hợp học bạ với CCQT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "A01; C00; D01; D10",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Xét kết hợp điểm thi tốt nghiệp THPT với CCQT"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Xét kết hợp học bạ với CCQT"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Xét kết hợp điểm thi tốt nghiệp THPT với CCQT"
+        }
+      ],
+      "row_count": 20
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:27:57.275721",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-cmc-CMC.html"
+}

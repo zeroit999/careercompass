@@ -1,0 +1,105 @@
+{
+  "school_code": "DHY",
+  "school_name": "Trường Đại Học Y Dược Huế",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "26.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y khoa (Xét kết hợp CC tiếng Anh quốc tế)",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y học dự phòng",
+          "Tổ hợp môn": "B00; B08",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y học cổ truyền",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "A00; B00",
+          "Điểm chuẩn": "24.55",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dược học (Xét kết hợp CC tiếng Anh quốc tế)",
+          "Tổ hợp môn": "A00; B00",
+          "Điểm chuẩn": "22.55",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "B00; B08",
+          "Điểm chuẩn": "19.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hộ sinh",
+          "Tổ hợp môn": "B00; B08",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dinh dưỡng",
+          "Tổ hợp môn": "B00; B08",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Răng - Hàm - Mặt",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "25.95",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Răng - Hàm - Mặt (Xét kết hợp CC tiếng Anh quốc tế)",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "25.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xét nghiệm y học",
+          "Tổ hợp môn": "B00; B08",
+          "Điểm chuẩn": "21.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật hình ảnh y học",
+          "Tổ hợp môn": "A00; B00",
+          "Điểm chuẩn": "19.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y tế công cộng",
+          "Tổ hợp môn": "B00; B08",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 14
+    }
+  ],
+  "table_count": 1,
+  "crawled_at": "2025-07-18T23:25:31.182479",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-y-duoc-hue-DHY.html"
+}

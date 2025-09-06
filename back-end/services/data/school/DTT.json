@@ -1,0 +1,3159 @@
+{
+  "school_code": "DTT",
+  "school_name": "Trường Đại Học Tôn Đức Thắng",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Thiết kế đồ họa",
+          "Tổ hợp môn": "H00; H01; H02; H03",
+          "Điểm chuẩn": "31.5",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Thiết kế thời trang",
+          "Tổ hợp môn": "H00; H01; H02; H03",
+          "Điểm chuẩn": "30.6",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D11",
+          "Điểm chuẩn": "33.8",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "D01; D04; D11; D55",
+          "Điểm chuẩn": "32.5",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Xã hội học",
+          "Tổ hợp môn": "A01; C00; C01; D01",
+          "Điểm chuẩn": "32.3",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Việt Nam học (Chuyên ngành Du lịch và lữ hành)",
+          "Tổ hợp môn": "A01; C00; C01; D01",
+          "Điểm chuẩn": "34.25",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Việt Nam học (Chuyên ngành Du lịch và Quản lý du lịch)",
+          "Tổ hợp môn": "A01; C00; C01; D01",
+          "Điểm chuẩn": "33.3",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chuyên ngành Quản trị nguồn nhân lực)",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "33",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chuyên ngành Quản trị nhà hàng - khách sạn)",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "32",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "34.25",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "33.8",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "33",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "32.4",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Quan hệ lao động (Chuyên ngành Quản lý quan hệ lao động. Chuyên ngành Hành vi tổ chức)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "33.45",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "A00; B00; D08",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Khoa học môi trường",
+          "Tổ hợp môn": "A00; B00; D07; A01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Toán ứng dụng",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "31",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Thống kê",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "33",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Mạng máy tính và truyền thông dữ liệu",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "31.2",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "33.3",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật môi trường (Chuyên ngành cấp thoát nước và môi trường nước)",
+          "Tổ hợp môn": "A00; B00; D07; A01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "A00; A01; C01",
+          "Điểm chuẩn": "31.3",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện",
+          "Tổ hợp môn": "A00; A01; C01",
+          "Điểm chuẩn": "30",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử - viễn thông",
+          "Tổ hợp môn": "A00; A01; C01",
+          "Điểm chuẩn": "31.2",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và tự động hóa",
+          "Tổ hợp môn": "A00; A01; C01",
+          "Điểm chuẩn": "31.85",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Kỹ thuật hóa học",
+          "Tổ hợp môn": "A00; B00; D07",
+          "Điểm chuẩn": "27.8",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "V00; V01",
+          "Điểm chuẩn": "29.8",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Quy hoạch vùng và đô thị",
+          "Tổ hợp môn": "A00; A01; V00; V01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Thiết kế nội thất",
+          "Tổ hợp môn": "V00; V01; H02; H03",
+          "Điểm chuẩn": "29.7",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "A00; A01; C01",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình giao thông",
+          "Tổ hợp môn": "A00; A01; C01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng",
+          "Tổ hợp môn": "A00; A01; C01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "A00; B00; D07",
+          "Điểm chuẩn": "31.45",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "A01; C00; C01; D01",
+          "Điểm chuẩn": "29.45",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Quản lý thể dục thể thao (Chuyên ngành kinh doanh thể thao và tổ chức sự kiện)",
+          "Tổ hợp môn": "A01; D01; T00; T01",
+          "Điểm chuẩn": "31.3",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Quản lý thể dục thể thao (Chuyên ngành Golf)",
+          "Tổ hợp môn": "A01; D01; T00; T01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Bảo hộ lao động",
+          "Tổ hợp môn": "A00; B00; D07; A01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Việt Nam học (Chuyên ngành Du lịch và Quản lý du lịch) - Chương trình dự bị đại học bằng tiếng Anh",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chuyên ngành Quản trị nhà hàng - khách sạn) - Chương trình dự bị đại học bằng tiếng Anh",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Marketing - Chương trình dự bị đại học bằng tiếng Anh",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế - Chương trình dự bị đại học bằng tiếng Anh",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng - Chương trình dự bị đại học bằng tiếng Anh",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Kế toán (Chuyên ngành Kế toán quốc tế) - Chương trình dự bị đại học bằng tiếng Anh",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học - Chương trình dự bị đại học bằng tiếng Anh",
+          "Tổ hợp môn": "B00; D08",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Khoa học máy tính - Chương trình dự bị đại học bằng tiếng Anh",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm - Chương trình dự bị đại học bằng tiếng Anh",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và tự động hóa - Chương trình dự bị đại học bằng tiếng Anh",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng - Chương trình dự bị đại học bằng tiếng Anh",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh toàn cầu (đơn bằng 2+2) - Chương trình dự bị liên kết Đại học Emlyon (Pháp)",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Chương trình dự bị liên kết đào tạo quốc tế, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (đơn bằng 3+1) – Chương trình dự bị liên kết Đại học Lunghwa (Đài Loan)",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Chương trình dự bị liên kết đào tạo quốc tế, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Quản trị nhà hàng - khách sạn (song bằng 2.5+1.5) - Chương trình dự bị liên kết Đại học Taylor's (Malaysia)",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Chương trình dự bị liên kết đào tạo quốc tế, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế (song bằng 3+1) – Chương trình dự bị liên kết Đại học La Trobe (Úc)",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Chương trình dự bị liên kết đào tạo quốc tế, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Kinh doanh (Tài chính, Kinh doanh quốc tế, Marketing, Kế toán, Quản trị nguồn nhân lực & Quan hệ lao động) (đơn bằng 2+1,5) - Chương trình dự bị liên kết Đại học Massey (New Zealand)",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "Chương trình dự bị liên kết đào tạo quốc tế, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Tài chính và kiểm soát (song bằng 3+1) - Chương trình dự bị liên kết Đại học Khoa học ứng dụng Saxion (Hà Lan)",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "Chương trình dự bị liên kết đào tạo quốc tế, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Kế toán (song bằng 3+1) - Chương trình dự bị liên kết Đại học West of England, Bristol (Vương quốc Anh)",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Chương trình dự bị liên kết đào tạo quốc tế, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (song bằng 2+2) - Chương trình dự bị liên kết Đại học La Trobe (Úc)",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Chương trình dự bị liên kết đào tạo quốc tế, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện – điện tử (song bằng 2.5+1.5) - Chương trình dự bị liên kết Đại học Khoa học ứng dụng Saxion (Hà Lan)",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Chương trình dự bị liên kết đào tạo quốc tế, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng (song bằng 2+2) - Chương trình dự bị liên kết Đại học La Trobe (Úc)",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Chương trình dự bị liên kết đào tạo quốc tế, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Thiết kế đồ họa - Chất lượng cao",
+          "Tổ hợp môn": "H00; H01; H02; H03",
+          "Điểm chuẩn": "31",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh - Chất lượng cao",
+          "Tổ hợp môn": "D01; D11",
+          "Điểm chuẩn": "30.3",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Việt Nam học (Chuyên ngành Du lịch và Quản lý du lịch) - Chất lượng cao",
+          "Tổ hợp môn": "A01; C00; C01; D01",
+          "Điểm chuẩn": "28.6",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chuyên ngành Quản trị nguồn nhân lực) - Chất lượng cao",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "30",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chuyên ngành Quản trị nhà hàng - khách sạn) - Chất lượng cao",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "27.8",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Marketing - Chất lượng cao",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "31.3",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế - Chất lượng cao",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "30.8",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng - Chất lượng cao",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28.7",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Kế toán - Chất lượng cao",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Luật - Chất lượng cao",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "31.1",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học - Chất lượng cao",
+          "Tổ hợp môn": "A00; B00; D08",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Khoa học máy tính - Chất lượng cao",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "30.8",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm - Chất lượng cao",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "30.9",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện - Chất lượng cao",
+          "Tổ hợp môn": "A00; A01; C01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử - viễn thông - Chất lượng cao",
+          "Tổ hợp môn": "A00; A01; C01",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và tự động hóa - Chất lượng cao",
+          "Tổ hợp môn": "A00; A01; C01",
+          "Điểm chuẩn": "26.7",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Kỹ thuật hóa học - Chất lượng cao",
+          "Tổ hợp môn": "A00; B00; D07",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Kiến trúc - Chất lượng cao",
+          "Tổ hợp môn": "V00; V01; A01; C01",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng - Chất lượng cao",
+          "Tổ hợp môn": "A00; A01; C01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "E04; D01",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Việt Nam học (Chuyên ngành Du lịch và Quản lý du lịch) - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "E04; E06; D01; A01",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chuyên ngành Quản trị nhà hàng - khách sạn) - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "E04; E06; D01; A01",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Marketing - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "E04; E06; D01; A01",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "E04; E06; D01; A01",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "E04; E06; D01; A01",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Kế toán (Chuyên ngành Kế toán quốc tế) - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "E04; E06; D01; A01",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "E05; D08; B00",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Khoa học máy tính - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "E04; E06; D01; A01",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm -Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "E04; E06; D01; A01",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và tự động hóa - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "E06; A01; A00",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "E06; A01; A00",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (song bằng 2+2) - Chương trình liên kết Đại học Kinh tế Praha (Cộng hòa Séc)",
+          "Tổ hợp môn": "E04; E06; D01; A01",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Chương trình liên kết đào tạo quốc tế, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh toàn cầu (đơn bằng 2+2) - Chương trình liên kết Đại học Emlyon (Pháp)",
+          "Tổ hợp môn": "E04; E06; D01; A01",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Chương trình liên kết đào tạo quốc tế, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (đơn bằng 3+1) – Chương trình liên kết Đại học Lunghwa (Đài Loan)",
+          "Tổ hợp môn": "E04; E06; D01; A01",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Chương trình liên kết đào tạo quốc tế, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Quản trị nhà hàng - khách sạn (song bằng 2.5+1.5) - Chương trình liên kết Đại học Taylor's (Malaysia)",
+          "Tổ hợp môn": "E04; E06; D01; A01",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Chương trình liên kết đào tạo quốc tế, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế (song bằng 3+1) – Chương trình liên kết Đại học La Trobe (Úc)",
+          "Tổ hợp môn": "E04; E06; D01; A01",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Chương trình liên kết đào tạo quốc tế, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Kinh doanh (Tài chính, Kinh doanh quốc tế, Marketing. Kế toán, Quản trị nguồn nhân lực & Quan hệ lao động) (đơn bằng 2+1.5) - Chương trình liên kết Đại học Massey (New Zealand)",
+          "Tổ hợp môn": "E04; E06; D01; A01",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "Chương trình liên kết đào tạo quốc tế, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Tài chính và kiểm soát (song bằng 3+1) - Chương trình liên kết Đại học Khoa học ứng dụng Saxion (Hà Lan)",
+          "Tổ hợp môn": "E04; E06; D01; A01",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "Chương trình liên kết đào tạo quốc tế, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Kế toán (song bằng 3+1) - Chương trình liên kết Đại học West of England. Bristol (Vương quốc Anh)",
+          "Tổ hợp môn": "E04; E06; D01; A01",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Chương trình liên kết đào tạo quốc tế, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (song bằng 2+2) - Chương trình liên kết Đại học La Trobe (Úc)",
+          "Tổ hợp môn": "E04; E06; D01; A01",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Chương trình liên kết đào tạo quốc tế, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Khoa học máy tính (đơn bằng 2+2) - Chương trình liên kết Đại học Kỹ thuật Ostrava (Cộng hòa Séc)",
+          "Tổ hợp môn": "E04; E06; D01; A01",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Chương trình liên kết đào tạo quốc tế, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện – điện tử (song bằng 2.5+1.5) - Chương trình liên kết Đại học Khoa học ứng dụng Saxion (Hà Lan)",
+          "Tổ hợp môn": "E06; A01; A00",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Chương trình liên kết đào tạo quốc tế, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng (song bằng 2+2) - Chương trình liên kết Đại học La Trobe (Úc)",
+          "Tổ hợp môn": "E06; A01; A00",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Chương trình liên kết đào tạo quốc tế, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Thiết kế đồ họa",
+          "Tổ hợp môn": "H00; H01; H02; H03",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Chương trình học tại phân hiệu Khánh Hòa, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D11",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Chương trình học tại phân hiệu Khánh Hòa, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Việt Nam học (Chuyên ngành Du lịch và lữ hành)",
+          "Tổ hợp môn": "A01; C00; C01; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Chương trình học tại phân hiệu Khánh Hòa, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chuyên ngành Quản trị nhà hàng - khách sạn)",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Chương trình học tại phân hiệu Khánh Hòa, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Chương trình học tại phân hiệu Khánh Hòa, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Chương trình học tại phân hiệu Khánh Hòa, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Chương trình học tại phân hiệu Khánh Hòa, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Chương trình học tại phân hiệu Khánh Hòa, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Chương trình học tại phân hiệu Khánh Hòa, thang điểm 40"
+        }
+      ],
+      "row_count": 112
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Thiết kế đồ họa",
+          "Tổ hợp môn": "H06",
+          "Điểm chuẩn": "33.75",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Thiết kế đồ họa",
+          "Tổ hợp môn": "H06",
+          "Điểm chuẩn": "33.75",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Thiết kế thời trang",
+          "Tổ hợp môn": "H06",
+          "Điểm chuẩn": "30.75",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Thiết kế thời trang",
+          "Tổ hợp môn": "H06",
+          "Điểm chuẩn": "31",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "36.5",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "37",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "35.5",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "36",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Xã hội học",
+          "Tổ hợp môn": "D14",
+          "Điểm chuẩn": "33.5",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Xã hội học",
+          "Tổ hợp môn": "D14",
+          "Điểm chuẩn": "34",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Việt Nam học (Chuyên ngành Du lịch và lữ hành)",
+          "Tổ hợp môn": "D14",
+          "Điểm chuẩn": "34",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Việt Nam học (Chuyên ngành Du lịch và lữ hành)",
+          "Tổ hợp môn": "D14",
+          "Điểm chuẩn": "34.25",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Việt Nam học (Chuyên ngành Du lịch và quản lý du lịch)",
+          "Tổ hợp môn": "D14",
+          "Điểm chuẩn": "34",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Việt Nam học (Chuyên ngành Du lịch và quản lý du lịch)",
+          "Tổ hợp môn": "D14",
+          "Điểm chuẩn": "34.25",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chuyên ngành Quản trị nguồn nhân lực)",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "36",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chuyên ngành Quản trị nguồn nhân lực)",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "36.25",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chuyên ngành Quản trị nhà hàng - khách sạn)",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "35",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chuyên ngành Quản trị nhà hàng - khách sạn)",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "35.25",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "37.25",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "37.5",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "37.5",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "37.5",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "35.5",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "35.75",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "34",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "34.25",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Quan hệ lao động (Chuyên ngành Quản lý quan hệ lao động, chuyên ngành Hành vi tổ chức)",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Quan hệ lao động (Chuyên ngành Quản lý quan hệ lao động. Chuyên ngành Hành vi tổ chức)",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D14",
+          "Điểm chuẩn": "35",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D14",
+          "Điểm chuẩn": "35.5",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "B08",
+          "Điểm chuẩn": "33.5",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "B08",
+          "Điểm chuẩn": "33.75",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Khoa học môi trường",
+          "Tổ hợp môn": "B08",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Khoa học môi trường",
+          "Tổ hợp môn": "B08",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Toán ứng dụng",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "29.5",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Toán ứng dụng",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "29.75",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Thống kê",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Thống kê",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "28.25",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "37",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "37",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Mạng máy tính và truyền thông dữ liệu",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "35.25",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Mạng máy tính và truyền thông dữ liệu",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "35.5",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "36.5",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "36.5",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật môi trường (Chuyên ngành cấp thoát nước và môi trường nước)",
+          "Tổ hợp môn": "B08",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật môi trường (Chuyên ngành cấp thoát nước và môi trường nước)",
+          "Tổ hợp môn": "B08",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "33.25",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "33.5",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "30",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "30.25",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử - viễn thông",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "32",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử - viễn thông",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "32.25",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và tự động hóa",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "34",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và tự động hóa",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "34.25",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật hóa học",
+          "Tổ hợp môn": "D07",
+          "Điểm chuẩn": "33.5",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật hóa học",
+          "Tổ hợp môn": "D07",
+          "Điểm chuẩn": "33.75",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "V02",
+          "Điểm chuẩn": "30.25",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "V02",
+          "Điểm chuẩn": "30.75",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Quy hoạch vùng và đô thị",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Quy hoạch vùng và đô thị",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Thiết kế nội thất",
+          "Tổ hợp môn": "V02",
+          "Điểm chuẩn": "30.5",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Thiết kế nội thất",
+          "Tổ hợp môn": "V02",
+          "Điểm chuẩn": "31",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình giao thông",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình giao thông",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "D07",
+          "Điểm chuẩn": "35.5",
+          "Ghi chú": "5HK - THPT ký kết, HL lớp 12 từ loại Giỏi"
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "D07",
+          "Điểm chuẩn": "35.75",
+          "Ghi chú": "6HK - THPT chưa ký kết, HL lớp 12 từ loại Giỏi"
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "D14",
+          "Điểm chuẩn": "29.5",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "D14",
+          "Điểm chuẩn": "30",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Quản lý thể dục thể thao (Chuyên ngành Kinh doanh thể thao và tổ chức sự kiện)",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "34",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Quản lý thể dục thể thao (Chuyên ngành Kinh doanh thể thao và tổ chức sự kiện)",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "34.25",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Quản lý thể dục thể thao (Chuyên ngành Golf)",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Quản lý thể dục thể thao (Chuyên ngành Golf)",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Bảo hộ lao động",
+          "Tổ hợp môn": "B08",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Bảo hộ lao động",
+          "Tổ hợp môn": "B08",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Việt Nam học (Chuyên ngành Du lịch và Quản lý du lịch) - Chương trình dự bị đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Việt Nam học (Chuyên ngành Du lịch và Quản lý du lịch) - Chương trình dự bị đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "THPT chưa ký kết - CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chuyên ngành Quản trị nhà hàng - khách sạn) - Chương trình dự bị đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chuyên ngành Quản trị nhà hàng - khách sạn) - Chương trình dự bị đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "THPT chưa ký kết - CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Marketing - Chương trình dự bị đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "34",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Marketing - Chương trình dự bị đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "34",
+          "Ghi chú": "THPT chưa ký kết - CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế - Chương trình dự bị đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "34",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế - Chương trình dự bị đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "34",
+          "Ghi chú": "THPT chưa ký kết - CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng - Chương trình dự bị đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng - Chương trình dự bị đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "THPT chưa ký kết - CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Kế toán (Chuyên ngành Kế toán quốc tế) - Chương trình dự bị đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Kế toán (Chuyên ngành Kế toán quốc tế) - Chương trình dự bị đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "THPT chưa ký kết - CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học - Chương trình dự bị đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học - Chương trình dự bị đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "THPT chưa ký kết - CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Khoa học máy tính - Chương trình dự bị đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Khoa học máy tính - Chương trình dự bị đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "THPT chưa ký kết - CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm -Chương trình dự bị đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm -Chương trình dự bị đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "THPT chưa ký kết - CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và tự động hóa - Chương trình dự bị đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và tự động hóa - Chương trình dự bị đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "THPT chưa ký kết - CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng - Chương trình dự bị đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng - Chương trình dự bị đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "THPT chưa ký kết - CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh toàn cầu (đơn bằng 2+2) - Chương trình dự bị liên kết đơn Đại học Emlyon (Pháp)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh toàn cầu (đơn bằng 2+2) - Chương trình dự bị liên kết đơn Đại học Emlyon (Pháp)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "THPT chưa ký kết - CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (đơn bằng 3+1) - Chương trình dự bị liên kết Đại học Lunghwa (Đài Loan)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (đơn bằng 3+1) - Chương trình dự bị liên kết Đại học Lunghwa (Đài Loan)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "THPT chưa ký kết - CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (chuyên ngành Quản trị nhà hàng - khách sạn) (song bằng 2.5+1.5) - Chương trình dự bị liên kết Đại học Taylor’s (Malaysia)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (chuyên ngành Quản trị nhà hàng - khách sạn) (song bằng 2.5+1.5) - Chương trình dự bị liên kết Đại học Taylor’s (Malaysia)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "THPT chưa ký kết - CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế (song bằng 3 +1) - Chương trình dự bị liên kết Đại học La Trobe (Úc)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "32",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế (song bằng 3 +1) - Chương trình dự bị liên kết Đại học La Trobe (Úc)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "32",
+          "Ghi chú": "THPT chưa ký kết - CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Kinh doanh (Tài chính. Kinh doanh quốc tế. Marketing. Kế toán. Quản trị nguồn nhân lực & Quan hệ lao động) (đơn bằng 2+1.5) - Chương trình dự bị liên kết Đại học Massey (New Zealand)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Kinh doanh (Tài chính. Kinh doanh quốc tế. Marketing. Kế toán. Quản trị nguồn nhân lực & Quan hệ lao động) (đơn bằng 2+1.5) - Chương trình dự bị liên kết Đại học Massey (New Zealand)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "THPT chưa ký kết - CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Tài chính và kiểm soát (song bằng 3+1) - Chương trình dự bị liên kết Đại học khoa học ứng dụng Saxion (Hà Lan)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Tài chính và kiểm soát (song bằng 3+1) - Chương trình dự bị liên kết Đại học khoa học ứng dụng Saxion (Hà Lan)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "THPT chưa ký kết - CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Kế toán (song bằng 3+1) - Chương trình dự bị liên kết Đại học West of England. Bristol (Vương Quốc Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Kế toán (song bằng 3+1) - Chương trình dự bị liên kết Đại học West of England. Bristol (Vương Quốc Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "THPT chưa ký kết - CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (song bằng 2+2) - Chương trình dự bị liên kết Đại học La Trobe (Úc)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (song bằng 2+2) - Chương trình dự bị liên kết Đại học La Trobe (Úc)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "THPT chưa ký kết - CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện – điện tử (song bằng 2.5+1.5) - Chương trình dự bị liên kết Đại học khoa học ứng dụng Saxion (Hà Lan)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện – điện tử (song bằng 2.5+1.5) - Chương trình dự bị liên kết Đại học khoa học ứng dụng Saxion (Hà Lan)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "THPT chưa ký kết - CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng (song bằng 2+2) - Chương trình dự bị liên kết Đại học La Trobe (Úc)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng (song bằng 2+2) - Chương trình dự bị liên kết Đại học La Trobe (Úc)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "THPT chưa ký kết - CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Thiết kế đồ họa - Chất lượng cao",
+          "Tổ hợp môn": "H06",
+          "Điểm chuẩn": "29.5",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Thiết kế đồ họa - Chất lượng cao",
+          "Tổ hợp môn": "H06",
+          "Điểm chuẩn": "29.5",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh - Chất lượng cao",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "33",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh - Chất lượng cao",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "33",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Việt Nam học (Chuyên ngành Du lịch và Quản lý du lịch) - Chất lượng cao",
+          "Tổ hợp môn": "D14",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Việt Nam học (Chuyên ngành Du lịch và Quản lý du lịch) - Chất lượng cao",
+          "Tổ hợp môn": "D14",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chuyên ngành Quản trị nguồn nhân lực) - Chất lượng cao",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "33",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chuyên ngành Quản trị nguồn nhân lực) - Chất lượng cao",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "33",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chuyên ngành Quản trị nhà hàng - khách sạn) - Chất lượng cao",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chuyên ngành Quản trị nhà hàng - khách sạn) - Chất lượng cao",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Marketing - Chất lượng cao",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "34",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Marketing - Chất lượng cao",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "34",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế - Chất lượng cao",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "34.5",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế - Chất lượng cao",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "34.5",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng - Chất lượng cao",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "31.5",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng - Chất lượng cao",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "31.5",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Kế toán - Chất lượng cao",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "30",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Kế toán - Chất lượng cao",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "30",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Luật - Chất lượng cao",
+          "Tổ hợp môn": "D14",
+          "Điểm chuẩn": "30.5",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Luật - Chất lượng cao",
+          "Tổ hợp môn": "D14",
+          "Điểm chuẩn": "30.5",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học - Chất lượng cao",
+          "Tổ hợp môn": "B08",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học - Chất lượng cao",
+          "Tổ hợp môn": "B08",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Khoa học máy tính - Chất lượng cao",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "33.5",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Khoa học máy tính - Chất lượng cao",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "33.5",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm - Chất lượng cao",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "33",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm - Chất lượng cao",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "33",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện - Chất lượng cao",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện - Chất lượng cao",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử - viễn thông - Chất lượng cao",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử - viễn thông - Chất lượng cao",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và tự động hóa - Chất lượng cao",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và tự động hóa - Chất lượng cao",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật hóa học - Chất lượng cao",
+          "Tổ hợp môn": "D07",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật hóa học - Chất lượng cao",
+          "Tổ hợp môn": "D07",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Kiến trúc - Chất lượng cao",
+          "Tổ hợp môn": "V02",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Kiến trúc - Chất lượng cao",
+          "Tổ hợp môn": "V02",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng - Chất lượng cao",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng - Chất lượng cao",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "6HK - THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "31",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "31",
+          "Ghi chú": "THPT chưa ký kết - CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Việt Nam học (Chuyên ngành Du lịch và Quản lý du lịch) - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "D14",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Việt Nam học (Chuyên ngành Du lịch và Quản lý du lịch) - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "THPT chưa ký kết - CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chuyên ngành Quản trị nhà hàng - khách sạn) - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chuyên ngành Quản trị nhà hàng - khách sạn) - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "THPT chưa ký kết - CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Marketing - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "34",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Marketing - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "34",
+          "Ghi chú": "THPT chưa ký kết - CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "34",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "34",
+          "Ghi chú": "THPT chưa ký kết - CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "THPT chưa ký kết - CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Kế toán (Chuyên ngành Kế toán quốc tế) - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Kế toán (Chuyên ngành Kế toán quốc tế) - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "THPT chưa ký kết - CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "B08",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "THPT chưa ký kết - CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Khoa học máy tính - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Khoa học máy tính - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "THPT chưa ký kết - CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm -Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm -Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "THPT chưa ký kết - CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và tự động hóa - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và tự động hóa - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "THPT chưa ký kết - CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "THPT chưa ký kết - CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (song bằng 2+2) - Chương trình liên kết Đại học kinh tế Praha (Cộng hòa Séc)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (song bằng 2+2) - Chương trình liên kết Đại học kinh tế Praha (Cộng hòa Séc)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "THPT chưa ký kết - CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh toàn cầu (đơn bằng 2+2) - Chương trình liên kết đơn Đại học Emlyon (Pháp)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh toàn cầu (đơn bằng 2+2) - Chương trình liên kết đơn Đại học Emlyon (Pháp)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "THPT chưa ký kết - CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (đơn bằng 3+1) - Chương trình liên kết Đại học Lunghwa (Đài Loan)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (đơn bằng 3+1) - Chương trình liên kết Đại học Lunghwa (Đài Loan)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "THPT chưa ký kết - CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Quản trị nhà hàng - khách sạn (song bằng 2.5+1.5) - Chương trình liên kết Đại học Taylor’s (Malaysia)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Quản trị nhà hàng - khách sạn (song bằng 2.5+1.5) - Chương trình liên kết Đại học Taylor’s (Malaysia)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "THPT chưa ký kết - CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế (song bằng 3 +1) - Chương trình liên kết Đại học La Trobe (Úc)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "32",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế (song bằng 3 +1) - Chương trình liên kết Đại học La Trobe (Úc)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "32",
+          "Ghi chú": "THPT chưa ký kết - CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Kinh doanh (Tài chính. Kinh doanh quốc tế. Marketing. Kế toán. Quản trị nguồn nhân lực & Quan hệ lao động) (đơn bằng 2+1.5) - Chương trình liên kết Đại học Massey (New Zealand)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Kinh doanh (Tài chính. Kinh doanh quốc tế. Marketing. Kế toán. Quản trị nguồn nhân lực & Quan hệ lao động) (đơn bằng 2+1.5) - Chương trình liên kết Đại học Massey (New Zealand)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "THPT chưa ký kết - CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Tài chính và kiểm soát (song bằng 3+1) - Chương trình liên kết Đại học khoa học ứng dụng Saxion (Hà Lan)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Tài chính và kiểm soát (song bằng 3+1) - Chương trình liên kết Đại học khoa học ứng dụng Saxion (Hà Lan)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "THPT chưa ký kết - CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Kế toán (song bằng 3+1) - Chương trình liên kết Đại học West of England. Bristol (Vương quốc Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Kế toán (song bằng 3+1) - Chương trình liên kết Đại học West of England. Bristol (Vương quốc Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "THPT chưa ký kết - CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (song bằng 2+2) - Chương trình liên kết Đại học La Trobe (Úc)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (song bằng 2+2) - Chương trình liên kết Đại học La Trobe (Úc)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "THPT chưa ký kết - CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Khoa học máy tính (đơn bằng 2+2) - Chương trình liên kết Đại học Kỹ thuật Ostrava (Cộng hòa Séc)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Khoa học máy tính (đơn bằng 2+2) - Chương trình liên kết Đại học Kỹ thuật Ostrava (Cộng hòa Séc)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "THPT chưa ký kết - CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện – điện tử (song bằng 2.5+1.5) - Chương trình liên kết Đại học khoa học ứng dụng Saxion (Hà Lan)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện – điện tử (song bằng 2.5+1.5) - Chương trình liên kết Đại học khoa học ứng dụng Saxion (Hà Lan)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "THPT chưa ký kết - CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng (song bằng 2+2) - Chương trình liên kết Đại học La Trobe (Úc)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng (song bằng 2+2) - Chương trình liên kết Đại học La Trobe (Úc)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "THPT chưa ký kết - CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Thiết kế đồ họa - Chương trình học tại Phân hiệu Khánh Hòa",
+          "Tổ hợp môn": "H06",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Thiết kế đồ họa - Chương trình học tại Phân hiệu Khánh Hòa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh - Chương trình học tại Phân hiệu Khánh Hòa",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh - Chương trình học tại Phân hiệu Khánh Hòa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Việt Nam học (Chuyên ngành Du lịch và lữ hành) - Chương trình học tại Phân hiệu Khánh Hòa",
+          "Tổ hợp môn": "D14",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Việt Nam học (Chuyên ngành Du lịch và lữ hành) - Chương trình học tại Phân hiệu Khánh Hòa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chuyên ngành Quản trị nhà hàng - khách sạn) - Chương trình học tại Phân hiệu Khánh Hòa",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chuyên ngành Quản trị nhà hàng - khách sạn) - Chương trình học tại Phân hiệu Khánh Hòa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Marketing - Chương trình học tại Phân hiệu Khánh Hòa",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Marketing - Chương trình học tại Phân hiệu Khánh Hòa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Kế toán - Chương trình học tại Phân hiệu Khánh Hòa",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Kế toán - Chương trình học tại Phân hiệu Khánh Hòa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Luật - Chương trình học tại Phân hiệu Khánh Hòa",
+          "Tổ hợp môn": "D14",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Luật - Chương trình học tại Phân hiệu Khánh Hòa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Khoa học máy tính - Chương trình học tại Phân hiệu Khánh Hòa",
+          "Tổ hợp môn": "D14",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Khoa học máy tính - Chương trình học tại Phân hiệu Khánh Hòa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "THPT chưa ký kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm - Chương trình học tại Phân hiệu Khánh Hòa",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "5HK - THPT ký kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm - Chương trình học tại Phân hiệu Khánh Hòa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "THPT chưa ký kết"
+        }
+      ],
+      "row_count": 224
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Thiết kế đồ họa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "800",
+          "Ghi chú": "Vẽ NK ≥ 6.0"
+        },
+        {
+          "Tên ngành": "Thiết kế thời trang",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "720",
+          "Ghi chú": "Vẽ NK ≥ 6.0"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "850",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "800",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xã hội học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Việt Nam học (Chuyên ngành Du lịch và lữ hành)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "750",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Việt Nam học (Chuyên ngành Du lịch và quản lý du lịch)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "750",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chuyên ngành Quản trị nguồn nhân lực)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "820",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chuyên ngành Quản trị nhà hàng - khách sạn)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "800",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "880",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "880",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "830",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "800",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ lao động (Chuyên ngành Quản lý quan hệ lao động. Chuyên ngành Hành vi tổ chức)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "800",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "780",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học môi trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Toán ứng dụng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "750",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thống kê",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "900",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Mạng máy tính và truyền thông dữ liệu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "820",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "870",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật môi trường (Chuyên ngành cấp thoát nước và môi trường nước)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "800",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "800",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử - viễn thông",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "800",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và tự động hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "830",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật hóa học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "800",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "800",
+          "Ghi chú": "Vẽ NK ≥ 6.0"
+        },
+        {
+          "Tên ngành": "Quy hoạch vùng và đô thị",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế nội thất",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "780",
+          "Ghi chú": "Vẽ NK ≥ 6.0"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình giao thông",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "820",
+          "Ghi chú": "(Học lực lớp 12 từ loại “Giỏi”)"
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý thể dục thể thao (Chuyên ngành Kinh doanh thể thao và tổ chức sự kiện)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "780",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý thể dục thể thao (Chuyên ngành Golf)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Bảo hộ lao động",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Việt Nam học (Chuyên ngành Du lịch và Quản lý du lịch) - Chương trình dự bị đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chuyên ngành Quản trị nhà hàng - khách sạn) - Chương trình dự bị đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Marketing - Chương trình dự bị đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "780",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế - Chương trình dự bị đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "780",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng - Chương trình dự bị đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Kế toán (Chuyên ngành Kế toán quốc tế) - Chương trình dự bị đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học - Chương trình dự bị đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Khoa học máy tính - Chương trình dự bị đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm -Chương trình dự bị đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và tự động hóa - Chương trình dự bị đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng - Chương trình dự bị đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh toàn cầu (đơn bằng 2+2) - Chương trình dự bị liên kết đơn Đại học Emlyon (Pháp)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (đơn bằng 3+1) - Chương trình dự bị liên kết Đại học Lunghwa (Đài Loan)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (chuyên ngành Quản trị nhà hàng - khách sạn) (song bằng 2.5+1.5) - Chương trình dự bị liên kết Đại học Taylor’s (Malaysia)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế (song bằng 3 +1) - Chương trình dự bị liên kết Đại học La Trobe (Úc)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "720",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Kinh doanh (Tài chính. Kinh doanh quốc tế. Marketing. Kế toán. Quản trị nguồn nhân lực & Quan hệ lao động) (đơn bằng 2+1.5) - Chương trình dự bị liên kết Đại học Massey (New Zealand)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Tài chính và kiểm soát (song bằng 3+1) - Chương trình dự bị liên kết Đại học khoa học ứng dụng Saxion (Hà Lan)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Kế toán (song bằng 3+1) - Chương trình dự bị liên kết Đại học West of England. Bristol (Vương Quốc Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (song bằng 2+2) - Chương trình dự bị liên kết Đại học La Trobe (Úc)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện – điện tử (song bằng 2.5+1.5) - Chương trình dự bị liên kết Đại học khoa học ứng dụng Saxion (Hà Lan)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng (song bằng 2+2) - Chương trình dự bị liên kết Đại học La Trobe (Úc)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Thiết kế đồ họa - Chất lượng cao",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "750",
+          "Ghi chú": "Vẽ NK ≥ 6.0"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh - Chất lượng cao",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "750",
+          "Ghi chú": "Vẽ NK ≥ 6.0"
+        },
+        {
+          "Tên ngành": "Việt Nam học (Chuyên ngành Du lịch và Quản lý du lịch) - Chất lượng cao",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chuyên ngành Quản trị nguồn nhân lực) - Chất lượng cao",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chuyên ngành Quản trị nhà hàng - khách sạn) - Chất lượng cao",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing - Chất lượng cao",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "800",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế - Chất lượng cao",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "800",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng - Chất lượng cao",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "750",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán - Chất lượng cao",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật - Chất lượng cao",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "720",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học - Chất lượng cao",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính - Chất lượng cao",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "840",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm - Chất lượng cao",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "800",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện - Chất lượng cao",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử - viễn thông - Chất lượng cao",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và tự động hóa - Chất lượng cao",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật hóa học - Chất lượng cao",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc - Chất lượng cao",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": "Vẽ NK ≥ 6.0"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng - Chất lượng cao",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Việt Nam học (Chuyên ngành Du lịch và Quản lý du lịch) - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chuyên ngành Quản trị nhà hàng - khách sạn) - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Marketing - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "780",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "780",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Kế toán (Chuyên ngành Kế toán quốc tế) - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Khoa học máy tính - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm -Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và tự động hóa - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (song bằng 2+2) - Chương trình liên kết Đại học kinh tế Praha (Cộng hòa Séc)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh toàn cầu (đơn bằng 2+2) - Chương trình liên kết đơn Đại học Emlyon (Pháp)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (đơn bằng 3+1) - Chương trình liên kết Đại học Lunghwa (Đài Loan)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Quản trị nhà hàng - khách sạn (song bằng 2.5+1.5) - Chương trình liên kết Đại học Taylor’s (Malaysia)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế (song bằng 3 +1) - Chương trình liên kết Đại học La Trobe (Úc)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "720",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Kinh doanh (Tài chính. Kinh doanh quốc tế. Marketing. Kế toán. Quản trị nguồn nhân lực & Quan hệ lao động) (đơn bằng 2+1.5) - Chương trình liên kết Đại học Massey (New Zealand)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Tài chính và kiểm soát (song bằng 3+1) - Chương trình liên kết Đại học khoa học ứng dụng Saxion (Hà Lan)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Kế toán (song bằng 3+1) - Chương trình liên kết Đại học West of England. Bristol (Vương quốc Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (song bằng 2+2) - Chương trình liên kết Đại học La Trobe (Úc)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Khoa học máy tính (đơn bằng 2+2) - Chương trình liên kết Đại học Kỹ thuật Ostrava (Cộng hòa Séc)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện – điện tử (song bằng 2.5+1.5) - Chương trình liên kết Đại học khoa học ứng dụng Saxion (Hà Lan)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng (song bằng 2+2) - Chương trình liên kết Đại học La Trobe (Úc)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Thiết kế đồ họa - Chương trình học tại Phân hiệu Khánh Hòa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh - Chương trình học tại Phân hiệu Khánh Hòa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Việt Nam học (Chuyên ngành Du lịch và lữ hành) - Chương trình học tại Phân hiệu Khánh Hòa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chuyên ngành Quản trị nhà hàng - khách sạn) - Chương trình học tại Phân hiệu Khánh Hòa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing - Chương trình học tại Phân hiệu Khánh Hòa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán - Chương trình học tại Phân hiệu Khánh Hòa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật - Chương trình học tại Phân hiệu Khánh Hòa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính - Chương trình học tại Phân hiệu Khánh Hòa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm - Chương trình học tại Phân hiệu Khánh Hòa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 112
+    },
+    {
+      "table_title": "ƯTXT, XT thẳng năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Khoa học môi trường",
+          "Tổ hợp môn": "B08",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật môi trường (Chuyên ngành cấp thoát nước và môi trường nước)",
+          "Tổ hợp môn": "B08",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quy hoạch vùng và đô thị",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình giao thông",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "D14",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Bảo hộ lao động",
+          "Tổ hợp môn": "B08",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "32",
+          "Ghi chú": "TS các trường 5HK - THPT ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "32",
+          "Ghi chú": "TS các trường THPT chưa ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Việt Nam học (Chuyên ngành Du lịch và Quản lý du lịch) - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Việt Nam học (Chuyên ngành Du lịch và Quản lý du lịch) - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TS các trường 5HK - THPT ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Việt Nam học (Chuyên ngành Du lịch và Quản lý du lịch) - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TS các trường THPT chưa ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chuyên ngành Quản trị nhà hàng - khách sạn) - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TS các trường 5HK - THPT ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chuyên ngành Quản trị nhà hàng - khách sạn) - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TS các trường THPT chưa ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Marketing - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "34",
+          "Ghi chú": "TS các trường 5HK - THPT ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Marketing - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "34",
+          "Ghi chú": "TS các trường THPT chưa ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "34",
+          "Ghi chú": "TS các trường 5HK - THPT ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "34",
+          "Ghi chú": "TS các trường THPT chưa ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TS các trường 5HK - THPT ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TS các trường THPT chưa ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Kế toán (Chuyên ngành Kế toán quốc tế) - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Kế toán (Chuyên ngành Kế toán quốc tế) - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TS các trường 5HK - THPT ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Kế toán (Chuyên ngành Kế toán quốc tế) - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TS các trường THPT chưa ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TS các trường 5HK - THPT ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TS các trường THPT chưa ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Khoa học máy tính - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TS các trường 5HK - THPT ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Khoa học máy tính - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TS các trường THPT chưa ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm -Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TS các trường 5HK - THPT ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm -Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TS các trường THPT chưa ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và tự động hóa - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và tự động hóa - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TS các trường 5HK - THPT ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và tự động hóa - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TS các trường THPT chưa ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "CS Khánh Hòa"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TS các trường 5HK - THPT ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng - Chương trình đại học bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TS các trường THPT chưa ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (song bằng 2+2) - Chương trình liên kết Đại học kinh tế Praha (Cộng hòa Séc)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TS các trường 5HK - THPT ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (song bằng 2+2) - Chương trình liên kết Đại học kinh tế Praha (Cộng hòa Séc)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TS các trường THPT chưa ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh toàn cầu (đơn bằng 2+2) - Chương trình liên kết đơn Đại học Emlyon (Pháp)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TS các trường 5HK - THPT ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh toàn cầu (đơn bằng 2+2) - Chương trình liên kết đơn Đại học Emlyon (Pháp)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TS các trường THPT chưa ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (đơn bằng 3+1) - Chương trình liên kết Đại học Lunghwa (Đài Loan)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TS các trường 5HK - THPT ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (đơn bằng 3+1) - Chương trình liên kết Đại học Lunghwa (Đài Loan)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TS các trường THPT chưa ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Quản trị nhà hàng - khách sạn (song bằng 2.5+1.5) - Chương trình liên kết Đại học Taylor’s (Malaysia)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TS các trường 5HK - THPT ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Quản trị nhà hàng - khách sạn (song bằng 2.5+1.5) - Chương trình liên kết Đại học Taylor’s (Malaysia)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TS các trường THPT chưa ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế (song bằng 3 +1) - Chương trình liên kết Đại học La Trobe (Úc)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "32",
+          "Ghi chú": "TS các trường 5HK - THPT ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế (song bằng 3 +1) - Chương trình liên kết Đại học La Trobe (Úc)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "32",
+          "Ghi chú": "TS các trường THPT chưa ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Kinh doanh (Tài chính. Kinh doanh quốc tế. Marketing. Kế toán. Quản trị nguồn nhân lực & Quan hệ lao động) (đơn bằng 2+1.5) - Chương trình liên kết Đại học Massey (New Zealand)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TS các trường 5HK - THPT ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Kinh doanh (Tài chính. Kinh doanh quốc tế. Marketing. Kế toán. Quản trị nguồn nhân lực & Quan hệ lao động) (đơn bằng 2+1.5) - Chương trình liên kết Đại học Massey (New Zealand)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TS các trường THPT chưa ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Tài chính và kiểm soát (song bằng 3+1) - Chương trình liên kết Đại học khoa học ứng dụng Saxion (Hà Lan)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TS các trường 5HK - THPT ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Tài chính và kiểm soát (song bằng 3+1) - Chương trình liên kết Đại học khoa học ứng dụng Saxion (Hà Lan)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TS các trường THPT chưa ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Kế toán (song bằng 3+1) - Chương trình liên kết Đại học West of England. Bristol (Vương quốc Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TS các trường 5HK - THPT ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Kế toán (song bằng 3+1) - Chương trình liên kết Đại học West of England. Bristol (Vương quốc Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TS các trường THPT chưa ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (song bằng 2+2) - Chương trình liên kết Đại học La Trobe (Úc)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TS các trường 5HK - THPT ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (song bằng 2+2) - Chương trình liên kết Đại học La Trobe (Úc)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TS các trường THPT chưa ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Khoa học máy tính (đơn bằng 2+2) - Chương trình liên kết Đại học Kỹ thuật Ostrava (Cộng hòa Séc)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TS các trường 5HK - THPT ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Khoa học máy tính (đơn bằng 2+2) - Chương trình liên kết Đại học Kỹ thuật Ostrava (Cộng hòa Séc)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TS các trường THPT chưa ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện – điện tử (song bằng 2.5+1.5) - Chương trình liên kết Đại học khoa học ứng dụng Saxion (Hà Lan)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TS các trường 5HK - THPT ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện – điện tử (song bằng 2.5+1.5) - Chương trình liên kết Đại học khoa học ứng dụng Saxion (Hà Lan)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TS các trường THPT chưa ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng (song bằng 2+2) - Chương trình liên kết Đại học La Trobe (Úc)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TS các trường 5HK - THPT ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng (song bằng 2+2) - Chương trình liên kết Đại học La Trobe (Úc)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TS các trường THPT chưa ký kết có CCTA xét tuyển vào chương trình ĐH bằng TA và chương trình liên kết đào tạo quốc tế."
+        },
+        {
+          "Tên ngành": "Thiết kế đồ họa - Chương trình học tại Phân hiệu Khánh Hòa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh - Chương trình học tại Phân hiệu Khánh Hòa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Việt Nam học (Chuyên ngành Du lịch và lữ hành) - Chương trình học tại Phân hiệu Khánh Hòa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chuyên ngành Quản trị nhà hàng - khách sạn) - Chương trình học tại Phân hiệu Khánh Hòa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing - Chương trình học tại Phân hiệu Khánh Hòa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán - Chương trình học tại Phân hiệu Khánh Hòa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật - Chương trình học tại Phân hiệu Khánh Hòa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính - Chương trình học tại Phân hiệu Khánh Hòa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm - Chương trình học tại Phân hiệu Khánh Hòa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 69
+    }
+  ],
+  "table_count": 4,
+  "crawled_at": "2025-07-18T23:23:57.505979",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-ton-duc-thang-DTT.html"
+}

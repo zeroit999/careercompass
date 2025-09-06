@@ -1,0 +1,117 @@
+{
+  "school_code": "DCA",
+  "school_name": "Trường Đại Học Chu Văn An",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D10; D14",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; C04; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; C04; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; C04; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật Kinh tế",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 7
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D10; D14",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; C04; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; C04; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; C04; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; A01; C04; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; C04; D01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện",
+          "Tổ hợp môn": "A00; A01; C04; D01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 7
+    }
+  ],
+  "table_count": 2,
+  "crawled_at": "2025-07-18T23:31:10.958883",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-chu-van-an-DCA.html"
+}

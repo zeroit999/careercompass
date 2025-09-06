@@ -1,0 +1,1113 @@
+{
+  "school_code": "DVL",
+  "school_name": "Trường Đại Học Văn Lang",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Thanh nhạc",
+          "Tổ hợp môn": "N00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Piano",
+          "Tổ hợp môn": "N00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Diễn viên kịch, điện ảnh - truyền hình",
+          "Tổ hợp môn": "S00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đạo diễn điện ảnh, truyền hình",
+          "Tổ hợp môn": "S00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ điện ảnh, truyền hình",
+          "Tổ hợp môn": "H01; H03; H04; V00",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế công nghiệp",
+          "Tổ hợp môn": "H03; H04; H05; H06",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế đồ họa",
+          "Tổ hợp môn": "H03; H04; H05; H06",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế thời trang",
+          "Tổ hợp môn": "H03; H04; H05; H06",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế mỹ thuật số",
+          "Tổ hợp môn": "H03; H04; H05; H06",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D08; D10",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "A01; D01; D04; D14",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "D01; D10; D14; D66",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Văn học",
+          "Tổ hợp môn": "C00; D01; D14; D66",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "B00; B03; C00; D01",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đông phương học",
+          "Tổ hợp môn": "A01; C00; D01; D04",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ truyền thông",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ công chúng",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Bất động sản",
+          "Tổ hợp môn": "A00; A01; C04; D01",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh thương mại",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - ngân hàng",
+          "Tổ hợp môn": "A00; A01; C04; D01",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D10",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "A00; A02; B00; D08",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học y dược",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thẩm mỹ",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Mạng máy tính và truyền thông dữ liệu",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm",
+          "Tổ hợp môn": "A00; A01; D01; D10",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin",
+          "Tổ hợp môn": "A00; A01; D07; D10",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D10",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật môi trường",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật nhiệt",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật hàng không",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; B00; C08; D08",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "V00; V01; H02",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế nội thất",
+          "Tổ hợp môn": "H03; H04; H05; H06",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nông nghiệp công nghệ cao",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "A00; B00; D08; D12",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "A00; B00; D07",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "B00; C08; D07; D08",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Răng - Hàm - Mặt",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xét nghiệm y học",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch & lữ hành",
+          "Tổ hợp môn": "A00; A01; D01; D03",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "A00; A01; D01; D03",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị nhà hàng và dịch vụ ăn uống",
+          "Tổ hợp môn": "A00; A01; D01; D03",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 60
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Thanh nhạc",
+          "Tổ hợp môn": "N00",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Điểm năng khiếu nhân hệ số 2"
+        },
+        {
+          "Tên ngành": "Piano",
+          "Tổ hợp môn": "N00",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Điểm năng khiếu nhân hệ số 2"
+        },
+        {
+          "Tên ngành": "Diễn viên kịch, Điện ảnh - Truyền hình",
+          "Tổ hợp môn": "S00",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Điểm năng khiếu nhân hệ số 2"
+        },
+        {
+          "Tên ngành": "Đạo diễn Điện ảnh, Truyền hình",
+          "Tổ hợp môn": "S00",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Điểm năng khiếu nhân hệ số 2"
+        },
+        {
+          "Tên ngành": "Công nghệ Điện ảnh, Truyền hình",
+          "Tổ hợp môn": "H01; H03; H04; V00",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Điểm năng khiếu nhân hệ số 2"
+        },
+        {
+          "Tên ngành": "Thiết kế Công nghiệp",
+          "Tổ hợp môn": "H03; H04; H05; H06",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Điểm năng khiếu nhân hệ số 2"
+        },
+        {
+          "Tên ngành": "Thiết kế Đồ họa",
+          "Tổ hợp môn": "H03; H04; H05; H06",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Điểm năng khiếu nhân hệ số 2"
+        },
+        {
+          "Tên ngành": "Thiết kế Thời trang",
+          "Tổ hợp môn": "H03; H04; H05; H06",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Điểm năng khiếu nhân hệ số 2"
+        },
+        {
+          "Tên ngành": "Thiết kế Mỹ thuật số",
+          "Tổ hợp môn": "H03; H04; H05; H06",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Điểm năng khiếu nhân hệ số 2"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D08; D10",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Môn tiếng Anh nhân hệ số 2; môn Tiếng Anh cần đạt từ 6.0 điểm trở lên"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "A01; D01; D04; D14",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "D01; D10; D14; D66",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Văn học",
+          "Tổ hợp môn": "C00; D01; D14; D66",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế Quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "B00; B03; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đông phương học",
+          "Tổ hợp môn": "A01; C00; D01; D04",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông Đa phương tiện",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Truyền thông",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ Công chúng",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị Kinh doanh",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Bất động sản",
+          "Tổ hợp môn": "A00; A01; C04; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh Quốc tế",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh Thương mại",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại Điện tử",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; C04; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Tài chính",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D10",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật Kinh tế",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Sinh học",
+          "Tổ hợp môn": "A00; A02; B00; D08",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Sinh học Y dược",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Thẩm mỹ",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học Dữ liệu",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Mạng máy tính và Truyền thông Dữ liệu",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Phần mềm",
+          "Tổ hợp môn": "A00; A01; D01; D10",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống Thông tin",
+          "Tổ hợp môn": "A00; A01; D07; D10",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D10",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Kỹ thuật điện, Điện tử",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Kỹ thuật Môi trường",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý Chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Cơ điện tử",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật nhiệt",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Hàng không",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Thực phẩm",
+          "Tổ hợp môn": "A00; B00; C08; D08",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "V00; V01; H02",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Điểm năng khiếu nhân hệ số 2"
+        },
+        {
+          "Tên ngành": "Thiết kế Nội thất",
+          "Tổ hợp môn": "H03; H04; H05; H06",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Điểm năng khiếu nhân hệ số 2"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Xây dựng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý Xây dựng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "A00; B00; D08; D12",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Học lực lớp 12 đạt loại Giỏi"
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "A00; B00; D07",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Học lực lớp 12 đạt loại Giỏi"
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "B00; C08; D07; D08",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": "Học lực lớp 12 đạt loại Khá trở lên"
+        },
+        {
+          "Tên ngành": "Răng - Hàm - Mặt",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Học lực lớp 12 đạt loại Giỏi"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Xét nghiệm Y học",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": "Học lực lớp 12 đạt loại Khá trở lên"
+        },
+        {
+          "Tên ngành": "Du lịch",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị Dịch vụ Du lịch & Lữ hành",
+          "Tổ hợp môn": "A00; A01; D01; D03",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị Khách sạn",
+          "Tổ hợp môn": "A00; A01; D01; D03",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị Nhà hàng và Dịch vụ Ăn uống",
+          "Tổ hợp môn": "A00; A01; D01; D03",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 59
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Thanh nhạc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "750",
+          "Ghi chú": "Môn NK âm nhạc 1 từ 5.0 điểm trở lên (thang 10); môn NK âm nhạc 2 từ 7.0 điểm trở lên (thang 10)"
+        },
+        {
+          "Tên ngành": "Piano",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": "Môn NK âm nhạc 1 từ 5.0 điểm trở lên (thang 10); môn NK âm nhạc 2 từ 7.0 điểm trở lên (thang 10)"
+        },
+        {
+          "Tên ngành": "Diễn viên kịch, Điện ảnh - Truyền hình",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": "Môn NK sân khấu điện ảnh 1 từ 5.0 điểm trở lên (thang 10); môn NK sân khấu điện ảnh 2 từ 7.0 điểm trở lên (thang 10)"
+        },
+        {
+          "Tên ngành": "Đạo diễn Điện ảnh, Truyền hình",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": "Môn NK sân khấu điện ảnh 1 từ 5.0 điểm trở lên (thang 10); môn NK sân khấu điện ảnh 2 từ 7.0 điểm trở lên (thang 10)"
+        },
+        {
+          "Tên ngành": "Công nghệ Điện ảnh, Truyền hình",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": "TS tham gia thi tuyển môn NK Vẽ, đạt 5.0 điểm trở lên (thang 10)"
+        },
+        {
+          "Tên ngành": "Thiết kế Công nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": "TS tham gia thi tuyển môn NK Vẽ, đạt 5.0 điểm trở lên (thang 10)"
+        },
+        {
+          "Tên ngành": "Thiết kế Đồ họa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": "TS tham gia thi tuyển môn NK Vẽ, đạt 5.0 điểm trở lên (thang 10)"
+        },
+        {
+          "Tên ngành": "Thiết kế Thời trang",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": "TS tham gia thi tuyển môn NK Vẽ, đạt 5.0 điểm trở lên (thang 10)"
+        },
+        {
+          "Tên ngành": "Thiết kế Mỹ thuật số",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": "TS tham gia thi tuyển môn NK Vẽ, đạt 5.0 điểm trở lên (thang 10)"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Văn học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế Quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đông phương học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông Đa phương tiện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Truyền thông",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ Công chúng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị Kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Bất động sản",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh Quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh Thương mại",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại Điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Tài chính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật Kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Sinh học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Sinh học Y dược",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Thẩm mỹ",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học Dữ liệu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Mạng máy tính và Truyền thông Dữ liệu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Phần mềm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống Thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Kỹ thuật ô tô",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Kỹ thuật điện, Điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Kỹ thuật Môi trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý Chuỗi cung ứng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Cơ điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật nhiệt",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Hàng không",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Thực phẩm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": "TS thi tuyển môn Vẽ Mỹ thuật, đạt từ 5.0 điểm trở lên (thang 10)"
+        },
+        {
+          "Tên ngành": "Thiết kế Nội thất",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": "TS tham gia thi tuyển môn NK Vẽ, đạt 5.0 điểm trở lên (thang 10)"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý Xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "750",
+          "Ghi chú": "Học lực lớp 12 đạt loại giỏi trở lên"
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "750",
+          "Ghi chú": "Học lực lớp 12 đạt loại giỏi trở lên"
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": "Học lực lớp 12 đạt loại khá trở lên"
+        },
+        {
+          "Tên ngành": "Răng - Hàm - Mặt",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "750",
+          "Ghi chú": "Học lực lớp 12 đạt loại giỏi trở lên"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Xét nghiệm Y học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": "Học lực lớp 12 đạt loại khá trở lên"
+        },
+        {
+          "Tên ngành": "Du lịch",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị Dịch vụ Du lịch & Lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị Khách sạn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị Nhà hàng và Dịch vụ Ăn uống",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 59
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:28:30.131607",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-van-lang-DVL.html"
+}

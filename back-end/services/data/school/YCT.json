@@ -1,0 +1,93 @@
+{
+  "school_code": "YCT",
+  "school_name": "Trường Đại Học Y Dược Cần Thơ",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kỹ thuật Y sinh",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "22.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Y sinh",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "22.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "25.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y học dự phòng",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "22.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y học cổ truyền",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "24.48",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "24.78",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "23.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hộ sinh",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "22.35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Răng hàm mặt",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "25.65",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Xét nghiệm y học",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "24.38",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Hình ảnh y học",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y tế công cộng",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "19.2",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 12
+    }
+  ],
+  "table_count": 1,
+  "crawled_at": "2025-07-18T23:23:40.031339",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-y-duoc-can-tho-YCT.html"
+}

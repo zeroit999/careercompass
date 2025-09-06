@@ -1,0 +1,939 @@
+{
+  "school_code": "HIU",
+  "school_name": "Trường Đại Học Quốc Tế Hồng Bàng",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản lý Giáo dục",
+          "Tổ hợp môn": "D01; A00; A01; C00",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế đồ họa",
+          "Tổ hợp môn": "A00; A01; H00; H01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "A01; C00; D01; D15",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "A01; C00; D01; D15",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "17.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "B00; A00; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Việt Nam Học",
+          "Tổ hợp môn": "A07; C00; D01; D78",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "A01; C00; D01; D15",
+          "Điểm chuẩn": "16.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ công chúng",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Digital Marketing",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị sự kiện",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật Kinh Tế",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến Trúc",
+          "Tổ hợp môn": "A00; A01; V00; V01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y Khoa",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y học cổ truyền",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hộ Sinh",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dinh dưỡng",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Răng hàm mặt",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xét nghiệm y học",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phục hồi chức năng",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y tế công cộng",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 34
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản Lý Giáo Dục",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Quản Lý Giáo Dục",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 năm học"
+        },
+        {
+          "Tên ngành": "Quản Lý Giáo Dục",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm tổ hợp 3 môn"
+        },
+        {
+          "Tên ngành": "Thiết Kế Đồ Họa",
+          "Tổ hợp môn": "A00; A01; H00; H01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm tổ hợp 3 môn"
+        },
+        {
+          "Tên ngành": "Thiết Kế Đồ Họa",
+          "Tổ hợp môn": "A00; A01; H00; H01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Thiết Kế Đồ Họa",
+          "Tổ hợp môn": "A00; A01; H00; H01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 năm học"
+        },
+        {
+          "Tên ngành": "Ngôn Ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm tổ hợp 3 môn"
+        },
+        {
+          "Tên ngành": "Ngôn Ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Ngôn Ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 năm học"
+        },
+        {
+          "Tên ngành": "Ngôn Ngữ Trung Quốc",
+          "Tổ hợp môn": "A01; C00; D01; D15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Ngôn Ngữ Trung Quốc",
+          "Tổ hợp môn": "A01; C00; D01; D15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 năm học"
+        },
+        {
+          "Tên ngành": "Ngôn Ngữ Trung Quốc",
+          "Tổ hợp môn": "A01; C00; D01; D15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm tổ hợp 3 môn"
+        },
+        {
+          "Tên ngành": "Ngôn Ngữ Nhật",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 năm học"
+        },
+        {
+          "Tên ngành": "Ngôn Ngữ Nhật",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm tổ hợp 3 môn"
+        },
+        {
+          "Tên ngành": "Ngôn Ngữ Nhật",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Ngôn Ngữ Hàn Quốc",
+          "Tổ hợp môn": "A01; C00; D01; D15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Ngôn Ngữ Hàn Quốc",
+          "Tổ hợp môn": "A01; C00; D01; D15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 năm học"
+        },
+        {
+          "Tên ngành": "Ngôn Ngữ Hàn Quốc",
+          "Tổ hợp môn": "A01; C00; D01; D15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm tổ hợp 3 môn"
+        },
+        {
+          "Tên ngành": "Quan Hệ Quốc Tế",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Quan Hệ Quốc Tế",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 năm học"
+        },
+        {
+          "Tên ngành": "Quan Hệ Quốc Tế",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm tổ hợp 3 môn"
+        },
+        {
+          "Tên ngành": "Tâm Lý Học",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm tổ hợp 3 môn"
+        },
+        {
+          "Tên ngành": "Tâm Lý Học",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Tâm Lý Học",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 năm học"
+        },
+        {
+          "Tên ngành": "Việt Nam Học",
+          "Tổ hợp môn": "A07; C00; D01; D78",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Việt Nam Học",
+          "Tổ hợp môn": "A07; C00; D01; D78",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 năm học"
+        },
+        {
+          "Tên ngành": "Việt Nam Học",
+          "Tổ hợp môn": "A07; C00; D01; D78",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm tổ hợp 3 môn"
+        },
+        {
+          "Tên ngành": "Truyền Thông Đa Phương Tiện",
+          "Tổ hợp môn": "A01; C00; D01; D15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Truyền Thông Đa Phương Tiện",
+          "Tổ hợp môn": "A01; C00; D01; D15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 năm học"
+        },
+        {
+          "Tên ngành": "Truyền Thông Đa Phương Tiện",
+          "Tổ hợp môn": "A01; C00; D01; D15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm tổ hợp 3 môn"
+        },
+        {
+          "Tên ngành": "Quan Hệ Công Chúng",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm tổ hợp 3 môn"
+        },
+        {
+          "Tên ngành": "Quan Hệ Công Chúng",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Quan Hệ Công Chúng",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 năm học"
+        },
+        {
+          "Tên ngành": "Quản Trị Kinh Doanh",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 năm học"
+        },
+        {
+          "Tên ngành": "Quản Trị Kinh Doanh",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm tổ hợp 3 môn"
+        },
+        {
+          "Tên ngành": "Quản Trị Kinh Doanh",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Digital Marketing",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm tổ hợp 3 môn"
+        },
+        {
+          "Tên ngành": "Digital Marketing",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Digital Marketing",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 năm học"
+        },
+        {
+          "Tên ngành": "Thương Mại Điện Tử",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Thương Mại Điện Tử",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 năm học"
+        },
+        {
+          "Tên ngành": "Thương Mại Điện Tử",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm tổ hợp 3 môn"
+        },
+        {
+          "Tên ngành": "Tài Chính - Ngân Hàng",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm tổ hợp 3 môn"
+        },
+        {
+          "Tên ngành": "Tài Chính - Ngân Hàng",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Tài Chính - Ngân Hàng",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 năm học"
+        },
+        {
+          "Tên ngành": "Kế Toán",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Kế Toán",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 năm học"
+        },
+        {
+          "Tên ngành": "Kế Toán",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm tổ hợp 3 môn"
+        },
+        {
+          "Tên ngành": "Quản Trị Sự Kiện",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Quản Trị Sự Kiện",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 năm học"
+        },
+        {
+          "Tên ngành": "Quản Trị Sự Kiện",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm tổ hợp 3 môn"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 năm học"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm tổ hợp 3 môn"
+        },
+        {
+          "Tên ngành": "Luật Kinh Tế",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 năm học"
+        },
+        {
+          "Tên ngành": "Digital Marketing (Chương Trình tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 năm học"
+        },
+        {
+          "Tên ngành": "Luật Kinh Tế",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm tổ hợp 3 môn"
+        },
+        {
+          "Tên ngành": "Digital Marketing (Chương Trình tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm tổ hợp 3 môn"
+        },
+        {
+          "Tên ngành": "Luật Kinh Tế",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Digital Marketing (Chương Trình tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Công Nghệ Thông Tin",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Công Nghệ Thông Tin",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 năm học"
+        },
+        {
+          "Tên ngành": "Công Nghệ Thông Tin",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm tổ hợp 3 môn"
+        },
+        {
+          "Tên ngành": "Logistics và Quản Lý Chuỗi Cung Ứng",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm tổ hợp 3 môn"
+        },
+        {
+          "Tên ngành": "Logistics và Quản Lý Chuỗi Cung Ứng",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Logistics và Quản Lý Chuỗi Cung Ứng",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 năm học"
+        },
+        {
+          "Tên ngành": "Kiến Trúc",
+          "Tổ hợp môn": "A00; D01; V00; V01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Kiến Trúc",
+          "Tổ hợp môn": "A00; D01; V00; V01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 năm học"
+        },
+        {
+          "Tên ngành": "Kiến Trúc",
+          "Tổ hợp môn": "A00; D01; V00; V01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm tổ hợp 3 môn"
+        },
+        {
+          "Tên ngành": "Y Khoa",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Điểm 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Y Khoa (Chương Trình tiếng Anh)",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Điểm tổ hợp 3 môn"
+        },
+        {
+          "Tên ngành": "Y Khoa",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Điểm 3 năm học"
+        },
+        {
+          "Tên ngành": "Y Khoa (Chương Trình tiếng Anh)",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Điểm 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Y Khoa",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Điểm tổ hợp 3 môn"
+        },
+        {
+          "Tên ngành": "Y Khoa (Chương Trình tiếng Anh)",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Điểm 3 năm học"
+        },
+        {
+          "Tên ngành": "Y Học Cổ Truyền",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Điểm 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Y Học Cổ Truyền",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Điểm 3 năm học"
+        },
+        {
+          "Tên ngành": "Y Học Cổ Truyền",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Điểm tổ hợp 3 môn"
+        },
+        {
+          "Tên ngành": "Dược Học (Chương Trình tiếng Anh)",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Điểm 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Dược Học",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Điểm tổ hợp 3 môn"
+        },
+        {
+          "Tên ngành": "Dược Học (Chương Trình tiếng Anh)",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Điểm 3 năm học"
+        },
+        {
+          "Tên ngành": "Dược Học (Chương Trình tiếng Anh)",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Điểm tổ hợp 3 môn"
+        },
+        {
+          "Tên ngành": "Dược Học",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Điểm 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Dược Học",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Điểm 3 năm học"
+        },
+        {
+          "Tên ngành": "Điều Dưỡng",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": "Điểm tổ hợp 3 môn"
+        },
+        {
+          "Tên ngành": "Điều Dưỡng (Chương Trình tiếng Anh)",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": "Điểm 3 năm học"
+        },
+        {
+          "Tên ngành": "Điều Dưỡng (Chương Trình tiếng Anh)",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": "Điểm tổ hợp 3 môn"
+        },
+        {
+          "Tên ngành": "Điều Dưỡng",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": "Điểm 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Điều Dưỡng",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": "Điểm 3 năm học"
+        },
+        {
+          "Tên ngành": "Điều Dưỡng (Chương Trình tiếng Anh)",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": "Điểm 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Hộ Sinh",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": "Điểm 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Hộ Sinh",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": "Điểm 3 năm học"
+        },
+        {
+          "Tên ngành": "Hộ Sinh",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": "Điểm tổ hợp 3 môn"
+        },
+        {
+          "Tên ngành": "Dinh Dưỡng",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 năm học"
+        },
+        {
+          "Tên ngành": "Dinh Dưỡng",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm tổ hợp 3 môn"
+        },
+        {
+          "Tên ngành": "Dinh Dưỡng",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Răng Hàm Mặt",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Điểm 3 năm học"
+        },
+        {
+          "Tên ngành": "Răng Hàm Mặt (Chương Trình tiếng Anh)",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Điểm 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Răng Hàm Mặt",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Điểm tổ hợp 3 môn"
+        },
+        {
+          "Tên ngành": "Răng Hàm Mặt (Chương Trình tiếng Anh)",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Điểm 3 năm học"
+        },
+        {
+          "Tên ngành": "Răng Hàm Mặt (Chương Trình tiếng Anh)",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Điểm tổ hợp 3 môn"
+        },
+        {
+          "Tên ngành": "Răng Hàm Mặt",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Điểm 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Kỹ Thuật Xét Nghiệm Y Học",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": "Điểm 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Kỹ Thuật Xét Nghiệm Y Học",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": "Điểm 3 năm học"
+        },
+        {
+          "Tên ngành": "Kỹ Thuật Xét Nghiệm Y Học",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": "Điểm tổ hợp 3 môn"
+        },
+        {
+          "Tên ngành": "Kỹ Thuật Phục Hồi Chức Năng",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": "Điểm tổ hợp 3 môn"
+        },
+        {
+          "Tên ngành": "Kỹ Thuật Phục Hồi Chức Năng",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": "Điểm 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Kỹ Thuật Phục Hồi Chức Năng",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": "Điểm 3 năm học"
+        },
+        {
+          "Tên ngành": "Y Tế Công Cộng",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Y Tế Công Cộng",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 năm học"
+        },
+        {
+          "Tên ngành": "Y Tế Công Cộng",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm tổ hợp 3 môn"
+        },
+        {
+          "Tên ngành": "Quản Trị Dịch Vụ Du Lịch và Lữ Hành",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 năm học"
+        },
+        {
+          "Tên ngành": "Quản Trị Dịch Vụ Du Lịch và Lữ Hành",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm tổ hợp 3 môn"
+        },
+        {
+          "Tên ngành": "Quản Trị Dịch Vụ Du Lịch và Lữ Hành",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Quản Trị Khách Sạn",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm tổ hợp 3 môn"
+        },
+        {
+          "Tên ngành": "Quản Trị Khách Sạn",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Quản Trị Khách Sạn",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm 3 năm học"
+        }
+      ],
+      "row_count": 117
+    }
+  ],
+  "table_count": 2,
+  "crawled_at": "2025-07-18T23:28:20.912579",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-quoc-te-hong-bang-HIU.html"
+}

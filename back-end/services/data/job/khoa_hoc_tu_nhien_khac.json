@@ -1,0 +1,158 @@
+{
+  "nhom_nganh": "Khoa học tự nhiên khác",
+  "danh_sach_nganh": [
+    {
+      "ten_nganh": "Địa lý học",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm TPHCM - SPS",
+          "data_school": [
+            {
+              "ten_nganh": "Địa lý học",
+              "to_hop_mon": "C00; C04; C20; D15; X74",
+              "diem_chuan_2024": "25.17",
+              "diem_chuan_2023": "19.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Tự Nhiên Hà Nội - QHT",
+          "data_school": [
+            {
+              "ten_nganh": "Địa lý tự nhiên",
+              "to_hop_mon": "A00; A01; A04; A06; A07; B00; B02; C04; D01; D10; D20; X01; X21; X25",
+              "diem_chuan_2024": "22.4",
+              "diem_chuan_2023": "20.3"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Xã Hội và Nhân Văn TPHCM - QSX",
+          "data_school": [
+            {
+              "ten_nganh": "Địa lý học",
+              "to_hop_mon": "A01; C00; D01; D15",
+              "diem_chuan_2024": "22",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sài Gòn - SGD",
+          "data_school": [
+            {
+              "ten_nganh": "Địa lý học",
+              "to_hop_mon": "C00; C04; C09; C11; C13; D15; X74; X75; X76; X77",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm - Đại Học Đà Nẵng - DDS",
+          "data_school": [
+            {
+              "ten_nganh": "Địa lý học (chuyên ngành Địa lý du lịch)",
+              "to_hop_mon": "C00; C20; X74; C04",
+              "diem_chuan_2024": "24.25",
+              "diem_chuan_2023": "19.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đồng Tháp - SPD",
+          "data_school": [
+            {
+              "ten_nganh": "Địa lý học",
+              "to_hop_mon": "A07; C00; C03; C04; C20; D15; X74",
+              "diem_chuan_2024": "25.2",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Vật lý học",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội - SPH",
+          "data_school": [
+            {
+              "ten_nganh": "Vật lí học (vật lí bán dẫn và kỹ thuật) (mới)",
+              "to_hop_mon": "A00; A01; X06",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm TPHCM - SPS",
+          "data_school": [
+            {
+              "ten_nganh": "Vật lý học",
+              "to_hop_mon": "A00; A01; X08; X07",
+              "diem_chuan_2024": "24.44",
+              "diem_chuan_2023": "22.55"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Tự Nhiên TPHCM - QST",
+          "data_school": [
+            {
+              "ten_nganh": "Vật lý học (CT tăng cường tiếng Anh)",
+              "to_hop_mon": "A00; A01; C01; A02; A03; A04; X05; X07; X08; X06",
+              "diem_chuan_2024": "23",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Tự Nhiên Hà Nội - QHT",
+          "data_school": [
+            {
+              "ten_nganh": "Vật lý học",
+              "to_hop_mon": "A00; A01; A02; B00; C01; C02; D07; X02; X06; X26",
+              "diem_chuan_2024": "25.3",
+              "diem_chuan_2023": "24.2"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Huế - DHT",
+          "data_school": [
+            {
+              "ten_nganh": "Vật lý học",
+              "to_hop_mon": "A00; A01; C01; X06",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Thái Nguyên - DTZ",
+          "data_school": [
+            {
+              "ten_nganh": "Vật lý (CTĐT Giáo viên)",
+              "to_hop_mon": "A00; A01; A02; A03; A04; A10; C01",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đà Lạt - TDL",
+          "data_school": [
+            {
+              "ten_nganh": "Vật lý học",
+              "to_hop_mon": "A00; A02; A01; X06; X07; X08",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

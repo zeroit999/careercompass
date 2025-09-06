@@ -1,0 +1,795 @@
+{
+  "school_code": "DNV",
+  "school_name": "Trường Đại học Nội vụ Hà Nội",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2022",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh, chuyên ngành Biên - phiên dịch thuộc ngành Ngôn ngữ Anh chuyên ngành Tiếng Anh du lịch thuộc ngành Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D14; D15",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chuyên ngành Văn hóa du lịch thuộc ngành Văn hóa học chuyên ngành Văn hóa truyền thông thuộc ngành văn hóa học",
+          "Tổ hợp môn": "D01; D14; D15",
+          "Điểm chuẩn": "20.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chuyên ngành Văn hóa du lịch thuộc ngành Văn hóa học chuyên ngành Văn hóa truyền thông thuộc ngành văn hóa học",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "22.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý văn hóa (Chuyên ngành Quản lý di sản văn hóa và phát triển du lịch thuộc ngành Quản lí văn hóa)",
+          "Tổ hợp môn": "D01; D14; D15",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý văn hóa (Chuyên ngành Quản lý di sản văn hóa và phát triển du lịch thuộc ngành Quản lí văn hóa)",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A00; A01; A07; D01",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chính trị học (Chuyên ngành Chính sách công)",
+          "Tổ hợp môn": "C14; C20",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chính trị học (Chuyên ngành Chính sách công)",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chính trị học (Chuyên ngành Chính sách công)",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền nhà nước",
+          "Tổ hợp môn": "C19; C20",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền nhà nước",
+          "Tổ hợp môn": "D14",
+          "Điểm chuẩn": "15.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền nhà nước",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "17.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "C20",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "C20",
+          "Điểm chuẩn": "19",
+          "Ghi chú": "Cơ sở Quảng Nam"
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "D01; D15; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Cơ sở Quảng Nam"
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "A00; D01; D15; C00",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Cơ sở TPHCM"
+        },
+        {
+          "Tên ngành": "Thông tin - thư viện, chuyên ngành Quản trị thông tin thuộc ngành thông tin - thư viện",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thông tin - thư viện, chuyên ngành Quản trị thông tin thuộc ngành thông tin - thư viện",
+          "Tổ hợp môn": "C20",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thông tin - thư viện, chuyên ngành Quản trị thông tin thuộc ngành thông tin - thư viện",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Lưu trữ học (Chuyên ngành Văn thư - Lưu trữ)",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Lưu trữ học (Chuyên ngành Văn thư - Lưu trữ)",
+          "Tổ hợp môn": "C19; C20",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Lưu trữ học (Chuyên ngành Văn thư - Lưu trữ)",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Lưu trữ học - Chuyên ngành Văn thư - lưu trữ thuộc ngành Lưu trữ học",
+          "Tổ hợp môn": "C19",
+          "Điểm chuẩn": "16",
+          "Ghi chú": "Cơ sở TPHCM"
+        },
+        {
+          "Tên ngành": "Lưu trữ học - Chuyên ngành Văn thư - lưu trữ thuộc ngành Lưu trữ học",
+          "Tổ hợp môn": "D14; C00; C03",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "Cơ sở TPHCM"
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "A00; D01; C00",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "Cơ sở Quảng Nam"
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "C20",
+          "Điểm chuẩn": "16",
+          "Ghi chú": "Cơ sở Quảng Nam"
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "25.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "C20",
+          "Điểm chuẩn": "26.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "A00; D01; C00",
+          "Điểm chuẩn": "17",
+          "Ghi chú": "Cơ sở Quảng Nam"
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "C20",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Cơ sở Quảng Nam"
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "A01; D01; D15; C00",
+          "Điểm chuẩn": "22.25",
+          "Ghi chú": "Cơ sở TPHCM"
+        },
+        {
+          "Tên ngành": "Luật (Chuyên ngành Thanh tra)",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "24.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật (Chuyên ngành Thanh tra)",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "26.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật (Chuyên ngành Thanh tra)",
+          "Tổ hợp môn": "C20",
+          "Điểm chuẩn": "16",
+          "Ghi chú": "Cơ sở Quảng Nam"
+        },
+        {
+          "Tên ngành": "Luật (Chuyên ngành Thanh tra)",
+          "Tổ hợp môn": "A00; D01; C00",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "Cơ sở Quảng Nam"
+        },
+        {
+          "Tên ngành": "Luật (Chuyên ngành Thanh tra)",
+          "Tổ hợp môn": "A00; A00; D01; C00",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": "Cơ sở TPHCM"
+        },
+        {
+          "Tên ngành": "Hệ thông thông tin (Chuyên ngành Hệ thống thông tin thương mại điện tử)",
+          "Tổ hợp môn": "A00; A01; D01; D10",
+          "Điểm chuẩn": "19.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "D01; D14; D15",
+          "Điểm chuẩn": "23.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 44
+    },
+    {
+      "table_title": "Điểm học bạ năm 2022",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh, chuyên ngành Biên - phiên dịch thuộc ngành Ngôn ngữ Anh chuyên ngành Tiếng Anh du lịch thuộc ngành Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D14; D15",
+          "Điểm chuẩn": "26.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chuyên ngành Văn hóa du lịch thuộc ngành Văn hóa học chuyên ngành Văn hóa truyền thông thuộc ngành văn hóa học",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chuyên ngành Văn hóa du lịch thuộc ngành Văn hóa học chuyên ngành Văn hóa truyền thông thuộc ngành văn hóa học",
+          "Tổ hợp môn": "D01; D14; D15",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý văn hóa (Chuyên ngành Quản lý di sản văn hóa và phát triển du lịch thuộc ngành Quản lí văn hóa)",
+          "Tổ hợp môn": "D01; D14; D15",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý văn hóa (Chuyên ngành Quản lý di sản văn hóa và phát triển du lịch thuộc ngành Quản lí văn hóa)",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A00; A01; A07; D01",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chính trị học (Chuyên ngành Chính sách công)",
+          "Tổ hợp môn": "C14; C20",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chính trị học (Chuyên ngành Chính sách công)",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chính trị học (Chuyên ngành Chính sách công)",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền nhà nước",
+          "Tổ hợp môn": "C20",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền nhà nước",
+          "Tổ hợp môn": "D01; D14",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền nhà nước",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "A01; D01; D15",
+          "Điểm chuẩn": "25.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "C20",
+          "Điểm chuẩn": "19",
+          "Ghi chú": "Cơ sở Quảng Nam"
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "D01; D15; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Cơ sở Quảng Nam"
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "A00; D01; D15; C00",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Cơ sở TPHCM"
+        },
+        {
+          "Tên ngành": "Thông tin - thư viện, chuyên ngành Quản trị thông tin thuộc ngành thông tin - thư viện",
+          "Tổ hợp môn": "C20",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thông tin - thư viện, chuyên ngành Quản trị thông tin thuộc ngành thông tin - thư viện",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thông tin - thư viện, chuyên ngành Quản trị thông tin thuộc ngành thông tin - thư viện",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Lưu trữ học (Chuyên ngành Văn thư - Lưu trữ)",
+          "Tổ hợp môn": "C19; C20",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Lưu trữ học (Chuyên ngành Văn thư - Lưu trữ)",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Lưu trữ học (Chuyên ngành Văn thư - Lưu trữ)",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Lưu trữ học - Chuyên ngành Văn thư - lưu trữ thuộc ngành Lưu trữ học",
+          "Tổ hợp môn": "C19",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Cơ sở TPHCM"
+        },
+        {
+          "Tên ngành": "Lưu trữ học - Chuyên ngành Văn thư - lưu trữ thuộc ngành Lưu trữ học",
+          "Tổ hợp môn": "D14; C00; C03",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Cơ sở TPHCM"
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "0",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "A00; D01; C00",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Cơ sở Quảng Nam"
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "C20",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Cơ sở Quảng Nam"
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "C20",
+          "Điểm chuẩn": "29.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "26.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "A00; D01; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Cơ sở Quảng Nam"
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "C20",
+          "Điểm chuẩn": "19",
+          "Ghi chú": "Cơ sở Quảng Nam"
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "A01; D01; D15; C00",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Cơ sở TPHCM"
+        },
+        {
+          "Tên ngành": "Luật (Chuyên ngành Thanh tra)",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "0",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật (Chuyên ngành Thanh tra)",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật (Chuyên ngành Thanh tra)",
+          "Tổ hợp môn": "C20",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Cơ sở Quảng Nam"
+        },
+        {
+          "Tên ngành": "Luật (Chuyên ngành Thanh tra)",
+          "Tổ hợp môn": "A00; D01; C00",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Cơ sở Quảng Nam"
+        },
+        {
+          "Tên ngành": "Luật (Chuyên ngành Thanh tra)",
+          "Tổ hợp môn": "A00; A00; D01; C00",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Cơ sở TPHCM"
+        },
+        {
+          "Tên ngành": "Hệ thông thông tin (Chuyên ngành Hệ thống thông tin thương mại điện tử)",
+          "Tổ hợp môn": "A00; A01; D01; D10",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "D01; D14; D15",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 43
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2022",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh, chuyên ngành Biên - phiên dịch thuộc ngành Ngôn ngữ Anh chuyên ngành Tiếng Anh du lịch thuộc ngành Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chuyên ngành Văn hóa du lịch thuộc ngành Văn hóa học chuyên ngành Văn hóa truyền thông thuộc ngành văn hóa học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý văn hóa (Chuyên ngành Quản lý di sản văn hóa và phát triển du lịch thuộc ngành Quản lí văn hóa)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chính trị học (Chuyên ngành Chính sách công)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền nhà nước",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": "Cơ sở TPHCM"
+        },
+        {
+          "Tên ngành": "Thông tin - thư viện, chuyên ngành Quản trị thông tin thuộc ngành thông tin - thư viện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Lưu trữ học (Chuyên ngành Văn thư - Lưu trữ)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Lưu trữ học - Chuyên ngành Văn thư - lưu trữ thuộc ngành Lưu trữ học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75",
+          "Ghi chú": "Cơ sở TPHCM"
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "85",
+          "Ghi chú": "Cơ sở TPHCM"
+        },
+        {
+          "Tên ngành": "Luật (Chuyên ngành Thanh tra)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật (Chuyên ngành Thanh tra)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "85",
+          "Ghi chú": "Cơ sở TPHCM"
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin (Chuyên ngành Hệ thống thông tin thương mại điện tử)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "85",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 18
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2022",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh, chuyên ngành Biên - phiên dịch thuộc ngành Ngôn ngữ Anh chuyên ngành Tiếng Anh du lịch thuộc ngành Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chuyên ngành Văn hóa du lịch thuộc ngành Văn hóa học chuyên ngành Văn hóa truyền thông thuộc ngành văn hóa học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý văn hóa (Chuyên ngành Quản lý di sản văn hóa và phát triển du lịch thuộc ngành Quản lí văn hóa)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "680",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chính trị học (Chuyên ngành Chính sách công)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền nhà nước",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "640",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "640",
+          "Ghi chú": "Cơ sở TPHCM"
+        },
+        {
+          "Tên ngành": "Thông tin - thư viện, chuyên ngành Quản trị thông tin thuộc ngành thông tin - thư viện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Lưu trữ học (Chuyên ngành Văn thư - Lưu trữ)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Lưu trữ học - Chuyên ngành Văn thư - lưu trữ thuộc ngành Lưu trữ học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": "Cơ sở TPHCM"
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "680",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "680",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "680",
+          "Ghi chú": "Cơ sở TPHCM"
+        },
+        {
+          "Tên ngành": "Luật (Chuyên ngành Thanh tra)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "680",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật (Chuyên ngành Thanh tra)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "680",
+          "Ghi chú": "Cơ sở TPHCM"
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin (Chuyên ngành Hệ thống thông tin thương mại điện tử)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "680",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 18
+    }
+  ],
+  "table_count": 4,
+  "crawled_at": "2025-07-18T23:32:58.860099",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-noi-vu-ha-noi-DNV.html"
+}

@@ -1,0 +1,485 @@
+{
+  "nhom_nganh": "Mỹ thuật - Âm nhạc - Nghệ thuật",
+  "danh_sach_nganh": [
+    {
+      "ten_nganh": "Sáng tác âm nhạc",
+      "data": [
+        {
+          "ten_truong": "Học Viện Âm Nhạc Quốc Gia Việt Nam - NVH",
+          "data_school": [
+            {
+              "ten_nganh": "Sáng tác âm nhạc",
+              "to_hop_mon": "(Văn, Kiến thức âm nhạc tổng hợp, Piano phổ thông, Môn chuyên ngành)",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Chỉ huy âm nhạc",
+      "data": [
+        {
+          "ten_truong": "Học Viện Âm Nhạc Quốc Gia Việt Nam - NVH",
+          "data_school": [
+            {
+              "ten_nganh": "Chỉ huy âm nhạc",
+              "to_hop_mon": "(Văn, Kiến thức âm nhạc tổng hợp, Piano phổ thông, Môn chuyên ngành)",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Biểu diễn nhạc cụ phương Tây",
+      "data": [
+        {
+          "ten_truong": "Học Viện Âm Nhạc Quốc Gia Việt Nam - NVH",
+          "data_school": [
+            {
+              "ten_nganh": "Biểu diễn nhạc cụ phương Tây",
+              "to_hop_mon": "(Văn, Môn chuyên ngành)",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Nhạc Jazz",
+      "data": [
+        {
+          "ten_truong": "Học Viện Âm Nhạc Quốc Gia Việt Nam - NVH",
+          "data_school": [
+            {
+              "ten_nganh": "Nhạc Jazz",
+              "to_hop_mon": "(Văn, Môn chuyên ngành)",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Nghệ thuật thị giác",
+      "data": [
+        {
+          "ten_truong": "Trường Khoa học liên ngành và Nghệ thuật Hà Nội - QHK",
+          "data_school": [
+            {
+              "ten_nganh": "Nghệ thuật thị giác (Chuyên ngành Nhiếp ảnh nghệ thuật)",
+              "to_hop_mon": "H01; H06; H08; H09; H10; H11",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Thiết kế sáng tạo",
+      "data": [
+        {
+          "ten_truong": "Trường Khoa học liên ngành và Nghệ thuật Hà Nội - QHK",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế sáng tạo (Chuyên ngành Thời trang và sáng tạo)",
+              "to_hop_mon": "H01; H04; H06; H08; H09; H10; H11",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": "23.5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Công nghệ điện ảnh, truyền hình",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Xã Hội và Nhân Văn Hà Nội - QHX",
+          "data_school": [
+            {
+              "ten_nganh": "Xã hội học",
+              "to_hop_mon": "D01; D14; D15; D66; C00",
+              "diem_chuan_2024": "25.77",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Lang - DVL",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ điện ảnh, truyền hình",
+              "to_hop_mon": "A00; A01; C00; C01; D01; X78",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công Nghệ TPHCM - DKC",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ điện ảnh, truyền hình",
+              "to_hop_mon": "D01; C01; C03; C04; V01; (Toán, Văn, Tin)",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Hiến - DVH",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ điện ảnh, truyền hình",
+              "to_hop_mon": "A00; D01; V00; H01; C16; X01; X70; X74",
+              "diem_chuan_2024": "18.65",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Diễn viên Kịch - Điện ảnh",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Nguyễn Tất Thành - NTT",
+          "data_school": [
+            {
+              "ten_nganh": "Diễn viên kịch, điện ảnh - truyền hình",
+              "to_hop_mon": "N05",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Đạo diễn Điện ảnh, Truyền hình",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Văn Hiến - DVH",
+          "data_school": [
+            {
+              "ten_nganh": "Đạo diễn điện ảnh, truyền hình",
+              "to_hop_mon": "A00; D01; M20; M21; C16; X01; X70; X74",
+              "diem_chuan_2024": "18",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Piano",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Nguyễn Tất Thành - NTT",
+          "data_school": [
+            {
+              "ten_nganh": "Piano",
+              "to_hop_mon": "N00",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Hiến - DVH",
+          "data_school": [
+            {
+              "ten_nganh": "Piano",
+              "to_hop_mon": "N00",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "17.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Âm Nhạc Quốc Gia Việt Nam - NVH",
+          "data_school": [
+            {
+              "ten_nganh": "Piano",
+              "to_hop_mon": "(Văn, Môn chuyên ngành)",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Thanh nhạc",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Nguyễn Tất Thành - NTT",
+          "data_school": [
+            {
+              "ten_nganh": "Thanh nhạc",
+              "to_hop_mon": "N01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công Nghệ TPHCM - DKC",
+          "data_school": [
+            {
+              "ten_nganh": "Thanh nhạc",
+              "to_hop_mon": "D01; C04; C03; (Toán, Văn, Tin); X01; M00",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Hiến - DVH",
+          "data_school": [
+            {
+              "ten_nganh": "Thanh nhạc",
+              "to_hop_mon": "N00",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "18.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Hóa, Thể Thao Và Du Lịch Thanh Hóa - DVD",
+          "data_school": [
+            {
+              "ten_nganh": "Thanh nhạc",
+              "to_hop_mon": "N00",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Âm Nhạc Quốc Gia Việt Nam - NVH",
+          "data_school": [
+            {
+              "ten_nganh": "Thanh nhạc",
+              "to_hop_mon": "(Văn, Môn chuyên ngành)",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Điêu khắc",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Mỹ Thuật TPHCM - MTS",
+          "data_school": [
+            {
+              "ten_nganh": "Điêu khắc",
+              "to_hop_mon": "",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Hội họa",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Mỹ Thuật TPHCM - MTS",
+          "data_school": [
+            {
+              "ten_nganh": "Hội hoạ",
+              "to_hop_mon": "",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Nhiếp ảnh nghệ thuật",
+      "data": [
+        {
+          "ten_truong": "Trường Khoa học liên ngành và Nghệ thuật Hà Nội - QHK",
+          "data_school": [
+            {
+              "ten_nganh": "Nghệ thuật thị giác (Chuyên ngành Nhiếp ảnh nghệ thuật)",
+              "to_hop_mon": "H01; H06; H08; H09; H10; H11",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Âm nhạc",
+      "data": [
+        {
+          "ten_truong": "Trường Đại học Thủ Dầu Một - TDM",
+          "data_school": [
+            {
+              "ten_nganh": "Âm nhạc",
+              "to_hop_mon": "N01; N02; N03; N04; N05; N06; N07",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Trà Vinh - DVT",
+          "data_school": [
+            {
+              "ten_nganh": "Âm nhạc học",
+              "to_hop_mon": "N00",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Âm Nhạc Quốc Gia Việt Nam - NVH",
+          "data_school": [
+            {
+              "ten_nganh": "Âm nhạc học",
+              "to_hop_mon": "(Văn, Kiến thức âm nhạc tổng hợp, Piano phổ thông, Môn chuyên ngành)",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Digital Art",
+      "data": [
+        {
+          "ten_truong": "Trường Đại học Công Nghệ TPHCM - DKC",
+          "data_school": [
+            {
+              "ten_nganh": "Digital Art (Nghệ thuật số)",
+              "to_hop_mon": "D01; C01; C03; C04; V01; (Toán, Văn, Tin)",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hoa Sen - HSU",
+          "data_school": [
+            {
+              "ten_nganh": "Nghệ thuật số",
+              "to_hop_mon": "A01; D01; C10",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ Đồng Nai - DCD",
+          "data_school": [
+            {
+              "ten_nganh": "Nghệ thuật số",
+              "to_hop_mon": "C00; C01; C02; D01; D11; D14; D15; D66",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Biểu diễn nhạc cụ truyền thống",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Trà Vinh - DVT",
+          "data_school": [
+            {
+              "ten_nganh": "Biểu diễn nhạc cụ truyền thống",
+              "to_hop_mon": "N00",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Âm Nhạc Quốc Gia Việt Nam - NVH",
+          "data_school": [
+            {
+              "ten_nganh": "Biểu diễn nhạc cụ truyền thống",
+              "to_hop_mon": "(Văn, Môn chuyên ngành)",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Công nghệ nghệ thuật (Arttech)",
+      "data": [
+        {
+          "ten_truong": "Đại Học Kinh Tế TPHCM - KSA",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ nghệ thuật (Arttech)(*)",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "26.23",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Xây Dựng Hà Nội - XDA",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ thông tin/ An toàn thông tin (mới)",
+              "to_hop_mon": "A00; A01; C01; D01; D07; X06 (Toán, Lí, Tin); X26 (Toán, Anh, Tin)",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Hùng Vương TPHCM - DHV",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ Truyền thông đa phương tiện",
+              "to_hop_mon": "A00; A01; D01; C03; C00",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Nghệ thuật học",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Xã Hội và Nhân Văn TPHCM - QSX",
+          "data_school": [
+            {
+              "ten_nganh": "Nghệ thuật học",
+              "to_hop_mon": "C00; D01; D14",
+              "diem_chuan_2024": "28.15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

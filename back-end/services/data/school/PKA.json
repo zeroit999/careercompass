@@ -1,0 +1,1377 @@
+{
+  "school_code": "PKA",
+  "school_name": "Đại Học Phenikaa",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "A00; B00; B08; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật hóa học",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Răng - Hàm - Mặt",
+          "Tổ hợp môn": "A00; B00; B08; D07",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật robot và Trí tuệ nhân tạo (Một số học phần Chuyên ngành học bằng tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; C01; D07",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và Tự động hóa",
+          "Tổ hợp môn": "A00; A01; C01; D07",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật y sinh (Điện tử y sinh)",
+          "Tổ hợp môn": "A00; A01; B00; C01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử - viễn thông (Hệ thống nhúng thông minh và Iot)",
+          "Tổ hợp môn": "A00; A01; C01; D07",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử - viễn thông (thiết kế vi mạch bán dẫn)",
+          "Tổ hợp môn": "A00; A01; C01; D07",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đông phương học",
+          "Tổ hợp môn": "A01; C00; D01; D09",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "C00; C04; D01; D14",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế (các học phần chuyên ngành học bằng tiếng anh)",
+          "Tổ hợp môn": "A01; D01; D07; D10",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng (một số học phần chuyên ngành học bằng tiếng anh)",
+          "Tổ hợp môn": "A01; D01; D07; D10",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A01; D01; D07; D10",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính",
+          "Tổ hợp môn": "A01; D01; D07; D10",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế số",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh số",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics số",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ marketing",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "A01; D01; D04; D09",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D09; D15",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Pháp",
+          "Tổ hợp môn": "A01; D01; D44; D64",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật",
+          "Tổ hợp môn": "A01; D01; D06; D28",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "A01; D01; D09; DD2",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y học cổ truyền",
+          "Tổ hợp môn": "A00; B00; B08; D07",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch (định hướng quản trị du lịch)",
+          "Tổ hợp môn": "A01; C00; D01; D15",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "A00; A01; D01; D10",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh du lịch số",
+          "Tổ hợp môn": "A00; A01; D01; D10",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hướng dẫn du lịch quốc tế",
+          "Tổ hợp môn": "A01; C00; D01; D15",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý bệnh viện",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài năng khoa học máy tính",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin Việt Nhật",
+          "Tổ hợp môn": "A00; A01; D07; D28",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm (một số học phần chuyên ngành học bằng tiếng anh)",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "An toàn thông tin",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "A00; B00; B08; D07",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "A00; A01; A02; C01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí",
+          "Tổ hợp môn": "A00; A01; A02; C01",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Vật liệu thông minh và trí tuệ nhân tạo",
+          "Tổ hợp môn": "A00; A01; C01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chip bán dẫn và công nghệ đóng gói",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Vật liệu tiên tiến và công nghệ nano",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xét nghiệm y học",
+          "Tổ hợp môn": "A02; B00; B08; D07",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "A00; A01; B00; B08",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "A00; B00; B08; D07",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phục hồi chức năng",
+          "Tổ hợp môn": "A02; B00; B08; D07",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật hình ảnh y học",
+          "Tổ hợp môn": "A02; B00; B08; D07",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01; A10; D01",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Cơ điện tử ô tô",
+          "Tổ hợp môn": "A00; A01; A10; D01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm ô tô",
+          "Tổ hợp môn": "A00; A01; A10; D01",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 55
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "A00; B00; B08; D07",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật hóa học",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Răng - Hàm - Mặt",
+          "Tổ hợp môn": "A00; B00; B08; D07",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật robot và Trí tuệ nhân tạo (Một số học phần Chuyên ngành học bằng tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; C01; D07",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và Tự động hóa",
+          "Tổ hợp môn": "A00; A01; C01; D07",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật y sinh (Điện tử y sinh)",
+          "Tổ hợp môn": "A00; A01; B00; C01",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử - viễn thông (Hệ thống nhúng thông minh và Iot)",
+          "Tổ hợp môn": "A00; A01; C01; D07",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử - viễn thông (thiết kế vi mạch bán dẫn)",
+          "Tổ hợp môn": "A00; A01; C01; D07",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đông phương học",
+          "Tổ hợp môn": "A01; C00; D01; D09",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "C00; C04; D01; D14",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế (các học phần chuyên ngành học bằng tiếng anh)",
+          "Tổ hợp môn": "A01; D01; D07; D10",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng (một số học phần chuyên ngành học bằng tiếng anh)",
+          "Tổ hợp môn": "A01; D01; D07; D10",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A01; D01; D07; D10",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính",
+          "Tổ hợp môn": "A01; D01; D07; D10",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế số",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh số",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics số",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ marketing",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "A01; D01; D04; D09",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D09; D15",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Pháp",
+          "Tổ hợp môn": "A01; D01; D44; D64",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật",
+          "Tổ hợp môn": "A01; D01; D06; D28",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "A01; D01; D09; DD2",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y học cổ truyền",
+          "Tổ hợp môn": "A00; B00; B08; D07",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch (định hướng quản trị du lịch)",
+          "Tổ hợp môn": "A01; C00; D01; D15",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "A00; A01; D01; D10",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh du lịch số",
+          "Tổ hợp môn": "A00; A01; D01; D10",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hướng dẫn du lịch quốc tế",
+          "Tổ hợp môn": "A01; C00; D01; D15",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý bệnh viện",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài năng khoa học máy tính",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin Việt Nhật",
+          "Tổ hợp môn": "A00; A01; D07; D28",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm (một số học phần chuyên ngành học bằng tiếng anh)",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "An toàn thông tin",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "A00; B00; B08; D07",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "A00; A01; A02; C01",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí",
+          "Tổ hợp môn": "A00; A01; A02; C01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Vật liệu thông minh và trí tuệ nhân tạo",
+          "Tổ hợp môn": "A00; A01; C01; D07",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chip bán dẫn và công nghệ đóng gói",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Vật liệu tiên tiến và công nghệ nano",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xét nghiệm y học",
+          "Tổ hợp môn": "A02; B00; B08; D07",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "A00; A01; B00; B08",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "A00; B00; B08; D07",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phục hồi chức năng",
+          "Tổ hợp môn": "A02; B00; B08; D07",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật hình ảnh y học",
+          "Tổ hợp môn": "A02; B00; B08; D07",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01; A10; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Cơ điện tử ô tô",
+          "Tổ hợp môn": "A00; A01; A10; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm ô tô",
+          "Tổ hợp môn": "A00; A01; A10; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 55
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật hóa học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Răng - Hàm - Mặt",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật robot và Trí tuệ nhân tạo (Một số học phần Chuyên ngành học bằng tiếng Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và Tự động hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật y sinh (Điện tử y sinh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử - viễn thông (Hệ thống nhúng thông minh và Iot)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử - viễn thông (thiết kế vi mạch bán dẫn)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đông phương học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế (các học phần chuyên ngành học bằng tiếng anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng (một số học phần chuyên ngành học bằng tiếng anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế số",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh số",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics số",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Pháp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y học cổ truyền",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch (định hướng quản trị du lịch)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh du lịch số",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hướng dẫn du lịch quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý bệnh viện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài năng khoa học máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin Việt Nhật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm (một số học phần chuyên ngành học bằng tiếng anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "An toàn thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Vật liệu thông minh và trí tuệ nhân tạo",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chip bán dẫn và công nghệ đóng gói",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Vật liệu tiên tiến và công nghệ nano",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xét nghiệm y học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phục hồi chức năng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật hình ảnh y học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật ô tô",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Cơ điện tử ô tô",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm ô tô",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 55
+    },
+    {
+      "table_title": "Điểm Đánh giá Tư duy năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật hóa học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Răng - Hàm - Mặt",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật robot và Trí tuệ nhân tạo (Một số học phần Chuyên ngành học bằng tiếng Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và Tự động hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật y sinh (Điện tử y sinh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử - viễn thông (Hệ thống nhúng thông minh và Iot)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử - viễn thông (thiết kế vi mạch bán dẫn)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đông phương học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế (các học phần chuyên ngành học bằng tiếng anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng (một số học phần chuyên ngành học bằng tiếng anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế số",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh số",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics số",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Pháp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y học cổ truyền",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch (định hướng quản trị du lịch)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh du lịch số",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hướng dẫn du lịch quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý bệnh viện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài năng khoa học máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin Việt Nhật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm (một số học phần chuyên ngành học bằng tiếng anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "An toàn thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Vật liệu thông minh và trí tuệ nhân tạo",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chip bán dẫn và công nghệ đóng gói",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Vật liệu tiên tiến và công nghệ nano",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xét nghiệm y học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phục hồi chức năng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật hình ảnh y học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật ô tô",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Cơ điện tử ô tô",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm ô tô",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 55
+    }
+  ],
+  "table_count": 4,
+  "crawled_at": "2025-07-18T23:23:19.319498",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-phenikaa-PKA.html"
+}

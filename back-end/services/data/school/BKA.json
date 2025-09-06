@@ -1,0 +1,1197 @@
+{
+  "school_code": "BKA",
+  "school_name": "Đại Học Bách Khoa Hà Nội",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kỹ thuật Thực phẩm (CT tiên tiến)",
+          "Tổ hợp môn": "A00; B00; D07",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật sinh học (CT tiên tiến)",
+          "Tổ hợp môn": "A00; B00; D07",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Sinh học",
+          "Tổ hợp môn": "A00; B00; D07",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Thực phẩm",
+          "Tổ hợp môn": "A00; B00; D07",
+          "Điểm chuẩn": "24.54",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Hóa dược (CT tiên tiến)",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "24.34",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Hóa học",
+          "Tổ hợp môn": "A00; B00; D07",
+          "Điểm chuẩn": "24.38",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hóa học",
+          "Tổ hợp môn": "A00; B00; D07",
+          "Điểm chuẩn": "23.81",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Giáo dục",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "25.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý giáo dục",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "24.78",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống điện và năng lượng tái tạo (CT tiên tiến)",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "25.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điều khiển - Tự động hoá (CT tiên tiến)",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "27.54",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tin học công nghiệp và Tự động hóa (Chương trình Việt - Pháp PFIEV)",
+          "Tổ hợp môn": "A00; A01; D29",
+          "Điểm chuẩn": "26.22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "26.81",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển - Tự động hóa",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "28.16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Phân tích kinh doanh (CT tiên tiến)",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng (CT tiên tiến)",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "26.06",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý năng lượng",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "25.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý Công nghiệp",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "25.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị Kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "25.77",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "25.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "25.91",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông số và Kỹ thuật đa phương tiện (CT tiên tiến)",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "26.61",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điện tử - Viễn thông (CT tiên tiến)",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "27.03",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Y sinh (CT tiên tiến)",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "25.08",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống nhúng thông minh và IoT (CT tiên tiến)",
+          "Tổ hợp môn": "A00; A01; D28",
+          "Điểm chuẩn": "27.21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điện tử - Viễn thông - ĐH Leibniz Hannover (CHLB Đức)",
+          "Tổ hợp môn": "A00; A01; D26",
+          "Điểm chuẩn": "25.65",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điện tử - Viễn thông",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "27.41",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Y sinh",
+          "Tổ hợp môn": "A00; A01; B00",
+          "Điểm chuẩn": "25.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Môi trường",
+          "Tổ hợp môn": "A00; B00; D07",
+          "Điểm chuẩn": "22.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý Tài nguyên và Môi trường",
+          "Tổ hợp môn": "A00; B00; D07",
+          "Điểm chuẩn": "21.78",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tiếng Anh KHKT và Công nghệ",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tiếng Anh chuyên nghiệp quốc tế",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "23.81",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Nhiệt",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "25.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu và Trí tuệ nhân tạo (CT tiên tiến)",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "28.22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "An toàn không gian số - Cyber security (CT tiên tiến)",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "27.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Thông tin (Việt – Nhật)",
+          "Tổ hợp môn": "A00; A01; D28",
+          "Điểm chuẩn": "27.35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Thông tin (Global ICT)",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "28.01",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Thông tin (Việt-Pháp)",
+          "Tổ hợp môn": "A00; A01; D29",
+          "Điểm chuẩn": "27.35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "CNTT: Khoa học Máy tính",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "28.53",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "CNTT: Kỹ thuật Máy tính",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "28.48",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Cơ điện tử (CT tiên tiến)",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "26.38",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Cơ khí Chế tạo máy – hợp tác với trường ĐH Griffith (Úc)",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "24.89",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Cơ điện tử - hợp tác với ĐH Leibniz Hannover (CHLB Đức)",
+          "Tổ hợp môn": "A00; A01; D26",
+          "Điểm chuẩn": "25.24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Cơ điện tử - hợp tác với ĐHCN Nagaoka (Nhật Bản)",
+          "Tổ hợp môn": "A00; A01; D28",
+          "Điểm chuẩn": "25.11",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Cơ điện tử",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "27.49",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Cơ khí",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "25.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Toán - Tin",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "27.35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống Thông tin quản lý",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "27.34",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học và Kỹ thuật Vật liệu (CT tiên tiến)",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Vật liệu",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "24.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Vi điện tử và Công nghệ nano",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "27.64",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ vật liệu Polyme và Compozit",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật in",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Vật lý Kỹ thuật",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "25.87",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Hạt nhân",
+          "Tổ hợp môn": "A00; A01; A02",
+          "Điểm chuẩn": "24.64",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Vật lý Y khoa",
+          "Tổ hợp môn": "A00; A01; A02",
+          "Điểm chuẩn": "25.31",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Ô tô (CT tiên tiến)",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "25.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Cơ khí hàng không (Chương trình Việt - Pháp PFIEV)",
+          "Tổ hợp môn": "A00; A01; D29",
+          "Điểm chuẩn": "24.86",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Ô tô",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "26.99",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Cơ khí động lực",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "26.12",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Hàng không",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "26.22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị Kinh doanh - Hợp tác với ĐH Troy (Hoa Kỳ)",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học Máy tính - hợp tác với ĐH Troy (Hoa Kỳ)",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Dệt May",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 64
+    },
+    {
+      "table_title": "Điểm Đánh giá Tư duy năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kỹ thuật Thực phẩm (CT tiên tiến)",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "52.55",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật sinh học (CT tiên tiến)",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "50.29",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Sinh học",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "50.29",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Thực phẩm",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "50.29",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Hóa dược (CT tiên tiến)",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "54.02",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Hóa học",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "51.85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hóa học",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "50.29",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Giáo dục",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "52.07",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý giáo dục",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "50.29",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống điện và năng lượng tái tạo (CT tiên tiến)",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "58.18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điều khiển - Tự động hoá (CT tiên tiến)",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "69.13",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tin học công nghiệp và Tự động hóa (Chương trình Việt - Pháp PFIEV)",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "62.48",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "65.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển & Tự động hóa",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "73.77",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Phân tích kinh doanh (CT tiên tiến)",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "53.81",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng (CT tiên tiến)",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "55.92",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý năng lượng",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "52.68",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý Công nghiệp",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "52.68",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị Kinh doanh",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "55.65",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "54.62",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính-Ngân hàng",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "56.17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông số và Kỹ thuật đa phương tiện (CT tiên tiến)",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "64.98",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điện tử - Viễn thông (CT tiên tiến)",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "65",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Y sinh (CT tiên tiến)",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "53.67",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống nhúng thông minh và IoT (CT tiên tiến)",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "69.07",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điện tử - Viễn thông - ĐH Leibniz Hannover (CHLB Đức)",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "56.68",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điện tử - Viễn thông",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "68.88",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Y sinh",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "59.98",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Môi trường",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "50.72",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý Tài nguyên và Môi trường",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "50.33",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tiếng Anh KHKT và Công nghệ",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "52.01",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tiếng Anh chuyên nghiệp quốc tế",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "50.29",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Nhiệt",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "56.67",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu và Trí tuệ nhân tạo (CT tiên tiến)",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "81.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "An toàn không gian số - Cyber security (CT tiên tiến)",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "74.88",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Thông tin (Việt – Nhật)",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "71.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Thông tin (Global ICT)",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "74.88",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Thông tin (Việt-Pháp)",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "70.66",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "CNTT: Khoa học Máy tính",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "83.82",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "CNTT: Kỹ thuật Máy tính",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "82.08",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Cơ điện tử (CT tiên tiến)",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "61.36",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Cơ khí Chế tạo máy – hợp tác với trường ĐH Griffith (Úc)",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "56.19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Cơ điện tử - hợp tác với ĐH Leibniz Hannover (CHLB Đức)",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "56.53",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Cơ điện tử - hợp tác với ĐHCN Nagaoka (Nhật Bản)",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "56.19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Cơ điện tử",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "68.02",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Cơ khí",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "61.36",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Toán - Tin",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "70.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống Thông tin quản lý",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "68.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học và Kỹ thuật Vật liệu (CT tiên tiến)",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "52.53",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Vật liệu",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "56.55",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Vi điện tử và Công nghệ nano",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "71.68",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ vật liệu Polyme và Compozit",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "56.55",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật in",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "53.42",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Vật lý Kỹ thuật",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "56.66",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Hạt nhân",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "53.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Vật lý Y khoa",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "55.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Ô tô (CT tiên tiến)",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "60.68",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Cơ khí hàng không (Chương trình Việt - Pháp PFIEV)",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "54.68",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Ô tô",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "64.36",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Cơ khí động lực",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "59.89",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Hàng không",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "62.36",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị Kinh doanh - Hợp tác với ĐH Troy (Hoa Kỳ)",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "50.29",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học Máy tính - hợp tác với ĐH Troy (Hoa Kỳ)",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "50.29",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Dệt May",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "50.68",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 64
+    },
+    {
+      "table_title": "Điểm xét tuyển kết hợp năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kỹ thuật Thực phẩm (CT tiên tiến)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "81.27",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Kỹ thuật sinh học (CT tiên tiến)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "81.27",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Sinh học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "79.19",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Thực phẩm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "78.79",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Hóa dược (CT tiên tiến)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "91.23",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Hóa học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "76.74",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Hóa học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "76.5",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Công nghệ Giáo dục",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "71.05",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Quản lý giáo dục",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "71.05",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Hệ thống điện và năng lượng tái tạo (CT tiên tiến)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "85.14",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điều khiển - Tự động hoá (CT tiên tiến)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "86.15",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Tin học công nghiệp và Tự động hóa (Chương trình Việt - Pháp PFIEV)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "74.67",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80.03",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển - Tự động hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "86.7",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Phân tích kinh doanh (CT tiên tiến)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "91.1",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng (CT tiên tiến)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "91.46",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Quản lý năng lượng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75.35",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Quản lý Công nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "79.7",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Quản trị Kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80.18",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "76.81",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "82.57",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Truyền thông số và Kỹ thuật đa phương tiện (CT tiên tiến)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "83.16",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điện tử - Viễn thông (CT tiên tiến)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "85.19",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Y sinh (CT tiên tiến)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "91.19",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Hệ thống nhúng thông minh và IoT (CT tiên tiến)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "84.11",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Điện tử - Viễn thông - ĐH Leibniz Hannover (CHLB Đức)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "74.67",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điện tử-Viễn thông",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "86.01",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Y sinh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "91.55",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Môi trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "71.05",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Quản lý Tài nguyên và Môi trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "71.05",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Tiếng Anh KHKT và Công nghệ",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75.31",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Tiếng Anh chuyên nghiệp quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75.31",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Nhiệt",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "71.05",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu và Trí tuệ nhân tạo (CT tiên tiến)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "104.58",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "An toàn không gian số - Cyber security (CT tiên tiến)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "102.6",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Công nghệ Thông tin (Việt – Nhật)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "88.07",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Công nghệ Thông tin (Global ICT)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "102.67",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Công nghệ Thông tin (Việt-Pháp)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "82.15",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "CNTT: Khoa học Máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "103.89",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "CNTT: Kỹ thuật Máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "98.3",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Cơ điện tử (CT tiên tiến)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "78.67",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Cơ khí Chế tạo máy – hợp tác với trường ĐH Griffith (Úc)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "71.05",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Cơ điện tử - hợp tác với ĐH Leibniz Hannover (CHLB Đức)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "71.05",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Cơ điện tử - hợp tác với ĐHCN Nagaoka (Nhật Bản)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "71.05",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Cơ điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "78.01",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Cơ khí",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "73.48",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Toán - Tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "78.55",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Hệ thống Thông tin quản lý",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "78.4",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Khoa học và Kỹ thuật Vật liệu (CT tiên tiến)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "76.65",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Vật liệu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "76.65",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Vi điện tử và Công nghệ nano",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "92.77",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Công nghệ vật liệu Polyme và Compozit",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "76.65",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Kỹ thuật in",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70.89",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Vật lý Kỹ thuật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75.82",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Hạt nhân",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70.89",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Vật lý Y khoa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75.82",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Ô tô (CT tiên tiến)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "77.44",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Cơ khí hàng không (Chương trình Việt - Pháp PFIEV)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "81.01",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Ô tô",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "76.19",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Cơ khí động lực",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75.38",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Hàng không",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "81.01",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Quản trị Kinh doanh - Hợp tác với ĐH Troy (Hoa Kỳ)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75.35",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Khoa học Máy tính - hợp tác với ĐH Troy (Hoa Kỳ)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "78.4",
+          "Ghi chú": "Xét tuyển tài năng"
+        },
+        {
+          "Tên ngành": "Công nghệ Dệt May",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70.89",
+          "Ghi chú": "Xét tuyển tài năng"
+        }
+      ],
+      "row_count": 64
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:22:11.999849",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-bach-khoa-ha-noi-BKA.html"
+}

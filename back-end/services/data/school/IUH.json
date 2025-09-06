@@ -1,0 +1,1179 @@
+{
+  "school_code": "IUH",
+  "school_name": "Trường Đại Học Công Nghiệp TPHCM",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Thiết kế thời trang",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "21.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ anh",
+          "Tổ hợp môn": "D01; D14; D15; D96",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh gồm 03 chuyên ngành: Quản trị kinh doanh; Quản trị nguồn nhân lực; Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A01; C01; D01; D96",
+          "Điểm chuẩn": "24.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh gồm 03 chuyên ngành: Quản trị kinh doanh; Quản trị nguồn nhân lực; Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A01; C01; D01; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "CT tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A01; C01; D01; D96",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A01; C01; D01; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "CT tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A01; C01; D01; D96",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A01; C01; D01; D96",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "CT tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A01; C01; D01; D90",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A01; C01; D01; D96",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": "CT tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Tài chính ngân hàng gồm 02 chuyên ngành: Ngân hàng; Tài chính",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính ngân hàng gồm 02 chuyên ngành: Ngân hàng; Tài chính",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": "CT tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Kế toán gồm 02 chuyên ngành: Kế toán; Thuế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán gồm 02 chuyên ngành: Kế toán; Thuế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "CT tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Kế toán tích hợp chứng chỉ quốc tế Advanced Diploma in Accounting & Business của Hiệp hội Kế toán công chứng Anh (ACCA)",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "CT tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Kiểm toán gồm 02 chuyên ngành: Kiểm toán; Phân tích kinh doanh.",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiếm toán gồm 02 chuyên ngành: Kiểm toán; Phân tích kinh doanh.",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "CT tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Kiểm toán tích hợp chứng chỉ quốc tế CFAB cùa Viện Kế toán Công chứng Anh và xứ Wales (ICAEW)",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "CT tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; C00; D01; D96",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; C00; D01; D96",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "CT tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Luật quốc tế",
+          "Tổ hợp môn": "A00; C00; D01; D96",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật quốc tế",
+          "Tổ hợp môn": "A00; C00; D01; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "CT tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học gồm 03 chuyên ngành: Công nghệ sinh học y dược; Công nghệ sinh học nông nghiệp; Công nghệ sinh học thẩm mĩ",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "22.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học gồm 03 chuyên ngành: Công nghệ sinh học y dược; Công nghệ sinh học nông nghiệp; Công nghệ sinh học thẩm mĩ",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CT tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Chuyên ngành Khoa học dữ liệu thuộc ngành Khoa học máy tính",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật máy tính gồm 02 chuyên ngành: Công nghệ kỹ thuật máy tính; Công nghệ kỹ thuật vi mạch",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật máy tính gồm 02 chuyên ngành: Công nghệ kỹ thuật máy tính; Công nghệ kỹ thuật vi mạch",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "CT tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Nhóm ngành Công nghệ thông tin gồm 04 ngành và 01 chuyên ngành: Công nghệ thông tin; Kỹ thuật phần mềm; Khoa học máy tính; Hệ thống thông tin; Chuyên ngành: Quản lý đô thị thông minh và bền vững",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nhóm ngành Công nghệ thông tin Chương trình tăng cường tiếng Anh gồm 04 ngành: Công nghệ thông tin; Kỹ thuật phần mềm; Khoa học máy tính; Hệ thống thông tin.",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "CT tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "CT tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Công nghệ chế tạo máy",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "22.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ chế tạo máy",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "20.75",
+          "Ghi chú": "CT tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "24.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "CT tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô gồm 02 chuyên ngành: Công nghệ kỹ thuật ô tô; Công nghệ kỹ thuật ô tô điện",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô gồm 02 chuyên ngành: Công nghệ kỹ thuật ô tô; Công nghệ kỹ thuật ô tô điện",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "CT tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật nhiệt gồm 02 chuyên ngành: Công nghệ kỹ thuật nhiệt; Công nghệ kỹ thuật năng lượng",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật nhiệt gồm 02 chuyên ngành: Công nghệ kỹ thuật nhiệt; Công nghệ kỹ thuật năng lượng",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CT tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện; điện tử gồm 02 chuyên ngành: Công nghệ kỹ thuật điện; điện tử; Năng lượng tái tạo",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện; điện tử gồm 02 chuyền ngành: Công nghệ kỹ thuật điện; điện tử; Năng lượng tái tạo",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "CT tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông gồm 03 chuyên ngành: Điện tử công nghiệp; Điện tử viễn thông; IOT và Trí tuệ nhân tạo ứng dụng",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông Chương trình tăng cường tiếng Anh gồm 02 chuyên ngành: Điện tử công nghiệp; Điện tử viễn thông",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "CT tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Tự động hóa gồm 02 chuyên ngành: Công nghệ kỹ thuật điều khiển và tự động hóa; Robot và hệ thống điều khiển thông minh",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tự động hóa gồm 02 chuyên ngành: Công nghệ kỹ thuật điều khiển và tự động hóa; Robot và hệ thống điều khiển thông minh",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "CT tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Công nghệ hóa học gồm 03 chuyên ngành: Công nghệ kỹ thuật hóa học; Kỹ thuật hóa phân tích; Hóa dược.",
+          "Tổ hợp môn": "A00; B00; D07; C02",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ hóa học gồm 03 chuyên ngành: Công nghệ kỹ thuật hóa học; Kỹ thuật hóa phân tích; Hóa dược.",
+          "Tổ hợp môn": "A00; B00; D07; C02",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CT tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật môi trường",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CT tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Đảm bảo chất lượng và An toàn thực phẩm",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ dệt, may",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình giao thông",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "A00; B00; D07; C08",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dinh dưỡng và Khoa học thực phẩm",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "A01; C01; D01; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "A01; C01; D01; D96",
+          "Điểm chuẩn": "19",
+          "Ghi chú": "CT tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "B00; C02; D90; D96",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Quản lý đất đai gồm 02 chuyên ngành: Quán lý đất đai; Kinh tế tài nguyên thiên nhiên.",
+          "Tổ hợp môn": "A01; C01; D01; D96",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 61
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Thiết kế thời trang",
+          "Tổ hợp môn": "A00; C01; D01; D90",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ anh",
+          "Tổ hợp môn": "D01; D14; D15; D96",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A01; C01; D01; D96",
+          "Điểm chuẩn": "19",
+          "Ghi chú": "Phân hiệu tại Quảng Ngãi"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh gồm 03 chuyên ngành: Quản trị kinh doanh; Quản trị nguồn nhân lực; Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A01; C01; D01; D96",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh gồm 03 chuyên ngành: Quản trị kinh doanh; Quản trị nguồn nhân lực; Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A01; C01; D01; D96",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Marketing gồm 02 chuyên ngành: Marketing; Digital Marketing",
+          "Tổ hợp môn": "A01; C01; D01; D96",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing gồm 02 chuyên ngành: Marketing; Digital Marketing",
+          "Tổ hợp môn": "A01; C01; D01; D96",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A01; C01; D01; D96",
+          "Điểm chuẩn": "29",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A01; C01; D01; D96",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A01; C01; D01; D90",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A01; C01; D01; D90",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Tài chính ngân hàng gồm 02 chuyên ngành: Ngân hàng; Tài chính",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính ngân hàng gồm 02 chuyên ngành: Ngân hàng; Tài chính",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Kế toán gồm 02 chuyên ngành: Kế toán; Thuế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "19",
+          "Ghi chú": "Phân hiệu tại Quảng Ngãi"
+        },
+        {
+          "Tên ngành": "Kế toán gồm 02 chuyên ngành: Kế toán; Thuế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Kế toán tích hợp chứng chỉ quốc tế Advanced Diploma in Accounting & Business của Hiệp hội Kế toán công chứng Anh (ACCA)",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Kiểm toán gồm 02 chuyên ngành: Kiểm toán; Phân tích kinh doanh.",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán gồm 02 chuyên ngành: Kiểm toán; Phân tích kinh doanh.",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Kiểm toán tích hợp chứng chỉ quốc tế CFAB của Viện Kế toán Công chứng Anh và xứ Wales (ICAEW)",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; C00; D01; D96",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; C00; D01; D96",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Luật quốc tế",
+          "Tổ hợp môn": "A00; C00; D01; D96",
+          "Điểm chuẩn": "27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật quốc tế",
+          "Tổ hợp môn": "A00; C00; D01; D96",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học gồm 03 chuyên ngành: Công nghệ sinh học y dược; Công nghệ sinh học nông nghiệp; Công nghệ sinh học thẩm mĩ",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học gồm 03 chuyên ngành: Công nghệ sinh học y dược; Công nghệ sinh học nông nghiệp; Công nghệ sinh học thẩm mĩ",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "27.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật máy tính gồm 02 chuyên ngành: Công nghệ kỹ thuật máy tính; Công nghệ kỹ thuật vi mạch",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật máy tính gồm 02 chuyên ngành: Công nghệ kỹ thuật máy tính; Công nghệ kỹ thuật vi mạch",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "19",
+          "Ghi chú": "Phân hiệu tại Quảng Ngãi"
+        },
+        {
+          "Tên ngành": "Nhóm ngành Công nghệ thông tin gồm 04 ngành và 01 chuyên ngành: Công nghệ thông tin; Kỹ thuật phần mềm; Khoa học máy tính; Hệ thống thông tin; Chuyên ngành: Quản lý đô thị thông minh và bền vững",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nhóm ngành Công nghệ thông tin Chương trình tăng cường tiếng Anh gồm 04 ngành: Công nghệ thông tin; Kỹ thuật phần mềm; Khoa học máy tính; Hệ thống thông tin.",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "19",
+          "Ghi chú": "Phân hiệu tại Quảng Ngãi"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Công nghệ chế tạo máy",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ chế tạo máy",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "19",
+          "Ghi chú": "Phân hiệu tại Quảng Ngãi"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô gồm 02 chuyên ngành: Công nghệ kỹ thuật ô tô; Công nghệ kỹ thuật ô tô điện",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "25.75",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Nhóm ngành Công nghệ kỹ thuật nhiệt gồm 02 chuyên ngành: Công nghệ kỹ thuật nhiệt; Công nghệ kỹ thuật năng lượng",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nhóm ngành Công nghệ kỹ thuật nhiệt gồm 02 chuyên ngành: Công nghệ kỹ thuật nhiệt; Công nghệ kỹ thuật năng lượng",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử gồm 02 chuyên ngành: Công nghệ kỹ thuật điện, điện tử; Năng lượng tái tạo",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "19",
+          "Ghi chú": "Phân hiệu tại Quảng Ngãi"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử gồm 02 chuyên ngành: Công nghệ kỹ thuật điện, điện tử; Năng lượng tái tạo",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông gồm 03 chuyên ngành: Điện tử công nghiệp; Điện tử viễn thông; IOT và Trí tuệ nhân tạo ứng dụng",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông Chương trình tăng cường tiếng Anh gồm 02 chuyên ngành: Điện tử công nghiệp; Điện tử viễn thông",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Tự động hóa gồm 02 chuyên ngành: Công nghệ kỹ thuật điều khiển và tự động hóa; Robot và hệ thống điều khiển thông minh",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "27.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tự động hóa gồm 02 chuyên ngành: Công nghệ kỹ thuật điều khiển và tự động hóa; Robot và hệ thống điều khiển thông minh",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Công nghệ hóa học gồm 03 chuyên ngành: Công nghệ kỹ thuật hóa học; Kỹ thuật hóa phân tích; Hóa dược.",
+          "Tổ hợp môn": "A00; B00; D07; C02",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ hóa học gồm 03 chuyên ngành: Công nghệ kỹ thuật hóa học; Kỹ thuật hóa phân tích; Hóa dược.",
+          "Tổ hợp môn": "A00; B00; D07; C02",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật môi trường",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Đảm bảo chất lượng và An toàn thực phẩm",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ dệt, may",
+          "Tổ hợp môn": "A00; C01; D01; D90",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình giao thông",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "A00; B00; D07; C08",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dinh dưỡng và Khoa học thực phẩm",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành gồm 03 chuyên ngành: - Quản trị dịch vụ du lịch và lữ hành; - Quản trị khách sạn; - Quản trị nhà hàng và dịch vụ ăn uống",
+          "Tổ hợp môn": "A01; C01; D01; D96",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành gồm 03 chuyên ngành: - Quản trị dịch vụ du lịch và lữ hành; - Quản trị khách sạn; - Quản trị nhà hàng và dịch vụ ăn uống",
+          "Tổ hợp môn": "A01; C01; D01; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "B00; C02; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Quản lý đất đai gồm 02 chuyên ngành: Quản lý đất đai; Kinh tế tài nguyên thiên nhiên.",
+          "Tổ hợp môn": "A01; C01; D01; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 67
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Thiết kế thời trang",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "720",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh gồm 03 chuyên ngành: Quản trị kinh doanh; Quản trị nguồn nhân lực; Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "800",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh gồm 03 chuyên ngành: Quản trị kinh doanh; Quản trị nguồn nhân lực; Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "683",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Marketing gồm 02 chuyên ngành: Marketing; Digital Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "830",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing gồm 02 chuyên ngành: Marketing; Digital Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "906",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "720",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "810",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Tài chính ngân hàng gồm 02 chuyên ngành: Ngân hàng; Tài chính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "785",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính ngân hàng gồm 02 chuyên ngành: Ngân hàng; Tài chính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "670",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Kế toán gồm 02 chuyên ngành: Kế toán; Thuế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "765",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán gồm 02 chuyên ngành: Kế toán; Thuế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "675",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Kế toán tích hợp chứng chỉ quốc tế Advanced Diploma in Accounting & Business của Hiệp hội Kế toán công chứng Anh (ACCA)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "675",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Kiểm toán gồm 02 chuyên ngành: Kiểm toán; Phân tích kinh doanh.",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "790",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán gồm 02 chuyên ngành: Kiểm toán; Phân tích kinh doanh.",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "675",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Kiểm toán tích hợp chứng chỉ quốc tế CFAB của Viện Kế toán Công chứng Anh và xứ Wales (ICAEW)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "675",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "800",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "680",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Luật quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "750",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "665",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học gồm 03 chuyên ngành: Công nghệ sinh học y dược; Công nghệ sinh học nông nghiệp; Công nghệ sinh học thẩm mĩ",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "720",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học gồm 03 chuyên ngành: Công nghệ sinh học y dược; Công nghệ sinh học nông nghiệp; Công nghệ sinh học thẩm mĩ",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "675",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "820",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật máy tính gồm 02 chuyên ngành: Công nghệ kỹ thuật máy tính; Công nghệ kỹ thuật vi mạch",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "775",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật máy tính gồm 02 chuyên ngành: Công nghệ kỹ thuật máy tính; Công nghệ kỹ thuật vi mạch",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Nhóm ngành Công nghệ thông tin gồm 04 ngành và 01 chuyên ngành: Công nghệ thông tin; Kỹ thuật phần mềm; Khoa học máy tính; Hệ thống thông tin; Chuyên ngành: Quản lý đô thị thông minh và bền vững",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "820",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nhóm ngành Công nghệ thông tin Chương trình tăng cường tiếng Anh gồm 04 ngành: Công nghệ thông tin; Kỹ thuật phần mềm; Khoa học máy tính; Hệ thống thông tin.",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "775",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "750",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "680",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Công nghệ chế tạo máy",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ chế tạo máy",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "655",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "780",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "680",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô gồm 02 chuyên ngành: Công nghệ kỹ thuật ô tô; Công nghệ kỹ thuật ô tô điện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "800",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô gồm 02 chuyên ngành: Công nghệ kỹ thuật ô tô; Công nghệ kỹ thuật ô tô điện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "730",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Nhóm ngành Công nghệ kỹ thuật nhiệt gồm 02 chuyên ngành: Công nghệ kỹ thuật nhiệt; Công nghệ kỹ thuật năng lượng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nhóm ngành Công nghệ kỹ thuật nhiệt gồm 02 chuyên ngành: Công nghệ kỹ thuật nhiệt; Công nghệ kỹ thuật năng lượng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử gồm 02 chuyên ngành: Công nghệ kỹ thuật điện, điện tử; Năng lượng tái tạo",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "750",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử gồm 02 chuyên ngành: Công nghệ kỹ thuật điện, điện tử; Năng lượng tái tạo",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "673",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông gồm 03 chuyên ngành: Điện tử công nghiệp; Điện tử viễn thông; IOT và Trí tuệ nhân tạo ứng dụng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "720",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông Chương trình tăng cường tiếng Anh gồm 02 chuyên ngành: Điện tử công nghiệp; Điện tử viễn thông",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Tự động hóa gồm 02 chuyên ngành: Công nghệ kỹ thuật điều khiển và tự động hóa; Robot và hệ thống điều khiển thông minh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "800",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tự động hóa gồm 02 chuyên ngành: Công nghệ kỹ thuật điều khiển và tự động hóa; Robot và hệ thống điều khiển thông minh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "720",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Công nghệ hóa học gồm 03 chuyên ngành: Công nghệ kỹ thuật hóa học; Kỹ thuật hóa phân tích; Hóa dược.",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "720",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ hóa học gồm 03 chuyên ngành: Công nghệ kỹ thuật hóa học; Kỹ thuật hóa phân tích; Hóa dược.",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "670",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật môi trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "660",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "750",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "675",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Đảm bảo chất lượng và An toàn thực phẩm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ dệt, may",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "665",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "675",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình giao thông",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "675",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "670",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "830",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dinh dưỡng và Khoa học thực phẩm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "660",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành gồm 03 chuyên ngành: - Quản trị dịch vụ du lịch và lữ hành; - Quản trị khách sạn; - Quản trị nhà hàng và dịch vụ ăn uống",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành gồm 03 chuyên ngành: - Quản trị dịch vụ du lịch và lữ hành; - Quản trị khách sạn; - Quản trị nhà hàng và dịch vụ ăn uống",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": "Chương trình tăng cường tiếng Anh"
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "670",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Quản lý đất đai gồm 02 chuyên ngành: Quản lý đất đai; Kinh tế tài nguyên thiên nhiên.",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "665",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 61
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:22:52.629433",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-cong-nghiep-tphcm-IUH.html"
+}

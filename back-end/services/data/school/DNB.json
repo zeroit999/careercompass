@@ -1,0 +1,117 @@
+{
+  "school_code": "DNB",
+  "school_name": "Trường Đại Học Hoa Lư",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Giáo dục Mầm non",
+          "Tổ hợp môn": "D01; C00; A00; C14",
+          "Điểm chuẩn": "26.62",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Tiểu học",
+          "Tổ hợp môn": "M01; M07; M08; M05",
+          "Điểm chuẩn": "27.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Toán học",
+          "Tổ hợp môn": "A00; A01; D07; B08",
+          "Điểm chuẩn": "26.03",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; A10",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; A10",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D07; B08",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch",
+          "Tổ hợp môn": "C00; D14; D66; D15",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 7
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Giáo dục Mầm non",
+          "Tổ hợp môn": "D01; C00; A00; C14",
+          "Điểm chuẩn": "26.64",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Tiểu học",
+          "Tổ hợp môn": "M01; M07; M08; M05",
+          "Điểm chuẩn": "27.97",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Toán học",
+          "Tổ hợp môn": "A00; A01; D07; B08",
+          "Điểm chuẩn": "27.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; A10",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; A10",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D07; B08",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch",
+          "Tổ hợp môn": "C00; D14; D66; D15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 7
+    }
+  ],
+  "table_count": 2,
+  "crawled_at": "2025-07-18T23:32:22.025340",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-hoa-lu-DNB.html"
+}

@@ -1,0 +1,669 @@
+{
+  "school_code": "QHT",
+  "school_name": "Trường Đại Học Khoa Học Tự Nhiên Hà Nội",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Toán học",
+          "Tổ hợp môn": "A00; A01; D07; D08",
+          "Điểm chuẩn": "34",
+          "Ghi chú": "Toán nhân 2"
+        },
+        {
+          "Tên ngành": "Toán tin",
+          "Tổ hợp môn": "A00; A01; D07; D08",
+          "Điểm chuẩn": "34",
+          "Ghi chú": "Toán nhân 2"
+        },
+        {
+          "Tên ngành": "Vật lý học",
+          "Tổ hợp môn": "A00; A01; A02; C01",
+          "Điểm chuẩn": "25.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học vật liệu",
+          "Tổ hợp môn": "A00; A01; A02; C01",
+          "Điểm chuẩn": "24.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật hạt nhân",
+          "Tổ hợp môn": "A00; A01; A02; C01",
+          "Điểm chuẩn": "24.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hoá học",
+          "Tổ hợp môn": "A00; B00; D07; C02",
+          "Điểm chuẩn": "25.15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật hoá học",
+          "Tổ hợp môn": "A00; B00; D07; C02",
+          "Điểm chuẩn": "24.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sinh học",
+          "Tổ hợp môn": "A00; A02; B00; B08",
+          "Điểm chuẩn": "23.35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "A00; A02; B00; B08",
+          "Điểm chuẩn": "24.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Địa lý tự nhiên",
+          "Tổ hợp môn": "A00; A01; B00; D10",
+          "Điểm chuẩn": "22.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý đất đai",
+          "Tổ hợp môn": "A00; A01; B00; D10",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học môi trường",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật môi trường",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khí tượng và khí hậu học",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "20.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hải dương học",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Địa chất học",
+          "Tổ hợp môn": "A00; A01; D10; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "A00; A01; D10; D07",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hoá dược",
+          "Tổ hợp môn": "A00; B00; D07; C02",
+          "Điểm chuẩn": "25.65",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sinh dược học",
+          "Tổ hợp môn": "A00; A02; B00; B08",
+          "Điểm chuẩn": "24.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Môi trường, sức khoẻ và an toàn",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học thông tin địa không gian",
+          "Tổ hợp môn": "A00; A01; B00; D10",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Chương trình ĐT thí điểm"
+        },
+        {
+          "Tên ngành": "Tài nguyên và môi trường nước",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "Chương trình ĐT thí điểm"
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "A00; A01; D07; D08",
+          "Điểm chuẩn": "35",
+          "Ghi chú": "Toán nhân 2"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử và tin học",
+          "Tổ hợp môn": "A00; A01; A02; C01",
+          "Điểm chuẩn": "26.25",
+          "Ghi chú": "Chương trình ĐT thí điểm"
+        },
+        {
+          "Tên ngành": "Quản lý phát triển đô thị và bất động sản",
+          "Tổ hợp môn": "A00; A01; B00; D10",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Chương trình ĐT thí điểm"
+        },
+        {
+          "Tên ngành": "Khoa học và công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "24.6",
+          "Ghi chú": "Chương trình ĐT thí điểm"
+        },
+        {
+          "Tên ngành": "Khoa học máy tính và thông tin",
+          "Tổ hợp môn": "A00; A01; D07; D08",
+          "Điểm chuẩn": "34",
+          "Ghi chú": "Chương trình ĐT thí điểm, Toán nhân 2"
+        }
+      ],
+      "row_count": 27
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Toán học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "140",
+          "Ghi chú": "Tư duy định lượng (nhân hệ số 2)"
+        },
+        {
+          "Tên ngành": "Toán tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "145",
+          "Ghi chú": "Tư duy định lượng (nhân hệ số 2)"
+        },
+        {
+          "Tên ngành": "Vật lý học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "90",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học vật liệu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật hạt nhân",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hoá học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "98",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật hoá học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "95",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sinh học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "92",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Địa lý tự nhiên",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý đất đai",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "82",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học môi trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật môi trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khí tượng và khí hậu học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hải dương học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Địa chất học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hoá dược",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "100",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sinh dược học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Môi trường, sức khỏe và an toàn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học thông tin địa không gian",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài nguyên và môi trường nước",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "145",
+          "Ghi chú": "Tư duy định lượng (nhân hệ số 2)"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử và tin học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "95",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý phát triển đô thị và bất động sản",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "82",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học và công nghệ thực phẩm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "92",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính và thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "145",
+          "Ghi chú": "Tư duy định lượng (nhân hệ số 2)"
+        }
+      ],
+      "row_count": 27
+    },
+    {
+      "table_title": "Điểm xét tuyển kết hợp năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Toán học",
+          "Tổ hợp môn": "T49",
+          "Điểm chuẩn": "32",
+          "Ghi chú": "Điểm thi tốt nghiệp THPT với CCQT"
+        },
+        {
+          "Tên ngành": "Toán tin",
+          "Tổ hợp môn": "T49",
+          "Điểm chuẩn": "32",
+          "Ghi chú": "Điểm thi tốt nghiệp THPT với CCQT"
+        },
+        {
+          "Tên ngành": "Vật lý học",
+          "Tổ hợp môn": "T49",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "Điểm thi tốt nghiệp THPT với CCQT"
+        },
+        {
+          "Tên ngành": "Khoa học vật liệu",
+          "Tổ hợp môn": "T49",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Điểm thi tốt nghiệp THPT với CCQT"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật hạt nhân",
+          "Tổ hợp môn": "T49",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Điểm thi tốt nghiệp THPT với CCQT"
+        },
+        {
+          "Tên ngành": "Hoá học",
+          "Tổ hợp môn": "T49",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Điểm thi tốt nghiệp THPT với CCQT"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật hoá học",
+          "Tổ hợp môn": "T49",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Điểm thi tốt nghiệp THPT với CCQT"
+        },
+        {
+          "Tên ngành": "Sinh học",
+          "Tổ hợp môn": "T49",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Điểm thi tốt nghiệp THPT với CCQT"
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "T49",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Điểm thi tốt nghiệp THPT với CCQT"
+        },
+        {
+          "Tên ngành": "Địa lý tự nhiên",
+          "Tổ hợp môn": "T49",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Điểm thi tốt nghiệp THPT với CCQT"
+        },
+        {
+          "Tên ngành": "Quản lý đất đai",
+          "Tổ hợp môn": "T49",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Điểm thi tốt nghiệp THPT với CCQT"
+        },
+        {
+          "Tên ngành": "Khoa học môi trường",
+          "Tổ hợp môn": "T49",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Điểm thi tốt nghiệp THPT với CCQT"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật môi trường",
+          "Tổ hợp môn": "T49",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Điểm thi tốt nghiệp THPT với CCQT"
+        },
+        {
+          "Tên ngành": "Khí tượng và khí hậu học",
+          "Tổ hợp môn": "T49",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Điểm thi tốt nghiệp THPT với CCQT"
+        },
+        {
+          "Tên ngành": "Hải dương học",
+          "Tổ hợp môn": "T49",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Điểm thi tốt nghiệp THPT với CCQT"
+        },
+        {
+          "Tên ngành": "Địa chất học",
+          "Tổ hợp môn": "T49",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Điểm thi tốt nghiệp THPT với CCQT"
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "T49",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Điểm thi tốt nghiệp THPT với CCQT"
+        },
+        {
+          "Tên ngành": "Hoá dược",
+          "Tổ hợp môn": "T49",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": "Điểm thi tốt nghiệp THPT với CCQT"
+        },
+        {
+          "Tên ngành": "Sinh dược học",
+          "Tổ hợp môn": "T49",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Điểm thi tốt nghiệp THPT với CCQT"
+        },
+        {
+          "Tên ngành": "Môi trường, sức khỏe và an toàn",
+          "Tổ hợp môn": "T49",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Điểm thi tốt nghiệp THPT với CCQT"
+        },
+        {
+          "Tên ngành": "Khoa học thông tin địa không gian",
+          "Tổ hợp môn": "T49",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Điểm thi tốt nghiệp THPT với CCQT"
+        },
+        {
+          "Tên ngành": "Tài nguyên và môi trường nước",
+          "Tổ hợp môn": "T49",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Điểm thi tốt nghiệp THPT với CCQT"
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "T49",
+          "Điểm chuẩn": "34",
+          "Ghi chú": "Điểm thi tốt nghiệp THPT với CCQT"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử và tin học",
+          "Tổ hợp môn": "T49",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": "Điểm thi tốt nghiệp THPT với CCQT"
+        },
+        {
+          "Tên ngành": "Quản lý phát triển đô thị và bất động sản",
+          "Tổ hợp môn": "T49",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Điểm thi tốt nghiệp THPT với CCQT"
+        },
+        {
+          "Tên ngành": "Khoa học và công nghệ thực phẩm",
+          "Tổ hợp môn": "T49",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Điểm thi tốt nghiệp THPT với CCQT"
+        },
+        {
+          "Tên ngành": "Khoa học máy tính và thông tin",
+          "Tổ hợp môn": "T49",
+          "Điểm chuẩn": "33",
+          "Ghi chú": "Điểm thi tốt nghiệp THPT với CCQT"
+        }
+      ],
+      "row_count": 27
+    },
+    {
+      "table_title": "Chứng chỉ quốc tế năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Toán học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1300",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Toán tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1300",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Vật lý học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1200",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Khoa học vật liệu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1200",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật hạt nhân",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1200",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Hoá học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1300",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật hoá học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1300",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Sinh học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1300",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1300",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Khí tượng và khí hậu học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1100",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Hải dương học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1100",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1200",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Hoá dược",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1300",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Sinh dược học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1300",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Khoa học thông tin địa không gian",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1100",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Tài nguyên và môi trường nước",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1100",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1300",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử và tin học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1300",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Quản lý phát triển đô thị và bất động sản",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1200",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Khoa học và công nghệ thực phẩm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1200",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Khoa học máy tính và thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1300",
+          "Ghi chú": "CCQT SAT"
+        }
+      ],
+      "row_count": 21
+    }
+  ],
+  "table_count": 4,
+  "crawled_at": "2025-07-18T23:24:09.847734",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-khoa-hoc-tu-nhien-dai-hoc-quoc-gia-ha-noi-QHT.html"
+}

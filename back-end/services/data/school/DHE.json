@@ -1,0 +1,153 @@
+{
+  "school_code": "DHE",
+  "school_name": "Khoa Kỹ thuật và Công nghệ - Đại học Huế",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Khoa học dữ liệu và trí tuệ nhân tạo (Hệ Cử nhân)",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "18.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu và trí tuệ nhân tạo (Hệ Kỹ sư)",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "18.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "17.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "16.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và tự động hóa",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "17.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "15.75",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 6
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Khoa học dữ liệu và trí tuệ nhân tạo (Hệ Cử nhân)",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu và trí tuệ nhân tạo (Hệ Kỹ sư)",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và tụ động hóa",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 6
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Khoa học dữ liệu và trí tuệ nhân tạo (Hệ Cử nhân)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "660",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu và trí tuệ nhân tạo (Hệ Kỹ sư)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "660",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "660",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và tụ động hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "660",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "660",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "660",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 6
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:30:33.865792",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/khoa-ky-thuat-va-cong-nghe-dai-hoc-hue-DHE.html"
+}

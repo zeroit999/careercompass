@@ -1,0 +1,123 @@
+{
+  "school_code": "GNT",
+  "school_name": "Trường Đại Học Sư Phạm Nghệ Thuật Trung Ương",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Sư phạm Âm nhạc",
+          "Tổ hợp môn": "N00",
+          "Điểm chuẩn": "34.5",
+          "Ghi chú": "Điểm năng khiếu nhân hệ số 2"
+        },
+        {
+          "Tên ngành": "Sư phạm Mỹ thuật",
+          "Tổ hợp môn": "H00",
+          "Điểm chuẩn": "34",
+          "Ghi chú": "Điểm năng khiếu nhân hệ số 2"
+        },
+        {
+          "Tên ngành": "Hội họa",
+          "Tổ hợp môn": "H00",
+          "Điểm chuẩn": "37",
+          "Ghi chú": "Điểm năng khiếu nhân hệ số 2"
+        },
+        {
+          "Tên ngành": "Thanh nhạc",
+          "Tổ hợp môn": "N00",
+          "Điểm chuẩn": "35",
+          "Ghi chú": "Điểm năng khiếu nhân hệ số 2"
+        },
+        {
+          "Tên ngành": "Piano",
+          "Tổ hợp môn": "N00",
+          "Điểm chuẩn": "34.5",
+          "Ghi chú": "Điểm năng khiếu nhân hệ số 2"
+        },
+        {
+          "Tên ngành": "Diễn viên Kịch - Điện ảnh",
+          "Tổ hợp môn": "S00",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": "Điểm năng khiếu nhân hệ số 2"
+        },
+        {
+          "Tên ngành": "Diễn viên Kịch - Điện ảnh liên thông",
+          "Tổ hợp môn": "S00",
+          "Điểm chuẩn": "5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế đồ họa",
+          "Tổ hợp môn": "H00",
+          "Điểm chuẩn": "37.5",
+          "Ghi chú": "Điểm năng khiếu nhân hệ số 2"
+        },
+        {
+          "Tên ngành": "Thiết kế thời trang",
+          "Tổ hợp môn": "H00",
+          "Điểm chuẩn": "33.5",
+          "Ghi chú": "Điểm năng khiếu nhân hệ số 2"
+        },
+        {
+          "Tên ngành": "Quản lý Văn hóa",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "22.25",
+          "Ghi chú": "Điểm năng khiếu nhân hệ số 2"
+        },
+        {
+          "Tên ngành": "Quản lý Văn hóa",
+          "Tổ hợp môn": "H00",
+          "Điểm chuẩn": "30",
+          "Ghi chú": "Điểm năng khiếu nhân hệ số 2"
+        },
+        {
+          "Tên ngành": "Quản lý Văn hóa",
+          "Tổ hợp môn": "N00",
+          "Điểm chuẩn": "31",
+          "Ghi chú": "Điểm năng khiếu nhân hệ số 2"
+        },
+        {
+          "Tên ngành": "Công nghệ may",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm năng khiếu nhân hệ số 2"
+        },
+        {
+          "Tên ngành": "Công nghệ may",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm năng khiếu nhân hệ số 2"
+        },
+        {
+          "Tên ngành": "Công nghệ may",
+          "Tổ hợp môn": "H00",
+          "Điểm chuẩn": "30",
+          "Ghi chú": "Điểm năng khiếu nhân hệ số 2"
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "C00; C03; C04; D00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch",
+          "Tổ hợp môn": "C00; C03; C04; D00",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 17
+    }
+  ],
+  "table_count": 1,
+  "crawled_at": "2025-07-18T23:26:22.603900",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-su-pham-nghe-thuat-trung-uong-GNT.html"
+}

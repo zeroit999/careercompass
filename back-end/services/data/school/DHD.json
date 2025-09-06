@@ -1,0 +1,171 @@
+{
+  "school_code": "DHD",
+  "school_name": "Trường Du Lịch - Đại Học Huế",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; C00; D01; D10",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch",
+          "Tổ hợp môn": "A00; C00; D01; D10",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch điện tử",
+          "Tổ hợp môn": "A00; A01; D01; D10",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "A00; C00; D01; D10",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị du lịch và khách sạn",
+          "Tổ hợp môn": "A00; C00; D01; D10",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "A00; C00; D01; D10",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị nhà hàng và dịch vụ ăn uống",
+          "Tổ hợp môn": "A00; C00; D01; D10",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 7
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; C00; D01; D10",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch",
+          "Tổ hợp môn": "A00; C00; D01; D10",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch điện tử",
+          "Tổ hợp môn": "A00; C00; D01; D10",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "A00; C00; D01; D10",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị du lịch và khách sạn",
+          "Tổ hợp môn": "A00; C00; D01; D10",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "A00; C00; D01; D10",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị nhà hàng và dịch vụ ăn uống",
+          "Tổ hợp môn": "A00; C00; D01; D10",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 7
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị du lịch và khách sạn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị nhà hàng và dịch vụ ăn uống",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 7
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:28:03.947191",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/truong-du-lich-dai-hoc-hue-DHD.html"
+}

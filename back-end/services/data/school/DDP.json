@@ -1,0 +1,111 @@
+{
+  "school_code": "DDP",
+  "school_name": "Phân Hiệu Đại Học Đà Nẵng tại Kon Tum",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Giáo dục mầm non",
+          "Tổ hợp môn": "A00; D01; B03; C00",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục tiểu học",
+          "Tổ hợp môn": "A00; D01; B03; C00",
+          "Điểm chuẩn": "25.73",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "A00; A09; D01; C00",
+          "Điểm chuẩn": "22.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A09; D01; C00",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A09; D01; C00",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; A09; D01; C00",
+          "Điểm chuẩn": "18.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 7
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Giáo dục mầm non",
+          "Tổ hợp môn": "M01; M09",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "HL lớp 12 giỏi, năng khiếu"
+        },
+        {
+          "Tên ngành": "Quản lý Nhà nước",
+          "Tổ hợp môn": "A00; D10; C14; D15",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; D01; C04; D10",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; D01; C04; D10",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A09; D10; C14; D15",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A02; A04; B02",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 6
+    }
+  ],
+  "table_count": 2,
+  "crawled_at": "2025-07-18T23:26:56.104860",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/phan-hieu-dai-hoc-da-nang-tai-kon-tum-DDP.html"
+}

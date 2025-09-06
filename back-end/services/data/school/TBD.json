@@ -1,0 +1,507 @@
+{
+  "school_code": "TBD",
+  "school_name": "Trường Đại Học Thái Bình Dương",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Thiết kế đồ họa",
+          "Tổ hợp môn": "A00; A01; H06; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D14; D66; D84",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đông Phương học (Tiếng Trung Quốc - Tiếng Hàn Quốc)",
+          "Tổ hợp môn": "C00; C19; C20; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "A01; C00; D01; D14",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; A09; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; A09; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm",
+          "Tổ hợp môn": "A00; D01; D03; D06; A01; D29; D28; D07; D24; D23",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; A09; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; A09; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D01; C20; A07; A00",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "A00; D01; D03; D06; A01; D29; D28; D07; D24; D23",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; D01; D03; D06; A01; D29; D28; D07; D24; D23",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; A09; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch",
+          "Tổ hợp môn": "A01; A07; D01; D03; D06; D14",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "A01; A07; D01; D03; D06; D14",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 15
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Thiết kế đồ họa",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế đồ họa",
+          "Tổ hợp môn": "A00; A01; H06; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D14; D66; D84",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D14; D66; D84",
+          "Điểm chuẩn": "6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đông phương học (Tiếng Hàn Quốc, Tiếng Trung Quốc)",
+          "Tổ hợp môn": "C00; C19; C20; D01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đông Phương học (Tiếng Trung Quốc - Tiếng Hàn Quốc)",
+          "Tổ hợp môn": "C00; C19; C20; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "A01; C00; D01; D14",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "A01; C00; D01; D14",
+          "Điểm chuẩn": "6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; A09; D01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; A09; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; A09; D01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; A09; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm",
+          "Tổ hợp môn": "A00; D01; D03; D06; A01; D29; D28; D07; D24; D23",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; A09; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; A09; D01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; A09; D01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; A09; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D01; C20; A07; A00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D01; C20; A07; A00",
+          "Điểm chuẩn": "6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm",
+          "Tổ hợp môn": "A00; D01; D03; D06; A01; D29; D28; D07; D24; D23",
+          "Điểm chuẩn": "6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "A00; D01; D03; D06; A01; D29; D28; D07; D24; D23",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; D01; D03; D06; A01; D29; D28; D07; D24; D23",
+          "Điểm chuẩn": "6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; D01; D03; D06; A01; D29; D28; D07; D24; D23",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "A00; D01; D03; D06; A01; D29; D28; D07; D24; D23",
+          "Điểm chuẩn": "6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; A09; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistic và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; A09; D01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch",
+          "Tổ hợp môn": "A01; A07; D01; D03; D06; D14",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch",
+          "Tổ hợp môn": "A01; A07; D01; D03; D14",
+          "Điểm chuẩn": "6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "A01; A07; D01; D03; D06; D14",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "A01; A07; D01; D03; D14",
+          "Điểm chuẩn": "6",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 30
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Thiết kế đồ họa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đông Phương học (Tiếng Trung Quốc - Tiếng Hàn Quốc)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 15
+    },
+    {
+      "table_title": "Điểm xét tốt nghiệp THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Thiết kế đồ họa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đông Phương học (Tiếng Trung Quốc - Tiếng Hàn Quốc)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 15
+    }
+  ],
+  "table_count": 4,
+  "crawled_at": "2025-07-18T23:31:30.625004",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-thai-binh-duong-TBD.html"
+}

@@ -1,0 +1,129 @@
+{
+  "school_code": "DVX",
+  "school_name": "Trường Đại Học Công Nghệ Vạn Xuân",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2022",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D90; D78; A01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A12; C01; D01; D90",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "C08; B02; B00; D90",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; A16; D90",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "A00; A01; D07; C01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "C00; D78; D96; C15",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 8
+    },
+    {
+      "table_title": "Điểm học bạ năm 2022",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D90; D78; A01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A12; C01; D01; D90",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "C08; B02; B00; D90",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; A16; D90",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "A00; A01; D07; C01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "C00; D78; D96; C15",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 8
+    }
+  ],
+  "table_count": 2,
+  "crawled_at": "2025-07-18T23:32:33.187942",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-cong-nghe-van-xuan-DVX.html"
+}

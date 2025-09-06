@@ -1,0 +1,309 @@
+{
+  "school_code": "HLU",
+  "school_name": "Trường Đại Học Hạ Long",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Giáo dục Mầm non",
+          "Tổ hợp môn": "A09; C00; C14; C20",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Hệ đào tạo Cao Đẳng"
+        },
+        {
+          "Tên ngành": "Giáo dục Mầm non",
+          "Tổ hợp môn": "A09; C00; C14; C20",
+          "Điểm chuẩn": "26.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Tiểu học",
+          "Tổ hợp môn": "C04; D01; D10; D15",
+          "Điểm chuẩn": "25.95",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tin học",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Ngữ văn",
+          "Tổ hợp môn": "C00; C04; D01; D15",
+          "Điểm chuẩn": "26.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tiếng Anh",
+          "Tổ hợp môn": "A01; D01; D15; D78",
+          "Điểm chuẩn": "25.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Khoa học tự nhiên",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế đồ hoạ",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D15; D78",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "A01; D01; D04; D78",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật",
+          "Tổ hợp môn": "A01; D01; D06; D78",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "AH1; A01; D01; D78",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Văn học (CN Văn báo chí truyền thông)",
+          "Tổ hợp môn": "C00; C04; D01; D15",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý văn hóa",
+          "Tổ hợp môn": "C00; C04; D01; D15",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D10",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D10",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nuôi trồng thủy sản",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "A00; A01; D01; D10",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "A00; A01; D01; D10",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị nhà hàng và dịch vụ ăn uống",
+          "Tổ hợp môn": "A01; C00; D01; D15",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "A00; B00; D01; D10",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 23
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Giáo dục Mầm non",
+          "Tổ hợp môn": "A09; C00; C14; C20",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Trình độ Cao đẳng"
+        },
+        {
+          "Tên ngành": "Giáo dục Mầm non",
+          "Tổ hợp môn": "A09; C00; C14; C20",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Tiểu học",
+          "Tổ hợp môn": "C04; D01; D10; D15",
+          "Điểm chuẩn": "26.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tin học",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Ngữ văn",
+          "Tổ hợp môn": "C00; C04; D01; D15",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tiếng Anh",
+          "Tổ hợp môn": "A01; D01; D15; D78",
+          "Điểm chuẩn": "27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Khoa học tự nhiên",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế đồ hoạ",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D15; D78",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "A01; D01; D04; D78",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật",
+          "Tổ hợp môn": "A01; D01; D06; D78",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "AH1; A01; D01; D78",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Văn học (CN Văn báo chí truyền thông)",
+          "Tổ hợp môn": "C00; C04; D01; D15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý văn hóa",
+          "Tổ hợp môn": "C00; C04; D01; D15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D10",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D10",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nuôi trồng thủy sản",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "A00; A01; D01; D10",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "A00; A01; D01; D10",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị nhà hàng và dịch vụ ăn uống",
+          "Tổ hợp môn": "A01; C00; D01; D15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "A00; B00; D01; D10",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 23
+    }
+  ],
+  "table_count": 2,
+  "crawled_at": "2025-07-18T23:26:30.277879",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-ha-long-HLU.html"
+}

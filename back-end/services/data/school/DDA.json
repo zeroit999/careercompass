@@ -1,0 +1,717 @@
+{
+  "school_code": "DDA",
+  "school_name": "Trường Đại Học Công Nghệ Đông Á",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán định hướng ACCA",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế đồ họa số",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Cơ điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Chế tạo máy",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Kỹ thuật Nhiệt (Nhiệt – Điện lạnh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Kỹ thuật Điện – Điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Kỹ thuật Điều khiển – Tự động hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Thực phẩm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ và kinh doanh thực phẩm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học thực phẩm và dinh dưỡng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 23
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm thi THPT và học bạ"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm thi THPT và học bạ"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm thi THPT và học bạ"
+        },
+        {
+          "Tên ngành": "Tài chính Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm thi THPT và học bạ"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm thi THPT và học bạ"
+        },
+        {
+          "Tên ngành": "Kế toán định hướng ACCA",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm thi THPT và học bạ"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm thi THPT và học bạ"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm thi THPT và học bạ"
+        },
+        {
+          "Tên ngành": "Thiết kế đồ họa số",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm thi THPT và học bạ"
+        },
+        {
+          "Tên ngành": "Cơ điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm thi THPT và học bạ"
+        },
+        {
+          "Tên ngành": "Công nghệ Chế tạo máy",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm thi THPT và học bạ"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm thi THPT và học bạ"
+        },
+        {
+          "Tên ngành": "Công nghệ Kỹ thuật Nhiệt (Nhiệt – Điện lạnh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm thi THPT và học bạ"
+        },
+        {
+          "Tên ngành": "Công nghệ Kỹ thuật Điện – Điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm thi THPT và học bạ"
+        },
+        {
+          "Tên ngành": "Công nghệ Kỹ thuật Điều khiển – Tự động hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm thi THPT và học bạ"
+        },
+        {
+          "Tên ngành": "Công nghệ Thực phẩm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm thi THPT và học bạ"
+        },
+        {
+          "Tên ngành": "Công nghệ và kinh doanh thực phẩm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm thi THPT và học bạ"
+        },
+        {
+          "Tên ngành": "Khoa học thực phẩm và dinh dưỡng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm thi THPT và học bạ"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm thi THPT và học bạ"
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "",
+          "Ghi chú": "Học lực Giỏi lớp 12 hoặc ĐXTN 8.0"
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "",
+          "Ghi chú": "Học lực Khá lớp 12 hoặc ĐXTN 6.5"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm thi THPT và học bạ"
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Điểm thi THPT và học bạ"
+        }
+      ],
+      "row_count": 23
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán định hướng ACCA",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế đồ họa số",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Cơ điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Chế tạo máy",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Kỹ thuật Nhiệt (Nhiệt – Điện lạnh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Kỹ thuật Điện – Điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Kỹ thuật Điều khiển – Tự động hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ và kinh doanh thực phẩm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học thực phẩm và dinh dưỡng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Thực phẩm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 21
+    },
+    {
+      "table_title": "Điểm Đánh giá Tư duy năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán định hướng ACCA",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế đồ họa số",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Chế tạo máy",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Cơ điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Kỹ thuật Nhiệt (Nhiệt – Điện lạnh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Kỹ thuật Điện – Điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Kỹ thuật Điều khiển – Tự động hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học thực phẩm và dinh dưỡng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Thực phẩm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ và kinh doanh thực phẩm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 21
+    },
+    {
+      "table_title": "Điểm xét tuyển kết hợp năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán định hướng ACCA",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế đồ họa số",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Cơ điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Chế tạo máy",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Kỹ thuật Nhiệt (Nhiệt – Điện lạnh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Kỹ thuật Điện – Điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Kỹ thuật Điều khiển – Tự động hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ và kinh doanh thực phẩm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học thực phẩm và dinh dưỡng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Thực phẩm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "0",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 20
+    }
+  ],
+  "table_count": 5,
+  "crawled_at": "2025-07-18T23:33:04.355810",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-cong-nghe-dong-a-DDA.html"
+}

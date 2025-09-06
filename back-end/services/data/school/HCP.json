@@ -1,0 +1,549 @@
+{
+  "school_code": "HCP",
+  "school_name": "Học Viện Chính Sách và Phát Triển",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D07; D10",
+          "Điểm chuẩn": "33.05",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24.83",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế phát triển",
+          "Tổ hợp môn": "A00; A01; C02; D01",
+          "Điểm chuẩn": "25.43",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.01",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế đối ngoại chất lượng cao giảng dạy bằng Tiếng Anh",
+          "Tổ hợp môn": "A01; D01; D07; D10",
+          "Điểm chuẩn": "32.85",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Kinh tế số",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.43",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "C00; A01; D01; D09",
+          "Điểm chuẩn": "25.57",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24.68",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh chất lượng cao giảng dạy bằng Tiếng Anh",
+          "Tổ hợp môn": "A01; D01; D07; D10",
+          "Điểm chuẩn": "33.33",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính chất lượng cao giảng dạy bằng Tiếng Anh",
+          "Tổ hợp môn": "A01; D01; D07; D10",
+          "Điểm chuẩn": "33.3",
+          "Ghi chú": "Thang điểm 40"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.84",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "C00; A01; D01; D09",
+          "Điểm chuẩn": "27.43",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 13
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D07; D10",
+          "Điểm chuẩn": "35",
+          "Ghi chú": "Lớp 11 và HK 1 lớp 12"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D07; D10",
+          "Điểm chuẩn": "36.5",
+          "Ghi chú": "2 Học kì lớp 12"
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.52",
+          "Ghi chú": "Lớp 11 và HK 1 lớp 12"
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "2 Học kì lớp 12"
+        },
+        {
+          "Tên ngành": "Kinh tế phát triển",
+          "Tổ hợp môn": "A00; A01; C02; D01",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Lớp 11 và HK 1 lớp 12"
+        },
+        {
+          "Tên ngành": "Kinh tế phát triển",
+          "Tổ hợp môn": "A00; A01; C02; D01",
+          "Điểm chuẩn": "26.8",
+          "Ghi chú": "2 Học kì lớp 12"
+        },
+        {
+          "Tên ngành": "Kinh tế quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "2 Học kì lớp 12"
+        },
+        {
+          "Tên ngành": "Kinh tế quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.52",
+          "Ghi chú": "Lớp 11 và HK 1 lớp 12"
+        },
+        {
+          "Tên ngành": "Kinh tế quốc tế chất lượng cao giảng dạy bằng Tiếng Anh",
+          "Tổ hợp môn": "A01; D01; D07; D10",
+          "Điểm chuẩn": "33",
+          "Ghi chú": "Lớp 11 và HK 1 lớp 12"
+        },
+        {
+          "Tên ngành": "Kinh tế quốc tế chất lượng cao giảng dạy bằng Tiếng Anh",
+          "Tổ hợp môn": "A01; D01; D07; D10",
+          "Điểm chuẩn": "33.56",
+          "Ghi chú": "2 Học kì lớp 12"
+        },
+        {
+          "Tên ngành": "Kinh tế số",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.3",
+          "Ghi chú": "2 Học kì lớp 12"
+        },
+        {
+          "Tên ngành": "Kinh tế số",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.2",
+          "Ghi chú": "Lớp 11 và HK 1 lớp 12"
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "C00; A01; D01; D09",
+          "Điểm chuẩn": "26.3",
+          "Ghi chú": "Lớp 11 và HK 1 lớp 12"
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "C00; A01; D01; D09",
+          "Điểm chuẩn": "26.3",
+          "Ghi chú": "2 Học kì lớp 12"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.52",
+          "Ghi chú": "Lớp 11 và HK 1 lớp 12"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "2 Học kì lớp 12"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh chất lượng cao giảng dạy bằng Tiếng Anh",
+          "Tổ hợp môn": "A01; D01; D07; D10",
+          "Điểm chuẩn": "33.56",
+          "Ghi chú": "2 Học kì lớp 12"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh chất lượng cao giảng dạy bằng Tiếng Anh",
+          "Tổ hợp môn": "A01; D01; D07; D10",
+          "Điểm chuẩn": "33",
+          "Ghi chú": "Lớp 11 và HK 1 lớp 12"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.11",
+          "Ghi chú": "Lớp 11 và HK 1 lớp 12"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": "2 Học kì lớp 12"
+        },
+        {
+          "Tên ngành": "Tài chính ngân hàng chất lượng cao giảng dạy bằng Tiếng Anh",
+          "Tổ hợp môn": "A01; D01; D07; D10",
+          "Điểm chuẩn": "32.11",
+          "Ghi chú": "2 Học kì lớp 12"
+        },
+        {
+          "Tên ngành": "Tài chính ngân hàng chất lượng cao giảng dạy bằng Tiếng Anh",
+          "Tổ hợp môn": "A01; D01; D07; D10",
+          "Điểm chuẩn": "32",
+          "Ghi chú": "Lớp 11 và HK 1 lớp 12"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.3",
+          "Ghi chú": "2 Học kì lớp 12"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.3",
+          "Ghi chú": "Lớp 11 và HK 1 lớp 12"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Lớp 11 và HK 1 lớp 12"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": "2 Học kì lớp 12"
+        }
+      ],
+      "row_count": 26
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế phát triển",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế quốc tế chất lượng cao giảng dạy bằng Tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế số",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh chất lượng cao giảng dạy bằng Tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính ngân hàng chất lượng cao giảng dạy bằng Tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.1",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 13
+    },
+    {
+      "table_title": "Điểm Đánh giá Tư duy năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kinh tế quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế số",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.4",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 2
+    },
+    {
+      "table_title": "Điểm xét tuyển kết hợp năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D07; D10",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": "Học bạ và giải HSG cấp Tỉnh/Thành phố"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D07; D10",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.8",
+          "Ghi chú": "Học bạ và giải HSG cấp Tỉnh/Thành phố"
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Kinh tế phát triển",
+          "Tổ hợp môn": "A00; A01; C02; D01",
+          "Điểm chuẩn": "27.1",
+          "Ghi chú": "Học bạ và giải HSG cấp Tỉnh/Thành phố"
+        },
+        {
+          "Tên ngành": "Kinh tế phát triển",
+          "Tổ hợp môn": "A00; A01; C02; D01",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Kinh tế quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.1",
+          "Ghi chú": "Học bạ và giải HSG cấp Tỉnh/Thành phố"
+        },
+        {
+          "Tên ngành": "Kinh tế quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Kinh tế quốc tế chất lượng cao giảng dạy bằng Tiếng Anh",
+          "Tổ hợp môn": "A01; D01; D07; D10",
+          "Điểm chuẩn": "27.1",
+          "Ghi chú": "Học bạ và giải HSG cấp Tỉnh/Thành phố"
+        },
+        {
+          "Tên ngành": "Kinh tế quốc tế chất lượng cao giảng dạy bằng Tiếng Anh",
+          "Tổ hợp môn": "A01; D01; D07; D10",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Kinh tế số",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.8",
+          "Ghi chú": "Học bạ và giải HSG cấp Tỉnh/Thành phố"
+        },
+        {
+          "Tên ngành": "Kinh tế số",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "C00; A01; D01; D09",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Học bạ và giải HSG cấp Tỉnh/Thành phố"
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "C00; A01; D01; D09",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.65",
+          "Ghi chú": "Học bạ và giải HSG cấp Tỉnh/Thành phố"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh chất lượng cao giảng dạy bằng Tiếng Anh",
+          "Tổ hợp môn": "A01; D01; D07; D10",
+          "Điểm chuẩn": "27.3",
+          "Ghi chú": "Học bạ và giải HSG cấp Tỉnh/Thành phố"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh chất lượng cao giảng dạy bằng Tiếng Anh",
+          "Tổ hợp môn": "A01; D01; D07; D10",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.1",
+          "Ghi chú": "Học bạ và giải HSG cấp Tỉnh/Thành phố"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.3",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Tài chính ngân hàng chất lượng cao giảng dạy bằng Tiếng Anh",
+          "Tổ hợp môn": "A01; D01; D07; D10",
+          "Điểm chuẩn": "28.55",
+          "Ghi chú": "Học bạ và giải HSG cấp Tỉnh/Thành phố"
+        },
+        {
+          "Tên ngành": "Tài chính ngân hàng chất lượng cao giảng dạy bằng Tiếng Anh",
+          "Tổ hợp môn": "A01; D01; D07; D10",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.8",
+          "Ghi chú": "Học bạ và giải HSG cấp Tỉnh/Thành phố"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Học bạ và giải HSG cấp Tỉnh/Thành phố"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28.1",
+          "Ghi chú": "Học bạ và CCQT"
+        }
+      ],
+      "row_count": 26
+    }
+  ],
+  "table_count": 5,
+  "crawled_at": "2025-07-18T23:25:50.978838",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-chinh-sach-va-phat-trien-HCP.html"
+}

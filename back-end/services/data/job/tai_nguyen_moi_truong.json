@@ -1,0 +1,1642 @@
+{
+  "nhom_nganh": "Tài nguyên - Môi trường",
+  "danh_sach_nganh": [
+    {
+      "ten_nganh": "Tài nguyên và Du lịch sinh thái",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Nông Lâm TPHCM - NLS",
+          "data_school": [
+            {
+              "ten_nganh": "Tài nguyên và du lịch sinh thái",
+              "to_hop_mon": "A00, B00, B02, D01, D07, D08",
+              "diem_chuan_2024": "19.5",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Công nghệ kĩ thuật môi trường",
+      "data": [
+        {
+          "ten_truong": "Trường Đại học Thủ Đô Hà Nội - HNM",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kĩ thuật môi trường",
+              "to_hop_mon": "C01; C02; C04; D01; D04",
+              "diem_chuan_2024": "18.9",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp Hà Nội - DCN",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật môi trường",
+              "to_hop_mon": "A00; B00; C02; D07",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp TPHCM - IUH",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật môi trường",
+              "to_hop_mon": "A00; B00; C02; D07; X11",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Thương TPHCM - DCT",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật môi trường",
+              "to_hop_mon": "A00; A01; B00; D07",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Tự Nhiên TPHCM - QST",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ Kỹ thuật Môi trường",
+              "to_hop_mon": "A00; B00; D07; A01; A02; A06; B02; B08; C02; X11; X12; X15; X16; B03; X06; X10; X14",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tôn Đức Thắng - DTT",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật môi trường (Chuyên ngành cấp thoát nước và môi trường nước)",
+              "to_hop_mon": "A00; A01; B00; B03; B08; C01; C02; D07",
+              "diem_chuan_2024": "22",
+              "diem_chuan_2023": "22"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Tự Nhiên Hà Nội - QHT",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật môi trường",
+              "to_hop_mon": "A00; A01; A02; B00; B03; C01; C02; D01; D07; D08; X09; X10; X11; X12; X13; X14; X15; X16",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "20"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sài Gòn - SGD",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật môi trường",
+              "to_hop_mon": "A00; A01; A02; A03; A04; A05; A06; A07; B00; B01; B02; B03; B08; C01; C02; C03; C04; D01; D07; D09; D10; X01; X02; X03; X04; X05; X06; X07; X08; X09; X10; X11; X12; X13; X14; X15; X16; X17; X18; X19; X20; X21; X22; X23; X24; X25; X26; X27; X28; X53; X54",
+              "diem_chuan_2024": "21.37",
+              "diem_chuan_2023": "18.26"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật TPHCM - SPK",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ Kỹ thuật môi trường (đào tạo bằng tiếng Việt)",
+              "to_hop_mon": "A00; B00; C02; D07",
+              "diem_chuan_2024": "22",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học An Giang - QSA",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật môi trường",
+              "to_hop_mon": "A05; B00; B03; C01; C02; C04",
+              "diem_chuan_2024": "16.2",
+              "diem_chuan_2023": "19.48"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Tài Nguyên và Môi Trường Hà Nội - DMT",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật môi trường",
+              "to_hop_mon": "A00; B00; A01; D01; C03; C04; X03; X04; B03; X02; D08; D07; A11",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công nghệ Giao thông vận tải - GTA",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ và quản lý môi trường",
+              "to_hop_mon": "A00; A01; C01; C02; D01; D07; X02; X03; X26; X27",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Điện Lực - DDL",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật môi trường",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "19.5",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Doanh và Công Nghệ Hà Nội - DQK",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật môi trường",
+              "to_hop_mon": "B00; A00; B03; C02; X07; X11; X05; X06",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Sư phạm Kỹ thuật - Đại học Đà Nẵng - DSK",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật môi trường",
+              "to_hop_mon": "A00; A01; B00; D01; C02; D07",
+              "diem_chuan_2024": "17.05",
+              "diem_chuan_2023": "15.7"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Khoa Quốc tế - Đại học Huế - DHI",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật môi trường",
+              "to_hop_mon": "C03; C04; D01; D09; D10",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Duy Tân - DDT",
+          "data_school": [
+            {
+              "ten_nganh": "Ngành Công nghệ Kỹ thuật Môi trường",
+              "to_hop_mon": "A00; A02; B00; B03; C01; C02",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "14"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Lang - DVL",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật môi trường",
+              "to_hop_mon": "A00; A01; B00; D01; D07",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ Đồng Nai - DCD",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật môi trường",
+              "to_hop_mon": "A00; A07; B00; B04; B08; D01; D09; D10",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Tài Nguyên và Môi Trường TPHCM - DTM",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật môi trường",
+              "to_hop_mon": "C01; C02; C03; B03; D01; X01; X03; X04; X02",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp Việt Trì - VUI",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật môi trường",
+              "to_hop_mon": "A00; A01; D01; (Toán, Tin, Công nghệ); (Toán; Lí, Tin); B00",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đà Lạt - TDL",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ Kỹ thuật môi trường",
+              "to_hop_mon": "A00; D07; X10; X11; X12; X09; A06; A02; B08; X13; X14; X15; X16; B02",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kiên Giang - TKG",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật môi trường (chuyên ngành Cấp thoát nước và môi trường nước)",
+              "to_hop_mon": "A00; A07; A09; C03; C04; D01",
+              "diem_chuan_2024": "14.4",
+              "diem_chuan_2023": "14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Khoa học môi trường",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Tự Nhiên TPHCM - QST",
+          "data_school": [
+            {
+              "ten_nganh": "Khoa học Môi trường",
+              "to_hop_mon": "A00; B00; D07; A01; A02; A06; B02; B08; C02; X11; X12; X15; X16; B03; X06; X10; X14",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tôn Đức Thắng - DTT",
+          "data_school": [
+            {
+              "ten_nganh": "Khoa học môi trường",
+              "to_hop_mon": "A00; A01; B00; B03; B08; C01; C02; D07",
+              "diem_chuan_2024": "22",
+              "diem_chuan_2023": "22"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Nông Nghiệp Việt Nam - HVN",
+          "data_school": [
+            {
+              "ten_nganh": "Khoa học Môi trường",
+              "to_hop_mon": "A00; A01; B00; C03; C04; D01; D07; X01; X07; X08",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "16.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Tự Nhiên Hà Nội - QHT",
+          "data_school": [
+            {
+              "ten_nganh": "Khoa học môi trường",
+              "to_hop_mon": "A00; A01; A02; B00; B03; C01; C02; D01; D07; D08; X09; X10; X11; X12; X13; X14; X15; X16",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "20"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Khoa học môi trường",
+              "to_hop_mon": "A00; A02; B00; D07",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "20"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sài Gòn - SGD",
+          "data_school": [
+            {
+              "ten_nganh": "Khoa học môi trường",
+              "to_hop_mon": "A00; A01; A02; A03; A04; A05; A06; A07; B00; B01; B02; B03; B08; C01; C02; C03; C04; D01; D07; D09; D10; X01; X02; X03; X04; X05; X06; X07; X08; X09; X10; X11; X12; X13; X14; X15; X16; X17; X18; X19; X20; X21; X22; X23; X24; X25; X26; X27; X28; X53; X54",
+              "diem_chuan_2024": "21.17",
+              "diem_chuan_2023": "17.91"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đồng Tháp - SPD",
+          "data_school": [
+            {
+              "ten_nganh": "Khoa học môi trường",
+              "to_hop_mon": "A00; B00; B03; C02; D07; D08",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hà Tĩnh - HHT",
+          "data_school": [
+            {
+              "ten_nganh": "An toàn, sức khoẻ và môi trường\r\n(Khoa học môi trường)",
+              "to_hop_mon": "A00; B00; B03; C01; C02; C04; C14; D01; D07; X01.",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Bạc Liêu - DBL",
+          "data_school": [
+            {
+              "ten_nganh": "Khoa học môi trường\r\n(KHMT và BV môi trường thủy sản)",
+              "to_hop_mon": "B00; B03; C01; C02; C03; C04; D01; X04; X14; X16",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Và Công Nghệ Hà Nội - KCN",
+          "data_school": [
+            {
+              "ten_nganh": "Khoa học môi trường Ứng dụng",
+              "to_hop_mon": "A00; B00; D07; A06; X10; X11; X12; D08; B02; X14; X15; X16",
+              "diem_chuan_2024": "18.65",
+              "diem_chuan_2023": "18.55"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nông Lâm TPHCM - NLS",
+          "data_school": [
+            {
+              "ten_nganh": "Khoa học môi trường",
+              "to_hop_mon": "A00, A01, A02, B00, D07, D08",
+              "diem_chuan_2024": "17.25",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Lạc Hồng - DLH",
+          "data_school": [
+            {
+              "ten_nganh": "Khoa học môi trường",
+              "to_hop_mon": "D01; A00; X08; B00; D07; B08",
+              "diem_chuan_2024": "16.1",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Huế - DHT",
+          "data_school": [
+            {
+              "ten_nganh": "Khoa học môi trường",
+              "to_hop_mon": "A00; B00; C14; D10; X01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nông Lâm Thái Nguyên - DTN",
+          "data_school": [
+            {
+              "ten_nganh": "Khoa học môi trường",
+              "to_hop_mon": "A00; A07; A09; B00; C00; C02; C04; C20; D01; D14",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Kỹ thuật môi trường",
+      "data": [
+        {
+          "ten_truong": "Đại Học Bách Khoa Hà Nội - BKA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật Môi trường",
+              "to_hop_mon": "A00; B00; B03; C01; C02; D07; X02",
+              "diem_chuan_2024": "22.1",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Giao Thông Vận Tải - GHA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật môi trường",
+              "to_hop_mon": "A00; B00; D01; D07; X06",
+              "diem_chuan_2024": "22.25",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thủ Dầu Một - TDM",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật môi trường",
+              "to_hop_mon": "A00; B00; B02; B03; B08; C02; D07; X09; X10; X12",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thủy Lợi - TLA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật môi trường",
+              "to_hop_mon": "A00; A01; D01; D07; C01; C02; X02 (Toán, Văn, Tin); X10 (Toán, Hóa, Tin)",
+              "diem_chuan_2024": "21.7",
+              "diem_chuan_2023": "20.05"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật môi trường",
+              "to_hop_mon": "A00; A01; B00; D07",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "20.2"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Bách Khoa Đà Nẵng - DDK",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật môi trường",
+              "to_hop_mon": "A00; A01; B00; D07; D08; X11",
+              "diem_chuan_2024": "18",
+              "diem_chuan_2023": "17.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nha Trang - TSN",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật môi trường (02 chuyên ngành: Kỹ thuật môi trường; Quản lý môi trường và an toàn vệ sinh lao động)",
+              "to_hop_mon": "(Toán, Văn, Anh, Sinh); (Toán, Văn, Anh, Hóa); B03; C02; X03; X04; D01",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hàng Hải Việt Nam - HHA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật môi trường",
+              "to_hop_mon": "A00; A01; C01; C02; D01; X02",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "21.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Trà Vinh - DVT",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật môi trường",
+              "to_hop_mon": "A01; A02; B00; B08; X06; X10; X14",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nông Lâm TPHCM - NLS",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật môi trường",
+              "to_hop_mon": "A00, A01, B00, D08, D07, X28",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Xây Dựng Hà Nội - XDA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật Môi trường",
+              "to_hop_mon": "A00; A01; A02; B00; C01; C02; D07; X06 (Toán, Lí, Tin); X14 (Toán, Sinh, Tin)",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Mỏ Địa Chất - MDA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật môi trường",
+              "to_hop_mon": "A00; B00; C04; D01; A09; C01; A01; A04",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kỹ Thuật Công Nghiệp Thái Nguyên - DTK",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật môi trường",
+              "to_hop_mon": "A00; A01; C01; C02; D01; D07",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Hiến - DVH",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật môi trường",
+              "to_hop_mon": "A00; A01; D01; X01; X06; X25; X26; X54",
+              "diem_chuan_2024": "15.95",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Quản lý và Công nghệ Hải Phòng - HPU",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật môi trường",
+              "to_hop_mon": "(Toán, 2 môn bất kì)",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Xây Dựng Miền Tây - MTU",
+          "data_school": [
+            {
+              "ten_nganh": "Nhóm ngành Kỹ thuật môi trường",
+              "to_hop_mon": "A00; A01; A02; A04; A06; A10; A11; B00; C01; D01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Kỹ thuật cấp thoát nước",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Thủy Lợi - TLA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cấp thoát nước",
+              "to_hop_mon": "A00; A01; D01; D07; C01; C02; X02 (Toán, Văn, Tin); X06 (Toán, Lí, Tin)",
+              "diem_chuan_2024": "20.5",
+              "diem_chuan_2023": "18.15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cấp thoát nước",
+              "to_hop_mon": "A00; A01; B08; D07",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "20"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kiến Trúc Hà Nội - KTA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cấp thoát nước",
+              "to_hop_mon": "A00; C01; C02; D01; (Toán, Văn, Công nghệ)",
+              "diem_chuan_2024": "21.15",
+              "diem_chuan_2023": "21.45"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Xây Dựng Hà Nội - XDA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng công trình Giao thông/ Đường sắt tốc độ cao và đường sắt đô thị",
+              "to_hop_mon": "A00; A01; C01; D01; D07; X06 (Toán, Lí, Tin)",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Tài Nguyên và Môi Trường TPHCM - DTM",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cấp thoát nước",
+              "to_hop_mon": "C01; C02; C03; B03; D01; X01; X03; X04; X02",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Xây Dựng Miền Tây - MTU",
+          "data_school": [
+            {
+              "ten_nganh": "Nhom ngành Kỹ thuật cấp thoát nước (Kỹ sư)",
+              "to_hop_mon": "A00; A01; A02; A04; A06; A10; A11; B00; C01; D01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Xây Dựng Miền Trung - XDT",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cấp thoát nước",
+              "to_hop_mon": "A00; A01; C01; D01; D07; X02; X03; X26; X27; X56",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Quản lý tài nguyên rừng",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Lâm nghiệp - LNH",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý tài nguyên rừng(Kiểm lâm)",
+              "to_hop_mon": "D01; B03; C02; (Toán, Văn, Tin); (Toán, Văn, Công nghệ); C01; C04; C03; C14; A07",
+              "diem_chuan_2024": "15.3",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Phân hiệu Đại Học Lâm nghiệp tại Đồng Nai - LNS",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý tài nguyên rừng",
+              "to_hop_mon": "D01; B03; C02; X02; X03; X04; B00",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nông Lâm Huế - DHL",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý tài nguyên rừng",
+              "to_hop_mon": "A00; B00; C03; C04; C14; X01; X04",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nông Lâm Thái Nguyên - DTN",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý tài nguyên rừng",
+              "to_hop_mon": "A00; A07; A09; B00; C00; C02; C04; C20; D01; D14",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Nông Lâm Bắc Giang - DBG",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý tài nguyên rừng",
+              "to_hop_mon": "A00; A01; A07; B00; C03; D07; D08; X13; X15; X16; D30; D25; D35",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Bắc - TTB",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý tài nguyên rừng",
+              "to_hop_mon": "A02; B00; B03; B08; X13; X14; X16; D01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Quản lý đất đai",
+      "data": [
+        {
+          "ten_truong": "Đại Học Kinh Tế Quốc Dân - KHA",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý đất đai",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "26.85",
+              "diem_chuan_2023": "26.55"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp TPHCM - IUH",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý đất đai gồm 02 chuyên ngành: Quản lý đất đai; Kinh tế tài nguyên thiên nhiên.",
+              "to_hop_mon": "B03; C02; D01; X01; X04",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thủ Dầu Một - TDM",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý đất đai",
+              "to_hop_mon": "A00; A01; B00; B02; B03; B08; C02; D01; D07; X12",
+              "diem_chuan_2024": "15.5",
+              "diem_chuan_2023": "15.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Nông Nghiệp Việt Nam - HVN",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý đất đai, Bất động sản và Môi trường",
+              "to_hop_mon": "A00; A01; A07; C01; C02; C03; C04; D01; X01",
+              "diem_chuan_2024": "16.5",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Tự Nhiên Hà Nội - QHT",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý đất đai",
+              "to_hop_mon": "A00; A01; A04; A06; A07; B00; B02; C04; D01; D10; D20; X01; X21; X25",
+              "diem_chuan_2024": "23",
+              "diem_chuan_2023": "20.9"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý đất đai",
+              "to_hop_mon": "A00; A01; B00; D07",
+              "diem_chuan_2024": "21.7",
+              "diem_chuan_2023": "20.45"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Vinh - TDV",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý đất đai (Chuyên ngành: Quản lý đất đai; Quản lý phát triển đô thị và bất động sản)",
+              "to_hop_mon": "A00; A09; C04; C14; D01",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đồng Tháp - SPD",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý đất đai",
+              "to_hop_mon": "A00; A01; B00; C01; C02; D07",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Nguyên - TTN",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý đất đai",
+              "to_hop_mon": "A00; A01; A02; B00; X08",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quy Nhơn - DQN",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý đất đai",
+              "to_hop_mon": "A00; A01; A02; A04; A06; B00; D07; D10; X05; X09; X21",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Tài Nguyên và Môi Trường Hà Nội - DMT",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý đất đai",
+              "to_hop_mon": "A00; A01; C00; D01; C01; C02; X03; X04; B03; C03; C04; C14; X02",
+              "diem_chuan_2024": "22.5",
+              "diem_chuan_2023": "21.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nông Lâm TPHCM - NLS",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý đất đai",
+              "to_hop_mon": "A00, A01, C01, C04, D01, X01",
+              "diem_chuan_2024": "21.25",
+              "diem_chuan_2023": "18.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Mỏ Địa Chất - MDA",
+          "data_school": [
+            {
+              "ten_nganh": "Quản Lí đất đai",
+              "to_hop_mon": "A00; A01; C04; D01; D10; A09",
+              "diem_chuan_2024": "23.1",
+              "diem_chuan_2023": "19.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Nam Cần Thơ - DNC",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý đất đai",
+              "to_hop_mon": "A00; A02; B00; C03; C04; C08; D01; D66; X05",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Đô - DTD",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý đất đai",
+              "to_hop_mon": "A00; A01; B00; D01; X06; X10",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thành Đông - DDB",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý đất đai",
+              "to_hop_mon": "A00; A04; B00; D01",
+              "diem_chuan_2024": "14",
+              "diem_chuan_2023": "14"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kinh Tế Nghệ An - CEA",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý đất đai",
+              "to_hop_mon": "A00; A01; C03; D01",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Lâm nghiệp - LNH",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý đất đai",
+              "to_hop_mon": "C04; D01; C14; (Toán, Văn, Tin); K01; D15; D14; (Toán, Văn, Công nghệ); C20; D66",
+              "diem_chuan_2024": "15.7",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hồng Đức - HDT",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý đất đai",
+              "to_hop_mon": "B03; C01; C02; C04; C14",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Phân hiệu Đại Học Lâm nghiệp tại Đồng Nai - LNS",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý đất đai",
+              "to_hop_mon": "D01; C01; X02; X03; X04; A00; A01",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Tài Nguyên và Môi Trường TPHCM - DTM",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý đất đai",
+              "to_hop_mon": "B03; C01; C02; C03; C04; D01; X01; X02",
+              "diem_chuan_2024": "17.5",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nông Lâm Huế - DHL",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý đất đai",
+              "to_hop_mon": "A01; C00; C01; C03; C04; C14; D01; X01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nông Lâm Thái Nguyên - DTN",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý đất đai",
+              "to_hop_mon": "A00; A07; A09; B00; C00; C02; C04; C20; D01; D14",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Phân hiệu Đại học Lâm nghiệp tỉnh Gia Lai - LNA",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý đất đai",
+              "to_hop_mon": "C04; D01; C14; (Toán, Văn, Tin); (Toán, Anh, Tin); D15; D14; (Toán, Văn, Công nghệ); C20; D66",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Nông Lâm Bắc Giang - DBG",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý đất đai",
+              "to_hop_mon": "A00; A01; D01; C03; С04; X01; D07; X11; X12; A07; D30; D04; D25",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Quản lý tài nguyên và môi trường",
+      "data": [
+        {
+          "ten_truong": "Đại Học Kinh Tế Quốc Dân - KHA",
+          "data_school": [
+            {
+              "ten_nganh": "Quàn lý tài nguyên và môi trường",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "26.76",
+              "diem_chuan_2023": "26.4"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Bách Khoa Hà Nội - BKA",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý Tài nguyên và Môi trường",
+              "to_hop_mon": "A00; B00; B03; C01; C02; D07; X02",
+              "diem_chuan_2024": "21.78",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp TPHCM - IUH",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý tài nguyên và môi trường",
+              "to_hop_mon": "A04; A07; B02; C04; D10",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Thương TPHCM - DCT",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý tài nguyên và môi trường",
+              "to_hop_mon": "A00; A01; B00; D07",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thủ Dầu Một - TDM",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý tài nguyên và môi trường",
+              "to_hop_mon": "A00; A01; B00; B02; B03; B08; C02; D01; D07; X12",
+              "diem_chuan_2024": "18.5",
+              "diem_chuan_2023": "15.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Tự Nhiên TPHCM - QST",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý tài nguyên và môi trường",
+              "to_hop_mon": "A00; B00; D07; A01; A02; A06; B02; B08; C02; X11; X12; X15; X16; B03; X06; X10; X14",
+              "diem_chuan_2024": "22",
+              "diem_chuan_2023": "18.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Tự Nhiên Hà Nội - QHT",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý tài nguyên và môi trường",
+              "to_hop_mon": "A00; A01; A04; A06; A07; B00; B03; C01; C02; C04; D01; D07; D08; D09; D10; X01; X05; X09; X21; X25",
+              "diem_chuan_2024": "21.5",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý tài nguyên và môi trường",
+              "to_hop_mon": "A00; A01; B00; D07",
+              "diem_chuan_2024": "18",
+              "diem_chuan_2023": "19.8"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm - Đại Học Đà Nẵng - DDS",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý tài nguyên và môi trường",
+              "to_hop_mon": "B03; C04; X04; D01; C02",
+              "diem_chuan_2024": "21.15",
+              "diem_chuan_2023": "15.9"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Bách Khoa Đà Nẵng - DDK",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý tài nguyên và môi trường",
+              "to_hop_mon": "A00; A01; B00; D07; D08; X11",
+              "diem_chuan_2024": "18.45",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Vinh - TDV",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý tài nguyên và môi trường",
+              "to_hop_mon": "A00; A09; C03; C14; D01",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học An Giang - QSA",
+          "data_school": [
+            {
+              "ten_nganh": "Quản Lí tài nguyên và môi trường",
+              "to_hop_mon": "A05; A06; B00; B02; C04; D01",
+              "diem_chuan_2024": "21.41",
+              "diem_chuan_2023": "20.88"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đồng Tháp - SPD",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý tài nguyên và môi trường",
+              "to_hop_mon": "A00; B00; B03; C02; D07; D08",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quy Nhơn - DQN",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý tài nguyên và môi trường",
+              "to_hop_mon": "A00; A02; A04; A06; B00; B02; C04; C13; D01; D10; D15; X21; X74",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hạ Long - HLU",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý tài nguyên và môi trường",
+              "to_hop_mon": "A00; B00; B02; D01; D10; X01; X21; X25",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quảng Bình - DQB",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý Tài nguyên và Môi trường",
+              "to_hop_mon": "D01; C01; B03; C02; X02; X04; C03; X01; X17; X21",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Tài Nguyên và Môi Trường Hà Nội - DMT",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý tài nguyên và Môi trường",
+              "to_hop_mon": "A00; A01; C00; D01; C01; C02; X03; X04; B03; C03; C04; C14; X02",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Trà Vinh - DVT",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý tài nguyên và môi trường",
+              "to_hop_mon": "A00; B00; B02; B08; X06; X10; X14",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nông Lâm TPHCM - NLS",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý tài nguyên và môi trường",
+              "to_hop_mon": "A00, A01, B00, D08, D01, D07",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "16.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Mỏ Địa Chất - MDA",
+          "data_school": [
+            {
+              "ten_nganh": "Quản Lí Tài nguyên và môi trường",
+              "to_hop_mon": "A00; B00; C04; D01; A09; D10; A07; C14",
+              "diem_chuan_2024": "21.5",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Doanh và Công Nghệ Hà Nội - DQK",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý tài nguyên và môi trường",
+              "to_hop_mon": "A00; B00; A06; D12; X13; X62; X01; D07",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nguyễn Tất Thành - NTT",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý tài nguyên và môi trường",
+              "to_hop_mon": "A00; B00; D01; C02",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Duy Tân - DDT",
+          "data_school": [
+            {
+              "ten_nganh": "Ngành Quản lý Tài nguyên & Môi trường",
+              "to_hop_mon": "A00; A02; B00; B03; C01; C02",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công Nghệ TPHCM - DKC",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý tài nguyên và môi trường",
+              "to_hop_mon": "D01; C02; B03; C01; (Toán, Văn, Tin); X01",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Lâm nghiệp - LNH",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý tài nguyên và Môi trường",
+              "to_hop_mon": "D01; B03; C02; (Toán, Văn, Tin); (Toán, Văn, Công nghệ); C01; C04; C03; C14; A07",
+              "diem_chuan_2024": "16.3",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Huế - DHT",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý tài nguyên và môi trường",
+              "to_hop_mon": "A09; C04; C14; D01; X01; X21",
+              "diem_chuan_2024": "15.5",
+              "diem_chuan_2023": "15.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Thái Nguyên - DTZ",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý tài nguyên và môi trường",
+              "to_hop_mon": "A00; B00; C02; C04; C08; C10; C14; C17; C20; D01",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Phân hiệu Đại Học Lâm nghiệp tại Đồng Nai - LNS",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lí tài nguyên & môi trường",
+              "to_hop_mon": "D01; B03; C02; X02; X03; X04; B00",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Tài Nguyên và Môi Trường TPHCM - DTM",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý tài nguyên và môi trường",
+              "to_hop_mon": "C02; C03; C04; B03; D01; X02; X03; X04; X01",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Khoa Quốc Tế - Đại Học Thái Nguyên - DTQ",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý tài nguyên và môi trường",
+              "to_hop_mon": "B00; B02; B08; D01; D10; D04; D07; C02",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nông Lâm Thái Nguyên - DTN",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý tài nguyên và môi trường",
+              "to_hop_mon": "A00; A07; A09; B00; C00; C02; C04; C20; D01; D14",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Nông Lâm Bắc Giang - DBG",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý tài nguyên và môi trường",
+              "to_hop_mon": "A00; A01; D01; C03; С04; X01; D07; X11; X12; A07; D30; D04; D25",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Bắc - TTB",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý tài nguyên & môi trường",
+              "to_hop_mon": "A00; A01; A02; A04; B00; X01; X05; X06",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Phân Hiệu Đại Học Thái Nguyên Tại Lào Cai - DTP",
+          "data_school": [
+            {
+              "ten_nganh": "QL Tài nguyên và Môi trường",
+              "to_hop_mon": "B03; C01; C02; D01",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kiên Giang - TKG",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý tài nguyên và môi trường (chuyên ngành Quản lý tài nguyên đất đai)",
+              "to_hop_mon": "A09; C00; C04; C20; D01; D15",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Tài nguyên và Môi trường",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Tự Nhiên Hà Nội - QHT",
+          "data_school": [
+            {
+              "ten_nganh": "Tài nguyên và môi trường nước",
+              "to_hop_mon": "A00; A01; A02; A04; A06; B00; B02; B03; B08; C01; C02; C04; D01; D07; D10; X26",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Quản lý tài nguyên",
+      "data": [
+        {
+          "ten_truong": "Trường Khoa học liên ngành và Nghệ thuật Hà Nội - QHK",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị tài nguyên di sản",
+              "to_hop_mon": "A01; C00; C03; C04; D01; D03; D04; D14; D15; D29; D30; D44; D45; D64; D65; X01; X70; X74; X78; X86; X90",
+              "diem_chuan_2024": "24.1",
+              "diem_chuan_2023": "22.45"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Tài Nguyên và Môi Trường Hà Nội - DMT",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý tài nguyên nước",
+              "to_hop_mon": "A00; A01; C00; D01; C01; C02; X03; X04; B03; C03; C04; C14; X02",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Lâm nghiệp - LNH",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý tài nguyên thiên nhiên",
+              "to_hop_mon": "D01; B03; C02; (Toán, Văn, Tin); (Toán, Văn, Công nghệ); C01; C04; C03; C14; A07",
+              "diem_chuan_2024": "16.4",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Tài Nguyên và Môi Trường TPHCM - DTM",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý tổng hợp tài nguyên nước",
+              "to_hop_mon": "C01; C02; C03; C04; B03; D01; D04; X01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Bảo hộ, an toàn lao động",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Tôn Đức Thắng - DTT",
+          "data_school": [
+            {
+              "ten_nganh": "Bảo hộ lao động",
+              "to_hop_mon": "A00; A01; B00; B03; B08; C01; C02; D07",
+              "diem_chuan_2024": "22",
+              "diem_chuan_2023": "22"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Tự Nhiên Hà Nội - QHT",
+          "data_school": [
+            {
+              "ten_nganh": "Môi trường, sức khỏe và an toàn",
+              "to_hop_mon": "A00; A01; A02; B00; B03; C01; C02; D01; D07; D08; X09; X10; X11; X12; X13; X14; X15; X16",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "20"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Đoàn - LDA",
+          "data_school": [
+            {
+              "ten_nganh": "Bảo hộ lao động",
+              "to_hop_mon": "A00; A01; A03; C01; D01; X06",
+              "diem_chuan_2024": "15.2",
+              "diem_chuan_2023": "15.15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Mỏ Địa Chất - MDA",
+          "data_school": [
+            {
+              "ten_nganh": "An toàn, vệ sinh lao động",
+              "to_hop_mon": "A00; A01; B03; C02; C03; C04; D01; D10",
+              "diem_chuan_2024": "18",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Huế - DHT",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý an toàn, sức khỏe và môi trường",
+              "to_hop_mon": "A00; B00; C14; D10; X01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Kỹ thuật khí thiên nhiên",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Mỏ Địa Chất - MDA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật khí thiên nhiên",
+              "to_hop_mon": "A00; A01; D07; D01; C02; B00; B02; B08",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Kỹ thuật môi trường đô thị",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Kiến Trúc Hà Nội - KTA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật môi trường đô thị (Chuyên ngành thuộc ngành Kỹ thuật cơ sở hạ tầng)",
+              "to_hop_mon": "A00; C01; C02; D01; (Toán, Văn, Công nghệ)",
+              "diem_chuan_2024": "21.15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Tài nguyên nước và môi trường",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Thủy Lợi - TLA",
+          "data_school": [
+            {
+              "ten_nganh": "Tài nguyên nước và môi trường (Thủy văn học)",
+              "to_hop_mon": "A00; A01; D01; D07; C01; C02; X02 (Toán, Văn, Tin); X06 (Toán, Lí, Tin)",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "19.15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Tự Nhiên Hà Nội - QHT",
+          "data_school": [
+            {
+              "ten_nganh": "Tài nguyên và môi trường nước",
+              "to_hop_mon": "A00; A01; A02; A04; A06; B00; B02; B03; B08; C01; C02; C04; D01; D07; D10; X26",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Quản lý biển",
+      "data": [
+        {
+          "ten_truong": "Trường Đại học Tài Nguyên và Môi Trường Hà Nội - DMT",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý biển",
+              "to_hop_mon": "A00; A01; C00; D01; C01; C02; X03; X04; B03; C03; C04; C14; X02",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

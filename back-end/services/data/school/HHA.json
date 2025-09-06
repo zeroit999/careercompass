@@ -1,0 +1,1767 @@
+{
+  "school_code": "HHA",
+  "school_name": "Trường Đại Học Hàng Hải Việt Nam",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản lý kinh doanh & Marketing",
+          "Tổ hợp môn": "A01; D01; D07; D15",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý kinh doanh TMĐT",
+          "Tổ hợp môn": "A01; D01; D07; D15",
+          "Điểm chuẩn": "22.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế Hàng hải",
+          "Tổ hợp môn": "A01; D01; D07; D15",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế & Logistics",
+          "Tổ hợp môn": "A01; D01; D07; D15",
+          "Điểm chuẩn": "24.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều khiển tàu biển",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khai thác máy tàu biển",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điện tự động giao thông vận tải",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điện tử viễn thông",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điện tự động công nghiệp",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Máy tàu thủy",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế tàu & công trình ngoài khơi",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đóng tàu & công trình ngoài khơi",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Máy & tự động hóa xếp dỡ",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xây dựng công trình thủy",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật an toàn hàng hải",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xây dựng dân dụng & công nghiệp",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công trình giao thông & cơ sở hạ tầng",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật môi trường",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "22.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ phần mềm",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "24.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật truyền thông & mạng máy tính",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "23.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật hàng hải",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tự động hóa hệ thống điện",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật nhiệt lạnh",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tiếng Anh thương mại (TA hệ số 2)",
+          "Tổ hợp môn": "A01; D01; D10; D14",
+          "Điểm chuẩn": "31.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (TA hệ số 2)",
+          "Tổ hợp môn": "A01; D01; D10; D14",
+          "Điểm chuẩn": "32",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật công nghệ hóa học",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc & nội thất",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Máy & tự động công nghiệp",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "22.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý hàng hải",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý công trình xây dựng",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý kỹ thuật công nghiệp",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh doanh",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế vận tải biển",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế ngoại thương",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "25.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị tài chính kế toán",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics & chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "26.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế vận tải thủy",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị tài chính ngân hàng",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "24.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điện tự động công nghiệp (CLC)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (CLC)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế vận tải biển (CLC)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế ngoại thương (CLC)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều khiển tàu biển (Chọn)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khai thác máy tàu biển (Chọn)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 49
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản lý kinh doanh & Marketing",
+          "Tổ hợp môn": "A01; D01; D07; D15",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Chương trình tiên tiến"
+        },
+        {
+          "Tên ngành": "Quản lý kinh doanh thương mại điện tử",
+          "Tổ hợp môn": "A01; D01; D07; D15",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Chương trình tiên tiến"
+        },
+        {
+          "Tên ngành": "Kinh tế Hàng hải",
+          "Tổ hợp môn": "A01; D01; D07; D15",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Chương trình tiên tiến"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế & Logistics",
+          "Tổ hợp môn": "A01; D01; D07; D15",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Chương trình tiên tiến"
+        },
+        {
+          "Tên ngành": "Điều khiển tàu biển",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "25.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khai thác máy tàu biển",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điện tự động giao thông vận tải",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điện tử viễn thông",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "26.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điện tự động công nghiệp",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Máy tàu thủy",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế tàu & công trình ngoài khơi",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đóng tàu & công trình ngoài khơi",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Máy & tự động hóa xếp dỡ",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "24.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xây dựng công trình thủy",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "22.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật an toàn hàng hải",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xây dựng dân dụng & công nghiệp",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "24.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công trình giao thông & cơ sở hạ tầng",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "27.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật môi trường",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ phần mềm",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "27.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật truyền thông & mạng máy tính",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "26.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tự động hóa hệ thống điện",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật nhiệt lạnh",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật công nghệ hóa học",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc & nội thất",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Máy & tự động công nghiệp",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "24.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý hàng hải",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "27.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý công trình xây dựng",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý kỹ thuật công nghiệp",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điện tự động công nghiệp (CLC)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (CLC)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều khiển tàu biển (Chọn)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khai thác máy tàu biển (Chọn)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 36
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản lý kinh doanh & Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý kinh doanh TMĐT",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế Hàng hải",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế & Logistics",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều khiển tàu biển",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khai thác máy tàu biển",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điện tự động giao thông vận tải",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điện tử viễn thông",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điện tự động công nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Máy tàu thủy",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế tàu & công trình ngoài khơi",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đóng tàu & công trình ngoài khơi",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Máy & tự động hóa xếp dỡ",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xây dựng công trình thủy",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật an toàn hàng hải",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xây dựng dân dụng & công nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công trình giao thông & cơ sở hạ tầng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật môi trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ phần mềm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật truyền thông & mạng máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật hàng hải",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tự động hóa hệ thống điện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật ô tô",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật nhiệt lạnh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tiếng Anh thương mại (TA hệ số 2)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (TA hệ số 2)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật công nghệ hóa học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc & nội thất",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Máy & tự động công nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý hàng hải",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý công trình xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý kỹ thuật công nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế vận tải biển",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế ngoại thương",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị tài chính kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics & chuỗi cung ứng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế vận tải thủy",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị tài chính ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điện tự động công nghiệp (CLC)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (CLC)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế vận tải biển (CLC)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế ngoại thương (CLC)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều khiển tàu biển (Chọn)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khai thác máy tàu biển (Chọn)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 49
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản lý kinh doanh & Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý kinh doanh TMĐT",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế Hàng hải",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế & Logistics",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều khiển tàu biển",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khai thác máy tàu biển",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điện tự động giao thông vận tải",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điện tử viễn thông",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điện tự động công nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Máy tàu thủy",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế tàu & công trình ngoài khơi",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đóng tàu & công trình ngoài khơi",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Máy & tự động hóa xếp dỡ",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xây dựng công trình thủy",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật an toàn hàng hải",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xây dựng dân dụng & công nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công trình giao thông & cơ sở hạ tầng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật môi trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ phần mềm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật truyền thông & mạng máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật hàng hải",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tự động hóa hệ thống điện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật ô tô",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật nhiệt lạnh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tiếng Anh thương mại (TA hệ số 2)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (TA hệ số 2)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật công nghệ hóa học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc & nội thất",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Máy & tự động công nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý hàng hải",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý công trình xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý kỹ thuật công nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế vận tải biển",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế ngoại thương",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị tài chính kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics & chuỗi cung ứng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế vận tải thủy",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị tài chính ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điện tự động công nghiệp (CLC)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (CLC)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế vận tải biển (CLC)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế ngoại thương (CLC)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều khiển tàu biển (Chọn)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khai thác máy tàu biển (Chọn)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 49
+    },
+    {
+      "table_title": "Điểm Đánh giá Tư duy năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản lý kinh doanh & Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý kinh doanh TMĐT",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế Hàng hải",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế & Logistics",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều khiển tàu biển",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khai thác máy tàu biển",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điện tự động giao thông vận tải",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điện tử viễn thông",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điện tự động công nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Máy tàu thủy",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế tàu & công trình ngoài khơi",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đóng tàu & công trình ngoài khơi",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Máy & tự động hóa xếp dỡ",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xây dựng công trình thủy",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật an toàn hàng hải",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xây dựng dân dụng & công nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công trình giao thông & cơ sở hạ tầng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật môi trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ phần mềm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật truyền thông & mạng máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật hàng hải",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tự động hóa hệ thống điện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật ô tô",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật nhiệt lạnh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tiếng Anh thương mại (TA hệ số 2)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (TA hệ số 2)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật công nghệ hóa học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc & nội thất",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Máy & tự động công nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý hàng hải",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý công trình xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý kỹ thuật công nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế vận tải biển",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế ngoại thương",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị tài chính kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics & chuỗi cung ứng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế vận tải thủy",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị tài chính ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điện tự động công nghiệp (CLC)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (CLC)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế vận tải biển (CLC)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế ngoại thương (CLC)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều khiển tàu biển (Chọn)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khai thác máy tàu biển (Chọn)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 49
+    },
+    {
+      "table_title": "Điểm xét tuyển kết hợp năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản lý kinh doanh & Marketing",
+          "Tổ hợp môn": "A01; D01; D07; D15",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý kinh doanh TMĐT",
+          "Tổ hợp môn": "A01; D01; D07; D15",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế Hàng hải",
+          "Tổ hợp môn": "A01; D01; D07; D15",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế & Logistics",
+          "Tổ hợp môn": "A01; D01; D07; D15",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều khiển tàu biển",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khai thác máy tàu biển",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điện tự động giao thông vận tải",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điện tử viễn thông",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điện tự động công nghiệp",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Máy tàu thủy",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế tàu & công trình ngoài khơi",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đóng tàu & công trình ngoài khơi",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Máy & tự động hóa xếp dỡ",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xây dựng công trình thủy",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật an toàn hàng hải",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xây dựng dân dụng & công nghiệp",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công trình giao thông & cơ sở hạ tầng",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật môi trường",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ phần mềm",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật truyền thông & mạng máy tính",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật hàng hải",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tự động hóa hệ thống điện",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "24.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật nhiệt lạnh",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tiếng Anh thương mại (TA hệ số 2)",
+          "Tổ hợp môn": "A01, D01 D10, D14",
+          "Điểm chuẩn": "31.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (TA hệ số 2)",
+          "Tổ hợp môn": "A01, D01 D10, D14",
+          "Điểm chuẩn": "31",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật công nghệ hóa học",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc & nội thất",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Máy & tự động công nghiệp",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý hàng hải",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý công trình xây dựng",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý kỹ thuật công nghiệp",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh doanh",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "22.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế vận tải biển",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế ngoại thương",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "24.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị tài chính kế toán",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics & chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "25.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế vận tải thủy",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị tài chính ngân hàng",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điện tự động công nghiệp (CLC)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (CLC)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế vận tải biển (CLC)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế ngoại thương (CLC)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều khiển tàu biển (Chọn)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khai thác máy tàu biển (Chọn)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 49
+    }
+  ],
+  "table_count": 6,
+  "crawled_at": "2025-07-18T23:25:58.354655",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-hang-hai-viet-nam-HHA.html"
+}

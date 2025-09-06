@@ -1,0 +1,315 @@
+{
+  "school_code": "DPT",
+  "school_name": "Trường Đại Học Phan Thiết",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D14; D15; D66",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị Kinh doanh",
+          "Tổ hợp môn": "A00; A01; C04; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; C04; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; C04; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "C00; D14; D66; D84",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật Kinh tế",
+          "Tổ hợp môn": "C00; D14; D66; D84",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Thông tin",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Cơ khí",
+          "Tổ hợp môn": "A00; A01; A02; C01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Ô tô",
+          "Tổ hợp môn": "A00; A01; A02; C01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Xây dựng",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Xét nghiệm Y học",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị Dịch vụ Du lịch & Lữ hành",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị Khách sạn (khu nghỉ dưỡng, resort & spa)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị Nhà hàng và Dịch vụ Ăn uống",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 15
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D15; D14; D66",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "ĐTB theo thang 10 áp dụng tất cả 6 tiêu chí"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; D01; A01; C04",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "ĐTB theo thang 10 áp dụng tất cả 6 tiêu chí"
+        },
+        {
+          "Tên ngành": "Tài chính – Ngân hàng",
+          "Tổ hợp môn": "A00; D01; A01; C04",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "ĐTB theo thang 10 áp dụng tất cả 6 tiêu chí"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; D01; A01; C04",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "ĐTB theo thang 10 áp dụng tất cả 6 tiêu chí"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "C00; D14; D84; D66",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "ĐTB theo thang 10 áp dụng tất cả 6 tiêu chí"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "C00; D14; D84; D66",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "ĐTB theo thang 10 áp dụng tất cả 6 tiêu chí"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; D01; A01; C01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "ĐTB theo thang 10 áp dụng tất cả 6 tiêu chí"
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "ĐTB theo thang 10 áp dụng tất cả 6 tiêu chí"
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí",
+          "Tổ hợp môn": "A00; A01; A02; C01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "ĐTB theo thang 10 áp dụng tất cả 6 tiêu chí"
+        },
+        {
+          "Tên ngành": "Kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01; A02; C01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "ĐTB theo thang 10 áp dụng tất cả 6 tiêu chí"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "ĐTB theo thang 10 áp dụng tất cả 6 tiêu chí"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xét nghiệm y học",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "6.5",
+          "Ghi chú": "ĐTB theo thang 10 áp dụng tất cả 6 tiêu chí"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "A00; D01; A01; C00",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "ĐTB theo thang 10 áp dụng tất cả 6 tiêu chí"
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "A00; D01; A01; C00",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "ĐTB theo thang 10 áp dụng tất cả 6 tiêu chí"
+        },
+        {
+          "Tên ngành": "Quản trị nhà hàng và dịch vụ ăn uống",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "ĐTB theo thang 10 áp dụng tất cả 6 tiêu chí"
+        }
+      ],
+      "row_count": 15
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "500",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị Kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "500",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "500",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "500",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "500",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật Kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "500",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "500",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "500",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Cơ khí",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "500",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Ô tô",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "500",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "500",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Xét nghiệm Y học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị Dịch vụ Du lịch & Lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "500",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị Khách sạn (khu nghỉ dưỡng, resort & spa)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "500",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị Nhà hàng và Dịch vụ Ăn uống",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "500",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 15
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:30:17.902767",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-phan-thiet-DPT.html"
+}

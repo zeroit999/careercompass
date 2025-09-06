@@ -1,0 +1,135 @@
+{
+  "school_code": "CSS",
+  "school_name": "Trường Đại Học Cảnh Sát Nhân Dân",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 4)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "20.39",
+          "Ghi chú": "Nam, vùng 4, bài thi CA2"
+        },
+        {
+          "Tên ngành": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 4)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "20.15",
+          "Ghi chú": "Nam, vùng 4, bài thi CA1; Tiêu chí phụ với TS có điểm xét tuyển 20.15: Tổng điểm 3 môn thuộc tổ hợp xét tuyển (tỷ lệ 40%) và điểm bài thi đánh giá của BCA (tỷ lệ 60%) làm tròn đến 02 chữ số thập phân: 19.65; điểm bài thi đánh giá của BCA: 53.50."
+        },
+        {
+          "Tên ngành": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 5)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "19.9",
+          "Ghi chú": "Nam, vùng 5, bài thi CA2"
+        },
+        {
+          "Tên ngành": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 5)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "20.33",
+          "Ghi chú": "Nam, vùng 5, bài thi CA1"
+        },
+        {
+          "Tên ngành": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 6)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "19.34",
+          "Ghi chú": "Nam, vùng 6, bài thi CA2"
+        },
+        {
+          "Tên ngành": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 6)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "19.63",
+          "Ghi chú": "Nam, vùng 6, bài thi CA1; Tiêu chí phụ với TS có điểm xét tuyển: 19.63: Tổng điểm 3 môn thuộc tổ hợp xét tuyển (tỷ lệ 40%) và điểm bài thi đánh giá BCA (tỷ lệ 60%) làm tròn đến 02 chữ số thập phân:19.38, điểm bài thi đánh giá của BCA: 52.00."
+        },
+        {
+          "Tên ngành": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 7)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "20.71",
+          "Ghi chú": "Nam, vùng 7, bài thi CA1"
+        },
+        {
+          "Tên ngành": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 7)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "21.09",
+          "Ghi chú": "Nam, vùng 7, bài thi CA2"
+        },
+        {
+          "Tên ngành": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 8)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "18.34",
+          "Ghi chú": "Nam, vùng 8, bài thi CA1"
+        },
+        {
+          "Tên ngành": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 8)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "19.8",
+          "Ghi chú": "Nam, vùng 8, bài thi CA2"
+        },
+        {
+          "Tên ngành": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nữ, vùng 4)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "23.19",
+          "Ghi chú": "Nữ, vùng 4, bài thi CA1"
+        },
+        {
+          "Tên ngành": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nữ, vùng 4)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "22.76",
+          "Ghi chú": "Nữ, vùng 4, bài thi CA2"
+        },
+        {
+          "Tên ngành": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nữ, vùng 5)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "22.54",
+          "Ghi chú": "Nữ, vùng 5, bài thi CA1"
+        },
+        {
+          "Tên ngành": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nữ, vùng 5)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "23.48",
+          "Ghi chú": "Nữ, vùng 5, bài thi CA2"
+        },
+        {
+          "Tên ngành": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nữ, vùng 6)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "21.91",
+          "Ghi chú": "Nữ, vùng 6, bài thi CA2"
+        },
+        {
+          "Tên ngành": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nữ, vùng 6)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "22.03",
+          "Ghi chú": "Nữ, vùng 6, bài thi CA1"
+        },
+        {
+          "Tên ngành": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nữ, vùng 8)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "22.92",
+          "Ghi chú": "Nữ, vùng 7, bài thi CA2; Tiêu chí phụ với TS có điểm xét tuyển: 22.92: Tổng điểm 3 môn thuộc tổ hợp xét tuyển (tỷ lệ 40%) và điểm bài thi đánh giá của BCA (chiếm tỷ lệ 60%) làm tròn đến 02 chữ số thập phân: 20.67."
+        },
+        {
+          "Tên ngành": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nữ, vùng 7)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "22.92",
+          "Ghi chú": "Nữ, vùng 7, bài thi CA1"
+        },
+        {
+          "Tên ngành": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nữ, vùng 8)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "16.87",
+          "Ghi chú": "Nữ, vùng 8, bài thi CA2"
+        }
+      ],
+      "row_count": 19
+    }
+  ],
+  "table_count": 1,
+  "crawled_at": "2025-07-18T23:23:23.579378",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-canh-sat-nhan-dan-CSS.html"
+}

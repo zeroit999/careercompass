@@ -1,0 +1,105 @@
+{
+  "school_code": "DTQ",
+  "school_name": "Khoa Quốc Tế - Đại Học Thái Nguyên",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quốc tế học (Chương trình dạy và học bằng tiếng Anh)",
+          "Tổ hợp môn": "C00; A01; D01; D15",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chương trình tiên tiến)",
+          "Tổ hợp môn": "A00; A01; D10; D01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế (Chương trình tiên tiến)",
+          "Tổ hợp môn": "A00; A01; D10; D01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính (Chương trình dạy và học bằng tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D10",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán (Chương trình tiên tiến)",
+          "Tổ hợp môn": "A00; A01; D10; D01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên và môi trường (Chương trình tiên tiến)",
+          "Tổ hợp môn": "B00; B08; D10; D01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 6
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quốc tế học (Chương trình dạy và học bằng tiếng Anh)",
+          "Tổ hợp môn": "C00; A01; D01; D15",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chương trình tiên tiến)",
+          "Tổ hợp môn": "A00; A01; D10; D01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế (Chương trình tiên tiến)",
+          "Tổ hợp môn": "A00; A01; D10; D01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính (Chương trình dạy và học bằng tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D10",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán (Chương trình tiên tiến)",
+          "Tổ hợp môn": "A00; A01; D10; D01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên và môi trường (Chương trình tiên tiến)",
+          "Tổ hợp môn": "B00; B08; D10; D01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 6
+    }
+  ],
+  "table_count": 2,
+  "crawled_at": "2025-07-18T23:31:05.763774",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/khoa-quoc-te-dai-hoc-thai-nguyen-DTQ.html"
+}

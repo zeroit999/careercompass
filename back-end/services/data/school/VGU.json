@@ -1,0 +1,141 @@
+{
+  "school_code": "VGU",
+  "school_name": "Trường Đại Học Việt Đức",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản trị kinh doanh (BBA)",
+          "Tổ hợp môn": "A00; A01; D01; D03; D05; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính và Kế toán (BFA)",
+          "Tổ hợp môn": "A00; A01; D01; D03; D05; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính (CSE)",
+          "Tổ hợp môn": "A00; A01; D07; D26",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Giao thông thông minh (SME)",
+          "Tổ hợp môn": "A00; A01; D07; D26",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật quy trình và môi trường (Kỹ thuật quy trình sản xuất bền vững) (EPE)",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí (MEN)",
+          "Tổ hợp môn": "A00; A01; D07; D26",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện và máy tính (ECE)",
+          "Tổ hợp môn": "A00; A01; D07; D26",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc (ARC)",
+          "Tổ hợp môn": "A00; A01; D26; V00",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật và quản lý xây dựng (BCE)",
+          "Tổ hợp môn": "A00; A01; D07; D26",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 9
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản trị kinh doanh (BBA)",
+          "Tổ hợp môn": "A00; A01; D01; D03; D05; D07",
+          "Điểm chuẩn": "7.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính và Kế toán (BFA)",
+          "Tổ hợp môn": "A00; A01; D01; D03; D05; D08",
+          "Điểm chuẩn": "7.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính (CSE)",
+          "Tổ hợp môn": "A00; A01; D07; D26",
+          "Điểm chuẩn": "8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật quy trình và môi trường (EPE)",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "7.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật giao thông thông minh (SME)",
+          "Tổ hợp môn": "A00; A01; D07; D26",
+          "Điểm chuẩn": "7.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí (MEN)",
+          "Tổ hợp môn": "A00; A01; D07; D26",
+          "Điểm chuẩn": "7.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện và máy tính (ECE)",
+          "Tổ hợp môn": "A00; A01; D07; D26",
+          "Điểm chuẩn": "7.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc (ARC)",
+          "Tổ hợp môn": "A00; A01; D26; V00",
+          "Điểm chuẩn": "7.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật và quàn lý xây dựng (BCE)",
+          "Tổ hợp môn": "A00; A01; D07; D26",
+          "Điểm chuẩn": "7",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 9
+    }
+  ],
+  "table_count": 2,
+  "crawled_at": "2025-07-18T23:28:58.806935",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-viet-duc-VGU.html"
+}

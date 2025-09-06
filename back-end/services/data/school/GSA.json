@@ -1,0 +1,327 @@
+{
+  "school_code": "GSA",
+  "school_name": "Trường Đại Học Giao Thông Vận Tải (Cơ sở 2)",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "23.56",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "24.59",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "24.07",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "23.95",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "24.73",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "25.86",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí động lực",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "23.81",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24.49",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "24.06",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử - viễn thông",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "24.35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và tự động hoá",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "24.87",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "A00; A01; V00; V01",
+          "Điểm chuẩn": "22.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "21.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình giao thông",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế xây dựng",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "22.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quán lý xây dựng",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "22.15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "22.85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khai thác vận tải",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "25.33",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 19
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "26.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "27.36",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "27.13",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "26.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "27.55",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "27.99",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí động lực",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.82",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỳ thuật điện",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "25.89",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử - viễn thông",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "25.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiến và tự động hoá",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "26.64",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "24.84",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24.26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình giao thông",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "21.53",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế xây dựng",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "24.97",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng",
+          "Tổ hợp môn": "A00; A01; D01; C02",
+          "Điểm chuẩn": "24.87",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "A00; A01; D01; C03",
+          "Điểm chuẩn": "25.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khai thác vận tải",
+          "Tổ hợp môn": "A00; A01; D01; C04",
+          "Điểm chuẩn": "26.97",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 19
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "760",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "735",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "800",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "890",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật ô tô",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "760",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và tự động hoá",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "815",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "690",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình giao thông",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "660",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khai thác vận tải",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "785",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 9
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:25:16.479747",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-giao-thong-van-tai-co-so-phia-nam-GSA.html"
+}

@@ -1,0 +1,93 @@
+{
+  "school_code": "QSP",
+  "school_name": "Phân hiệu Đại học Quốc gia TPHCM tại Bến Tre",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "A00; A01; D90",
+          "Điểm chuẩn": "17.5",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 1
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "620",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 1
+    },
+    {
+      "table_title": "Điểm xét tuyển kết hợp năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "HB2",
+          "Điểm chuẩn": "19.2",
+          "Ghi chú": "Học bạ THPT và CC ngoại ngữ"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "HB3",
+          "Điểm chuẩn": "19.2",
+          "Ghi chú": "Học bạ THPT và phỏng vấn"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "HB1",
+          "Điểm chuẩn": "19.2",
+          "Ghi chú": "Học bạ THPT và điểm thi ĐGNL của ĐHQG TPHCM"
+        }
+      ],
+      "row_count": 3
+    },
+    {
+      "table_title": "ƯTXT, XT thẳng năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 1
+    }
+  ],
+  "table_count": 4,
+  "crawled_at": "2025-07-18T23:31:01.492870",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/phan-hieu-dai-hoc-quoc-gia-tphcm-tai-ben-tre-QSP.html"
+}

@@ -1,0 +1,466 @@
+{
+  "nhom_nganh": "Tâm lý",
+  "danh_sach_nganh": [
+    {
+      "ten_nganh": "Tâm lý học",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Y Hà Nội - YHB",
+          "data_school": [
+            {
+              "ten_nganh": "Tâm lý học",
+              "to_hop_mon": "B00; C00; D01",
+              "diem_chuan_2024": "25.46",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội - SPH",
+          "data_school": [
+            {
+              "ten_nganh": "Tâm lý học (Tâm lý học trường học)",
+              "to_hop_mon": "D01; D14; D15",
+              "diem_chuan_2024": "27.5",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm TPHCM - SPS",
+          "data_school": [
+            {
+              "ten_nganh": "Tâm lý học",
+              "to_hop_mon": "C00; D01; C03; C04",
+              "diem_chuan_2024": "27.1",
+              "diem_chuan_2023": "25.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thủ Đô Hà Nội - HNM",
+          "data_school": [
+            {
+              "ten_nganh": "Tâm lí học",
+              "to_hop_mon": "C00; D01; D04; D14; D15; D45; D65; D66; D71; X78; X90",
+              "diem_chuan_2024": "26.63",
+              "diem_chuan_2023": "23.23"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Phụ Nữ Việt Nam - HPN",
+          "data_school": [
+            {
+              "ten_nganh": "Tâm lý học",
+              "to_hop_mon": "A01; B03; B08; C00; D01",
+              "diem_chuan_2024": "24.5",
+              "diem_chuan_2023": "21.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thủ Dầu Một - TDM",
+          "data_school": [
+            {
+              "ten_nganh": "Tâm lý học",
+              "to_hop_mon": "C00; C03; C04; C07; D01; D14; D15; X01; X70; X74",
+              "diem_chuan_2024": "25",
+              "diem_chuan_2023": "22.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Xã Hội và Nhân Văn Hà Nội - QHX",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị văn phòng",
+              "to_hop_mon": "D01; D14; D15; D66; C00; C03; C04",
+              "diem_chuan_2024": "26.47",
+              "diem_chuan_2023": "27"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Xã Hội và Nhân Văn TPHCM - QSX",
+          "data_school": [
+            {
+              "ten_nganh": "Tâm lý học",
+              "to_hop_mon": "B00; C00; D01; D14",
+              "diem_chuan_2024": "25.9",
+              "diem_chuan_2023": "26.07"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sài Gòn - SGD",
+          "data_school": [
+            {
+              "ten_nganh": "Tâm lý học",
+              "to_hop_mon": "B03; C01; C02; C03; C04; D01; X01; X02; X03; X04",
+              "diem_chuan_2024": "24.5",
+              "diem_chuan_2023": "23.8"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm - Đại Học Đà Nẵng - DDS",
+          "data_school": [
+            {
+              "ten_nganh": "Tâm lý học, gồm các chuyên ngành: \r\n Tâm lý học trường học và tổ chức\r\n;  Tâm lý học lâm sàng",
+              "to_hop_mon": "C02; D01; B03; C03; C04; C14; X01",
+              "diem_chuan_2024": "25.41",
+              "diem_chuan_2023": "23"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Thanh Thiếu Niên Việt Nam - HTN",
+          "data_school": [
+            {
+              "ten_nganh": "Tâm lý học",
+              "to_hop_mon": "C00; X74; C20; A09; D01; X21",
+              "diem_chuan_2024": "26.5",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Y Dược Đà Nẵng - DDY",
+          "data_school": [
+            {
+              "ten_nganh": "Tâm lý học",
+              "to_hop_mon": "B00; B08; B03; D01",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Lao Động – Xã Hội - DLX",
+          "data_school": [
+            {
+              "ten_nganh": "Tâm lý học",
+              "to_hop_mon": "A00; A01; D01; C00",
+              "diem_chuan_2024": "26.33",
+              "diem_chuan_2023": "24.44"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Lao Động – Xã Hội (Cơ sở II) - DLS",
+          "data_school": [
+            {
+              "ten_nganh": "Tâm lý học",
+              "to_hop_mon": "A00; A01; D01; C00",
+              "diem_chuan_2024": "25.8",
+              "diem_chuan_2023": "24.6"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Mở TPHCM - MBS",
+          "data_school": [
+            {
+              "ten_nganh": "Tâm lý học",
+              "to_hop_mon": "D01; D02; D03; D04; D05; D06; C00; D14; D61; D63; D64; D65; (Văn, Sử, Tiếng Hàn); D15; D42; D43; D44; D45; C14; D66; D67; D68; D69; D70; D71; C19; C20.",
+              "diem_chuan_2024": "23.8",
+              "diem_chuan_2023": "24.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nguyễn Tất Thành - NTT",
+          "data_school": [
+            {
+              "ten_nganh": "Tâm lý học",
+              "to_hop_mon": "B00; C00; D01; B03; C03; C04; C08; C12; C13; D13; D14; D15; X01; X70; X74; X78",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quốc Tế Hồng Bàng - HIU",
+          "data_school": [
+            {
+              "ten_nganh": "Tâm lý học",
+              "to_hop_mon": "C00; D01; D14; D15; X71; X75",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Lang - DVL",
+          "data_school": [
+            {
+              "ten_nganh": "Tâm lý học",
+              "to_hop_mon": "B03; B08; C02; D01",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đại Nam - DDN",
+          "data_school": [
+            {
+              "ten_nganh": "Tâm lý học",
+              "to_hop_mon": "C00; C03; C04; D01; D14; X01",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đông Á - DAD",
+          "data_school": [
+            {
+              "ten_nganh": "Tâm lý học (Cơ sở đào tạo Đà Nẵng)",
+              "to_hop_mon": "B03; C00; C03; C04; D01; D15; X02; X17; X70",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công Nghệ TPHCM - DKC",
+          "data_school": [
+            {
+              "ten_nganh": "Tâm lý học",
+              "to_hop_mon": "D01; C03; C04; C01; (Toán, Văn, Tin); X01",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Yersin Đà Lạt - DYD",
+          "data_school": [
+            {
+              "ten_nganh": "Tâm lý học",
+              "to_hop_mon": "D01; B03; C02; B08; D07; C00",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Tế Tài Chính TPHCM - UEF",
+          "data_school": [
+            {
+              "ten_nganh": "Tâm lý học",
+              "to_hop_mon": "D01; C01; (Toán, Văn, Tin); C14; C03; C04",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Hiến - DVH",
+          "data_school": [
+            {
+              "ten_nganh": "Tâm lý học",
+              "to_hop_mon": "A00; D08; D13; B03; C16; X01; X70; X74",
+              "diem_chuan_2024": "16.4",
+              "diem_chuan_2023": "23.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hoa Sen - HSU",
+          "data_school": [
+            {
+              "ten_nganh": "Tâm lý học",
+              "to_hop_mon": "A01; D01; D08; C00",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hồng Đức - HDT",
+          "data_school": [
+            {
+              "ten_nganh": "Tâm lý học",
+              "to_hop_mon": "B03; C04; C14; D01; C03",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Tư thục Quốc Tế Sài Gòn - SIU",
+          "data_school": [
+            {
+              "ten_nganh": "Tâm lý học",
+              "to_hop_mon": "A08; B00; C00; D01; D14; D15",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Gia Định - GDU",
+          "data_school": [
+            {
+              "ten_nganh": "Tâm lý học",
+              "to_hop_mon": "A00; A01; C00; C01; C03; C14; D01; K01",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Tâm lý học giáo dục",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội - SPH",
+          "data_school": [
+            {
+              "ten_nganh": "Tâm lý học giáo dục",
+              "to_hop_mon": "D01; D14; D15",
+              "diem_chuan_2024": "28",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm TPHCM - SPS",
+          "data_school": [
+            {
+              "ten_nganh": "Tâm lý học giáo dục",
+              "to_hop_mon": "C00; D01; C03; C04",
+              "diem_chuan_2024": "26.03",
+              "diem_chuan_2023": "24.17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Xã Hội và Nhân Văn TPHCM - QSX",
+          "data_school": [
+            {
+              "ten_nganh": "Tâm lý học giáo dục",
+              "to_hop_mon": "B00; B08; D01; D14",
+              "diem_chuan_2024": "24.2",
+              "diem_chuan_2023": "25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Sư Phạm Thái Nguyên",
+          "data_school": [
+            {
+              "ten_nganh": "Tâm lý học giáo dục",
+              "to_hop_mon": "C00; C19; C20; D01; X70; X74",
+              "diem_chuan_2024": "27.08",
+              "diem_chuan_2023": "24"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Tâm lý học giáo dục",
+              "to_hop_mon": "C00; C14; C20; D14; X01; X74",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Huế - DHS",
+          "data_school": [
+            {
+              "ten_nganh": "Tâm lý học giáo dục",
+              "to_hop_mon": "B00; C00; C14; C19; C20; D01; X01; X70; X74",
+              "diem_chuan_2024": "23.8",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội 2 - SP2",
+          "data_school": [
+            {
+              "ten_nganh": "Tâm lý học giáo dục",
+              "to_hop_mon": "B03; C00; D01; X70",
+              "diem_chuan_2024": "26.68",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật TPHCM - SPK",
+          "data_school": [
+            {
+              "ten_nganh": "Tâm lý học giáo dục (đào tạo bằng tiếng Việt)",
+              "to_hop_mon": "C00; D01; D14; X70; X74; X78",
+              "diem_chuan_2024": "25.15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Vinh - TDV",
+          "data_school": [
+            {
+              "ten_nganh": "Tâm lý học giáo dục",
+              "to_hop_mon": "C00; C19; D01; B03",
+              "diem_chuan_2024": "22",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đồng Tháp - SPD",
+          "data_school": [
+            {
+              "ten_nganh": "Tâm lý học giáo dục",
+              "to_hop_mon": "C00; C03; C04; C19; C20; D01; X70; X74",
+              "diem_chuan_2024": "24.2",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Nguyên - TTN",
+          "data_school": [
+            {
+              "ten_nganh": "Tâm lý học giáo dục",
+              "to_hop_mon": "C00; C03; D01; D14",
+              "diem_chuan_2024": "23.25",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quy Nhơn - DQN",
+          "data_school": [
+            {
+              "ten_nganh": "Tâm lý học giáo dục",
+              "to_hop_mon": "C00; C03; C04; D01; X01; X17; X70; X74(Gố",
+              "diem_chuan_2024": "23",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Quản Lý Giáo Dục - HVQ",
+          "data_school": [
+            {
+              "ten_nganh": "Tâm lý học giáo dục",
+              "to_hop_mon": "A00; B00; C00; D01; X70; X74",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

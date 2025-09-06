@@ -1,0 +1,561 @@
+{
+  "school_code": "QSB",
+  "school_name": "Trường Đại Học Bách Khoa HCM",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Khoa học Máy tính",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "84.16",
+          "Ghi chú": "Xét tuyển kết hợp"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Máy tính",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "82.87",
+          "Ghi chú": "Xét tuyển kết hợp"
+        },
+        {
+          "Tên ngành": "Điện - Điện tử - Viễn thông - Tự động hóa -Thiết kế Vi mạch (Nhóm ngành)",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "80.03",
+          "Ghi chú": "Xét tuyển kết hợp"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Cơ khí",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "73.89",
+          "Ghi chú": "Xét tuyển kết hợp"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Cơ Điện tử",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "81.33",
+          "Ghi chú": "Xét tuyển kết hợp"
+        },
+        {
+          "Tên ngành": "Dệt - May (Nhóm ngành)",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "55.51",
+          "Ghi chú": "Xét tuyển kết hợp"
+        },
+        {
+          "Tên ngành": "Hóa - Thực phẩm - Sinh học (Nhóm ngành)",
+          "Tổ hợp môn": "A00; B00; D07",
+          "Điểm chuẩn": "77.36",
+          "Ghi chú": "Xét tuyển kết hợp"
+        },
+        {
+          "Tên ngành": "Xây dựng và Quản lý Dự án Xây dựng (Nhóm ngành)",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "62.01",
+          "Ghi chú": "Xét tuyển kết hợp"
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "A01; C01",
+          "Điểm chuẩn": "70.85",
+          "Ghi chú": "Xét tuyển kết hợp"
+        },
+        {
+          "Tên ngành": "Dầu khí - Địa chất (Nhóm ngành)",
+          "Tổ hợp môn": "A00; A01; D07; D10",
+          "Điểm chuẩn": "66.11",
+          "Ghi chú": "Xét tuyển kết hợp"
+        },
+        {
+          "Tên ngành": "Quản lý Công nghiệp",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "77.28",
+          "Ghi chú": "Xét tuyển kết hợp"
+        },
+        {
+          "Tên ngành": "Tài nguyên và Môi trường",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "61.98",
+          "Ghi chú": "Xét tuyển kết hợp"
+        },
+        {
+          "Tên ngành": "Logistics và Hệ thống Công nghiệp",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "80.1",
+          "Ghi chú": "Xét tuyển kết hợp"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Vật liệu",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "68.5",
+          "Ghi chú": "Xét tuyển kết hợp"
+        },
+        {
+          "Tên ngành": "Vật lý Kỹ thuật",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "73.86",
+          "Ghi chú": "Xét tuyển kết hợp"
+        },
+        {
+          "Tên ngành": "Cơ Kỹ thuật",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "74.7",
+          "Ghi chú": "Xét tuyển kết hợp"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Nhiệt",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "72.01",
+          "Ghi chú": "Xét tuyển kết hợp"
+        },
+        {
+          "Tên ngành": "Bảo dưỡng Công nghiệp",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "65.44",
+          "Ghi chú": "Xét tuyển kết hợp"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Ô tô",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "78.22",
+          "Ghi chú": "Xét tuyển kết hợp"
+        },
+        {
+          "Tên ngành": "(Song ngành) Tàu thủy - Hàng không",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "75.38",
+          "Ghi chú": "Xét tuyển kết hợp"
+        },
+        {
+          "Tên ngành": "Khoa học Dữ liệu",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "82.14",
+          "Ghi chú": "Xét tuyển kết hợp"
+        },
+        {
+          "Tên ngành": "Địa Kỹ thuật Xây dựng",
+          "Tổ hợp môn": "A00; A01; D07; D10",
+          "Điểm chuẩn": "55.38",
+          "Ghi chú": "Xét tuyển kết hợp"
+        },
+        {
+          "Tên ngành": "Kinh tế Xây dựng",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "58.59",
+          "Ghi chú": "Xét tuyển kết hợp"
+        },
+        {
+          "Tên ngành": "Khoa học Máy tính",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "83.63",
+          "Ghi chú": "Xét tuyển kết hợp - CT dạy và học bằng TA"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Máy tính",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "80.41",
+          "Ghi chú": "Xét tuyển kết hợp - CT dạy và học bằng TA"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điện - Điện tử",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "76.71",
+          "Ghi chú": "Xét tuyển kết hợp - CT tiên tiến"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Cơ khí",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "65.77",
+          "Ghi chú": "Xét tuyển kết hợp - CT dạy và học bằng TA"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Cơ Điện tử",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "78",
+          "Ghi chú": "Xét tuyển kết hợp - CT dạy và học bằng TA"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Robot",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "73.1",
+          "Ghi chú": "Xét tuyển kết hợp - CT dạy và học bằng TA"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Hóa học",
+          "Tổ hợp môn": "A00; B00; D07",
+          "Điểm chuẩn": "64.68",
+          "Ghi chú": "Xét tuyển kết hợp - CT dạy và học bằng TA"
+        },
+        {
+          "Tên ngành": "Quàn lý Dự án Xây dựng và Kỹ thuật Xây dựng (Nhóm ngành)",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "58.59",
+          "Ghi chú": "Xét tuyển kết hợp - CT dạy và học bằng TA"
+        },
+        {
+          "Tên ngành": "Kiến trúc cảnh quan",
+          "Tổ hợp môn": "A01; C01",
+          "Điểm chuẩn": "61.08",
+          "Ghi chú": "Xét tuyển kết hợp - CT dạy và học bằng TA"
+        },
+        {
+          "Tên ngành": "Công nghệ Sinh học",
+          "Tổ hợp môn": "A00; B00; B08; D07",
+          "Điểm chuẩn": "70.91",
+          "Ghi chú": "Xét tuyển kết hợp - CT dạy và học bằng TA"
+        },
+        {
+          "Tên ngành": "Công nghệ Thực phẩm",
+          "Tổ hợp môn": "A00; B00; D07",
+          "Điểm chuẩn": "60.11",
+          "Ghi chú": "Xét tuyển kết hợp - CT dạy và học bằng TA"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Dầu khí",
+          "Tổ hợp môn": "A00; A01; D07; D10",
+          "Điểm chuẩn": "57.88",
+          "Ghi chú": "Xét tuyển kết hợp - CT dạy và học bằng TA"
+        },
+        {
+          "Tên ngành": "Quản lý Công nghiệp",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "65.03",
+          "Ghi chú": "Xét tuyển kết hợp - CT dạy và học bằng TA"
+        },
+        {
+          "Tên ngành": "Tài nguyên và Môi trường",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "61.59",
+          "Ghi chú": "Xét tuyển kết hợp - CT dạy và học bằng TA"
+        },
+        {
+          "Tên ngành": "Logistics và Hệ thống Công nghiệp",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "74.47",
+          "Ghi chú": "Xét tuyển kết hợp - CT dạy và học bằng TA"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Vật liệu Công nghệ cao",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "57.96",
+          "Ghi chú": "Xét tuyển kết hợp - CT dạy và học bằng TA"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Y Sinh",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "57.23",
+          "Ghi chú": "Xét tuyển kết hợp - CT dạy và học bằng TA"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Ô tô",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "65.87",
+          "Ghi chú": "Xét tuyển kết hợp - CT dạy và học bằng TA"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Hàng không",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "73.5",
+          "Ghi chú": "Xét tuyển kết hợp - CT dạy và học bằng TA"
+        },
+        {
+          "Tên ngành": "Khoa học Máy tính",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "79.63",
+          "Ghi chú": "Xét tuyển kết hợp - CT định hướng Nhật Bản"
+        },
+        {
+          "Tên ngành": "Cơ Kỹ thuật",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "68.75",
+          "Ghi chú": "Xét tuyển kết hợp - CT định hướng Nhật Bản"
+        }
+      ],
+      "row_count": 44
+    },
+    {
+      "table_title": "ƯTXT, XT thẳng năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Khoa học Máy tính",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "86.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Máy tính",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "85.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điện - Điện tử - Viễn thông - Tự động hóa -Thiết kế Vi mạch",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "83.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Cơ khí",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "79.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Cơ Điện tử",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "84.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dệt - May",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "72.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hóa - Thực phẩm - Sinh học",
+          "Tổ hợp môn": "A00; B00; D07",
+          "Điểm chuẩn": "84.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xây dựng và Quản lý Dự án Xây dựng",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "69",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "77.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dầu khí - Địa chất",
+          "Tổ hợp môn": "A00; A01; D07; D10",
+          "Điểm chuẩn": "78.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý Công nghiệp",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "83.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài nguyên và Môi trường",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "68.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và Hệ thống Công nghiệp",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "85.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Vật liệu",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "75.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Vật lý Kỹ thuật",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "80.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Cơ Kỹ thuật",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "75.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Nhiệt",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "72.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Bảo dưỡng Công nghiệp",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "73.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Ô tô",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "81.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "(Song ngành) Tàu thủy - Hàng không",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "81.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học Dữ liệu",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "85.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Địa Kỹ thuật Xây dựng",
+          "Tổ hợp môn": "A00; A01; D07; D10",
+          "Điểm chuẩn": "76.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế Xây dựng",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "71.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học Máy tính",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "86.2",
+          "Ghi chú": "CT dạy và học bằng TA"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Máy tính",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "83.9",
+          "Ghi chú": "CT dạy và học bằng TA"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điện - Điện tử",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "82",
+          "Ghi chú": "CT tiên tiến"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Cơ khí",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "76.1",
+          "Ghi chú": "CT dạy và học bằng TA"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Cơ Điện tử",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "84",
+          "Ghi chú": "CT dạy và học bằng TA"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Robot",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "80.7",
+          "Ghi chú": "CT dạy và học bằng TA"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Hóa học",
+          "Tổ hợp môn": "A00; B00; D07",
+          "Điểm chuẩn": "84.1",
+          "Ghi chú": "CT dạy và học bằng TA"
+        },
+        {
+          "Tên ngành": "Quản lý Dự án Xây dựng và Kỹ thuật Xây dựng",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "73.3",
+          "Ghi chú": "CT dạy và học bằng TA"
+        },
+        {
+          "Tên ngành": "Kiến trúc Cảnh quan",
+          "Tổ hợp môn": "A00; C01",
+          "Điểm chuẩn": "72.3",
+          "Ghi chú": "CT dạy và học bằng TA"
+        },
+        {
+          "Tên ngành": "Công nghệ Sinh học",
+          "Tổ hợp môn": "A00; B00; B08; D07",
+          "Điểm chuẩn": "85.2",
+          "Ghi chú": "CT dạy và học bằng TA"
+        },
+        {
+          "Tên ngành": "Công nghệ Thực phẩm",
+          "Tổ hợp môn": "A00; B00; D07",
+          "Điểm chuẩn": "83.3",
+          "Ghi chú": "CT dạy và học bằng TA"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Dầu khí",
+          "Tổ hợp môn": "A00; A01; D07; D10",
+          "Điểm chuẩn": "73",
+          "Ghi chú": "CT dạy và học bằng TA"
+        },
+        {
+          "Tên ngành": "Quản lý Công nghiệp",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "80.1",
+          "Ghi chú": "CT dạy và học bằng TA"
+        },
+        {
+          "Tên ngành": "Tài nguyên và Môi trường",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "71.5",
+          "Ghi chú": "CT dạy và học bằng TA"
+        },
+        {
+          "Tên ngành": "Logistics và Hệ thống Công nghiệp",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "83.3",
+          "Ghi chú": "CT dạy và học bằng TA"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Vật liệu Công nghệ cao",
+          "Tổ hợp môn": "A00; A01; D07; D10",
+          "Điểm chuẩn": "74",
+          "Ghi chú": "CT dạy và học bằng TA"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Y Sinh",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "81.4",
+          "Ghi chú": "CT dạy và học bằng TA"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Ô tô",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "72.6",
+          "Ghi chú": "CT dạy và học bằng TA"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Hàng không",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "81.4",
+          "Ghi chú": "CT dạy và học bằng TA"
+        },
+        {
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "81.7",
+          "Ghi chú": "CT định hướng Nhật Bản"
+        },
+        {
+          "Tên ngành": "Cơ Kỹ thuật",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "74.1",
+          "Ghi chú": "CT định hướng Nhật Bản"
+        }
+      ],
+      "row_count": 44
+    }
+  ],
+  "table_count": 2,
+  "crawled_at": "2025-07-18T23:22:22.604445",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-bach-khoa-hcm-QSB.html"
+}

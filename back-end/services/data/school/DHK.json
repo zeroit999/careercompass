@@ -1,0 +1,411 @@
+{
+  "school_code": "DHK",
+  "school_name": "Trường Đại Học Kinh Tế - Đại Học Huế",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế (ĐT bằng Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế chính trị",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế quốc tế",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thống kê kinh tế",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế số",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (đào tạo bằng tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh thương mại",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; D01; D03; D96",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán (đào tạo bằng Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng (Liên kết)",
+          "Tổ hợp môn": "A00; D96; D01; D03",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế nông nghiệp",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Song ngành Kinh tế - Tài chính (CT tiên tiến)",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 21
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế (Đào tạo bằng Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế (Đào tạo bằng Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế chính trị",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế chính trị",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế quốc tế",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế quốc tế",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thống kê kinh tế",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thống kê kinh tế",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế số",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế số",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Đào tạo bằng Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Đào tạo bằng Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh thưong mại",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh thưong mại",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; D01; D03; D96",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; D01; D03; D96",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán (Đào tạo bằng Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán (Đào tạo bằng Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng (Liên kết)",
+          "Tổ hợp môn": "A00; D01; D03; D96",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng (Liên kết)",
+          "Tổ hợp môn": "A00; D01; D03; D96",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế nông nghiệp",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế nông nghiệp",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Song ngành Kinh tế - Tài chính (CT tiên tiến)",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Song ngành Kinh tế - Tài chính (CT tiên tiến)",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 42
+    }
+  ],
+  "table_count": 2,
+  "crawled_at": "2025-07-18T23:28:02.544648",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-kinh-te-dai-hoc-hue-DHK.html"
+}

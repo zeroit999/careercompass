@@ -1,0 +1,897 @@
+{
+  "school_code": "SGD",
+  "school_name": "Trường Đại Học Sài Gòn",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản lý giáo dục",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "23.89",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý giáo dục",
+          "Tổ hợp môn": "C04",
+          "Điểm chuẩn": "24.89",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Mầm non",
+          "Tổ hợp môn": "M01; M02",
+          "Điểm chuẩn": "23.51",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục tiểu học",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.39",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục chính trị",
+          "Tổ hợp môn": "C00; C19",
+          "Điểm chuẩn": "26.86",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Toán học",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Toán học",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "26.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Vật lý",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "26.43",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Hóa học",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "26.96",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Sinh học",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "25.16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Ngữ văn",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.11",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Lịch sử",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Địa lý",
+          "Tổ hợp môn": "C00; C04",
+          "Điểm chuẩn": "27.91",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Âm nhạc",
+          "Tổ hợp môn": "N01",
+          "Điểm chuẩn": "23.93",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Mỹ thuật",
+          "Tổ hợp môn": "H00",
+          "Điểm chuẩn": "21.59",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tiếng Anh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Khoa học tự nhiên (Đào tạo giáo viên THCS)",
+          "Tổ hợp môn": "A00; B00",
+          "Điểm chuẩn": "25.52",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Lịch sử - Địa lý (Đào tạo giáo viên THCS)",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (CN Thương mại và Du lịch)",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.29",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (Chương trình chất lượng cao)",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.07",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lí học",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quốc tế học",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "23.64",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Việt Nam học",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thông tin - Thư viện",
+          "Tổ hợp môn": "D01; C04",
+          "Điểm chuẩn": "23.51",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "22.97",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "23.97",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chương trình chất lượng cao)",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "22.65",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chương trình chất lượng cao)",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "23.65",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "25.24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "24.24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "C01",
+          "Điểm chuẩn": "24.26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "23.26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "23.18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "C01",
+          "Điểm chuẩn": "24.18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán (Chương trình chất lượng cao)",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "22.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán (Chương trình chất lượng cao)",
+          "Tổ hợp môn": "C01",
+          "Điểm chuẩn": "23.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "23.47",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "C01",
+          "Điểm chuẩn": "24.47",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "C04",
+          "Điểm chuẩn": "25.48",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "24.48",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "C03",
+          "Điểm chuẩn": "24.76",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "23.76",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học môi trường",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "22.17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học môi trường",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "21.17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "23.99",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "22.99",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Toán ứng dụng",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "24.94",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Toán ứng dụng",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "23.94",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "24.34",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "22.27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "23.82",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Chương trình chất lượng cao)",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "22.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kĩ thuật điện, điện tử",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kĩ thuật điện, điện tử",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kĩ thuật điện tử - viễn thông",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "22.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kĩ thuật điện tử - viễn thông",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kĩ thuật môi trường",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "21.37",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kĩ thuật môi trường",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "22.37",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kĩ thuật điện",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "23.33",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kĩ thuật điện",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "22.33",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kĩ thuật điện tử - viễn thông (Thiết kế vi mạch)",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "24.08",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kĩ thuật điện tử - viễn thông (Thiết kế vi mạch)",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "23.08",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch",
+          "Tổ hợp môn": "D01; C00",
+          "Điểm chuẩn": "25.81",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị nhà hàng và dịch vụ ăn uống",
+          "Tổ hợp môn": "D01; A01",
+          "Điểm chuẩn": "23.51",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 64
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản lý giáo dục",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "830",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "880",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (chương trình chất lượng cao)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "895",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "888",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quốc tế học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "835",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Việt Nam học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "732",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thông tin - thư viện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "747",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "818",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (chương trình chất lượng cao)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "799",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "898",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "823",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "807",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán (chương trình chất lượng cao)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "783",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán (ngành mới)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "880",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "807",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "834",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học môi trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "811",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "887",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Toán ứng dụng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "902",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "926",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo (ngành mới)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "861",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "889",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (chương trình chất lượng cao)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "834",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kĩ thuật điện, điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "882",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kĩ thuật điện tử - vìễn thông",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "834",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kĩ thuật môi trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "787",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kĩ thuật điện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "830",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kĩ thuật điện tử - viễn thông (Thiết kế vi mạch)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "866",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "806",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị nhà hàng và dịch vụ ăn uống",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "821",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 30
+    },
+    {
+      "table_title": "Điểm Đánh giá đầu vào V-SAT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản lý giáo dục",
+          "Tổ hợp môn": "C04",
+          "Điểm chuẩn": "290",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý giáo dục",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "275",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (CN Thương mại và Du lịch)",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "320",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (Chương trình CLC)",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "320",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lí học",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "290",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quốc tế học",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "267.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Việt Nam học (CN Văn hóa - Du lịch)",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "290",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thông tin - Thư viện",
+          "Tổ hợp môn": "D01; C04",
+          "Điểm chuẩn": "260",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "297.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "312.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chương trình CLC)",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "312.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chương trình CLC)",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "297.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "312.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "297.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "C01",
+          "Điểm chuẩn": "312.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "297.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "297.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "C01",
+          "Điểm chuẩn": "312.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán (Chương trình CLC)",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "297.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán (Chương trình CLC)",
+          "Tổ hợp môn": "C01",
+          "Điểm chuẩn": "312.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "297.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "C01",
+          "Điểm chuẩn": "312.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "290",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "C04",
+          "Điểm chuẩn": "305",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "C03",
+          "Điểm chuẩn": "305",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "290",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học môi trường",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "260",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học môi trường",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "245",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "290",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "275",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Toán ứng dụng",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "297.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Toán ứng dụng",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "282.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "320",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "290",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "290",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Chương trình CLC)",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "290",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kĩ thuật điện, điện tử",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "260",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kĩ thuật điện, điện tử",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "275",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kĩ thuật điện tử - viễn thông",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "260",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kĩ thuật điện tử - viễn thông",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "275",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kĩ thuật môi trường",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "245",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kĩ thuật môi trường",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "260",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kĩ thuật điện",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "275",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kĩ thuật điện",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "260",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kĩ thuật điện tử - viễn thông (Thiết kế vi mạch)",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "275",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kĩ thuật điện tử - viễn thông (Thiết kế vi mạch)",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "260",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch",
+          "Tổ hợp môn": "D01; C00",
+          "Điểm chuẩn": "297.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị nhà hàng và dịch vụ ăn uống",
+          "Tổ hợp môn": "D01; A01",
+          "Điểm chuẩn": "282.5",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 48
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:24:31.694739",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-sai-gon-SGD.html"
+}

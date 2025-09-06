@@ -1,0 +1,177 @@
+{
+  "school_code": "DHH",
+  "school_name": "Trường Đại Học Hà Hoa Tiên",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2013",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn Ngữ Anh",
+          "Tổ hợp môn": "D1",
+          "Điểm chuẩn": "13.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A, A1",
+          "Điểm chuẩn": "13",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "D1,2,3,4",
+          "Điểm chuẩn": "13.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài Chính ngân hàng",
+          "Tổ hợp môn": "A, A1",
+          "Điểm chuẩn": "13",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài Chính ngân hàng",
+          "Tổ hợp môn": "D1,2,3,4",
+          "Điểm chuẩn": "13.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "D1,2,3,4",
+          "Điểm chuẩn": "13.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A, A1",
+          "Điểm chuẩn": "13",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A, A1",
+          "Điểm chuẩn": "13",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "D1",
+          "Điểm chuẩn": "13.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật xây dựng",
+          "Tổ hợp môn": "A, A1",
+          "Điểm chuẩn": "13",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ chế tạo máy",
+          "Tổ hợp môn": "A, A1",
+          "Điểm chuẩn": "13",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử",
+          "Tổ hợp môn": "A, A1",
+          "Điểm chuẩn": "13",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kt điều khiển và tự động hóa",
+          "Tổ hợp môn": "A, A1",
+          "Điểm chuẩn": "13",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn Ngữ Anh",
+          "Tổ hợp môn": "D1",
+          "Điểm chuẩn": "11",
+          "Ghi chú": "Cao đẳng"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "D1,2,3,4",
+          "Điểm chuẩn": "11",
+          "Ghi chú": "Cao đẳng"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A, A1",
+          "Điểm chuẩn": "10",
+          "Ghi chú": "Cao đẳng"
+        },
+        {
+          "Tên ngành": "Tài Chính ngân hàng",
+          "Tổ hợp môn": "A, A1",
+          "Điểm chuẩn": "10",
+          "Ghi chú": "Cao đẳng"
+        },
+        {
+          "Tên ngành": "Tài Chính ngân hàng",
+          "Tổ hợp môn": "D1,2,3,4",
+          "Điểm chuẩn": "11",
+          "Ghi chú": "Cao đẳng"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A, A1",
+          "Điểm chuẩn": "10",
+          "Ghi chú": "Cao đẳng"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "D1,2,3,4",
+          "Điểm chuẩn": "11",
+          "Ghi chú": "Cao đẳng"
+        },
+        {
+          "Tên ngành": "Tin học ứng dụng",
+          "Tổ hợp môn": "D1",
+          "Điểm chuẩn": "11",
+          "Ghi chú": "Cao đẳng"
+        },
+        {
+          "Tên ngành": "Tin học ứng dụng",
+          "Tổ hợp môn": "A, A1",
+          "Điểm chuẩn": "10",
+          "Ghi chú": "Cao đẳng"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật xây dựng",
+          "Tổ hợp môn": "A, A1",
+          "Điểm chuẩn": "10",
+          "Ghi chú": "Cao đẳng"
+        },
+        {
+          "Tên ngành": "Công nghệ chế tạo máy",
+          "Tổ hợp môn": "A, A1",
+          "Điểm chuẩn": "10",
+          "Ghi chú": "Cao đẳng"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử",
+          "Tổ hợp môn": "A, A1",
+          "Điểm chuẩn": "10",
+          "Ghi chú": "Cao đẳng"
+        },
+        {
+          "Tên ngành": "Công nghệ kt điều khiển và tự động hóa",
+          "Tổ hợp môn": "A, A1",
+          "Điểm chuẩn": "10",
+          "Ghi chú": "Cao đẳng"
+        }
+      ],
+      "row_count": 26
+    }
+  ],
+  "table_count": 1,
+  "crawled_at": "2025-07-18T23:32:34.706569",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-ha-hoa-tien-DHH.html"
+}

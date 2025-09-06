@@ -1,0 +1,201 @@
+{
+  "school_code": "DKY",
+  "school_name": "Trường Đại Học Kỹ Thuật Y Tế Hải Dương",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "25.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "A00; B00",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xét nghiệm y học",
+          "Tổ hợp môn": "A00; B00",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Hình ảnh y học",
+          "Tổ hợp môn": "A00; B00",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phục hồi chức năng",
+          "Tổ hợp môn": "A00; B00",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 5
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "A00; B00",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Xét nghiệm y học",
+          "Tổ hợp môn": "A00; B00",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Hình ảnh y học",
+          "Tổ hợp môn": "A00; B00",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Phục hồi chức năng",
+          "Tổ hợp môn": "A00; B00",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 4
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "120",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "105",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Xét nghiệm y học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "105",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Hình ảnh y học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "105",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Phục hồi chức năng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "105",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 5
+    },
+    {
+      "table_title": "Chứng chỉ quốc tế năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "93",
+          "Ghi chú": "CCTA TOEFL iBT"
+        },
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "7",
+          "Ghi chú": "CCTA IELTS"
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "CCTA IELTS"
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": "CCTA TOEFL iBT"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Xét nghiệm y học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": "CCTA TOEFL iBT"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Xét nghiệm y học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "CCTA IELTS"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Hình ảnh y học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "CCTA IELTS"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Hình ảnh y học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": "CCTA TOEFL iBT"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Phục hồi chức năng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "CCTA IELTS"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Phục hồi chức năng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": "CCTA TOEFL iBT"
+        }
+      ],
+      "row_count": 10
+    }
+  ],
+  "table_count": 4,
+  "crawled_at": "2025-07-18T23:23:00.684646",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-ky-thuat-y-te-hai-duong-DKY.html"
+}

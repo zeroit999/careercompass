@@ -1,0 +1,711 @@
+{
+  "school_code": "VHH",
+  "school_name": "Trường Đại Học Văn Hóa Hà Nội",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D09; D14; D15; C19",
+          "Điểm chuẩn": "34.35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Văn hóa học - Nghiên cứu văn hóa",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "26.52",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Văn hóa học - Nghiên cứu văn hóa",
+          "Tổ hợp môn": "D01; D09; D14; D15; C19",
+          "Điểm chuẩn": "25.52",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Văn hoá học - Văn hóa truyền thông",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.83",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Văn hoá học - Văn hóa truyền thông",
+          "Tổ hợp môn": "D01; D09; D14; D15; C19",
+          "Điểm chuẩn": "26.83",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Văn hóa học - Văn hóa đối ngoại",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.43",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Văn hóa học - Văn hóa đối ngoại",
+          "Tổ hợp môn": "D01; D09; D14; D15; C19",
+          "Điểm chuẩn": "26.43",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý văn hoá - Chính sách văn hóa và quản lý nghệ thuật",
+          "Tổ hợp môn": "D01; D09; D14; D15; C19",
+          "Điểm chuẩn": "26.97",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý văn hoá - Chính sách văn hóa và quản lý nghệ thuật",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.97",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý văn hoá - Quản lý di sản văn hóa",
+          "Tổ hợp môn": "D01; D09; D14; D15; C19",
+          "Điểm chuẩn": "26.83",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý văn hoá - Quản lý di sản văn hóa",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.83",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý văn hoá - Tổ chức sự kiện",
+          "Tổ hợp môn": "D01; D09; D14; D15; C19",
+          "Điểm chuẩn": "27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý văn hoá - Tổ chức sự kiện",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Báo chí",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Báo chí",
+          "Tổ hợp môn": "D01; D09; D14; D15; C19",
+          "Điểm chuẩn": "27.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thông tin - Thư viện - Quản trị thư viện",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thông tin - Thư viện - Quản trị thư viện",
+          "Tổ hợp môn": "D01; D09; D14; D15; C19",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thông tin - Thư viện - Thư viện và thiết bị trường học",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "23.85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thông tin - Thư viện - Thư viện và thiết bị trường học",
+          "Tổ hợp môn": "D01; D09; D14; D15; C19",
+          "Điểm chuẩn": "22.85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý thông tin",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý thông tin",
+          "Tổ hợp môn": "D01; D09; D14; D15; C19",
+          "Điểm chuẩn": "26.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Bảo tàng học",
+          "Tổ hợp môn": "D01; D09; D14; D15; C19",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Bảo tàng học",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh xuất bản phẩm",
+          "Tổ hợp môn": "D01; D09; D14; D15; C19",
+          "Điểm chuẩn": "24.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh xuất bản phẩm",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "25.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D01; D09; D14; D15; C19",
+          "Điểm chuẩn": "27.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch - Văn hóa du lịch",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch - Văn hóa du lịch",
+          "Tổ hợp môn": "D01; D09; D14; D15; C19",
+          "Điểm chuẩn": "26.15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch - Lữ hành, hướng dẫn du lịch",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.67",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch - Lữ hành, hướng dẫn du lịch",
+          "Tổ hợp môn": "D01; D09; D14; D15; C19",
+          "Điểm chuẩn": "26.67",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch - Hướng dẫn du lịch quốc tế",
+          "Tổ hợp môn": "D01; D09; D14; D15; C19",
+          "Điểm chuẩn": "33.33",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.94",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "D01; D09; D14; D15; C19",
+          "Điểm chuẩn": "26.94",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành - Quản trị du lịch cộng đồng",
+          "Tổ hợp môn": "D01; D09; D14; D15; C19",
+          "Điểm chuẩn": "26.43",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành - Quản trị du lịch cộng đồng",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.43",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 36
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D09; D14; D15; C19",
+          "Điểm chuẩn": "35.78",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Văn hóa học - Nghiên cứu văn hóa",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.33",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Văn hóa học - Nghiên cứu văn hóa",
+          "Tổ hợp môn": "D01; D09; D14; D15; C19",
+          "Điểm chuẩn": "26.33",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Văn hoá học - Văn hóa truyền thông",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Văn hoá học - Văn hóa truyền thông",
+          "Tổ hợp môn": "D01; D09; D14; D15; C19",
+          "Điểm chuẩn": "27.19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Văn hóa học - Văn hóa đối ngoại",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.91",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Văn hóa học - Văn hóa đối ngoại",
+          "Tổ hợp môn": "D01; D09; D14; D15; C19",
+          "Điểm chuẩn": "26.91",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý văn hoá - Chính sách văn hóa và quản lý nghệ thuật",
+          "Tổ hợp môn": "D01; D09; D14; D15; C19",
+          "Điểm chuẩn": "26.88",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý văn hoá - Chính sách văn hóa và quản lý nghệ thuật",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.88",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý văn hoá - Quản lý di sản văn hóa",
+          "Tổ hợp môn": "D01; D09; D14; D15; C19",
+          "Điểm chuẩn": "26.87",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý văn hoá - Quản lý di sản văn hóa",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.87",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý văn hoá - Tổ chức sự kiện",
+          "Tổ hợp môn": "D01; D09; D14; D15; C19",
+          "Điểm chuẩn": "27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý văn hoá - Tổ chức sự kiện",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Báo chí",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.54",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Báo chí",
+          "Tổ hợp môn": "D01; D09; D14; D15; C19",
+          "Điểm chuẩn": "27.54",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thông tin - Thư viện - Quản trị thư viện",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.09",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thông tin - Thư viện - Quản trị thư viện",
+          "Tổ hợp môn": "D01; D09; D14; D15; C19",
+          "Điểm chuẩn": "26.09",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thông tin - Thư viện - Thư viện và thiết bị trường học",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "26.04",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thông tin - Thư viện - Thư viện và thiết bị trường học",
+          "Tổ hợp môn": "D01; D09; D14; D15; C19",
+          "Điểm chuẩn": "25.04",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý thông tin",
+          "Tổ hợp môn": "D01; D09; D14; D15; C19",
+          "Điểm chuẩn": "26.58",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý thông tin",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.58",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Bảo tàng học",
+          "Tổ hợp môn": "D01; D09; D14; D15; C19",
+          "Điểm chuẩn": "26.43",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Bảo tàng học",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.43",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh xuất bản phẩm",
+          "Tổ hợp môn": "D01; D09; D14; D15; C19",
+          "Điểm chuẩn": "25.98",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh xuất bản phẩm",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "26.98",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.36",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D01; D09; D14; D15; C19",
+          "Điểm chuẩn": "27.36",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch - Văn hóa du lịch",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.46",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch - Văn hóa du lịch",
+          "Tổ hợp môn": "D01; D09; D14; D15; C19",
+          "Điểm chuẩn": "26.46",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch - Lữ hành, hướng dẫn du lịch",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.71",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch - Lữ hành, hướng dẫn du lịch",
+          "Tổ hợp môn": "D01; D09; D14; D15; C19",
+          "Điểm chuẩn": "26.71",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch - Hướng dẫn du lịch quốc tế",
+          "Tổ hợp môn": "D01; D09; D14; D15; C19",
+          "Điểm chuẩn": "35.03",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.87",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "D01; D09; D14; D15; C19",
+          "Điểm chuẩn": "26.87",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành - Quản trị du lịch cộng đồng",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.29",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành - Quản trị du lịch cộng đồng",
+          "Tổ hợp môn": "D01; D09; D14; D15; C19",
+          "Điểm chuẩn": "26.29",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 36
+    },
+    {
+      "table_title": "Điểm xét tuyển kết hợp năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Sáng tác văn học",
+          "Tổ hợp môn": "N00",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": "Kết hợp học bạ với năng khiếu"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "C00; D01; D14; D15",
+          "Điểm chuẩn": "36.28",
+          "Ghi chú": "Kết hợp học bạ với QĐ của Trường"
+        },
+        {
+          "Tên ngành": "Văn hóa học - Nghiên cứu văn hóa",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.39",
+          "Ghi chú": "Kết hợp học bạ với QĐ của Trường"
+        },
+        {
+          "Tên ngành": "Văn hóa học - Nghiên cứu văn hóa",
+          "Tổ hợp môn": "D01; D09; D15",
+          "Điểm chuẩn": "26.39",
+          "Ghi chú": "Kết hợp học bạ với QĐ của Trường"
+        },
+        {
+          "Tên ngành": "Văn hoá học - Văn hóa truyền thông",
+          "Tổ hợp môn": "D01; D09; D15",
+          "Điểm chuẩn": "27.44",
+          "Ghi chú": "Kết hợp học bạ với QĐ của Trường"
+        },
+        {
+          "Tên ngành": "Văn hoá học - Văn hóa truyền thông",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.44",
+          "Ghi chú": "Kết hợp học bạ với QĐ của Trường"
+        },
+        {
+          "Tên ngành": "Văn hóa học - Văn hóa đối ngoại",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.76",
+          "Ghi chú": "Kết hợp học bạ với QĐ của Trường"
+        },
+        {
+          "Tên ngành": "Văn hóa học - Văn hóa đối ngoại",
+          "Tổ hợp môn": "D01; D09; D15",
+          "Điểm chuẩn": "26.76",
+          "Ghi chú": "Kết hợp học bạ với QĐ của Trường"
+        },
+        {
+          "Tên ngành": "Quản lý văn hoá - Chính sách văn hóa và quản lý nghệ thuật",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "26.2",
+          "Ghi chú": "Kết hợp học bạ với QĐ của Trường"
+        },
+        {
+          "Tên ngành": "Quản lý văn hoá - Chính sách văn hóa và quản lý nghệ thuật",
+          "Tổ hợp môn": "C00; D01; D09; C19",
+          "Điểm chuẩn": "25.2",
+          "Ghi chú": "Kết hợp học bạ với QĐ của Trường"
+        },
+        {
+          "Tên ngành": "Quản lý văn hoá - Quản lý di sản văn hóa",
+          "Tổ hợp môn": "D01; D14; C19",
+          "Điểm chuẩn": "27.35",
+          "Ghi chú": "Kết hợp học bạ với QĐ của Trường"
+        },
+        {
+          "Tên ngành": "Quản lý văn hoá - Quản lý di sản văn hóa",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.35",
+          "Ghi chú": "Kết hợp học bạ với QĐ của Trường"
+        },
+        {
+          "Tên ngành": "QLVH - Biểu diễn nghệ thuật",
+          "Tổ hợp môn": "N00",
+          "Điểm chuẩn": "29",
+          "Ghi chú": "Kết hợp học bạ với năng khiếu"
+        },
+        {
+          "Tên ngành": "Quản lý văn hoá - Tổ chức sự kiện",
+          "Tổ hợp môn": "D01; D09; N05",
+          "Điểm chuẩn": "28.15",
+          "Ghi chú": "Kết hợp học bạ với QĐ của Trường"
+        },
+        {
+          "Tên ngành": "Quản lý văn hoá - Tổ chức sự kiện",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "29.15",
+          "Ghi chú": "Kết hợp học bạ với QĐ của Trường"
+        },
+        {
+          "Tên ngành": "QLVH - Tổ chức sự kiện văn hóa",
+          "Tổ hợp môn": "C00; D01; D09; N05",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": "Kết hợp học bạ với năng khiếu"
+        },
+        {
+          "Tên ngành": "Báo chí",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "29.51",
+          "Ghi chú": "Kết hợp học bạ với QĐ của Trường"
+        },
+        {
+          "Tên ngành": "Báo chí",
+          "Tổ hợp môn": "D01; D09; C19",
+          "Điểm chuẩn": "28.51",
+          "Ghi chú": "Kết hợp học bạ với QĐ của Trường"
+        },
+        {
+          "Tên ngành": "Thông tin - Thư viện - Quản trị thư viện",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "26.94",
+          "Ghi chú": "Kết hợp học bạ với QĐ của Trường"
+        },
+        {
+          "Tên ngành": "Thông tin - Thư viện - Quản trị thư viện",
+          "Tổ hợp môn": "D01; D09; D15",
+          "Điểm chuẩn": "25.94",
+          "Ghi chú": "Kết hợp học bạ với QĐ của Trường"
+        },
+        {
+          "Tên ngành": "Thông tin - Thư viện - Thư viện và thiết bị trường học",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "26.94",
+          "Ghi chú": "Kết hợp học bạ với QĐ của Trường"
+        },
+        {
+          "Tên ngành": "Thông tin - Thư viện - Thư viện và thiết bị trường học",
+          "Tổ hợp môn": "D01; D09; D15",
+          "Điểm chuẩn": "25.94",
+          "Ghi chú": "Kết hợp học bạ với QĐ của Trường"
+        },
+        {
+          "Tên ngành": "Quản lý thông tin",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "26.05",
+          "Ghi chú": "Kết hợp học bạ với QĐ của Trường"
+        },
+        {
+          "Tên ngành": "Quản lý thông tin",
+          "Tổ hợp môn": "D01; D14; D15",
+          "Điểm chuẩn": "25.05",
+          "Ghi chú": "Kết hợp học bạ với QĐ của Trường"
+        },
+        {
+          "Tên ngành": "Bảo tàng học",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.18",
+          "Ghi chú": "Kết hợp học bạ với QĐ của Trường"
+        },
+        {
+          "Tên ngành": "Bảo tàng học",
+          "Tổ hợp môn": "D01; D09; C19",
+          "Điểm chuẩn": "26.18",
+          "Ghi chú": "Kết hợp học bạ với QĐ của Trường"
+        },
+        {
+          "Tên ngành": "Kinh doanh xuất bản phẩm",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "25.87",
+          "Ghi chú": "Kết hợp học bạ với QĐ của Trường"
+        },
+        {
+          "Tên ngành": "Kinh doanh xuất bản phẩm",
+          "Tổ hợp môn": "D01; D09; D15",
+          "Điểm chuẩn": "24.87",
+          "Ghi chú": "Kết hợp học bạ với QĐ của Trường"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.82",
+          "Ghi chú": "Kết hợp học bạ với QĐ của Trường"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D01; D09; C19",
+          "Điểm chuẩn": "27.82",
+          "Ghi chú": "Kết hợp học bạ với QĐ của Trường"
+        },
+        {
+          "Tên ngành": "Du lịch - Văn hóa du lịch",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "26.79",
+          "Ghi chú": "Kết hợp học bạ với QĐ của Trường"
+        },
+        {
+          "Tên ngành": "Du lịch - Văn hóa du lịch",
+          "Tổ hợp môn": "D01; D09; D15",
+          "Điểm chuẩn": "25.79",
+          "Ghi chú": "Kết hợp học bạ với QĐ của Trường"
+        },
+        {
+          "Tên ngành": "Du lịch - Lữ hành, hướng dẫn du lịch",
+          "Tổ hợp môn": "D01; D09; D15",
+          "Điểm chuẩn": "26.8",
+          "Ghi chú": "Kết hợp học bạ với QĐ của Trường"
+        },
+        {
+          "Tên ngành": "Du lịch - Lữ hành, hướng dẫn du lịch",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.8",
+          "Ghi chú": "Kết hợp học bạ với QĐ của Trường"
+        },
+        {
+          "Tên ngành": "Du lịch - Hướng dẫn du lịch quốc tế",
+          "Tổ hợp môn": "D01; D09; D14; D15",
+          "Điểm chuẩn": "31.96",
+          "Ghi chú": "Kết hợp học bạ với QĐ của Trường"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.17",
+          "Ghi chú": "Kết hợp học bạ với QĐ của Trường"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "D01; D09; D15",
+          "Điểm chuẩn": "27.17",
+          "Ghi chú": "Kết hợp học bạ với QĐ của Trường"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành - Quản trị du lịch cộng đồng",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "26.73",
+          "Ghi chú": "Kết hợp học bạ với QĐ của Trường"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành - Quản trị du lịch cộng đồng",
+          "Tổ hợp môn": "D01; D09; D15",
+          "Điểm chuẩn": "25.73",
+          "Ghi chú": "Kết hợp học bạ với QĐ của Trường"
+        }
+      ],
+      "row_count": 39
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:23:54.708744",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-van-hoa-ha-noi-VHH.html"
+}

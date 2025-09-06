@@ -1,0 +1,171 @@
+{
+  "school_code": "DLH",
+  "school_name": "Trường Đại Học Lạc Hồng",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D09; D10; A01",
+          "Điểm chuẩn": "16.15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "C00; D01; C03; C04",
+          "Điểm chuẩn": "15.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "17.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đông phương học (gồm 2 chuyên ngành: ngôn ngữ Nhật Bản và ngôn ngữ Hàn Quốc)",
+          "Tổ hợp môn": "C00; D01; C03; C04",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "A00; D01; A01; D07",
+          "Điểm chuẩn": "15.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ công chúng",
+          "Tổ hợp môn": "A00; D01; A01; D07",
+          "Điểm chuẩn": "17.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "16.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; D01; A01; D07",
+          "Điểm chuẩn": "16.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "15.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "15.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học môi trường",
+          "Tổ hợp môn": "A00; B00; C02; D01",
+          "Điểm chuẩn": "16.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "A00; D01; A01; D07",
+          "Điểm chuẩn": "17.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; D01; A01; D07",
+          "Điểm chuẩn": "15.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật công trình xây dựng",
+          "Tổ hợp môn": "A00; A01; V00; D01",
+          "Điểm chuẩn": "16.55",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí (Cơ điện tử)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "15.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "15.15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "15.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hóa",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "16.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "15.15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; B00; C02; D01",
+          "Điểm chuẩn": "15.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "A00; B00; C02; D01",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 25
+    }
+  ],
+  "table_count": 1,
+  "crawled_at": "2025-07-18T23:29:19.529653",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-lac-hong-DLH.html"
+}

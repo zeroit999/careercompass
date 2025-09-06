@@ -1,0 +1,273 @@
+{
+  "school_code": "NQH",
+  "school_name": "Học Viện Khoa Học Quân Sự - Hệ Quân sự",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "27.54",
+          "Ghi chú": "TS nữ"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "26.48",
+          "Ghi chú": "TS nam"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nga",
+          "Tổ hợp môn": "D01; D02",
+          "Điểm chuẩn": "25.88",
+          "Ghi chú": "TS nam"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nga",
+          "Tổ hợp môn": "D01; D02",
+          "Điểm chuẩn": "27.17",
+          "Ghi chú": "TS nữ"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "D01; D04",
+          "Điểm chuẩn": "26.67",
+          "Ghi chú": "TS nam"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "D01; D04",
+          "Điểm chuẩn": "28.22",
+          "Ghi chú": "TS nữ"
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.94",
+          "Ghi chú": "TS nam"
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "27.72",
+          "Ghi chú": "TS nữ"
+        },
+        {
+          "Tên ngành": "Trinh sát kỹ thuật",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "25.26",
+          "Ghi chú": "TS nam, miền Bắc"
+        },
+        {
+          "Tên ngành": "Trinh sát kỹ thuật",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": "TS nam, miền Nam"
+        }
+      ],
+      "row_count": 10
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "28.598",
+          "Ghi chú": "TS Nam"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nga",
+          "Tổ hợp môn": "D01; D02",
+          "Điểm chuẩn": "27.679",
+          "Ghi chú": "TS Nam"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "D01; D04",
+          "Điểm chuẩn": "27.681",
+          "Ghi chú": "TS Nam"
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "27.223",
+          "Ghi chú": "TS Nam"
+        },
+        {
+          "Tên ngành": "Trinh sát kỹ thuật",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "28.651",
+          "Ghi chú": "TS Nam miền Nam"
+        },
+        {
+          "Tên ngành": "Trinh sát kỹ thuật",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "27.52",
+          "Ghi chú": "TS Nam miền Bắc"
+        }
+      ],
+      "row_count": 6
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.65",
+          "Ghi chú": "TS Nữ"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.925",
+          "Ghi chú": "TS Nam"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nga",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.45",
+          "Ghi chú": "TS Nam"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nga",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.025",
+          "Ghi chú": "TS Nữ"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19",
+          "Ghi chú": "TS Nam"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": "TS Nữ"
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.125",
+          "Ghi chú": "TS Nam"
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.825",
+          "Ghi chú": "TS Nữ"
+        },
+        {
+          "Tên ngành": "Trinh sát kỹ thuật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.025",
+          "Ghi chú": "TS Nam miền Nam"
+        },
+        {
+          "Tên ngành": "Trinh sát kỹ thuật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.05",
+          "Ghi chú": "TS Nam miền Bắc"
+        }
+      ],
+      "row_count": 10
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.925",
+          "Ghi chú": "TS Nam"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.65",
+          "Ghi chú": "TS Nữ"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nga",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.45",
+          "Ghi chú": "TS Nam"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nga",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.025",
+          "Ghi chú": "TS Nữ"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19",
+          "Ghi chú": "TS Nam"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": "TS Nữ"
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.825",
+          "Ghi chú": "TS Nữ"
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.125",
+          "Ghi chú": "TS Nam"
+        },
+        {
+          "Tên ngành": "Trinh sát kỹ thuật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.025",
+          "Ghi chú": "TS Nam miền Nam"
+        },
+        {
+          "Tên ngành": "Trinh sát kỹ thuật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.05",
+          "Ghi chú": "TS Nam miền Bắc"
+        }
+      ],
+      "row_count": 10
+    }
+  ],
+  "table_count": 4,
+  "crawled_at": "2025-07-18T23:24:34.180645",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-khoa-hoc-quan-su-he-quan-su-NQH.html"
+}

@@ -1,0 +1,45 @@
+{
+  "school_code": "DSD",
+  "school_name": "Trường Đại Học Sân Khấu Điện Ảnh TPHCM",
+  "tables": [
+    {
+      "table_title": "Điểm thi riêng năm 2020",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Đạo diễn sân khấu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": "Điểm năng khiếu >= 7"
+        },
+        {
+          "Tên ngành": "Diễn viên kịch , Điện ảnh - Truyền hình",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Điểm năng khiếu >= 7"
+        },
+        {
+          "Tên ngành": "Đạo diễn Điện ảnh - Truyền hình",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Điểm năng khiếu >= 7"
+        },
+        {
+          "Tên ngành": "Quay phim",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": "Điểm năng khiếu >= 7"
+        }
+      ],
+      "row_count": 4
+    }
+  ],
+  "table_count": 1,
+  "crawled_at": "2025-07-18T23:33:02.261878",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-san-khau-dien-anh-tphcm-DSD.html"
+}

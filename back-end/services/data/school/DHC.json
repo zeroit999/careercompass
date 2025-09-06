@@ -1,0 +1,45 @@
+{
+  "school_code": "DHC",
+  "school_name": "Khoa Giáo Dục Thể Chất Huế",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Giáo dục thể chất",
+          "Tổ hợp môn": "T00; T02; T05; T07",
+          "Điểm chuẩn": "27.1",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 1
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Giáo dục thể chất",
+          "Tổ hợp môn": "T00; T02; T05; T07",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 1
+    }
+  ],
+  "table_count": 2,
+  "crawled_at": "2025-07-18T23:26:19.645925",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/khoa-giao-duc-the-chat-hue-DHC.html"
+}

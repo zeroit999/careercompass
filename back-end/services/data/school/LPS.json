@@ -1,0 +1,267 @@
+{
+  "school_code": "LPS",
+  "school_name": "Trường Đại Học Luật TPHCM",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D66",
+          "Điểm chuẩn": "25.46",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D84",
+          "Điểm chuẩn": "25.66",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D14",
+          "Điểm chuẩn": "24.16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D84",
+          "Điểm chuẩn": "22.56",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị - Luật",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "23.37",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị - Luật",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "23.87",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị - Luật",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "24.17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị - Luật",
+          "Tổ hợp môn": "D84",
+          "Điểm chuẩn": "24.87",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "24.57",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D01; D03; D06",
+          "Điểm chuẩn": "24.27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "23.77",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật thương mại quốc tế",
+          "Tổ hợp môn": "A01; D01; D66; D84",
+          "Điểm chuẩn": "26.1",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 13
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D14; D66; D84",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": "TB của 3 năm THPT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D14; D66; D84",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": "TBC 5 HK"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D84",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": "TB của 3 năm THPT"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D84",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": "TBC 5 HK"
+        },
+        {
+          "Tên ngành": "Quản trị - Luật",
+          "Tổ hợp môn": "A00; A01; D01; D84",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": "TB của 3 năm THPT"
+        },
+        {
+          "Tên ngành": "Quản trị - Luật",
+          "Tổ hợp môn": "A00; A01; D01; D84",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": "TBC 5 HK"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; A01; C00; D01; D03; D06",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": "TBC 5 HK"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; A01; C00; D01; D03; D06",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": "TB của 3 năm THPT"
+        },
+        {
+          "Tên ngành": "Luật thương mại quốc tế",
+          "Tổ hợp môn": "A01; D01; D66; D84",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "TB của 3 năm THPT"
+        },
+        {
+          "Tên ngành": "Luật thương mại quốc tế",
+          "Tổ hợp môn": "A01; D01; D66; D84",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": "TBC 5 HK"
+        }
+      ],
+      "row_count": 10
+    },
+    {
+      "table_title": "Điểm xét tuyển kết hợp năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D14; D66; D84",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "TOEFL iBT: 74 trở lên"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D14; D66; D84",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "IELTS: 5,5 trở lên"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D84",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "IELTS: 5,5 trở lên"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D84",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "TOEFL iBT: 74 trở lên"
+        },
+        {
+          "Tên ngành": "Quản trị - Luật",
+          "Tổ hợp môn": "A00; A01; D01; D84",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "IELTS: 5,5 trở lên"
+        },
+        {
+          "Tên ngành": "Quản trị - Luật",
+          "Tổ hợp môn": "A00; A01; D01; D84",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "TOEFL iBT: 74 trở lên"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; A01; C00; D01; D03; D08",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "DELF: B1 trở lên"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; A01; C00; D01; D03; D06",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "IELTS: 5,5 trở lên"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; A01; C00; D01; D03; D09",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "TCF: 300 điểm/ kỹ năng trở lên"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; A01; C00; D01; D03; D07",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "TOEFL iBT: 74 trở lên"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; A01; C00; D01; D03; D10",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "JLPT: N3 trở lên"
+        },
+        {
+          "Tên ngành": "Luật thương mại quốc tế",
+          "Tổ hợp môn": "A01; D01; D66; D84",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "TOEFL iBT: 100 trở lên"
+        },
+        {
+          "Tên ngành": "Luật thương mại quốc tế",
+          "Tổ hợp môn": "A01; D01; D66; D84",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "IELTS: 7,5 trở lên"
+        },
+        {
+          "Tên ngành": "Luật thương mại quốc tế",
+          "Tổ hợp môn": "A01; D01; D66; D84",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": "IELTS: 7,0"
+        }
+      ],
+      "row_count": 14
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:25:00.925574",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-luat-tphcm-LPS.html"
+}

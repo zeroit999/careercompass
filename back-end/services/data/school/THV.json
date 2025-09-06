@@ -1,0 +1,273 @@
+{
+  "school_code": "THV",
+  "school_name": "Trường Đại Học Hùng Vương",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Giáo dục Mầm non",
+          "Tổ hợp môn": "M00; M01; M07; M09",
+          "Điểm chuẩn": "33.47",
+          "Ghi chú": "Học lực lớp 12 đạt Giỏi, x2 năng khiếu"
+        },
+        {
+          "Tên ngành": "Giáo dục Tiểu học",
+          "Tổ hợp môn": "A00; C00; C19; D01",
+          "Điểm chuẩn": "28.13",
+          "Ghi chú": "Học lực lớp 12 đạt Giỏi"
+        },
+        {
+          "Tên ngành": "Giáo dục Thể chất",
+          "Tổ hợp môn": "T00; T02; T05; T07",
+          "Điểm chuẩn": "34",
+          "Ghi chú": "Học lực lớp 12 đạt khá trở lên, x2 năng khiếu"
+        },
+        {
+          "Tên ngành": "Sư phạm Toán học",
+          "Tổ hợp môn": "A00; A01; D01; D84",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Học lực lớp 12 đạt Giỏi"
+        },
+        {
+          "Tên ngành": "Sư phạm Ngữ văn",
+          "Tổ hợp môn": "C00; C19; D14; C20",
+          "Điểm chuẩn": "28.44",
+          "Ghi chú": "Học lực lớp 12 đạt Giỏi"
+        },
+        {
+          "Tên ngành": "Sư phạm Âm nhạc",
+          "Tổ hợp môn": "N00; N01",
+          "Điểm chuẩn": "33",
+          "Ghi chú": "Học lực lớp 12 đạt khá trở lên, x2 năng khiếu"
+        },
+        {
+          "Tên ngành": "Sư phạm Tiếng Anh",
+          "Tổ hợp môn": "D01; D11; D14; D15",
+          "Điểm chuẩn": "26.6",
+          "Ghi chú": "Học lực lớp 12 đạt Giỏi"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D11; D14; D15",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "D01; D04; D45; D15",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A00; A01; A09; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; A09; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; A09; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; A09; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; A10; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Kỹ thuật Cơ khí",
+          "Tổ hợp môn": "A00; A01; A10; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Kỹ thuật điện, điện tử",
+          "Tổ hợp môn": "A00; A01; D01; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thú y",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "19",
+          "Ghi chú": "Học lực lớp 12 đạt khá trở lên"
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "C00; C20; D01; D15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "C00; C20; D01; D15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 20
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Sư phạm Mầm non",
+          "Tổ hợp môn": "M00; M01; M07; M09",
+          "Điểm chuẩn": "32",
+          "Ghi chú": "Học lực lớp 12 đạt Giỏi, x2 năng khiếu"
+        },
+        {
+          "Tên ngành": "Giáo dục Tiểu học",
+          "Tổ hợp môn": "A00; C00; C19; D01",
+          "Điểm chuẩn": "27.6",
+          "Ghi chú": "Học lực lớp 12 đạt Giỏi"
+        },
+        {
+          "Tên ngành": "Giáo dục Thể chất",
+          "Tổ hợp môn": "T00; T02; T05; T07",
+          "Điểm chuẩn": "32",
+          "Ghi chú": "Học lực lớp 12 đạt khá trở lên, x2 năng khiếu"
+        },
+        {
+          "Tên ngành": "Sư phạm Toán học",
+          "Tổ hợp môn": "A00; A01; D01; D84",
+          "Điểm chuẩn": "28.23",
+          "Ghi chú": "Học lực lớp 12 đạt Giỏi"
+        },
+        {
+          "Tên ngành": "Sư phạm Ngữ văn",
+          "Tổ hợp môn": "C00; C19; D14; C20",
+          "Điểm chuẩn": "28.2",
+          "Ghi chú": "Học lực lớp 12 đạt Giỏi"
+        },
+        {
+          "Tên ngành": "Sư phạm Âm nhạc",
+          "Tổ hợp môn": "N00; N01",
+          "Điểm chuẩn": "30",
+          "Ghi chú": "Học lực lớp 12 đạt khá trở lên, x2 năng khiếu"
+        },
+        {
+          "Tên ngành": "Sư phạm Tiếng Anh",
+          "Tổ hợp môn": "D01; D11; D14; D15",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Học lực lớp 12 đạt Giỏi"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D11; D14; D15",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "D01; D04; D45; D15",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A00; A01; A09; D01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; A09; D01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; A09; D01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; A09; D01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; A10; D01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Kỹ thuật Cơ khí",
+          "Tổ hợp môn": "A00; A01; A10; D01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Kỹ thuật điện, điện tử",
+          "Tổ hợp môn": "A00; A01; D01; D01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thú y",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "Học lực lớp 12 đạt khá trở lên"
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "C00; C20; D01; D15",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "C00; C20; D01; D15",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 20
+    }
+  ],
+  "table_count": 2,
+  "crawled_at": "2025-07-18T23:25:46.149425",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-hung-vuong-THV.html"
+}

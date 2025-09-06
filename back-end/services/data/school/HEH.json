@@ -1,0 +1,177 @@
+{
+  "school_code": "HEH",
+  "school_name": "Học Viện Hậu Cần - Hệ Quân sự",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngành Hậu cần Quân sự",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "26.22",
+          "Ghi chú": "TS nam, miền Bắc"
+        },
+        {
+          "Tên ngành": "Ngành Hậu cần Quân sự",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "26.22",
+          "Ghi chú": "TS nam, miền Bắc"
+        },
+        {
+          "Tên ngành": "Ngành Hậu cần Quân sự",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "25.29",
+          "Ghi chú": "TS nam, miền Nam"
+        },
+        {
+          "Tên ngành": "Ngành Hậu cần Quân sự",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "25.29",
+          "Ghi chú": "TS nam, miền Nam"
+        },
+        {
+          "Tên ngành": "Ngành Hậu cần Quân sự",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "27.28",
+          "Ghi chú": "TS nữ, miền Bắc"
+        },
+        {
+          "Tên ngành": "Ngành Hậu cần Quân sự",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "27.28",
+          "Ghi chú": "TS nữ, miền Bắc"
+        },
+        {
+          "Tên ngành": "Ngành Hậu cần Quân sự",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "26.62",
+          "Ghi chú": "TS nữ, miền Nam"
+        },
+        {
+          "Tên ngành": "Ngành Hậu cần Quân sự",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "26.62",
+          "Ghi chú": "TS nữ, miền Nam"
+        }
+      ],
+      "row_count": 8
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngành Hậu cần Quân sự",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "28.382",
+          "Ghi chú": "TS Nam miền Bắc"
+        },
+        {
+          "Tên ngành": "Ngành Hậu cần Quân sự",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "28.382",
+          "Ghi chú": "TS Nam miền Bắc"
+        },
+        {
+          "Tên ngành": "Ngành Hậu cần Quân sự",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "27.804",
+          "Ghi chú": "TS Nam miền Nam"
+        },
+        {
+          "Tên ngành": "Ngành Hậu cần Quân sự",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "27.804",
+          "Ghi chú": "TS Nam miền Nam"
+        }
+      ],
+      "row_count": 4
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngành Hậu cần Quân sự",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.9",
+          "Ghi chú": "TS Nam miền Bắc"
+        },
+        {
+          "Tên ngành": "Ngành Hậu cần Quân sự",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.125",
+          "Ghi chú": "TS Nam miền Nam"
+        },
+        {
+          "Tên ngành": "Ngành Hậu cần Quân sự",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.15",
+          "Ghi chú": "TS Nữ miền Bắc"
+        },
+        {
+          "Tên ngành": "Ngành Hậu cần Quân sự",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.75",
+          "Ghi chú": "TS Nữ miền Nam"
+        }
+      ],
+      "row_count": 4
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngành Hậu cần Quân sự",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.9",
+          "Ghi chú": "TS Nam miền Bắc"
+        },
+        {
+          "Tên ngành": "Ngành Hậu cần Quân sự",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.125",
+          "Ghi chú": "TS Nam miền Nam"
+        },
+        {
+          "Tên ngành": "Ngành Hậu cần Quân sự",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.15",
+          "Ghi chú": "TS Nữ miền Bắc"
+        },
+        {
+          "Tên ngành": "Ngành Hậu cần Quân sự",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.75",
+          "Ghi chú": "TS Nữ miền Nam"
+        }
+      ],
+      "row_count": 4
+    }
+  ],
+  "table_count": 4,
+  "crawled_at": "2025-07-18T23:24:59.421491",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-hau-can-he-quan-su-HEH.html"
+}

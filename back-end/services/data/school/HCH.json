@@ -1,0 +1,963 @@
+{
+  "school_code": "HCH",
+  "school_name": "Học Viện Hành Chính và Quản trị công",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D14; D15",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Văn hóa học",
+          "Tổ hợp môn": "D01; D14; D15",
+          "Điểm chuẩn": "24.8",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Văn hóa học",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "26.8",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Quản lý văn hóa",
+          "Tổ hợp môn": "D01; D14; D15",
+          "Điểm chuẩn": "24.3",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Quản lý văn hóa",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "26.3",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A00; A01; A07; D01",
+          "Điểm chuẩn": "16",
+          "Ghi chú": "Phân hiệu tại tỉnh Quảng Nam"
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A00; A01; A07; D01",
+          "Điểm chuẩn": "24.6",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Chính trị học",
+          "Tổ hợp môn": "C14; C20",
+          "Điểm chuẩn": "27.05",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Chính trị học",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "24.05",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Chính trị học",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "26.05",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền nhà nước",
+          "Tổ hợp môn": "C19",
+          "Điểm chuẩn": "27.9",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền nhà nước",
+          "Tổ hợp môn": "D01; D14",
+          "Điểm chuẩn": "24.9",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền nhà nước",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "26.9",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "A01; D01; D15",
+          "Điểm chuẩn": "24.4",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "D01; D15; C00",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Phân hiệu tại tỉnh Quảng Nam"
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "26.4",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "C20",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Phân hiệu tại tỉnh Quảng Nam"
+        },
+        {
+          "Tên ngành": "Thông tin – thư viện",
+          "Tổ hợp môn": "C20",
+          "Điểm chuẩn": "26.6",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Thông tin – thư viện",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "23.6",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Thông tin – thư viện",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "25.6",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Lưu trữ học",
+          "Tổ hợp môn": "C19; C20",
+          "Điểm chuẩn": "26.25",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Lưu trữ học",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "23.25",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Lưu trữ học",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "A00; D01; C00",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Phân hiệu tại tỉnh Quảng Nam"
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.8",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "C20",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "Phân hiệu tại tỉnh Quảng Nam"
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "24.8",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.1",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "C20",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": "Phân hiệu tại tỉnh Quảng Nam"
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "A01; D01; D14",
+          "Điểm chuẩn": "25.1",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "A00; D01; C00",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": "Phân hiệu tại tỉnh Quảng Nam"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.8",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "C20",
+          "Điểm chuẩn": "23.45",
+          "Ghi chú": "Phân hiệu tại tỉnh Quảng Nam"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "24.8",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; D01; C00",
+          "Điểm chuẩn": "22.45",
+          "Ghi chú": "Phân hiệu tại tỉnh Quảng Nam"
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D10",
+          "Điểm chuẩn": "23.9",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.2",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "D01; D14; D15",
+          "Điểm chuẩn": "25.2",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        }
+      ],
+      "row_count": 38
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D14; D15",
+          "Điểm chuẩn": "27.75",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Văn hóa học",
+          "Tổ hợp môn": "D01; D14; D15",
+          "Điểm chuẩn": "26.75",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Văn hóa học",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.75",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Quản lý văn hóa",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Quản lý văn hóa",
+          "Tổ hợp môn": "D01; D14; D15",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A00; A01; A07; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Phân hiệu tại tỉnh Quảng Nam"
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A00; A01; A07; D01",
+          "Điểm chuẩn": "28.25",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Chính trị học",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Chính trị học",
+          "Tổ hợp môn": "C14; C20",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Chính trị học",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền nhà nước",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền nhà nước",
+          "Tổ hợp môn": "C19",
+          "Điểm chuẩn": "29.5",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền nhà nước",
+          "Tổ hợp môn": "D01; D14",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "D01; D15; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Phân hiệu tại tỉnh Quảng Nam"
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "29",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "C20",
+          "Điểm chuẩn": "19",
+          "Ghi chú": "Phân hiệu tại tỉnh Quảng Nam"
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "A01; D01; D15",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Thông tin - thư viện",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Thông tin - thư viện",
+          "Tổ hợp môn": "C20",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Thông tin - thư viện",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Lưu trữ học",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Lưu trữ học",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Lưu trữ học",
+          "Tổ hợp môn": "C19; C20",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "C20",
+          "Điểm chuẩn": "19",
+          "Ghi chú": "Phân hiệu tại tỉnh Quảng Nam"
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "A00; D01; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Phân hiệu tại tỉnh Quảng Nam"
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "28.25",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "A01; D01; D14",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "A00; D01; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Phân hiệu tại tỉnh Quảng Nam"
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "C20",
+          "Điểm chuẩn": "19",
+          "Ghi chú": "Phân hiệu tại tỉnh Quảng Nam"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; D01; C00",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "Phân hiệu tại tỉnh Quảng Nam"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "28.25",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "C20",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Phân hiệu tại tỉnh Quảng Nam"
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D10",
+          "Điểm chuẩn": "27.25",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "D01; D14; D15",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "29",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        }
+      ],
+      "row_count": 35
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "86",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Văn hóa học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "86",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Quản lý văn hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "90",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": "Phân hiệu tại Quảng Nam"
+        },
+        {
+          "Tên ngành": "Chính trị học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền nhà nước",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "82",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": "Phân hiệu tại Quảng Nam"
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "85",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Thông tin – thư viện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Lưu trữ học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": "Phân hiệu tại Quảng Nam"
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "90",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": "Phân hiệu tại Quảng Nam"
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "86",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "90",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "85",
+          "Ghi chú": "Phân hiệu tại Quảng Nam"
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "82",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "83",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        }
+      ],
+      "row_count": 19
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "688",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Văn hóa học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "688",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Quản lý văn hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "640",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "640",
+          "Ghi chú": "Phân hiệu tại Quảng Nam"
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "720",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Chính trị học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "640",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền nhà nước",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "656",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "640",
+          "Ghi chú": "Phân hiệu tại Quảng Nam"
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "680",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Thông tin – thư viện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "640",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Lưu trữ học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "640",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "640",
+          "Ghi chú": "Phân hiệu tại Quảng Nam"
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "720",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "640",
+          "Ghi chú": "Phân hiệu tại Quảng Nam"
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "688",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "720",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "680",
+          "Ghi chú": "Phân hiệu tại Quảng Nam"
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "656",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "664",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        }
+      ],
+      "row_count": 19
+    },
+    {
+      "table_title": "Chứng chỉ quốc tế năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "74",
+          "Ghi chú": "Đào tạo tại Hà Nội; Chứng chỉ TOEFL iBT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "Đào tạo tại Hà Nội; Chứng chỉ IELTS"
+        },
+        {
+          "Tên ngành": "Văn hóa học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "65",
+          "Ghi chú": "Đào tạo tại Hà Nội; Chứng chỉ TOEFL iBT"
+        },
+        {
+          "Tên ngành": "Văn hóa học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": "Đào tạo tại Hà Nội; Chứng chỉ IELTS"
+        },
+        {
+          "Tên ngành": "Quản lý văn hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "65",
+          "Ghi chú": "Đào tạo tại Hà Nội; Chứng chỉ TOEFL iBT"
+        },
+        {
+          "Tên ngành": "Quản lý văn hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": "Đào tạo tại Hà Nội; Chứng chỉ IELTS"
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5",
+          "Ghi chú": "Phân hiệu tại Quảng Nam; Chứng chỉ IELTS"
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": "Đào tạo tại Hà Nội; Chứng chỉ TOEFL iBT"
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "60",
+          "Ghi chú": "Phân hiệu tại Quảng Nam; Chứng chỉ TOEFL iBT"
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6.5",
+          "Ghi chú": "Đào tạo tại Hà Nội; Chứng chỉ IELTS"
+        },
+        {
+          "Tên ngành": "Chính trị học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "65",
+          "Ghi chú": "Đào tạo tại Hà Nội; Chứng chỉ TOEFL iBT"
+        },
+        {
+          "Tên ngành": "Chính trị học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": "Đào tạo tại Hà Nội; Chứng chỉ IELTS"
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền nhà nước",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "74",
+          "Ghi chú": "Đào tạo tại Hà Nội; Chứng chỉ TOEFL iBT"
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền nhà nước",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "Đào tạo tại Hà Nội; Chứng chỉ IELTS"
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5",
+          "Ghi chú": "Phân hiệu tại Quảng Nam; Chứng chỉ IELTS"
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "60",
+          "Ghi chú": "Phân hiệu tại Quảng Nam; Chứng chỉ TOEFL iBT"
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "74",
+          "Ghi chú": "Đào tạo tại Hà Nội; Chứng chỉ TOEFL iBT"
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "Đào tạo tại Hà Nội; Chứng chỉ IELTS"
+        },
+        {
+          "Tên ngành": "Thông tin – thư viện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "65",
+          "Ghi chú": "Đào tạo tại Hà Nội; Chứng chỉ TOEFL iBT"
+        },
+        {
+          "Tên ngành": "Thông tin – thư viện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": "Đào tạo tại Hà Nội; Chứng chỉ IELTS"
+        },
+        {
+          "Tên ngành": "Lưu trữ học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "74",
+          "Ghi chú": "Đào tạo tại Hà Nội; Chứng chỉ TOEFL iBT"
+        },
+        {
+          "Tên ngành": "Lưu trữ học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "Đào tạo tại Hà Nội; Chứng chỉ IELTS"
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": "Đào tạo tại Hà Nội; Chứng chỉ TOEFL iBT"
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "60",
+          "Ghi chú": "Phân hiệu tại Quảng Nam; Chứng chỉ TOEFL iBT"
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6.5",
+          "Ghi chú": "Đào tạo tại Hà Nội; Chứng chỉ IELTS"
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5",
+          "Ghi chú": "Phân hiệu tại Quảng Nam; Chứng chỉ IELTS"
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5",
+          "Ghi chú": "Phân hiệu tại Quảng Nam; Chứng chỉ IELTS"
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "74",
+          "Ghi chú": "Đào tạo tại Hà Nội; Chứng chỉ TOEFL iBT"
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "60",
+          "Ghi chú": "Phân hiệu tại Quảng Nam; Chứng chỉ TOEFL iBT"
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "Đào tạo tại Hà Nội; Chứng chỉ IELTS"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6.5",
+          "Ghi chú": "Đào tạo tại Hà Nội; Chứng chỉ IELTS"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": "Phân hiệu tại Quảng Nam; Chứng chỉ IELTS"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": "Đào tạo tại Hà Nội; Chứng chỉ TOEFL iBT"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "65",
+          "Ghi chú": "Phân hiệu tại Quảng Nam; Chứng chỉ TOEFL iBT"
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "74",
+          "Ghi chú": "Đào tạo tại Hà Nội; Chứng chỉ TOEFL iBT"
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "Đào tạo tại Hà Nội; Chứng chỉ IELTS"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "74",
+          "Ghi chú": "Đào tạo tại Hà Nội; Chứng chỉ TOEFL iBT"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "Đào tạo tại Hà Nội; Chứng chỉ IELTS"
+        }
+      ],
+      "row_count": 38
+    }
+  ],
+  "table_count": 5,
+  "crawled_at": "2025-07-18T23:26:07.260469",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-hanh-chinh-va-quan-tri-cong-HCH.html"
+}

@@ -1,0 +1,213 @@
+{
+  "school_code": "VTT",
+  "school_name": "Trường Đại Học Võ Trường Toản",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản lý Nhà nước",
+          "Tổ hợp môn": "A01; C00; D01; C20",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính – Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; A01; D01; C03",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "B00; A02; B03; D08",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "B00; A00; C02; D07",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Răng – Hàm – Mặt",
+          "Tổ hợp môn": "B00; A02; B03; D08",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 11
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "A01; C00; D01; C20",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính – Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; A01; D01; C03",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "B00; A02; B03; D08",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "Học lực L12 xếp loại từ giỏi trở lên hoặc điểm xét TN THPT từ 8,0 trở lên"
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "B00; A00; C02; D07",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "Học lực L12 xếp loại từ giỏi trở lên hoặc điểm xét TN THPT từ 8,0 trở lên"
+        },
+        {
+          "Tên ngành": "Răng – Hàm – Mặt",
+          "Tổ hợp môn": "B00; A02; B03; D08",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "Học lực L12 xếp loại từ giỏi trở lên hoặc điểm xét TN THPT từ 8,0 trở lên"
+        }
+      ],
+      "row_count": 11
+    },
+    {
+      "table_title": "Điểm xét tuyển kết hợp năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "B00; A02; B03; D08",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Kết hợp điểm thi TN THPT với học bạ"
+        },
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "D08",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Kết hợp điểm thi TN THPT với chứng chỉ ngoại ngữ"
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "B00; A00; C02; D07",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Kết hợp điểm thi TN THPT với học bạ"
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "D07",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Kết hợp điểm thi TN THPT với chứng chỉ ngoại ngữ"
+        },
+        {
+          "Tên ngành": "Răng – Hàm – Mặt",
+          "Tổ hợp môn": "B00; A02; B03; D08",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Kết hợp điểm thi TN THPT với học bạ"
+        },
+        {
+          "Tên ngành": "Răng – Hàm – Mặt",
+          "Tổ hợp môn": "D08",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Kết hợp điểm thi TN THPT với chứng chỉ ngoại ngữ"
+        }
+      ],
+      "row_count": 6
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:28:40.397010",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-vo-truong-toan-VTT.html"
+}

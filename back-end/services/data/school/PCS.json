@@ -1,0 +1,45 @@
+{
+  "school_code": "PCS",
+  "school_name": "Trường Đại Học Phòng Cháy Chữa Cháy (phía Nam)",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Phòng cháy chữa cháy và cứu nạn, cứu hộ",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "19.05",
+          "Ghi chú": "Nam, phía Bắc"
+        },
+        {
+          "Tên ngành": "Phòng cháy chữa cháy và cứu nạn, cứu hộ",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "18.17",
+          "Ghi chú": "Nam, phía Nam"
+        },
+        {
+          "Tên ngành": "Phòng cháy chữa cháy và cứu nạn, cứu hộ",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "21.7",
+          "Ghi chú": "Nữ, phía Bắc"
+        },
+        {
+          "Tên ngành": "Phòng cháy chữa cháy và cứu nạn, cứu hộ",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "19.89",
+          "Ghi chú": "Nữ, phía Nam"
+        }
+      ],
+      "row_count": 4
+    }
+  ],
+  "table_count": 1,
+  "crawled_at": "2025-07-18T23:29:04.651800",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-phong-chay-chua-chay-phia-nam-PCS.html"
+}

@@ -1,0 +1,909 @@
+{
+  "school_code": "UEF",
+  "school_name": "Trường Đại Học Kinh Tế Tài Chính TPHCM",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Thiết kế đồ họa",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế số",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "D01; C00; D14; D15",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ truyền thông (Truyền thông số)",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ công chúng",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Digital Marketing",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Bất động sản",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh thương mại",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính (Fintech)",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị sự kiện",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị nhà hàng và dịch vụ ăn uống",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 36
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Thiết kế đồ họa",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Thiết kế đồ họa",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Kinh tế quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Kinh tế quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Kinh tế số",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Kinh tế số",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "D01; C00; D14; D15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "D01; C00; D14; D15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Công nghệ truyền thông (Truyền thông số)",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Công nghệ truyền thông (Truyền thông số)",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Quan hệ công chúng",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Quan hệ công chúng",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Digital Marketing",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Digital Marketing",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Bất động sản",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Bất động sản",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Kinh doanh thương mại",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Kinh doanh thương mại",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính (Fintech)",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính (Fintech)",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Tài chính quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Tài chính quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Quản trị sự kiện",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Quản trị sự kiện",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Luật quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Luật quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Quản trị nhà hàng và dịch vụ ăn uống",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Quản trị nhà hàng và dịch vụ ăn uống",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 3 học kỳ"
+        }
+      ],
+      "row_count": 72
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Thiết kế đồ họa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế số",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ truyền thông (Truyền thông số)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ công chúng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Digital Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Bất động sản",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh thương mại",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính (Fintech)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị sự kiện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị nhà hàng và dịch vụ ăn uống",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 36
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:29:51.095652",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-kinh-te-tai-chinh-tphcm-UEF.html"
+}

@@ -1,0 +1,861 @@
+{
+  "school_code": "SPH",
+  "school_name": "Trường Đại Học Sư Phạm Hà Nội",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản lí giáo dục",
+          "Tổ hợp môn": "C20",
+          "Điểm chuẩn": "27.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lí giáo dục",
+          "Tổ hợp môn": "D01; D02; D03",
+          "Điểm chuẩn": "27.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Mầm non",
+          "Tổ hợp môn": "M00",
+          "Điểm chuẩn": "23.43",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Mầm non - Sư phạm Tiếng Anh",
+          "Tổ hợp môn": "M01",
+          "Điểm chuẩn": "23.15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Mầm non - Sư phạm Tiếng Anh",
+          "Tổ hợp môn": "M02",
+          "Điểm chuẩn": "23.15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Tiểu học",
+          "Tổ hợp môn": "D01; D02; D03",
+          "Điểm chuẩn": "27.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Tiểu học - Sư phạm Tiếng Anh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "27.26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục đặc biệt",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.37",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục đặc biệt",
+          "Tổ hợp môn": "D01; D02; D03",
+          "Điểm chuẩn": "28.37",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục công dân",
+          "Tổ hợp môn": "C19",
+          "Điểm chuẩn": "28.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục công dân",
+          "Tổ hợp môn": "C20",
+          "Điểm chuẩn": "28.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục chính trị",
+          "Tổ hợp môn": "C20",
+          "Điểm chuẩn": "28.83",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục chính trị",
+          "Tổ hợp môn": "C19",
+          "Điểm chuẩn": "28.83",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục thể chất",
+          "Tổ hợp môn": "T01",
+          "Điểm chuẩn": "25.66",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Quốc phòng và An ninh",
+          "Tổ hợp môn": "D01; D02; D03",
+          "Điểm chuẩn": "28.26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Quốc phòng và An ninh",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Toán học",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "27.48",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Toán học (dạy Toán bằng tiếng Anh)",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "27.68",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Toán học (dạy Toán bằng tiếng Anh)",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "27.68",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tin học",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "25.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tin học",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "25.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Vật lý",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "27.71",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Vật lý",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "27.71",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Vật lí (dạy Vật lí bằng tiếng Anh)",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "26.81",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Vật lí (dạy Vật lí bằng tiếng Anh)",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "26.81",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Hoá học",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "27.62",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Hoá học",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "27.62",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Hoá học (dạy Hoá học bằng tiếng Anh)",
+          "Tổ hợp môn": "D07",
+          "Điểm chuẩn": "27.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Sinh học",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "26.74",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Sinh học",
+          "Tổ hợp môn": "D08",
+          "Điểm chuẩn": "26.74",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Ngữ văn",
+          "Tổ hợp môn": "D01; D02; D03",
+          "Điểm chuẩn": "29.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Ngữ văn",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "29.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Lịch sử",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "29.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Lịch sử",
+          "Tổ hợp môn": "D14",
+          "Điểm chuẩn": "29.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Địa lý",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "29.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Địa lý",
+          "Tổ hợp môn": "C04",
+          "Điểm chuẩn": "29.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Âm nhạc",
+          "Tổ hợp môn": "N01",
+          "Điểm chuẩn": "24.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Âm nhạc",
+          "Tổ hợp môn": "N02",
+          "Điểm chuẩn": "24.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Mỹ thuật",
+          "Tổ hợp môn": "H01",
+          "Điểm chuẩn": "22.69",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Mỹ thuật",
+          "Tổ hợp môn": "H02",
+          "Điểm chuẩn": "22.69",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tiếng Anh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "27.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tiếng Pháp",
+          "Tổ hợp môn": "D15; D42; D44",
+          "Điểm chuẩn": "26.59",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tiếng Pháp",
+          "Tổ hợp môn": "D01; D02; D03",
+          "Điểm chuẩn": "26.59",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Công nghệ",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "24.55",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Công nghệ",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "24.55",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Khoa học tự nhiên",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "26.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Khoa học tự nhiên",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "26.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Lịch sử - Địa lý",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.83",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "26.99",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "26.74",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "D04",
+          "Điểm chuẩn": "26.74",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Triết học (Triết học Mác Lê-nin)",
+          "Tổ hợp môn": "C19",
+          "Điểm chuẩn": "27.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Triết học (Triết học Mác Lê-nin)",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Văn học",
+          "Tổ hợp môn": "D01; D02; D03",
+          "Điểm chuẩn": "28.31",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Văn học",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.31",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chính trị học",
+          "Tổ hợp môn": "D66; D68; D70",
+          "Điểm chuẩn": "26.86",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chính trị học",
+          "Tổ hợp môn": "C19",
+          "Điểm chuẩn": "26.86",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học (Tâm lý học trường học)",
+          "Tổ hợp môn": "D01; D02; D03",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học (Tâm lý học trường học)",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học giáo dục",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học giáo dục",
+          "Tổ hợp môn": "D01; D02; D03",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Việt Nam học",
+          "Tổ hợp môn": "D15",
+          "Điểm chuẩn": "26.97",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Việt Nam học",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "26.97",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sinh học",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sinh học",
+          "Tổ hợp môn": "D08; D32; D34",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hóa học",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "24.44",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hóa học",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "24.44",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Toán học",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "26.04",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Toán học",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "26.04",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "24.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "24.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "D01; D02; D03",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hỗ trợ giáo dục người khuyết tật",
+          "Tổ hợp môn": "D01; D02; D03",
+          "Điểm chuẩn": "25.17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hỗ trợ giáo dục người khuyết tật",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "25.17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.47",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "D15",
+          "Điểm chuẩn": "27.47",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 77
+    },
+    {
+      "table_title": "Điểm ĐGNL ĐH Sư phạm HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản lí giáo dục",
+          "Tổ hợp môn": "Ngữ văn (× 2); Lịch sử",
+          "Điểm chuẩn": "21.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lí giáo dục",
+          "Tổ hợp môn": "Ngữ văn (× 2); Tiếng Anh",
+          "Điểm chuẩn": "21.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Tiểu học",
+          "Tổ hợp môn": "Toán (× 2); Ngữ văn",
+          "Điểm chuẩn": "20.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Tiểu học - Sư phạm Tiếng Anh",
+          "Tổ hợp môn": "Ngữ văn (× 2); Tiếng Anh",
+          "Điểm chuẩn": "24.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Tiểu học - Sư phạm Tiếng Anh",
+          "Tổ hợp môn": "Toán (× 2); Tiếng Anh",
+          "Điểm chuẩn": "21.65",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục đặc biệt",
+          "Tổ hợp môn": "Ngữ văn (× 2); Tiếng Anh",
+          "Điểm chuẩn": "20.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục công dân",
+          "Tổ hợp môn": "Ngữ văn (× 2); Lịch sử",
+          "Điểm chuẩn": "23.51",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục chính trị",
+          "Tổ hợp môn": "Ngữ văn (× 2); Lịch sử",
+          "Điểm chuẩn": "22.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Quốc phòng và An ninh",
+          "Tổ hợp môn": "Ngữ văn (× 2); Địa lý",
+          "Điểm chuẩn": "20.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Quốc phòng và An ninh",
+          "Tổ hợp môn": "Ngữ văn (× 2); Lịch sử",
+          "Điểm chuẩn": "21.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Toán học",
+          "Tổ hợp môn": "Toán (× 2); Hóa học",
+          "Điểm chuẩn": "23.23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Toán học",
+          "Tổ hợp môn": "Toán (× 2); Vật lí",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Toán học (dạy Toán bằng tiếng Anh)",
+          "Tổ hợp môn": "Toán (× 2); Tiếng Anh",
+          "Điểm chuẩn": "23.79",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tin học",
+          "Tổ hợp môn": "Toán (× 2); Tiếng Anh",
+          "Điểm chuẩn": "19.55",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tin học",
+          "Tổ hợp môn": "Toán (× 2); Vật lí",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Vật lý",
+          "Tổ hợp môn": "Vật lí (× 2); Toán",
+          "Điểm chuẩn": "24.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Vật lý (dạy Vật lý bằng tiếng Anh)",
+          "Tổ hợp môn": "Vật lí (× 2); Tiếng Anh",
+          "Điểm chuẩn": "22.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Hoá học",
+          "Tổ hợp môn": "Hóa học (× 2); Toán",
+          "Điểm chuẩn": "25.57",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Hoá học (dạy Hoá học bằng tiếng Anh)",
+          "Tổ hợp môn": "Hóa học (× 2); Tiếng Anh",
+          "Điểm chuẩn": "24.96",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Sinh học",
+          "Tổ hợp môn": "Sinh học (× 2); Tiếng Anh",
+          "Điểm chuẩn": "20.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Sinh học",
+          "Tổ hợp môn": "Sinh học (× 2); Hóa học",
+          "Điểm chuẩn": "25.57",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Ngữ văn",
+          "Tổ hợp môn": "Ngữ văn (× 2); Lịch sử",
+          "Điểm chuẩn": "24.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Ngữ văn",
+          "Tổ hợp môn": "Ngữ văn (× 2); Tiếng Anh",
+          "Điểm chuẩn": "23.93",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Lịch sử",
+          "Tổ hợp môn": "Lịch sử (× 2); Ngữ văn",
+          "Điểm chuẩn": "26.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Lịch sử",
+          "Tổ hợp môn": "Lịch sử (× 2); Tiếng Anh",
+          "Điểm chuẩn": "25.68",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Địa lý",
+          "Tổ hợp môn": "Địa lí (× 2); Ngữ văn",
+          "Điểm chuẩn": "23.42",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Địa lý",
+          "Tổ hợp môn": "Địa lí (× 2); Lịch sử",
+          "Điểm chuẩn": "24.15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tiếng Anh",
+          "Tổ hợp môn": "Tiếng Anh (× 2); Toán",
+          "Điểm chuẩn": "24.63",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tiếng Anh",
+          "Tổ hợp môn": "Tiếng Anh (× 2); Ngữ văn",
+          "Điểm chuẩn": "25.65",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tiếng Pháp",
+          "Tổ hợp môn": "Tiếng Anh (× 2); Ngữ văn",
+          "Điểm chuẩn": "23.86",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Công nghệ",
+          "Tổ hợp môn": "Toán (× 2); Vật lí",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Công nghệ",
+          "Tổ hợp môn": "Toán (× 2); Tiếng Anh",
+          "Điểm chuẩn": "23.55",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Khoa học tự nhiên",
+          "Tổ hợp môn": "Hóa học (× 2); Toán",
+          "Điểm chuẩn": "23.23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Khoa học tự nhiên",
+          "Tổ hợp môn": "Sinh học (× 2); Toán",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Khoa học tự nhiên",
+          "Tổ hợp môn": "Vật lí (× 2); Toán",
+          "Điểm chuẩn": "18.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Lịch sử - Địa lý",
+          "Tổ hợp môn": "Lịch sử (× 2); Ngữ văn",
+          "Điểm chuẩn": "24.15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Lịch sử - Địa lý",
+          "Tổ hợp môn": "Địa lý (× 2); Ngữ văn",
+          "Điểm chuẩn": "21.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "Tiếng Anh (× 2); Ngữ văn",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "Tiếng Anh (× 2); Ngữ văn",
+          "Điểm chuẩn": "24.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "Tiếng Anh (× 2); Toán",
+          "Điểm chuẩn": "22.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Triết học (Triết học Mác Lê-nin)",
+          "Tổ hợp môn": "Ngữ văn (× 2); Lịch sử",
+          "Điểm chuẩn": "21.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Văn học",
+          "Tổ hợp môn": "Ngữ văn (× 2); Tiếng Anh",
+          "Điểm chuẩn": "23.19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Văn học",
+          "Tổ hợp môn": "Ngữ văn (× 2); Lịch sử",
+          "Điểm chuẩn": "23.42",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chính trị học",
+          "Tổ hợp môn": "Ngữ văn (× 2); Tiếng Anh",
+          "Điểm chuẩn": "19.85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học (Tâm lý học trường học)",
+          "Tổ hợp môn": "Ngữ văn (× 2); Lịch sử",
+          "Điểm chuẩn": "22.55",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học (Tâm lý học trường học)",
+          "Tổ hợp môn": "Ngữ văn (× 2); Tiếng Anh",
+          "Điểm chuẩn": "21.65",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học giáo dục",
+          "Tổ hợp môn": "Ngữ văn (× 2); Tiếng Anh",
+          "Điểm chuẩn": "23.19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học giáo dục",
+          "Tổ hợp môn": "Ngữ văn (× 2); Lịch sử",
+          "Điểm chuẩn": "23.51",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Việt Nam học",
+          "Tổ hợp môn": "Ngữ văn (× 2); Tiếng Anh",
+          "Điểm chuẩn": "18.55",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sinh học",
+          "Tổ hợp môn": "Sinh học (× 2); Hóa học",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sinh học",
+          "Tổ hợp môn": "Sinh học (× 2); Tiếng Anh",
+          "Điểm chuẩn": "19.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hóa học",
+          "Tổ hợp môn": "Hóa học (× 2); Toán",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Toán học",
+          "Tổ hợp môn": "Toán (× 2); Vật lí",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Toán học",
+          "Tổ hợp môn": "Toán (× 2); Hóa học",
+          "Điểm chuẩn": "19.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "Toán (× 2); Tiếng Anh",
+          "Điểm chuẩn": "19.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "Toán (× 2); Vật lí",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "Ngữ văn (× 2); Tiếng Anh",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "Ngữ văn (× 2); Lịch sử",
+          "Điểm chuẩn": "18.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hỗ trợ giáo dục người khuyết tật",
+          "Tổ hợp môn": "Ngữ văn (× 2); Lịch sử",
+          "Điểm chuẩn": "18.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hỗ trợ giáo dục người khuyết tật",
+          "Tổ hợp môn": "Ngữ văn (× 2); Tiếng Anh",
+          "Điểm chuẩn": "18.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "Tiếng Anh (× 2); Ngữ văn",
+          "Điểm chuẩn": "18.2",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 61
+    }
+  ],
+  "table_count": 2,
+  "crawled_at": "2025-07-18T23:22:29.416629",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-su-pham-ha-noi-SPH.html"
+}

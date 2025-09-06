@@ -1,0 +1,153 @@
+{
+  "school_code": "DPY",
+  "school_name": "Trường Đại Học Phú Yên",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Giáo dục Mầm non",
+          "Tổ hợp môn": "M01; M09",
+          "Điểm chuẩn": "24.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Tiểu học",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "25.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Toán học",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "25.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Ngữ văn",
+          "Tổ hợp môn": "C00; D01; D14; D15",
+          "Điểm chuẩn": "25.73",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Khoa học tự nhiên",
+          "Tổ hợp môn": "A00; A02; B00",
+          "Điểm chuẩn": "24.02",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 5
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Giáo dục Mầm non",
+          "Tổ hợp môn": "M01; M09",
+          "Điểm chuẩn": "23.84",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Giáo dục Tiểu học",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "27.59",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Sư phạm Toán học",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "28.56",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Sư phạm Ngữ văn",
+          "Tổ hợp môn": "C00; D01; D14; D15",
+          "Điểm chuẩn": "27.57",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Sư phạm Khoa học tự nhiên",
+          "Tổ hợp môn": "A00; A02; B00",
+          "Điểm chuẩn": "27.67",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D10; D14",
+          "Điểm chuẩn": "23.4",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Việt Nam học",
+          "Tổ hợp môn": "C00; D01; D14; D15",
+          "Điểm chuẩn": "17",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D10",
+          "Điểm chuẩn": "17",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Nông nghiệp",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "17",
+          "Ghi chú": "Học bạ lớp 12"
+        }
+      ],
+      "row_count": 10
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 3
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:26:54.288852",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-phu-yen-DPY.html"
+}

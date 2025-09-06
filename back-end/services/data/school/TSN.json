@@ -1,0 +1,855 @@
+{
+  "school_code": "TSN",
+  "school_name": "Trường Đại Học Nha Trang",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh (04 chuyên ngành: Biên - phiên dịch; Tiếng Anh du lịch; Giảng dạy Tiếng Anh; Song ngữ Anh -Trung)",
+          "Tổ hợp môn": "D01; D14; D15; D96",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế (02 chuyên ngành: Kinh tế thủy sản; Quản lý kinh tế)",
+          "Tổ hợp môn": "D01; D14; D15; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế phát triển",
+          "Tổ hợp môn": "D01; D14; D15; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "D01; D14; D15; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chương trình đặc biệt)",
+          "Tổ hợp môn": "A01; D01; D07; D96",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "D01; D14; D15; D96",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh thương mại",
+          "Tổ hợp môn": "D01; D14; D15; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng (02 chuyên ngành: Tài chính - Ngân hàng; Công nghệ tài chính)",
+          "Tổ hợp môn": "D01; D14; D15; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "D01; D14; D15; D96",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán (Chương trình đặc biệt)",
+          "Tổ hợp môn": "A01; D01; D07; D96",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "D01; D14; D15; D96",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý",
+          "Tổ hợp môn": "A01; D01; D07; D96",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật (02 chuyên ngành: Luật; Luật kinh tế)",
+          "Tổ hợp môn": "D01; D14; D15; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "A00; A01; B00; D08",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học (Chương trình Minh Phú -NTU)",
+          "Tổ hợp môn": "A00; A01; B00; D08",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính (02 chuyên ngành: Trí tuệ nhân tạo; Khoa học dữ liệu)",
+          "Tổ hợp môn": "A01; D01; D07; D90",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (03 chuyên ngành: Công nghệ phần mềm; Hệ thống thông tin; Truyền thông và Mạng máy tính)",
+          "Tổ hợp môn": "A01; D01; D07; D90",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Chương trình đặc biệt)",
+          "Tổ hợp môn": "A01; D01; D07; D90",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ chế tạo máy",
+          "Tổ hợp môn": "A00; A01; C01; D07",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí (02 chuyên ngành: Kỹ thuật cơ khí; Thiết kế và chế tạo số)",
+          "Tổ hợp môn": "A00; A01; C01; D07",
+          "Điểm chuẩn": "17.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "A00; A01; C01; D07",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật nhiệt",
+          "Tổ hợp môn": "A00; A01; C01; D07",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí động lực",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "16.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật tàu thủy",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "16.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật ô tô",
+          "Tổ hợp môn": "A01; D01; D07; D90",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỳ thuật điện (chuyên ngành Kỹ thuật điện; điện tử)",
+          "Tổ hợp môn": "A01; D01; D07; D90",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật biển",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "16.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiến và tự động hóa",
+          "Tổ hợp môn": "A01; D01; D07; D90",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật hoá học",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật môi trường (02 chuyên ngành: Kỹ thuật mỏi trường; Quản lý môi trường và an toàn vệ sinh lao động)",
+          "Tổ hợp môn": "A00; A01; B00; D08",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm (03 chuyên ngành: Công nghệ thực phẩm; Đảm bảo chất lượng và an toàn thực phẩm; Khoa học dinh dưỡng và ẩm thực)",
+          "Tổ hợp môn": "A01; D01; D07; D90",
+          "Điểm chuẩn": "17.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ chế biến thuỷ sản (02 chuyên ngành: Công nghệ chế biến thủy sản; Công nghệ sau thu hoạch)",
+          "Tổ hợp môn": "A01; B00; D01; D07",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ chế biến thuỷ sản (Chương trình Minh Phú - NTU)",
+          "Tổ hợp môn": "A01; B00; D01; D07",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng (02 chuyên ngành: Kỹ thuật xây dựng; Quản lý xây dựng)",
+          "Tổ hợp môn": "A01; D01; D07; D90",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình giao thông",
+          "Tổ hợp môn": "A01; D01; D07; D90",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nuôi trồng thuỷ sản",
+          "Tổ hợp môn": "A01; B00; D01; D07",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nuôi trồng thuỷ sản (Chương trình Minh Phú - NTU)",
+          "Tổ hợp môn": "A01; B00; D01; D07",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa hoc thủy sản (02 chuyên ngành: Khoa hoc thủy sản; Khai thác thủy sản)",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý thuỷ sản",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "D01; D14; D15; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch lữ hành (Chương trình đặc biệt)",
+          "Tổ hợp môn": "A01; D01; D07; D96",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành (Chương trình song ngữ Pháp-Việt)",
+          "Tổ hợp môn": "D01; D03; D96; D97",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "D01; D14; D15; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn (Chương trình đặc biệt)",
+          "Tổ hợp môn": "A01; D01; D07; D96",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học hàng hải (02 chuyên ngành: Khoa học hàng hải; Quản lý hàng hải và Logistics)",
+          "Tổ hợp môn": "A01; D01; D07; D90",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 45
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh (04 chuyên ngành: Biên - phiên dịch; Tiếng Anh du lịch; Giảng dạy Tiếng Anh; Song ngữ Anh - Trung)",
+          "Tổ hợp môn": "TA",
+          "Điểm chuẩn": "30",
+          "Ghi chú": "TBC 6 HK môn TA = 7"
+        },
+        {
+          "Tên ngành": "Kinh tế (02 chuyên ngành: Kinh tế thủy sản; Quản lý kinh tế)",
+          "Tổ hợp môn": "TA. LS; ĐL",
+          "Điểm chuẩn": "27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế phát triển",
+          "Tổ hợp môn": "TA; LS; ĐL",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "TA; LS; ĐL",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TBC 6 HK môn TA = 6"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chương trình đặc biệt)",
+          "Tổ hợp môn": "TA; LS; ĐL",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TBC 6 HK môn TA = 6"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "TA, LS; DL",
+          "Điểm chuẩn": "30",
+          "Ghi chú": "TBC 6 HK môn TA = 6"
+        },
+        {
+          "Tên ngành": "Kinh doanh thương mại",
+          "Tổ hợp môn": "TA. LS, OL",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TBC 6 HK môn TA = 5.5"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng (02 chuyên ngành: Tài chính - Ngân hàng; Công nghệ tài chính)",
+          "Tổ hợp môn": "TA; TO, TH",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TBC 6 HK môn TA = 5.5"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "TA. TO. TH",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TBC 6 HK môn TA = 5.5"
+        },
+        {
+          "Tên ngành": "Kế toán (Chương trình đặc biệt)",
+          "Tổ hợp môn": "TA; TO; TH",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TBC 6 HK môn TA = 6"
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "TA. TO. TH",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TBC 6 HK môn TA = 5.5"
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý",
+          "Tổ hợp môn": "TO. TA. TH. CN",
+          "Điểm chuẩn": "27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật (02 chuyên ngành: Luật, Luật kinh tế)",
+          "Tổ hợp môn": "TA. LS. ĐL. GDCD",
+          "Điểm chuẩn": "29",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "TO; VL; HH; SH",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học (Chương trình Minh Phú - NTU)",
+          "Tổ hợp môn": "TO; VL; HH; SH",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính (02 chuyên ngành: Trí tuệ nhân tạo; Khoa học dữ liệu)",
+          "Tổ hợp môn": "TO. TA. TH. CN",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TBC 6 HK môn TA = 5.5"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (03 chuyên ngành: Công nghệ phần mềm; Hệ thống thông tin; Truyền thông và Mạng máy tính)",
+          "Tổ hợp môn": "TO; TA; TH; CN",
+          "Điểm chuẩn": "29",
+          "Ghi chú": "TBC 6 HK môn TA = 5.5"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Chương trình đặc biệt)",
+          "Tổ hợp môn": "TO; VL; TH; CN",
+          "Điểm chuẩn": "29",
+          "Ghi chú": "TBC 6 HK môn TA = 6"
+        },
+        {
+          "Tên ngành": "Công nghệ chế tạo máy",
+          "Tổ hợp môn": "TO; VL; HH; CN",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí (02 chuyên ngành: Kỹ thuật cơ khí; Thiết kế và chế tạo số)",
+          "Tổ hợp môn": "TO; VL; HH, CN",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "TO; VL; HH; CN",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật nhiệt",
+          "Tổ hợp môn": "TO; VL; HH. CN",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí động lực",
+          "Tổ hợp môn": "TO; VL; TH; CN",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật tàu thủy",
+          "Tổ hợp môn": "TO; VL; TH. CN",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật ô tô",
+          "Tổ hợp môn": "TO, VL. TH, CN",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện (chuyên ngành Kỹ thuật điện, điện tử)",
+          "Tổ hợp môn": "TO; VL; HH; CN",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật biển",
+          "Tổ hợp môn": "TO, VL, TH. CN",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và tự động hóa",
+          "Tổ hợp môn": "TO; VL; HH; CN",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật hoá học",
+          "Tổ hợp môn": "TO, VL. HH. CN",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật môi trường (02 chuyên ngành: Kỹ thuật môi trường; Quản lý môi trường và an toàn vệ sinh lao động)",
+          "Tổ hợp môn": "TO; VL; HH. SH",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm (03 chuyên ngành: Công nghệ thực phẩm; Đảm bảo chất lượng và an toàn thực phẩm; Khoa học dinh dưỡng và ẩm thực)",
+          "Tổ hợp môn": "TO; VL; HH; SH",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ chế biến thuỷ sản (02 chuyên ngành: Công nghệ chế biến thủy sản; Công nghệ sau thu hoạch)",
+          "Tổ hợp môn": "TO; VL; HH; SH",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ chế biến thuỷ sản (Chương trình Minh Phú - NTU)",
+          "Tổ hợp môn": "TO; VL; HH; SH",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng (02 chuyên ngành: Kỹ thuật xây dựng; Quản lý xây dựng)",
+          "Tổ hợp môn": "TO; VL; TH; CN",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình giao thông",
+          "Tổ hợp môn": "TO; VL; TH; CN",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nuôi trồng thuỷ sản",
+          "Tổ hợp môn": "TO; VL; HH; SH",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nuôi trồng thuỷ sản (Chương trình Minh Phú - NTU)",
+          "Tổ hợp môn": "TO; VL; HH; SH",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa hoc thủy sản (02 chuyên ngành: Khoa hoc thủy sản: Khai thác thủy sản)",
+          "Tổ hợp môn": "TO; VL; HH; SH",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý thuỷ sản",
+          "Tổ hợp môn": "TO; VL; HH; SH",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "TA, LS; ĐL",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TBC 6 HK môn TA = 5.5"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch lữ hành (Chương trình đặc biệt)",
+          "Tổ hợp môn": "TA. LS, DL",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TBC 6 HK môn TA = 6"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành (Chương trình song ngữ Pháp - Việt)",
+          "Tổ hợp môn": "ĐL. LS. TA. TP",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "TA, LS; ĐL",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TBC 6 HK môn TA = 5.5"
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn (Chương trình đặc biệt)",
+          "Tổ hợp môn": "TA; LS, OL",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "TBC 6 HK môn TA = 6"
+        },
+        {
+          "Tên ngành": "Khoa học hàng hải (02 chuyên ngành: Khoa học hàng hải; Quản lý hàng hải và Logistics)",
+          "Tổ hợp môn": "TO; VL; TA, CN",
+          "Điểm chuẩn": "30",
+          "Ghi chú": "TBC 6 HK môn TA = 6"
+        }
+      ],
+      "row_count": 45
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh (04 chuyên ngành: Biên - phiên dịch; Tiếng Anh du lịch; Giảng dạy Tiếng Anh; Song ngữ Anh - Trung)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": "Điểm thành phần TA trong bài thi ĐGNL 130"
+        },
+        {
+          "Tên ngành": "Kinh tế (02 chuyên ngành: Kinh tế thủy sản; Quản lý kinh tế)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "663",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế phát triển",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "675",
+          "Ghi chú": "Điểm thành phần TA trong bài thi ĐGNL 120"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chương trình đặc biệt)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "675",
+          "Ghi chú": "Điểm thành phần TA trong bài thi ĐGNL 120"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": "Điểm thành phần TA trong bài thi ĐGNL 120"
+        },
+        {
+          "Tên ngành": "Kinh doanh thương mại",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "675",
+          "Ghi chú": "Điểm thành phần TA trong bài thi ĐGNL 110"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng (02 chuyên ngành: Tài chính - Ngân hàng; Công nghệ tài chính)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "675",
+          "Ghi chú": "Điểm thành phần TA trong bài thi ĐGNL 110"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "675",
+          "Ghi chú": "Điểm thành phần TA trong bài thi ĐGNL 110"
+        },
+        {
+          "Tên ngành": "Kế toán (Chương trình đặc biệt)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "675",
+          "Ghi chú": "Điểm thành phần TA trong bài thi ĐGNL 120"
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "675",
+          "Ghi chú": "Điểm thành phần TA trong bài thi ĐGNL 110"
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "663",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật (02 chuyên ngành: Luật, Luật kinh tế)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "688",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "625",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học (Chương trình Minh Phú - NTU)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "625",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính (02 chuyên ngành: Trí tuệ nhân tạo; Khoa học dữ liệu)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "675",
+          "Ghi chú": "Điểm thành phần TA trong bài thi ĐGNL 110"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (03 chuyên ngành: Công nghệ phần mềm; Hệ thống thông tin; Truyền thông và Mạng máy tính)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "688",
+          "Ghi chú": "Điểm thành phần TA trong bài thi ĐGNL 110"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Chương trình đặc biệt)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "688",
+          "Ghi chú": "Điểm thành phần TA trong bài thi ĐGNL 120"
+        },
+        {
+          "Tên ngành": "Công nghệ chế tạo máy",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí (02 chuyên ngành: Kỹ thuật cơ khí; Thiết kế và chế tạo số)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "638",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "625",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật nhiệt",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí động lực",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật tàu thủy",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "625",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật ô tô",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "675",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện (chuyên ngành Kỹ thuật điện, điện tử)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "638",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật biển",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "625",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và tự động hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "625",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật hoá học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật môi trường (02 chuyên ngành: Kỹ thuật môi trường; Quản lý môi trường và an toàn vệ sinh lao động)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm (03 chuyên ngành: Công nghệ thực phẩm; Đảm bảo chất lượng và an toàn thực phẩm; Khoa học dinh dưỡng và ẩm thực)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ chế biến thuỷ sản (02 chuyên ngành: Công nghệ chế biến thủy sản; Công nghệ sau thu hoạch)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ chế biến thuỷ sản (Chương trình Minh Phú-NTU)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "625",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng (02 chuyên ngành: Kỹ thuật xây dựng; Quản lý xây dựng)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "625",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình giao thông",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nuôi trồng thuỷ sản",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nuôi trồng thuỷ sản (Chương trình Minh Phú - NTU)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "625",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa hoc thủy sản (02 chuyên ngành: Khoa hoc thủy sản: Khai thác thủy sản)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý thuỷ sản",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "675",
+          "Ghi chú": "Điểm thành phần TA trong bài thi ĐGNL 110"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch lữ hành (Chương trình đặc biệt)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "675",
+          "Ghi chú": "Điểm thành phần TA trong bài thi ĐGNL 120"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành (Chương trình song ngữ Pháp-Việt)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "675",
+          "Ghi chú": "Điểm thành phần TA trong bài thi ĐGNL 110"
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn (Chương trình đặc biệt)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "675",
+          "Ghi chú": "Điểm thành phần TA trong bài thi ĐGNL 120"
+        },
+        {
+          "Tên ngành": "Khoa học hàng hải (02 chuyên ngành: Khoa học hàng hải; Quản lý hàng hải và Logistics)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": "Điểm thành phần TA trong bài thi ĐGNL 120"
+        }
+      ],
+      "row_count": 45
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:25:18.414587",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-nha-trang-TSN.html"
+}

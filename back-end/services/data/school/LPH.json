@@ -1,0 +1,405 @@
+{
+  "school_code": "LPH",
+  "school_name": "Trường Đại Học Luật Hà Nội",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "24.65",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D03",
+          "Điểm chuẩn": "22.85",
+          "Ghi chú": "Đào tạo tại Phân hiệu Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "26.15",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D04",
+          "Điểm chuẩn": "26.25",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "22.85",
+          "Ghi chú": "Đào tạo tại Phân hiệu Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D06",
+          "Điểm chuẩn": "22.85",
+          "Ghi chú": "Đào tạo tại Phân hiệu Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "22.85",
+          "Ghi chú": "Đào tạo tại Phân hiệu Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D02",
+          "Điểm chuẩn": "26.25",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D04",
+          "Điểm chuẩn": "22.85",
+          "Ghi chú": "Đào tạo tại Phân hiệu Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.15",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D05",
+          "Điểm chuẩn": "26.25",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D02",
+          "Điểm chuẩn": "22.85",
+          "Ghi chú": "Đào tạo tại Phân hiệu Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "22.85",
+          "Ghi chú": "Đào tạo tại Phân hiệu Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "26.15",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D03",
+          "Điểm chuẩn": "26.25",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D05",
+          "Điểm chuẩn": "22.85",
+          "Ghi chú": "Đào tạo tại Phân hiệu Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "22.85",
+          "Ghi chú": "Đào tạo tại Phân hiệu Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "26.25",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D06",
+          "Điểm chuẩn": "26.25",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật Kinh tế",
+          "Tổ hợp môn": "D02",
+          "Điểm chuẩn": "26.9",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật Kinh tế",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.85",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật Kinh tế",
+          "Tổ hợp môn": "D05",
+          "Điểm chuẩn": "26.9",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật Kinh tế",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "26.9",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật Kinh tế",
+          "Tổ hợp môn": "D03",
+          "Điểm chuẩn": "26.9",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật Kinh tế",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "26.9",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật Kinh tế",
+          "Tổ hợp môn": "D06",
+          "Điểm chuẩn": "26.9",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật Kinh tế",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "26.9",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật Kinh tế",
+          "Tổ hợp môn": "D04",
+          "Điểm chuẩn": "26.9",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật Thương mại quốc tế",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật Thương mại quốc tế",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        }
+      ],
+      "row_count": 31
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "27.7",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "27.43",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.6",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D05",
+          "Điểm chuẩn": "26.76",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D03",
+          "Điểm chuẩn": "22.82",
+          "Ghi chú": "Đào tạo tại Phân hiệu Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "22.82",
+          "Ghi chú": "Đào tạo tại Phân hiệu Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "28.76",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D03",
+          "Điểm chuẩn": "27.64",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D06",
+          "Điểm chuẩn": "22.82",
+          "Ghi chú": "Đào tạo tại Phân hiệu Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "22.51",
+          "Ghi chú": "Đào tạo tại Phân hiệu Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "27.64",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D06",
+          "Điểm chuẩn": "26.86",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D04",
+          "Điểm chuẩn": "22.82",
+          "Ghi chú": "Đào tạo tại Phân hiệu Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "28.1",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D04",
+          "Điểm chuẩn": "27.05",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D02",
+          "Điểm chuẩn": "22.82",
+          "Ghi chú": "Đào tạo tại Phân hiệu Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "22.68",
+          "Ghi chú": "Đào tạo tại Phân hiệu Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D02",
+          "Điểm chuẩn": "26.76",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D05",
+          "Điểm chuẩn": "22.82",
+          "Ghi chú": "Đào tạo tại Phân hiệu Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "23.14",
+          "Ghi chú": "Đào tạo tại Phân hiệu Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "D04",
+          "Điểm chuẩn": "28.27",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "D02",
+          "Điểm chuẩn": "28.88",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "30",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "29.8",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "D05",
+          "Điểm chuẩn": "29.17",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "D03",
+          "Điểm chuẩn": "29.54",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "29.54",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "D06",
+          "Điểm chuẩn": "28.36",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "30",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật thương mại quốc tế",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "29.08",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        },
+        {
+          "Tên ngành": "Luật thương mại quốc tế",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "28.78",
+          "Ghi chú": "Đào tạo tại Hà Nội"
+        }
+      ],
+      "row_count": 31
+    }
+  ],
+  "table_count": 2,
+  "crawled_at": "2025-07-18T23:24:04.626840",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-luat-ha-noi-LPH.html"
+}

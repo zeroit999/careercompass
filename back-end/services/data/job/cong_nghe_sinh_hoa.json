@@ -1,0 +1,1469 @@
+{
+  "nhom_nganh": "Công nghệ sinh - Hóa",
+  "danh_sach_nganh": [
+    {
+      "ten_nganh": "Công nghệ hóa học",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp Hà Nội - DCN",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật hóa học",
+              "to_hop_mon": "A00; B00; C02; D07",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "20.35"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp TPHCM - IUH",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ hóa học gồm 03 chuyên ngành: Công nghệ kỹ thuật hóa học; Kỹ thuật hóa phân tích; Hóa dược.",
+              "to_hop_mon": "A00; B00; C02; D07; X11",
+              "diem_chuan_2024": "20.5",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật hóa học",
+              "to_hop_mon": "A00; A01; B00; D07",
+              "diem_chuan_2024": "23.55",
+              "diem_chuan_2023": "23.95"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học An Giang - QSA",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật hóa học",
+              "to_hop_mon": "A00; A05; A06; B00; C01; D07",
+              "diem_chuan_2024": "16.2",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quy Nhơn - DQN",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật hoá học",
+              "to_hop_mon": "A00; A01; A05; B00; C02; C05; D01; D07; D12; X09",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kỹ Thuật Công Nghệ Cần Thơ - KCC",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật hóa học",
+              "to_hop_mon": "A00; B00; C02; C05; C08; D07; D12; X10",
+              "diem_chuan_2024": "19.8",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Trà Vinh - DVT",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật hóa học",
+              "to_hop_mon": "A00; B00; C02; D07; X09; X10; X11",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nông Lâm TPHCM - NLS",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật hóa học",
+              "to_hop_mon": "A00, A01, A02, B00, D08, D07",
+              "diem_chuan_2024": "23.25",
+              "diem_chuan_2023": "23"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật Hưng Yên - SKH",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật hóa học",
+              "to_hop_mon": "A00; D01; B00; D07",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Mỏ Địa Chất - MDA",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật hoá học",
+              "to_hop_mon": "A00; A05; A06; A01; A02; B00; C02; D07",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "18.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nguyễn Tất Thành - NTT",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật Hóa học",
+              "to_hop_mon": "A00; B00; C02; D07",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Nam Cần Thơ - DNC",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật hóa học",
+              "to_hop_mon": "A00; A02; B00; B08; D01; D07; X01; X14",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ Đồng Nai - DCD",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật hóa học",
+              "to_hop_mon": "A00; A07; B00; B04; B08; D01; D09; D10",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Huế - DHT",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật hóa học",
+              "to_hop_mon": "A00; B00; C02; D07",
+              "diem_chuan_2024": "15.75",
+              "diem_chuan_2023": "15.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Thái Nguyên - DTZ",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật hóa học",
+              "to_hop_mon": "A00; A05; A06; A11; B00; C02; C08; C10; C17; D07",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Tài Nguyên và Môi Trường TPHCM - DTM",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật hóa học",
+              "to_hop_mon": "C01; C02; C03; C04; B03; D01; X02; X03; X04",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp Việt Trì - VUI",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật hóa học",
+              "to_hop_mon": "A00; A01; D01; (Toán, Tin, Công nghệ); (Toán; Lí, Tin); B00",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Công nghệ kỹ thuật hoá học",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp Hà Nội - DCN",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật hóa học",
+              "to_hop_mon": "A00; B00; C02; D07",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "20.35"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp TPHCM - IUH",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ hóa học gồm 03 chuyên ngành: Công nghệ kỹ thuật hóa học; Kỹ thuật hóa phân tích; Hóa dược.",
+              "to_hop_mon": "A00; B00; C02; D07; X11",
+              "diem_chuan_2024": "20.5",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Tự Nhiên TPHCM - QST",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật Hóa học (CT tăng cường tiếng Anh)",
+              "to_hop_mon": "A00; B00; C02; D07; X11; X12; A02; X07; X08",
+              "diem_chuan_2024": "25",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Tự Nhiên Hà Nội - QHT",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật hoá học",
+              "to_hop_mon": "A00; A05; A06; B00; C02; D07; X09; X10; X11; X12",
+              "diem_chuan_2024": "24.8",
+              "diem_chuan_2023": "23.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật hóa học",
+              "to_hop_mon": "A00; A01; B00; D07",
+              "diem_chuan_2024": "23.55",
+              "diem_chuan_2023": "23.95"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật TPHCM - SPK",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ Kỹ thuật hóa học (đào tạo bằng tiếng Việt)",
+              "to_hop_mon": "A00; B00; C02; D07",
+              "diem_chuan_2024": "24.9",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hàng Hải Việt Nam - HHA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật công nghệ hóa học",
+              "to_hop_mon": "A00; A01; C01; C02; D01; X02",
+              "diem_chuan_2024": "20.5",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học An Giang - QSA",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật hóa học",
+              "to_hop_mon": "A00; A05; A06; B00; C01; D07",
+              "diem_chuan_2024": "16.2",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quy Nhơn - DQN",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật hoá học",
+              "to_hop_mon": "A00; A01; A05; B00; C02; C05; D01; D07; D12; X09",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kỹ Thuật Công Nghệ Cần Thơ - KCC",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật hóa học",
+              "to_hop_mon": "A00; B00; C02; C05; C08; D07; D12; X10",
+              "diem_chuan_2024": "19.8",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Trà Vinh - DVT",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật hóa học",
+              "to_hop_mon": "A00; B00; C02; D07; X09; X10; X11",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nông Lâm TPHCM - NLS",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật hóa học",
+              "to_hop_mon": "A00, A01, A02, B00, D08, D07",
+              "diem_chuan_2024": "23.25",
+              "diem_chuan_2023": "23"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật Hưng Yên - SKH",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật hóa học",
+              "to_hop_mon": "A00; D01; B00; D07",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Mỏ Địa Chất - MDA",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật hoá học",
+              "to_hop_mon": "A00; A05; A06; A01; A02; B00; C02; D07",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "18.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nguyễn Tất Thành - NTT",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật Hóa học",
+              "to_hop_mon": "A00; B00; C02; D07",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Nam Cần Thơ - DNC",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật hóa học",
+              "to_hop_mon": "A00; A02; B00; B08; D01; D07; X01; X14",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ Đồng Nai - DCD",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật hóa học",
+              "to_hop_mon": "A00; A07; B00; B04; B08; D01; D09; D10",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Huế - DHT",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật hóa học",
+              "to_hop_mon": "A00; B00; C02; D07",
+              "diem_chuan_2024": "15.75",
+              "diem_chuan_2023": "15.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Thái Nguyên - DTZ",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật hóa học",
+              "to_hop_mon": "A00; A05; A06; A11; B00; C02; C08; C10; C17; D07",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Tài Nguyên và Môi Trường TPHCM - DTM",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật hóa học",
+              "to_hop_mon": "C01; C02; C03; C04; B03; D01; X02; X03; X04",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp Việt Trì - VUI",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật hóa học",
+              "to_hop_mon": "A00; A01; D01; (Toán, Tin, Công nghệ); (Toán; Lí, Tin); B00",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Công nghệ Sinh học",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội - SPH",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ sinh học (mới)",
+              "to_hop_mon": "A02; B00; B08",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ – Đại Học Quốc Gia Hà Nội - QHI",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ sinh học",
+              "to_hop_mon": "A00; A01; X06; X26; D01; B00",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp TPHCM - IUH",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ sinh học",
+              "to_hop_mon": "A02; B00; B03; B08; X13; X16",
+              "diem_chuan_2024": "22.25",
+              "diem_chuan_2023": "22"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Dược Hà Nội - DKH",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ sinh học",
+              "to_hop_mon": "B00",
+              "diem_chuan_2024": "24.26",
+              "diem_chuan_2023": "24.21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Thương TPHCM - DCT",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ sinh học",
+              "to_hop_mon": "A00; B00; B08; D07",
+              "diem_chuan_2024": "17.75",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Phenikaa - PKA",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ sinh học",
+              "to_hop_mon": "A00; B00; B08; D07; X14; X15",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thủ Dầu Một - TDM",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ sinh học",
+              "to_hop_mon": "A02; B00; B01; B02; B03; B08; X13; X14; X15; X16",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thủy Lợi - TLA",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ sinh học",
+              "to_hop_mon": "A02; B00; D08; B01; B02; B03; B04; X14 (Toán, Sinh, Tin)",
+              "diem_chuan_2024": "23.14",
+              "diem_chuan_2023": "20.95"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Tự Nhiên TPHCM - QST",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ Sinh học",
+              "to_hop_mon": "B08; B00; X15; X16; X28; B03; A02",
+              "diem_chuan_2024": "24.9",
+              "diem_chuan_2023": "24.68"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tôn Đức Thắng - DTT",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ sinh học",
+              "to_hop_mon": "A01; A02; B00; B03; B08; X14; X15",
+              "diem_chuan_2024": "25",
+              "diem_chuan_2023": "28.2"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Nông Nghiệp Việt Nam - HVN",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ sinh học và Công nghệ dược liệu",
+              "to_hop_mon": "A00; A01; B00; B02; B08; C03; D01; X07; X08; X13",
+              "diem_chuan_2024": "18",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Tự Nhiên Hà Nội - QHT",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ sinh học",
+              "to_hop_mon": "A00; A02; B00; B01; B02; B03; B08; D07; D08; X13; X14; X15; X16",
+              "diem_chuan_2024": "24.45",
+              "diem_chuan_2023": "24.05"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ sinh học",
+              "to_hop_mon": "A00; B00; B08; D07",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "23.64"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm - Đại Học Đà Nẵng - DDS",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ sinh học",
+              "to_hop_mon": "B00; B03; B08; X14; A02",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "16.85"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội 2 - SP2",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ sinh học",
+              "to_hop_mon": "A02; B00; B03; B08",
+              "diem_chuan_2024": "15.35",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Bách Khoa Đà Nẵng - DDK",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ sinh học",
+              "to_hop_mon": "A00; A01; B00; C02; D07; D08",
+              "diem_chuan_2024": "23.1",
+              "diem_chuan_2023": "23.33"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nha Trang - TSN",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ sinh học",
+              "to_hop_mon": "(Toán, Văn, Anh, Sinh); (Toán, Văn, Anh, Hóa); B03; C02; X03; X04; D01",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Mở Hà Nội - MHN",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ sinh học",
+              "to_hop_mon": "A00; A01; B00; D07",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "17.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Vinh - TDV",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ sinh học (Chuyên ngành: Kỹ thuật xét nghiệm y học; Kỹ thuật xử lí ô nhiễm môi trường)",
+              "to_hop_mon": "A00; A11; B00; D07",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học An Giang - QSA",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ sinh học",
+              "to_hop_mon": "A00; B00; C02; X04; X20; X28; X65; X81",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "20.95"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đồng Tháp - SPD",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ sinh học",
+              "to_hop_mon": "A00; A02; B00; B03; C02; D08",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Nguyên - TTN",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ sinh học",
+              "to_hop_mon": "A02; B00; B03; B08",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kỹ Thuật Công Nghệ Cần Thơ - KCC",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ sinh học",
+              "to_hop_mon": "B00; B03; B08; C08; X13; D13; X14; X16",
+              "diem_chuan_2024": "15.45",
+              "diem_chuan_2023": "21.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Và Công Nghệ Hà Nội - KCN",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ sinh học - Phát triển thuốc",
+              "to_hop_mon": "A00; A02; B00; D07; A06; X10; X11; X12; D08; B02; X14; X15; X16",
+              "diem_chuan_2024": "21.6",
+              "diem_chuan_2023": "23.14"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Trà Vinh - DVT",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ sinh học",
+              "to_hop_mon": "A02; B00; B08; X12; X14; X16; X28",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nông Lâm TPHCM - NLS",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ sinh học",
+              "to_hop_mon": "A00, A02, B00, D07, D08, X14",
+              "diem_chuan_2024": "23.25",
+              "diem_chuan_2023": "22.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Mở TPHCM - MBS",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ sinh học",
+              "to_hop_mon": "B00; B08; (Toán, Tin, Công nghệ); D07; A00; (Toán, Hóa, Tin); (Toán, Hóa, Công nghệ); (Toán, Hóa, Công nghệ).",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "19.3"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật Vĩnh Long - VLU",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ sinh học",
+              "to_hop_mon": "A00; A01; B00; B02; B03; B08; C02; C04",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nguyễn Tất Thành - NTT",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ sinh học",
+              "to_hop_mon": "A00; B00; D07; B08",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Duy Tân - DDT",
+          "data_school": [
+            {
+              "ten_nganh": "Ngành Công nghệ Sinh học",
+              "to_hop_mon": "A00; A02; B00; B03; D08; X14 (Toán, Sinh, Tin)",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quốc Tế Hồng Bàng - HIU",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ sinh học (mở mới)",
+              "to_hop_mon": "A00; A02; B00; D07; D08; X14",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Tân Tạo - TTU",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ sinh học",
+              "to_hop_mon": "A02; B00; B03; B08; X14; X16",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Lang - DVL",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ sinh học",
+              "to_hop_mon": "A02; B00; B08; X14; X66",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công Nghệ TPHCM - DKC",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ sinh học",
+              "to_hop_mon": "D01; C02; B03; C01; (Toán, Văn, Tin); X01",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Yersin Đà Lạt - DYD",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ sinh học",
+              "to_hop_mon": "A02; B00; B08; X15 (Toán, Sinh, Công nghệ); X14 (Toán, Sinh, Tin); X66 (Văn, Sinh, GDKT&PL); C08; D01; B03",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tiền Giang - TTG",
+          "data_school": [
+            {
+              "ten_nganh": "ĐH Công nghệ sinh học",
+              "to_hop_mon": "C01; C02; D01; B03; A00; A01; B00; D07; (Toán, Văn, Công nghệ); C04",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Lâm nghiệp - LNH",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ sinh học",
+              "to_hop_mon": "B00; A00; B03; C02; (Toán, Văn, Tin); (Toán, Văn, Công nghệ); D01; D10",
+              "diem_chuan_2024": "15.8",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Hiến - DVH",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ sinh học",
+              "to_hop_mon": "A00; A01; D01; X01; X06; X25; X26; X54",
+              "diem_chuan_2024": "16.5",
+              "diem_chuan_2023": "16.15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ Đồng Nai - DCD",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ sinh học",
+              "to_hop_mon": "A00; A07; B00; B04; B08; D01; D09; D10",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Huế - DHT",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ sinh học",
+              "to_hop_mon": "A02; B00; B03; B08",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Thái Nguyên - DTZ",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ sinh học",
+              "to_hop_mon": "A00; A05; A06; B00; B01; B02; B03; B04; B08; D07",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nông Lâm Thái Nguyên - DTN",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ sinh học",
+              "to_hop_mon": "A00; A07; A09; B00; C00; C02; C04; C20; D01; D14",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đà Lạt - TDL",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ Sinh học",
+              "to_hop_mon": "A02; B00; B03; X16; X14; B02; A00; X12; D07; X10; A06; X08; X28; X24; X57",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kiên Giang - TKG",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ sinh học",
+              "to_hop_mon": "B00; B01; B03; B04; B08; C08",
+              "diem_chuan_2024": "14",
+              "diem_chuan_2023": "14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Sinh học",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội - SPH",
+          "data_school": [
+            {
+              "ten_nganh": "Sinh học",
+              "to_hop_mon": "B00; B08",
+              "diem_chuan_2024": "22",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Tự Nhiên TPHCM - QST",
+          "data_school": [
+            {
+              "ten_nganh": "Sinh học",
+              "to_hop_mon": "B08; B00; X15; X16; X28; B03; A02",
+              "diem_chuan_2024": "23.5",
+              "diem_chuan_2023": "21.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Tự Nhiên Hà Nội - QHT",
+          "data_school": [
+            {
+              "ten_nganh": "Sinh học",
+              "to_hop_mon": "A00; A02; B00; B01; B02; B03; B08; D07; D08; X13; X14; X15; X16",
+              "diem_chuan_2024": "23.35",
+              "diem_chuan_2023": "23"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Sinh học",
+              "to_hop_mon": "A02; B00; B03; B08",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "23.3"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đà Lạt - TDL",
+          "data_school": [
+            {
+              "ten_nganh": "Sinh học",
+              "to_hop_mon": "A02; B00; B03; X16; X14; B02; A00; X12; D07; X10; A06; X08; X28; X24; X57",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Hoá học",
+      "data": [
+        {
+          "ten_truong": "Đại Học Bách Khoa Hà Nội - BKA",
+          "data_school": [
+            {
+              "ten_nganh": "Hoá học",
+              "to_hop_mon": "A00; B00; B03; C01; C02; D07; X02",
+              "diem_chuan_2024": "23.81",
+              "diem_chuan_2023": "23.04"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội - SPH",
+          "data_school": [
+            {
+              "ten_nganh": "Hóa học",
+              "to_hop_mon": "A00; B00; D07",
+              "diem_chuan_2024": "24.44",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm TPHCM - SPS",
+          "data_school": [
+            {
+              "ten_nganh": "Hoá học",
+              "to_hop_mon": "A00; B00; D07; X10",
+              "diem_chuan_2024": "24.65",
+              "diem_chuan_2023": "23.47"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Dược Hà Nội - DKH",
+          "data_school": [
+            {
+              "ten_nganh": "Hóa học",
+              "to_hop_mon": "A00",
+              "diem_chuan_2024": "24.55",
+              "diem_chuan_2023": "23.81"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thủ Dầu Một - TDM",
+          "data_school": [
+            {
+              "ten_nganh": "Hoá học",
+              "to_hop_mon": "A00; A05; A06; B00; C02; D07; X09; X10; X11; X12",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Tự Nhiên TPHCM - QST",
+          "data_school": [
+            {
+              "ten_nganh": "Hóa học",
+              "to_hop_mon": "A00; B00; C02; D07; X11; X12; A02; X07; X08",
+              "diem_chuan_2024": "25.42",
+              "diem_chuan_2023": "24.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Tự Nhiên Hà Nội - QHT",
+          "data_school": [
+            {
+              "ten_nganh": "Hoá học",
+              "to_hop_mon": "A00; A05; A06; B00; C02; D07; X09; X10; X11; X12",
+              "diem_chuan_2024": "25.15",
+              "diem_chuan_2023": "23.65"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Hóa học",
+              "to_hop_mon": "A00; B00; C02; D07",
+              "diem_chuan_2024": "23.15",
+              "diem_chuan_2023": "23.15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm - Đại Học Đà Nẵng - DDS",
+          "data_school": [
+            {
+              "ten_nganh": "Hóa học, gồm các chuyên ngành: \r\n Hóa Dược; \r\n;  Hóa phân tích môi trường",
+              "to_hop_mon": "A00; B00; D07; C02; X11",
+              "diem_chuan_2024": "21.3",
+              "diem_chuan_2023": "17.8"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quốc Tế - ĐHQG TPHCM - QSQ",
+          "data_school": [
+            {
+              "ten_nganh": "Khoa học sự sống và Hóa học\r\n(Nhóm ngành: Công nghệ sinh học; Công nghệ thực phẩm; Hóa học (Hóa sinh); Kỹ thuật hóa học)",
+              "to_hop_mon": "A00; B00; D07; B08; C08; D12; D13",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quy Nhơn - DQN",
+          "data_school": [
+            {
+              "ten_nganh": "Hóa học",
+              "to_hop_mon": "A00; A05; A06; B00; C02; C05; C08; D07; D12; X09",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Và Công Nghệ Hà Nội - KCN",
+          "data_school": [
+            {
+              "ten_nganh": "Hóa học",
+              "to_hop_mon": "A00; B00; D07; A06; X10; X11; X12",
+              "diem_chuan_2024": "21.75",
+              "diem_chuan_2023": "20.15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Khánh Hòa - UKH",
+          "data_school": [
+            {
+              "ten_nganh": "Hóa học (Hóa dược -Sản phẩm thiên nhiên)",
+              "to_hop_mon": "A00; A06; B00; C02; D07; X10; X11",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Huế - DHT",
+          "data_school": [
+            {
+              "ten_nganh": "Hóa học",
+              "to_hop_mon": "A00; B00; C02; D07",
+              "diem_chuan_2024": "15.75",
+              "diem_chuan_2023": "15.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp Việt Trì - VUI",
+          "data_school": [
+            {
+              "ten_nganh": "Hóa học (Hóa phân tích)",
+              "to_hop_mon": "A00; A01; D01; (Toán, Tin, Công nghệ); (Toán; Lí, Tin); B00",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đà Lạt - TDL",
+          "data_school": [
+            {
+              "ten_nganh": "Hóa học",
+              "to_hop_mon": "A00; B00; D07; X10; X11; X12",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Kỹ thuật Hóa học",
+      "data": [
+        {
+          "ten_truong": "Đại Học Bách Khoa Hà Nội - BKA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật Hoá học",
+              "to_hop_mon": "A00; B00; B03; C01; C02; D07; X02",
+              "diem_chuan_2024": "24.38",
+              "diem_chuan_2023": "23.7"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Phenikaa - PKA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật hóa học",
+              "to_hop_mon": "A00; A01; B00; D07; X10; X11",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thủy Lợi - TLA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật hóa học",
+              "to_hop_mon": "A00; D07; C02; C05; B00; A11; X10 (Toán, Hóa, Tin)",
+              "diem_chuan_2024": "23.15",
+              "diem_chuan_2023": "20.15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tôn Đức Thắng - DTT",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật hóa học",
+              "to_hop_mon": "A00; A01; B00; C02; D07; X10; X11",
+              "diem_chuan_2024": "27.8",
+              "diem_chuan_2023": "28.6"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội 2 - SP2",
+          "data_school": [
+            {
+              "ten_nganh": "Kĩ thuật hóa học",
+              "to_hop_mon": "A00; B00; D07; X10",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Bách Khoa Đà Nẵng - DDK",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật hóa học",
+              "to_hop_mon": "A00; A01; B00; C02; D07; X11",
+              "diem_chuan_2024": "23.05",
+              "diem_chuan_2023": "21.3"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nha Trang - TSN",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật hoá học",
+              "to_hop_mon": "(Toán, Văn, Anh, Hóa); B03; C02; X03; X04; D01",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Mỏ Địa Chất - MDA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật hoá học (Chương trình tiên tiến)",
+              "to_hop_mon": "A00; A05; A06; A01; A02; B00; C02; D07",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật Vĩnh Long - VLU",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật hoá học",
+              "to_hop_mon": "A00; A01; A02; A04; A06; B00; C04; D01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Sĩ Quan Phòng Hóa - HGH",
+          "data_school": [
+            {
+              "ten_nganh": "Ngành Chỉ huy Kỹ thuật hóa học (Thí sinh ở miền Bắc)",
+              "to_hop_mon": "A00; A01; C02; D07",
+              "diem_chuan_2024": "22.55",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Dầu Khí Việt Nam - PVU",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật Hóa học",
+              "to_hop_mon": "A00; A01; A02; B00; C01; C02; D07; X11; X12; X10; X07; X08; X06",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "18.5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Kỹ thuật Sinh học",
+      "data": [
+        {
+          "ten_truong": "Đại Học Bách Khoa Hà Nội - BKA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật sinh học (CT tiên tiến)",
+              "to_hop_mon": "A00; B00; B03; C01; C02; D07; X02",
+              "diem_chuan_2024": "22",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Kỹ thuật Y Sinh",
+      "data": [
+        {
+          "ten_truong": "Đại Học Bách Khoa Hà Nội - BKA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật Y sinh (CT tiên tiến)",
+              "to_hop_mon": "A00; A01; B03; C01; C02; X02",
+              "diem_chuan_2024": "25.08",
+              "diem_chuan_2023": "23.7"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Phenikaa - PKA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật y sinh (Điện tử y sinh)",
+              "to_hop_mon": "A00; A01; D07; D08; X10; X14",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "20"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Dược Cần Thơ - YCT",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật Y sinh",
+              "to_hop_mon": "A00,B00; X06",
+              "diem_chuan_2024": "22.1",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật y sinh",
+              "to_hop_mon": "A00; A01; A02; B08",
+              "diem_chuan_2024": "22.8",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật TPHCM - SPK",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật y sinh (Điện tử y sinh) (đào tạo bằng tiếng Việt)",
+              "to_hop_mon": "A00; A01; C01; D01",
+              "diem_chuan_2024": "24.15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quốc Tế - ĐHQG TPHCM - QSQ",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật\r\n(Nhóm ngành: Logistics và Quản lý chuỗi cung ứng; Kỹ thuật hệ thống công nghiệp; Kỹ thuật điện tử – viễn thông; Kỹ thuật điều khiển và tự động hóa; Kỹ thuật y sinh; Kỹ thuật không gian (Phân tích và ứng dụng dữ liệu lớn); Kỹ thuật xây dựng; Quản",
+              "to_hop_mon": "A00; A01; B00; D07; B08; D01",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nguyễn Tất Thành - NTT",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật Y sinh",
+              "to_hop_mon": "A00; A01; B00; A02",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Duy Tân - DDT",
+          "data_school": [
+            {
+              "ten_nganh": "Ngành Kỹ thuật Y sinh",
+              "to_hop_mon": "A00; A02; B00; B03; D08; X14 (Toán, Sinh, Tin)",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": "14"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Nam Cần Thơ - DNC",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật y sinh (Khoa học và công nghệ y khoa)",
+              "to_hop_mon": "A00; A01; A02; B00; D01; X06; X08",
+              "diem_chuan_2024": "6",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quốc Tế Hồng Bàng - HIU",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật y sinh (mở mới)",
+              "to_hop_mon": "A00; B00; D07; D08; X10; X14",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Sinh học ứng dụng",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm TPHCM - SPS",
+          "data_school": [
+            {
+              "ten_nganh": "Sinh học ứng dụng",
+              "to_hop_mon": "B00; D08; X16; X14",
+              "diem_chuan_2024": "21.9",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Sư Phạm Thái Nguyên",
+          "data_school": [
+            {
+              "ten_nganh": "Sinh học ứng dụng",
+              "to_hop_mon": "A02; B00; B08; X16",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Sinh học ứng dụng",
+              "to_hop_mon": "A00; A01; B00; B08",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "21.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Khánh Hòa - UKH",
+          "data_school": [
+            {
+              "ten_nganh": "Sinh học ứng dụng (Dược liệu)",
+              "to_hop_mon": "A02; B00; B02; B03; B04; B08; X13; X14",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

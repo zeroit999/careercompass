@@ -1,0 +1,357 @@
+{
+  "school_code": "HPN",
+  "school_name": "Học Viện Phụ Nữ Việt Nam",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế số",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế số",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giới và Phát triển",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (chương trình đào tạo bằng tiếng Anh)",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (chương trình đào tạo bằng tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "24.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D09",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "22.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ Du lịch và lữ hành",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 16
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giới và phát triển",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học (đào tạo tại trụ sở chính Hà Nội)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật (đào tạo tại trụ sở chính Hà Nội)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D09",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội (đào tạo tại trụ sở chính Hà Nội)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội (đào tạo tại cơ sở TPHCM)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành (đào tạo tại cơ sở TPHCM)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 13
+    },
+    {
+      "table_title": "Điểm xét tuyển kết hợp năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Kết quả thi tốt nghiệp THPT và CCTA quốc tế"
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Xét kết hợp kết quả học tập THPT với chứng chỉ tiếng Anh quốc tế"
+        },
+        {
+          "Tên ngành": "Kinh tế số",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Kết quả thi tốt nghiệp THPT và CCTA quốc tế"
+        },
+        {
+          "Tên ngành": "Giới và Phát triển",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Kết quả thi tốt nghiệp THPT và CCTA quốc tế"
+        },
+        {
+          "Tên ngành": "Giới và phát triển",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Xét kết hợp kết quả học tập THPT với chứng chỉ tiếng Anh quốc tế"
+        },
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Kết quả thi tốt nghiệp THPT và CCTA quốc tế"
+        },
+        {
+          "Tên ngành": "Tâm lý học (đào tạo tại trụ sở chính Hà Nội)",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Xét kết hợp kết quả học tập THPT với chứng chỉ tiếng Anh quốc tế"
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Kết quả thi tốt nghiệp THPT và CCTA quốc tế"
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Xét kết hợp kết quả học tập THPT với chứng chỉ tiếng Anh quốc tế"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": "Kết quả thi tốt nghiệp THPT và CCTA quốc tế"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Xét kết hợp kết quả học tập THPT với chứng chỉ tiếng Anh quốc tế"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh chương trình đào tạo bằng tiếng Anh",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": "Kết quả thi tốt nghiệp THPT và CCTA quốc tế"
+        },
+        {
+          "Tên ngành": "Luật (đào tạo tại trụ sở chính Hà Nội)",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Xét kết hợp kết quả học tập THPT với chứng chỉ tiếng Anh quốc tế"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Kết quả thi tốt nghiệp THPT và CCTA quốc tế"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Xét kết hợp kết quả học tập THPT với chứng chỉ tiếng Anh quốc tế"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Kết quả thi tốt nghiệp THPT và CCTA quốc tế"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A01; D01; D09",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Xét kết hợp kết quả học tập THPT với chứng chỉ tiếng Anh quốc tế"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A01; D01; D09",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Kết quả thi tốt nghiệp THPT và CCTA quốc tế"
+        },
+        {
+          "Tên ngành": "Công tác xã hội (đào tạo tại trụ sở chính Hà Nội)",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Xét kết hợp kết quả học tập THPT với chứng chỉ tiếng Anh quốc tế"
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Kết quả thi tốt nghiệp THPT và CCTA quốc tế"
+        },
+        {
+          "Tên ngành": "Công tác xã hội (đào tạo tại cơ sở TPHCM)",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Xét kết hợp kết quả học tập THPT với chứng chỉ tiếng Anh quốc tế"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Kết quả thi tốt nghiệp THPT và CCTA quốc tế"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành (đào tạo tại cơ sở TPHCM)",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Xét kết hợp kết quả học tập THPT với chứng chỉ tiếng Anh quốc tế"
+        }
+      ],
+      "row_count": 23
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:22:54.291336",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-phu-nu-viet-nam-HPN.html"
+}

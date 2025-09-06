@@ -1,0 +1,237 @@
+{
+  "school_code": "YDS",
+  "school_name": "Đại Học Y Dược TPHCM",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "27.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y học dự phòng",
+          "Tổ hợp môn": "B00; A00",
+          "Điểm chuẩn": "23.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y học cố truyền",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "24.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "B00; A00",
+          "Điểm chuẩn": "25.72",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hóa dược",
+          "Tổ hợp môn": "B00; A00",
+          "Điểm chuẩn": "25.23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "B00; A00",
+          "Điểm chuẩn": "24.03",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều dưỡng chuyên ngành Gây mê hồi sức",
+          "Tổ hợp môn": "B00; A00",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hộ sinh",
+          "Tổ hợp môn": "B00; A00",
+          "Điểm chuẩn": "22.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dinh dưỡng",
+          "Tổ hợp môn": "B00; A00",
+          "Điểm chuẩn": "24.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Răng - Hàm - Mặt",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "27.35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phục hình răng",
+          "Tổ hợp môn": "B00; A00",
+          "Điểm chuẩn": "24.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xét nghiệm y học",
+          "Tổ hợp môn": "B00; A00",
+          "Điểm chuẩn": "25.02",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật hình ảnh y học",
+          "Tổ hợp môn": "B00; A00",
+          "Điểm chuẩn": "24.35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phục hồi chức năng",
+          "Tổ hợp môn": "B00; A00",
+          "Điểm chuẩn": "24.04",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y tế công cộng",
+          "Tổ hợp môn": "B00; A00",
+          "Điểm chuẩn": "21.45",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 15
+    },
+    {
+      "table_title": "Điểm xét tuyển kết hợp năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26.95",
+          "Ghi chú": "Kết hợp kết quả thi TN THPT với sơ tuyển CCTA QT"
+        },
+        {
+          "Tên ngành": "Y học dự phòng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.8",
+          "Ghi chú": "Kết hợp kết quả thi TN THPT với sơ tuyển CCTA QT"
+        },
+        {
+          "Tên ngành": "Y học cổ truyền",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.05",
+          "Ghi chú": "Kết hợp kết quả thi TN THPT với sơ tuyển CCTA QT"
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": "Kết hợp kết quả thi TN THPT với sơ tuyển CCTA QT"
+        },
+        {
+          "Tên ngành": "Hóa dược",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.25",
+          "Ghi chú": "Kết hợp kết quả thi TN THPT với sơ tuyển CCTA QT"
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.15",
+          "Ghi chú": "Kết hợp kết quả thi TN THPT với sơ tuyển CCTA QT"
+        },
+        {
+          "Tên ngành": "Điều dưỡng chuyên ngành Gây mê hồi sức",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.65",
+          "Ghi chú": "Kết hợp kết quả thi TN THPT với sơ tuyển CCTA QT"
+        },
+        {
+          "Tên ngành": "Hộ sinh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.05",
+          "Ghi chú": "Kết hợp kết quả thi TN THPT với sơ tuyển CCTA QT"
+        },
+        {
+          "Tên ngành": "Dinh dưỡng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.15",
+          "Ghi chú": "Kết hợp kết quả thi TN THPT với sơ tuyển CCTA QT"
+        },
+        {
+          "Tên ngành": "Răng - Hàm - Mặt",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Kết hợp kết quả thi TN THPT với sơ tuyển CCTA QT"
+        },
+        {
+          "Tên ngành": "Kỹ thuật phục hình răng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.8",
+          "Ghi chú": "Kết hợp kết quả thi TN THPT với sơ tuyển CCTA QT"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xét nghiệm y học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.05",
+          "Ghi chú": "Kết hợp kết quả thi TN THPT với sơ tuyển CCTA QT"
+        },
+        {
+          "Tên ngành": "Kỹ thuật hình ảnh y học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.7",
+          "Ghi chú": "Kết hợp kết quả thi TN THPT với sơ tuyển CCTA QT"
+        },
+        {
+          "Tên ngành": "Kỹ thuật phục hồi chức năng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.33",
+          "Ghi chú": "Kết hợp kết quả thi TN THPT với sơ tuyển CCTA QT"
+        },
+        {
+          "Tên ngành": "Y tế công cộng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.1",
+          "Ghi chú": "Kết hợp kết quả thi TN THPT với sơ tuyển CCTA QT"
+        }
+      ],
+      "row_count": 15
+    },
+    {
+      "table_title": "Chứng chỉ quốc tế năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1500",
+          "Ghi chú": "Chứng chỉ SAT"
+        },
+        {
+          "Tên ngành": "Răng - Hàm - Mặt",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1440",
+          "Ghi chú": "Chứng chỉ SAT"
+        }
+      ],
+      "row_count": 2
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:22:35.170738",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-y-duoc-tphcm-YDS.html"
+}

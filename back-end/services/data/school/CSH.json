@@ -1,0 +1,111 @@
+{
+  "school_code": "CSH",
+  "school_name": "Học Viện Cảnh Sát Nhân Dân",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 1)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "21.3",
+          "Ghi chú": "Nam, vùng 1, bài thi CA1"
+        },
+        {
+          "Tên ngành": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 1)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "21.52",
+          "Ghi chú": "Nam, vùng 1, bài thi CA2"
+        },
+        {
+          "Tên ngành": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 2)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "21.12",
+          "Ghi chú": "Nam, vùng 2, bài thi CA1"
+        },
+        {
+          "Tên ngành": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 2)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "21.48",
+          "Ghi chú": "Nam, vùng 2, bài thi CA2"
+        },
+        {
+          "Tên ngành": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 3)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "21.44",
+          "Ghi chú": "Nam, vùng 3, bài thi CA2"
+        },
+        {
+          "Tên ngành": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 3)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "21.28",
+          "Ghi chú": "Nam, vùng 3, bài thi CA1"
+        },
+        {
+          "Tên ngành": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 8)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "20.67",
+          "Ghi chú": "Nam, vùng 8, bài thi CA2"
+        },
+        {
+          "Tên ngành": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 8)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "19.23",
+          "Ghi chú": "Nam, vùng 8, bài thi CA1"
+        },
+        {
+          "Tên ngành": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nữ, vùng 1)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "24.52",
+          "Ghi chú": "Nữ, vùng 1, bài thi CA2"
+        },
+        {
+          "Tên ngành": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nữ, vùng 1)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "24.31",
+          "Ghi chú": "Nữ, vùng 1, bài thi CA1"
+        },
+        {
+          "Tên ngành": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nữ, vùng 2)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "22.41",
+          "Ghi chú": "Nữ, vùng 2, bài thi CA1"
+        },
+        {
+          "Tên ngành": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nữ, vùng 2)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "23.76",
+          "Ghi chú": "Nữ, vùng 2, bài thi CA2"
+        },
+        {
+          "Tên ngành": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nữ, vùng 3)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "23.87",
+          "Ghi chú": "Nữ, vùng 3, bài thi CA1"
+        },
+        {
+          "Tên ngành": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nữ, vùng 3)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "24.65",
+          "Ghi chú": "Nữ, vùng 3, bài thi CA2"
+        },
+        {
+          "Tên ngành": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nữ, vùng 8)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "18.02",
+          "Ghi chú": "Nữ, vùng 8, bài thi CA2"
+        }
+      ],
+      "row_count": 15
+    }
+  ],
+  "table_count": 1,
+  "crawled_at": "2025-07-18T23:23:07.112587",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-canh-sat-nhan-dan-CSH.html"
+}

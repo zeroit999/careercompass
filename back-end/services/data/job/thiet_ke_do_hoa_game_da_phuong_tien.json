@@ -1,0 +1,806 @@
+{
+  "nhom_nganh": "Thiết kế đồ họa - Game - Đa phương tiện",
+  "danh_sach_nganh": [
+    {
+      "ten_nganh": "Công nghệ đa phương tiện",
+      "data": [
+        {
+          "ten_truong": "Học Viện Công Nghệ Bưu Chính Viễn Thông - BVH",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ đa phương tiện",
+              "to_hop_mon": "A00; A01; D01; X06; X26",
+              "diem_chuan_2024": "25.75",
+              "diem_chuan_2023": "25.89"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp Hà Nội - DCN",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ đa phương tiện",
+              "to_hop_mon": "A00; A01; X06; X07",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Công Nghệ Bưu Chính Viễn Thông (Cơ sở TP.HCM) - BVS",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ đa phương tiện",
+              "to_hop_mon": "A00; A01; X06 (Toán, Lí, Tin); X26 (Toán, Tin, Anh); D01",
+              "diem_chuan_2024": "23.95",
+              "diem_chuan_2023": "24.05"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Truyền thông đa phương tiện",
+      "data": [
+        {
+          "ten_truong": "Học Viện Công Nghệ Bưu Chính Viễn Thông - BVH",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "A00; A01; D01; X06; X26",
+              "diem_chuan_2024": "25.94",
+              "diem_chuan_2023": "26.33"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Phụ Nữ Việt Nam - HPN",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "A00; A01; C00; D01",
+              "diem_chuan_2024": "26",
+              "diem_chuan_2023": "24.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hà Nội - NHF",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "D01",
+              "diem_chuan_2024": "25.65",
+              "diem_chuan_2023": "25.94"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thủ Dầu Một - TDM",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "C00; C01; C03; C04; D01; D14; D15; X01; X70; X74",
+              "diem_chuan_2024": "25",
+              "diem_chuan_2023": "23"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thăng Long - DTL",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "C00; C03; C04; D01; D14; D15",
+              "diem_chuan_2024": "26.52",
+              "diem_chuan_2023": "25.89"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học viện Báo chí và Tuyên truyền - HBT",
+          "data_school": [
+            {
+              "ten_nganh": "Ngành Truyền thông đa phương tiện",
+              "to_hop_mon": "D01; D14; X78; X79",
+              "diem_chuan_2024": "27",
+              "diem_chuan_2023": "27.18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Xã Hội và Nhân Văn TPHCM - QSX",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "D01; D14; D15",
+              "diem_chuan_2024": "27.1",
+              "diem_chuan_2023": "27.2"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "A00; A01; D01; X02",
+              "diem_chuan_2024": "24.94",
+              "diem_chuan_2023": "24.8"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ Thông Tin - ĐHQG TPHCM - QSC",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông Đa phương tiện",
+              "to_hop_mon": "A01; D01; X26; D09; D10; D07",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Công Nghệ Bưu Chính Viễn Thông (Cơ sở TP.HCM) - BVS",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "A00; A01; X06 (Toán, Lí, Tin); X26 (Toán, Tin, Anh); D01",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đồng Tháp - SPD",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "C00; C03; C04; C19; C20; D66; X70; X74; X78",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Phương Đông - DPD",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "A01; C03; D01; D09; D14; D15; X26",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật Vĩnh Long - VLU",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "A01; C01; C03; C04; C14; D01; X01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Khoa Quốc tế - Đại học Huế - DHI",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "C03; C04; D01; D09; D10",
+              "diem_chuan_2024": "23",
+              "diem_chuan_2023": "23"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nguyễn Tất Thành - NTT",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "A01; C00; D01; D15",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công Nghệ Thông Tin và Truyền Thông Thái Nguyên - DTC",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "A00; A01; A02; A03; A04; A05; A06; A07; A08; A09; A10; A11; B00; B01; B02; B03; B04; B08; C01; C02; C03; C04; C14; D01; D07; D09; D10; D84; X01; X02; X03; X04; X05; X06; X07; X08; X09; X10; X11; X12; X13; X14; X15; X16; X17; X18; X19; X20; X21; X22; X23",
+              "diem_chuan_2024": "21.7",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Duy Tân - DDT",
+          "data_school": [
+            {
+              "ten_nganh": "Ngành Truyền thông Đa phương tiện",
+              "to_hop_mon": "C00; C03; C04; D01; D14; D15",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "14"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Nam Cần Thơ - DNC",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "C00; C03; D01; D14; D15; D66; X71; X17; Y07",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quốc Tế Hồng Bàng - HIU",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "C00; D01; D14; D15; X71; X75",
+              "diem_chuan_2024": "16.25",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Lang - DVL",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "A00; A01; C00; C01; D01; X78",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hòa Bình - ETU",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "C00; C01; C04; C14; D01; D14",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đông Á - DAD",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện (Cơ sở đào tạo Đà Nẵng)",
+              "to_hop_mon": "A00; A01; C00; D01; D14; X01; X02; X17; X21",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Đô - DTD",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "A01; C00; D01; D15; A00; X02",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công Nghệ TPHCM - DKC",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "D01; C03; C04; C01; (Toán, Văn, Tin); X01",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "20"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Lạc Hồng - DLH",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông Đa phương tiện",
+              "to_hop_mon": "C00; D01; C04; X01; C03; X04",
+              "diem_chuan_2024": "15.45",
+              "diem_chuan_2023": "15.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công nghệ Miền Đông - MIT",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "A00; A01; C00; C01; C03; C14; D01; K01",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Tế Tài Chính TPHCM - UEF",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "D01; C01; (Toán, Văn, Tin); C14; C03; C04",
+              "diem_chuan_2024": "18",
+              "diem_chuan_2023": "20"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Ngoại Ngữ Tin Học TPHCM - DNT",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "D01; D14; D15; X78; D09; D10; X25",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Hiến - DVH",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "A00; A01; C01; D01; C16; X01; X70; X74",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "24.03"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hoa Sen - HSU",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "A00; A01; D01; C00",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Trưng Vương - DVP",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "A00; C00; D01; D14",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ Đồng Nai - DCD",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "C00; C01; C02; D01; D11; D14; D15; D66",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hồng Đức - HDT",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "B03; C01; C04; C14; D01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Tư thục Quốc Tế Sài Gòn - SIU",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "A00; A01; C00; D01; D09; D10",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thái Bình Dương - TBD",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "A01; C19; D01; D14",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Gia Định - GDU",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "A00; A01; C00; C01; C03; C14; D01; K01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kiên Giang - TKG",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "A00; A01; C00; C14; C20; D01",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Thiết kế Đồ hoạ",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ – Đại Học Quốc Gia Hà Nội - QHI",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế công nghiệp và Đồ họa",
+              "to_hop_mon": "A00; A01; X06; X26; D01",
+              "diem_chuan_2024": "24.64",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thủ Dầu Một - TDM",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế đồ họa",
+              "to_hop_mon": "A00; A01; C01; C03; D01; V00; V01; V02; X01; X02",
+              "diem_chuan_2024": "20.5",
+              "diem_chuan_2023": "21.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tôn Đức Thắng - DTT",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế đồ họa",
+              "to_hop_mon": "H00; H01; H02; H03; H04; H05",
+              "diem_chuan_2024": "31.5",
+              "diem_chuan_2023": "31"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật TPHCM - SPK",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế đồ họa (đào tạo bằng tiếng Việt)",
+              "to_hop_mon": "V01; V02; V07; V08; V10",
+              "diem_chuan_2024": "26.5",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kiến Trúc TPHCM - KTS",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế đồ họa",
+              "to_hop_mon": "H01; H06",
+              "diem_chuan_2024": "25.54",
+              "diem_chuan_2023": "25.69"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Khoa học liên ngành và Nghệ thuật Hà Nội - QHK",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế sáng tạo (Chuyên ngành Đồ họa công nghệ số)",
+              "to_hop_mon": "H01; H04; H06; H08; H09; H10; H11",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": "24.38"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hạ Long - HLU",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế đồ họa",
+              "to_hop_mon": "A00; A01; C01; C03; C04; D01; X01; X02",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Xây Dựng Hà Nội - XDA",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế đồ hoạ (mới)",
+              "to_hop_mon": "H00; H07; V00; V01; V02",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học CMC - CMC",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế Đồ hoạ",
+              "to_hop_mon": "(Toán, 2 môn bất kì); (Văn, 2 môn bất kì)",
+              "diem_chuan_2024": "22",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nguyễn Tất Thành - NTT",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế đồ họa",
+              "to_hop_mon": "D01; C04; V01; H01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công Nghệ Thông Tin và Truyền Thông Thái Nguyên - DTC",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế đồ họa",
+              "to_hop_mon": "A00; A01; A02; A03; A04; A05; A06; A07; A08; A09; A10; A11; B00; B01; B02; B03; B04; B08; C01; C02; C03; C04; C14; D01; D07; D09; D10; D84; X01; X02; X03; X04; X05; X06; X07; X08; X09; X10; X11; X12; X13; X14; X15; X16; X17; X18; X19; X20; X21; X22; X23",
+              "diem_chuan_2024": "20.6",
+              "diem_chuan_2023": "16.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Duy Tân - DDT",
+          "data_school": [
+            {
+              "ten_nganh": "Ngành Thiết kế Đồ họa",
+              "to_hop_mon": "A00; A01; D01; C01; C02; V01",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quốc Tế Hồng Bàng - HIU",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế đồ họa",
+              "to_hop_mon": "A00; A01; C03; H01; X06; X26",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hòa Bình - ETU",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế đồ họa",
+              "to_hop_mon": "H01; V00; V01",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đại Nam - DDN",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế đồ họa\r\n– Chuyên ngành Đồ họa đa phương tiện\r\n– Chuyên ngành Thiết kế Game – Hoạt hình\r\n– Chuyên ngành Thiết kế trang trí Nội thất",
+              "to_hop_mon": "C01; C03; C04; D01; H01; X01",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đông Á - DAD",
+          "data_school": [
+            {
+              "ten_nganh": "Đồ hoạ (Cơ sở đào tạo Đà Nẵng)",
+              "to_hop_mon": "A01; D01; V00; V01; V02; V04; X02; X06; X07",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Đô - DTD",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế đồ họa",
+              "to_hop_mon": "C04; D01; D10; D15; A00; X02; X06; X07",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công Nghệ TPHCM - DKC",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế đồ họa",
+              "to_hop_mon": "D01; C01; C03; C04; V01; (Toán, Văn, Tin)",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công nghệ Miền Đông - MIT",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế đồ họa",
+              "to_hop_mon": "A00; A01; C01; D01",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Tế Tài Chính TPHCM - UEF",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế đồ họa",
+              "to_hop_mon": "D01; C01; (Toán, Văn, Tin); C14; C03; C04",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hoa Sen - HSU",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế Đồ họa",
+              "to_hop_mon": "A01; D01; C10",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ Đồng Nai - DCD",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế đồ họa",
+              "to_hop_mon": "C00; C01; C02; D01; D11; D14; D15; D66",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công nghiệp và Thương mại Hà Nội - CCM",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế đồ họa",
+              "to_hop_mon": "D01; V01; V05; H00; H06; H08; (Văn, Địa, Vẽ mỹ thuật)",
+              "diem_chuan_2024": "18",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thái Bình Dương - TBD",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế đồ hoạ",
+              "to_hop_mon": "A01; C03; D01; D14; X02",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Hóa, Thể Thao Và Du Lịch Thanh Hóa - DVD",
+          "data_school": [
+            {
+              "ten_nganh": "Đồ họa",
+              "to_hop_mon": "H00",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Mỹ Thuật TPHCM - MTS",
+          "data_school": [
+            {
+              "ten_nganh": "Đồ hoạ",
+              "to_hop_mon": "",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Thiết kế Công nghiệp",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ – Đại Học Quốc Gia Hà Nội - QHI",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế công nghiệp và Đồ họa",
+              "to_hop_mon": "A00; A01; X06; X26; D01",
+              "diem_chuan_2024": "24.64",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp Hà Nội - DCN",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế cơ khí và kiểu dáng công nghiệp",
+              "to_hop_mon": "A00; A01; X06; X07",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kiến Trúc TPHCM - KTS",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế công nghiệp",
+              "to_hop_mon": "H01; H02",
+              "diem_chuan_2024": "24.72",
+              "diem_chuan_2023": "24.57"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Xây Dựng Hà Nội - XDA",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế công nghiệp (mới)",
+              "to_hop_mon": "H00; H07; V00; V01; V02",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ Sài Gòn - DSG",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế công nghiệp",
+              "to_hop_mon": "(Toán, 2 môn bất kì); (Văn, 2 môn bất kì)",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

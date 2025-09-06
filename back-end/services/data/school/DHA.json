@@ -1,0 +1,57 @@
+{
+  "school_code": "DHA",
+  "school_name": "Trường Đại học Luật Huế",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; C00; C20; D66",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật Kinh tế",
+          "Tổ hợp môn": "A00; C00; C20; D01",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 2
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; C00; C20; D66",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; C00; C20; D01",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 2
+    }
+  ],
+  "table_count": 2,
+  "crawled_at": "2025-07-18T23:29:23.869682",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-luat-dai-hoc-hue-DHA.html"
+}

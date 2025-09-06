@@ -1,0 +1,699 @@
+{
+  "school_code": "SP2",
+  "school_name": "Trường Đại Học Sư Phạm Hà Nội 2",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Giáo dục Mầm non",
+          "Tổ hợp môn": "M01; M09; M26; M05",
+          "Điểm chuẩn": "25.73",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Tiểu học",
+          "Tổ hợp môn": "D01; A01; A00; C04",
+          "Điểm chuẩn": "27.39",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Công dân",
+          "Tổ hợp môn": "D01; C00; D66; C19",
+          "Điểm chuẩn": "27.94",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Thể chất",
+          "Tổ hợp môn": "T01; T02; T00; T05",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Quốc phòng - An ninh",
+          "Tổ hợp môn": "D01; C00; D66; C19",
+          "Điểm chuẩn": "27.63",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Toán học",
+          "Tổ hợp môn": "A00; A01; D01; D84",
+          "Điểm chuẩn": "26.83",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tin học",
+          "Tổ hợp môn": "A00; D01; A01; C01",
+          "Điểm chuẩn": "24.85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Vật lý",
+          "Tổ hợp môn": "A00; A01; C01; D11",
+          "Điểm chuẩn": "26.81",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Hóa học",
+          "Tổ hợp môn": "A00; D07; B00; A06",
+          "Điểm chuẩn": "26.54",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Sinh học",
+          "Tổ hợp môn": "B00; B08; A02; B03",
+          "Điểm chuẩn": "26.33",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Ngữ văn",
+          "Tổ hợp môn": "C00; D01; C14; D15",
+          "Điểm chuẩn": "28.83",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Lịch sử",
+          "Tổ hợp môn": "C00; C03; D14; C19",
+          "Điểm chuẩn": "28.83",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tiếng Anh",
+          "Tổ hợp môn": "D01; A01; D11; D12",
+          "Điểm chuẩn": "27.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Khoa học tự nhiên",
+          "Tổ hợp môn": "A16; A00; A02; B00",
+          "Điểm chuẩn": "25.57",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Lịch sử - Địa lý",
+          "Tổ hợp môn": "C00; C19; C20; A07",
+          "Điểm chuẩn": "28.42",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; A01; D11; D12",
+          "Điểm chuẩn": "25.94",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "D04; D01; D14; D11",
+          "Điểm chuẩn": "26.14",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học giáo dục",
+          "Tổ hợp môn": "C00; C19; D01; B00",
+          "Điểm chuẩn": "26.68",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Việt Nam học",
+          "Tổ hợp môn": "C00; D01; C14; D15",
+          "Điểm chuẩn": "25.07",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "B00; B08; A02; B03",
+          "Điểm chuẩn": "15.35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học vật liệu",
+          "Tổ hợp môn": "A00; A01; C01; D11",
+          "Điểm chuẩn": "18.85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; D01; D01; C01",
+          "Điểm chuẩn": "21.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý thể dục thể thao",
+          "Tổ hợp môn": "T01; T02; T00; T05",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 23
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Giáo dục Tiểu học",
+          "Tổ hợp môn": "D01; A01; A00; C04",
+          "Điểm chuẩn": "29.44",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Công dân",
+          "Tổ hợp môn": "D01; C00; D66; C19",
+          "Điểm chuẩn": "28.74",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Quốc phòng - An ninh",
+          "Tổ hợp môn": "D01; C00; D66; C19",
+          "Điểm chuẩn": "29.35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Toán học",
+          "Tổ hợp môn": "A00; A01; D01; D84",
+          "Điểm chuẩn": "29.63",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tin học",
+          "Tổ hợp môn": "A00; D01; A01; C01",
+          "Điểm chuẩn": "27.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Vật lý",
+          "Tổ hợp môn": "A00; A01; C01; D11",
+          "Điểm chuẩn": "29.39",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Hóa học",
+          "Tổ hợp môn": "A00; D07; B00; A06",
+          "Điểm chuẩn": "29.55",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Sinh học",
+          "Tổ hợp môn": "B00; B08; B03; A02",
+          "Điểm chuẩn": "29.21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Ngữ văn",
+          "Tổ hợp môn": "C00; D01; C14; D15",
+          "Điểm chuẩn": "29.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Lịch sử",
+          "Tổ hợp môn": "C00; C03; C19; D14",
+          "Điểm chuẩn": "29.44",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tiếng Anh",
+          "Tổ hợp môn": "D01; A01; D11; D12",
+          "Điểm chuẩn": "29.58",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm khoa học tự nhiên",
+          "Tổ hợp môn": "A16; A00; A02; B00",
+          "Điểm chuẩn": "28.79",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Lịch sử - Địa lý",
+          "Tổ hợp môn": "C00; C20; C19; A07",
+          "Điểm chuẩn": "28.95",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D11; D12",
+          "Điểm chuẩn": "28.94",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "D01; D04; D14; D11",
+          "Điểm chuẩn": "28.69",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học giáo dục",
+          "Tổ hợp môn": "C00; C19; D01; B00",
+          "Điểm chuẩn": "28.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Việt Nam học",
+          "Tổ hợp môn": "C00; D01; C14; D15",
+          "Điểm chuẩn": "27.15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Sinh học",
+          "Tổ hợp môn": "B00; B08; A02; B03",
+          "Điểm chuẩn": "27.78",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học vật liệu",
+          "Tổ hợp môn": "A00; A01; C01; D11",
+          "Điểm chuẩn": "19.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; D01; A01; C01",
+          "Điểm chuẩn": "27.39",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 20
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Giáo dục Tiểu học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Công dân",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.09",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Toán học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.65",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tin học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.65",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Vật lý",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Sinh học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Ngữ văn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Lịch sử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.93",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.52",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm khoa học tự nhiên",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Lịch sử - Địa lý",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Việt Nam học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Sinh học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học vật liệu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.95",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 17
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Giáo dục Tiểu học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Công dân",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.09",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Toán học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.65",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tin học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.65",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Vật lý",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Sinh học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Ngữ văn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Lịch sử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.93",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.52",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm khoa học tự nhiên",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Lịch sử - Địa lý",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Việt Nam học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Sinh học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học vật liệu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.95",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 17
+    },
+    {
+      "table_title": "Điểm xét tuyển kết hợp năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Giáo dục Mầm non",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "ĐGNL SPHN + năng khiếu"
+        },
+        {
+          "Tên ngành": "Giáo dục Mầm non",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "ĐGNL QG HCM + năng khiếu"
+        },
+        {
+          "Tên ngành": "Giáo dục Mầm non",
+          "Tổ hợp môn": "M01; M09; M26; M05",
+          "Điểm chuẩn": "25.71",
+          "Ghi chú": "Học bạ THPT + năng khiếu"
+        },
+        {
+          "Tên ngành": "Giáo dục Mầm non",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "ĐGNL QGHN + năng khiếu"
+        },
+        {
+          "Tên ngành": "Giáo dục Thể chất",
+          "Tổ hợp môn": "T01; T02; T00; T05",
+          "Điểm chuẩn": "25.12",
+          "Ghi chú": "Học bạ THPT + năng khiếu"
+        },
+        {
+          "Tên ngành": "Giáo dục Thể chất",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.85",
+          "Ghi chú": "ĐGNL QGHN + năng khiếu"
+        },
+        {
+          "Tên ngành": "Giáo dục Thể chất",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.85",
+          "Ghi chú": "ĐGNL SPHN + năng khiếu"
+        },
+        {
+          "Tên ngành": "Giáo dục Thể chất",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.85",
+          "Ghi chú": "ĐGNL QG HCM + năng khiếu"
+        },
+        {
+          "Tên ngành": "Quản lý thể dục thể thao",
+          "Tổ hợp môn": "T01; T02; T00; T05",
+          "Điểm chuẩn": "21.1",
+          "Ghi chú": "Học bạ THPT + năng khiếu"
+        }
+      ],
+      "row_count": 9
+    },
+    {
+      "table_title": "Điểm ĐGNL ĐH Sư phạm HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Giáo dục Tiểu học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Công dân",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.09",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Toán học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.65",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tin học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.65",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Vật lý",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Sinh học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Ngữ văn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Lịch sử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.93",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.52",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm khoa học tự nhiên",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Lịch sử - Địa lý",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Việt Nam học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Sinh học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học vật liệu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.95",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 17
+    }
+  ],
+  "table_count": 6,
+  "crawled_at": "2025-07-18T23:24:42.427630",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-su-pham-ha-noi-2-SP2.html"
+}

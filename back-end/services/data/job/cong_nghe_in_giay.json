@@ -1,0 +1,37 @@
+{
+  "nhom_nganh": "Công nghệ In - Giấy",
+  "danh_sach_nganh": [
+    {
+      "ten_nganh": "Công nghệ kỹ thuật in",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật TPHCM - SPK",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ Kỹ thuật in (đào tạo bằng tiếng Việt)",
+              "to_hop_mon": "A00; A01; C01; D01",
+              "diem_chuan_2024": "22",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Kỹ thuật in",
+      "data": [
+        {
+          "ten_truong": "Đại Học Bách Khoa Hà Nội - BKA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật in",
+              "to_hop_mon": "A00; A01; B03; C01; C02; D07; X02",
+              "diem_chuan_2024": "24",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

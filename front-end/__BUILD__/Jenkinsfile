@@ -1,0 +1,75 @@
+pipeline {
+    environment {
+        REGISTRY_HOST = "registry.jee.vn"
+        REGISTRY_PUBLISHER = "huit_dev"
+        REGISTRY_CRED = "registry"
+        PROJECT_NAME = "career-compass-frontend"
+
+        REMOTE_URL = "https://jenkins.dev.huit.vn/job/34.1.Career-Compass-FE/build"
+        REMOTE_BUILD_TOKEN = ""
+
+        VITE_FIREBASE_API_KEY=""
+        VITE_FIREBASE_AUTH_DOMAIN=""
+        VITE_FIREBASE_DATABASE_URL=""
+        VITE_FIREBASE_PROJECT_ID=""
+        VITE_FIREBASE_STORAGE_BUCKET=""
+        VITE_FIREBASE_MESSAGING_SENDER_ID=""
+        VITE_FIREBASE_APP_ID=""
+        VITE_FIREBASE_MEASUREMENT_ID=""
+
+        VITE_API_BASE_URL="https://career-compass-health.dev.huit.vn"
+        VITE_CV_API_URL="https://career-compass-cv.dev.huit.vn"
+        VITE_INTERVIEW_API_URL="https://career-compass-interview.dev.huit.vn"
+        VITE_RAG_API_URL="https://career-compass-rag.dev.huit.vn"
+        VITE_MAJOR_API_URL="https://career-compass-major.dev.huit.vn"
+        VITE_UNIVERSITY_API_URL="https://career-compass-university.dev.huit.vn"
+
+
+        service = ""
+    }
+    agent any
+    stages {
+        stage('Clone repository') {
+            steps {
+                git credentialsId: 'git-vpl',
+                    url: 'https://github.com/ingtelligent/career-compass.git',
+                    branch: 'main'
+            }
+        }
+        stage('Build image') {
+            steps {
+                script {
+                    dir("front-end"){
+                        service = docker.build("${REGISTRY_HOST}/${REGISTRY_PUBLISHER}/${PROJECT_NAME}:latest", "-f Dockerfile --build-arg VITE_FIREBASE_API_KEY=${VITE_FIREBASE_API_KEY} --build-arg VITE_FIREBASE_AUTH_DOMAIN=${VITE_FIREBASE_AUTH_DOMAIN} --build-arg VITE_FIREBASE_DATABASE_URL=${VITE_FIREBASE_DATABASE_URL} --build-arg VITE_FIREBASE_PROJECT_ID=${VITE_FIREBASE_PROJECT_ID} --build-arg VITE_FIREBASE_STORAGE_BUCKET=${VITE_FIREBASE_STORAGE_BUCKET} --build-arg VITE_FIREBASE_MESSAGING_SENDER_ID=${VITE_FIREBASE_MESSAGING_SENDER_ID} --build-arg VITE_FIREBASE_APP_ID=${VITE_FIREBASE_APP_ID} --build-arg VITE_FIREBASE_MEASUREMENT_ID=${VITE_FIREBASE_MEASUREMENT_ID} --build-arg VITE_API_BASE_URL=${VITE_API_BASE_URL} --build-arg VITE_CV_API_URL=${VITE_CV_API_URL} --build-arg VITE_INTERVIEW_API_URL=${VITE_INTERVIEW_API_URL} --build-arg VITE_RAG_API_URL=${VITE_RAG_API_URL} --build-arg VITE_MAJOR_API_URL=${VITE_MAJOR_API_URL} --build-arg VITE_UNIVERSITY_API_URL=${VITE_UNIVERSITY_API_URL} .")
+                    }
+                }
+            }
+        }
+        stage('Push image') {
+            steps {
+                script {
+                    docker.withRegistry("https://${REGISTRY_HOST}", REGISTRY_CRED) {
+                        service.push("latest")
+                    }
+                }
+            }
+        }
+        stage('Call Remote') {
+            steps {
+                script {
+                    withCredentials([usernamePassword(credentialsId: 'jenkin_huit_dev', usernameVariable: "USERNAME", passwordVariable: "PASSWORD")]) {
+                        sh """
+                            curl -u ${USERNAME}:${PASSWORD} -X GET \
+                            "${REMOTE_URL}?token=${REMOTE_BUILD_TOKEN}"
+                        """
+                    }
+                }
+            }
+        }
+        stage('Cleaning up') {
+            steps{
+                sh "docker image prune -f"
+            }
+        }
+    }
+}

@@ -1,0 +1,75 @@
+{
+  "school_code": "FBU",
+  "school_name": "Trường Đại Học Tài Chính Ngân Hàng Hà Nội",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Tiếng Trung",
+          "Tổ hợp môn": "A01; D01; C00; D04",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; C04",
+          "Điểm chuẩn": "23.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh thương mại",
+          "Tổ hợp môn": "A00; A01; D01; C04",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; C04",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; C04",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "A00; A01; D01; C04",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; C04",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D01; C04",
+          "Điểm chuẩn": "22.75",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 9
+    }
+  ],
+  "table_count": 1,
+  "crawled_at": "2025-07-18T23:27:25.126725",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-tai-chinh-ngan-hang-ha-noi-FBU.html"
+}

@@ -1,0 +1,123 @@
+{
+  "school_code": "DNU",
+  "school_name": "Trường Đại Học Đồng Nai",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Giáo dục mầm non (Cao đẳng)",
+          "Tổ hợp môn": "M05; M07; M08; M13",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục mầm non",
+          "Tổ hợp môn": "M05; M07; M08; M13",
+          "Điểm chuẩn": "22.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Tiểu học",
+          "Tổ hợp môn": "A00; C00; D01; A01",
+          "Điểm chuẩn": "24.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Toán học",
+          "Tổ hợp môn": "A00; A01; D07; D90",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Ngữ văn",
+          "Tổ hợp môn": "C00; D14; D01",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tiếng Anh",
+          "Tổ hợp môn": "D01; A01",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; A01",
+          "Điểm chuẩn": "22.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "19.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 11
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Giáo dục mầm non (Cao đẳng)",
+          "Tổ hợp môn": "M05; M07; M08; M13",
+          "Điểm chuẩn": "24.31",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục mầm non",
+          "Tổ hợp môn": "M05; M07; M08; M13",
+          "Điểm chuẩn": "24.39",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "20.35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "17.05",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 4
+    }
+  ],
+  "table_count": 2,
+  "crawled_at": "2025-07-18T23:30:47.708779",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-dong-nai-DNU.html"
+}

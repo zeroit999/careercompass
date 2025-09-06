@@ -1,0 +1,105 @@
+{
+  "school_code": "SNH",
+  "school_name": "Trường Sĩ Quan Công Binh - Hệ Quân sự - Đại học Ngô Quyền",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Chỉ huy kỹ thuật Công binh",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "22.45",
+          "Ghi chú": "TS miền Bắc; Tiêu chí phụ 1: Toán >= 7.20; Tiêu chí phụ 2: Lý >= 7.00"
+        },
+        {
+          "Tên ngành": "Chỉ huy kỹ thuật Công binh",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "22.05",
+          "Ghi chú": "TS miền Nam"
+        }
+      ],
+      "row_count": 2
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Chỉ huy kỹ thuật Công binh",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "25.209",
+          "Ghi chú": "TS Miền Bắc"
+        },
+        {
+          "Tên ngành": "Chỉ huy kỹ thuật Công binh",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "24.463",
+          "Ghi chú": "TS Miền Nam"
+        }
+      ],
+      "row_count": 2
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Chỉ huy kỹ thuật Công binh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.6",
+          "Ghi chú": "TS Miền Bắc"
+        },
+        {
+          "Tên ngành": "Chỉ huy kỹ thuật Công binh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.425",
+          "Ghi chú": "TS Miền Nam"
+        }
+      ],
+      "row_count": 2
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Chỉ huy kỹ thuật Công binh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.6",
+          "Ghi chú": "TS Miền Bắc"
+        },
+        {
+          "Tên ngành": "Chỉ huy kỹ thuật Công binh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.425",
+          "Ghi chú": "TS Miền Nam"
+        }
+      ],
+      "row_count": 2
+    }
+  ],
+  "table_count": 4,
+  "crawled_at": "2025-07-18T23:28:44.172559",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/truong-si-quan-cong-binh-he-quan-su-dai-hoc-ngo-quyen-SNH.html"
+}

@@ -1,0 +1,639 @@
+{
+  "school_code": "GTA",
+  "school_name": "Trường Đại học Công nghệ Giao thông vận tải",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản lý, khai thác và bảo trì đường cao tốc",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Mô hình thông tin công trình (BIM) trong dự án HTGT",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "CNKT XD Cầu đường bộ",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "16",
+          "Ghi chú": "Cơ sở đào tạo Vĩnh Phúc"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật XD Cầu đường bộ",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hạ tầng giao thông đô thị thông minh",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "22.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "23.37",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử trên ô tô",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "22.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "22.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "23.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "CNKT công trình XD dân dụng và công nghiệp",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô và giao thông thông minh",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "22.65",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hải quan và Logistics",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "23.48",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (tăng cường tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "23.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc nội thất",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "22.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xây dựng và quản lý hạ tầng đô thị",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán doanh nghiệp",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "21.55",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Cơ khí",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "23.09",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán doanh nghiệp",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "16",
+          "Ghi chú": "Cơ sở đào tạo Vĩnh Phúc"
+        },
+        {
+          "Tên ngành": "Kinh tế xây dựng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24.54",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và hạ tầng giao thông",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "23.52",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ và quản lý môi trường",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Ô tô",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "Cơ sở đào tạo Vĩnh Phúc"
+        },
+        {
+          "Tên ngành": "Quản trị Marketing",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "23.39",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thanh tra và quản lý công trình giao thông",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý và điều hành vận tải đường sắt",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "CNKT xây dựng Đường sắt - Metro",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xây dựng Cầu - Đường sắt",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo và giao thông thông minh",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "21.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính doanh nghiệp",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị doanh nghiệp",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "21.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "21.35",
+          "Ghi chú": "Cơ sở đào tạo Vĩnh Phúc"
+        },
+        {
+          "Tên ngành": "Logistics và vận tải đa phương thức",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "23.65",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật vi mạch bán dẫn",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "23.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics - Trường Đại học Tongmyong - Hàn Quốc cấp bằng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin – ĐH Công nghệ thông tin và quản lý Ba Lan - UITM cấp bằng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật xây dựng Cầu đường bộ (tăng cường tiếng Nhật, định hướng thực tập và làm việc tại Nhật Bản)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Điện tử - Viễn thông (tăng cường tiếng Nhật, định hướng thực tập và làm việc tại Nhật Bản)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng (tăng cường tiếng Nhật, định hướng thực tập và làm việc tại Nhật Bản)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 45
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Công nghệ thông tin (tăng cường tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý, khai thác và bảo trì đường cao tốc",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Mô hình thông tin công trình (BIM) trong dự án HTGT",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "CNKT XD Cầu đường bộ (học tại Vĩnh Phúc)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật XD Cầu đường bộ",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hạ tầng giao thông đô thị thông minh",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Cơ khí",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử trên ô tô",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "CNKT xây dựng Đường sắt - Metro",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "CNKT công trình XD dân dụng và công nghiệp",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xây dựng Cầu – đường sắt",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hải quan và Logistics",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc nội thất",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán doanh nghiệp (học tại Vĩnh Phúc)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán doanh nghiệp",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế xây dựng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và hạ tầng giao thông",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ và quản lý môi trường",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô và giao thông thông minh",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Ô tô (học tại Vĩnh Phúc)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Ô tô",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị Marketing",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị doanh nghiệp",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo và giao thông thông minh",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính doanh nghiệp",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thanh tra và quản lý công trình giao thông",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (học tại Vĩnh Phúc)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và vận tải đa phương thức",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật vi mạch bán dẫn",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý và điều hành vận tải đường sắt",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xây dựng và quản lý hạ tầng đô thị",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics - Trường Đại học Tongmyong - Hàn Quốc cấp bằng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "Thí sinh có CCNNQT tương đương với trình độ bậc 4 tiếng Anh, theo khung năng lực 6 bậc của Việt Nam"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin – ĐH Công nghệ thông tin và quản lý Ba Lan- UITM cấp bằng.",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "Thí sinh có CCNNQT tương đương với trình độ bậc 4 tiếng Anh, theo khung năng lực 6 bậc của Việt Nam"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật xây dựng Cầu đường bộ (tăng cường tiếng Nhật, định hướng thực tập và làm việc tại Nhật Bản)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Điện tử - Viễn thông (tăng cường tiếng Nhật, định hướng thực tập và làm việc tại Nhật Bản)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng (tăng cường tiếng Nhật, định hướng thực tập và làm việc tại Nhật Bản)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 45
+    },
+    {
+      "table_title": "Điểm Đánh giá Tư duy năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật công trình xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật giao thông",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Cơ khí",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Ô tô",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 9
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:27:28.308578",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-cong-nghe-giao-thong-van-tai-GTA.html"
+}

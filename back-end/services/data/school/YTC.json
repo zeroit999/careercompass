@@ -1,0 +1,117 @@
+{
+  "school_code": "YTC",
+  "school_name": "Trường Đại Học Y Tế Công Cộng",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "16.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dinh dưỡng",
+          "Tổ hợp môn": "B00; B08; D01; D07",
+          "Điểm chuẩn": "20.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xét nghiệm y học",
+          "Tổ hợp môn": "A01; B00; B08; D07",
+          "Điểm chuẩn": "20.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phục hồi chức năng",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "22.95",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y tế công cộng",
+          "Tổ hợp môn": "B00; B08; D01; D13",
+          "Điểm chuẩn": "17.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "B00; C00; D01; D66",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 6
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "B00; A00; A01; D01",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dinh dưỡng",
+          "Tổ hợp môn": "B00; B08; D01; D07",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phục hồi chức năng",
+          "Tổ hợp môn": "B00; A00; D01; A01",
+          "Điểm chuẩn": "27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y tế công cộng",
+          "Tổ hợp môn": "B00; B08; D01; D13",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "B00; C00; D01; D66",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 5
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 1
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:23:34.252694",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-y-te-cong-cong-YTC.html"
+}

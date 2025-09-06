@@ -1,0 +1,271 @@
+{
+  "nhom_nganh": "Công nghệ vật liệu",
+  "danh_sach_nganh": [
+    {
+      "ten_nganh": "Kỹ thuật Vật liệu",
+      "data": [
+        {
+          "ten_truong": "Đại Học Bách Khoa Hà Nội - BKA",
+          "data_school": [
+            {
+              "ten_nganh": "Khoa học và kỹ thuật vật liệu (CT tiên tiến)",
+              "to_hop_mon": "A00; A01; B03; C01; C02; D07; X02",
+              "diem_chuan_2024": "24",
+              "diem_chuan_2023": "21.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật vật liệu",
+              "to_hop_mon": "A00; A01; B00; D07",
+              "diem_chuan_2024": "22.15",
+              "diem_chuan_2023": "21.35"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Xây Dựng Hà Nội - XDA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật vật liệu",
+              "to_hop_mon": "A00; A01; A02; B00; C01; C02; D07; X06 (Toán, Lí, Tin); X14 (Toán, Sinh, Tin)",
+              "diem_chuan_2024": "21.2",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Mỏ Địa Chất - MDA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật vật liệu",
+              "to_hop_mon": "A00; A01; A02; A03; A04; A10; C01; D01",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kỹ Thuật Công Nghiệp Thái Nguyên - DTK",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật vật liệu",
+              "to_hop_mon": "A00; A01; C01; C02; D01; D07",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Khoa học Vật liệu",
+      "data": [
+        {
+          "ten_truong": "Đại Học Bách Khoa Hà Nội - BKA",
+          "data_school": [
+            {
+              "ten_nganh": "Khoa học và kỹ thuật vật liệu (CT tiên tiến)",
+              "to_hop_mon": "A00; A01; B03; C01; C02; D07; X02",
+              "diem_chuan_2024": "24",
+              "diem_chuan_2023": "21.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Tự Nhiên TPHCM - QST",
+          "data_school": [
+            {
+              "ten_nganh": "Khoa học Vật liệu",
+              "to_hop_mon": "A00; C02; C01; A02; A01; D07; B08; X14; B00; B03; X10; X06",
+              "diem_chuan_2024": "22.3",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Tự Nhiên Hà Nội - QHT",
+          "data_school": [
+            {
+              "ten_nganh": "Khoa học vật liệu",
+              "to_hop_mon": "A00; A01; A02; B00; C01; C02; D07; X02; X06; X26",
+              "diem_chuan_2024": "24.6",
+              "diem_chuan_2023": "22.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội 2 - SP2",
+          "data_school": [
+            {
+              "ten_nganh": "Khoa học vật liệu",
+              "to_hop_mon": "A00; A01; C01; C02",
+              "diem_chuan_2024": "18.85",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Và Công Nghệ Hà Nội - KCN",
+          "data_school": [
+            {
+              "ten_nganh": "Khoa học vật liệu tiên tiến và Công nghệ Nano",
+              "to_hop_mon": "A00; A01; X07; X08; X06; A02; A04; B00; D07; A06; X10; X11; X12",
+              "diem_chuan_2024": "22",
+              "diem_chuan_2023": "21.8"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nguyễn Tất Thành - NTT",
+          "data_school": [
+            {
+              "ten_nganh": "Khoa học vật liệu (Vật liệu tiên tiến và Công nghệ nano)",
+              "to_hop_mon": "A00; A01; C01; D07",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hồng Đức - HDT",
+          "data_school": [
+            {
+              "ten_nganh": "Khoa học vật liệu",
+              "to_hop_mon": "B03; C01; C02; C04; D01",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Công nghệ kỹ thuật Vật liệu xây dựng",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Bách Khoa Đà Nẵng - DDK",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật vật liệu xây dựng",
+              "to_hop_mon": "A00; A01; C01; D07; X06",
+              "diem_chuan_2024": "17.25",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kiến Trúc Hà Nội - KTA",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật vật liệu xây dựng",
+              "to_hop_mon": "A00; C01; C02; D01; (Toán, Văn, Công nghệ)",
+              "diem_chuan_2024": "22.1",
+              "diem_chuan_2023": "21.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Xây Dựng Hà Nội - XDA",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ Kỹ thuật Vật liệu xây dựng",
+              "to_hop_mon": "A00; A01; A02; B00; C01; C02; D07; X06 (Toán, Lí, Tin); X14 (Toán, Sinh, Tin)",
+              "diem_chuan_2024": "19.75",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Khoa học Vũ trụ và Công nghệ Vệ tinh",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Và Công Nghệ Hà Nội - KCN",
+          "data_school": [
+            {
+              "ten_nganh": "Khoa học Vũ trụ và Công nghệ Vệ tinh",
+              "to_hop_mon": "A00; A01; X07; X08; X06; A04; A02; X10; X11; X12; D07; A06; B02; X14; X15; X13; B08; X22; X23; X24; D10; X26; X27; X28; X56; X57",
+              "diem_chuan_2024": "21.65",
+              "diem_chuan_2023": "20.3"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Mỏ Địa Chất - MDA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật không gian",
+              "to_hop_mon": "A01; A04; A09; B02; C04; D01; D84",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Khoa học Y Sinh",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Nguyễn Tất Thành - NTT",
+          "data_school": [
+            {
+              "ten_nganh": "Khoa học y sinh",
+              "to_hop_mon": "A00; B00; A02; B03; C02; C08; D07; B08; X14; X15; X16",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Viện nghiên cứu và đào tạo Việt Anh - Đại học Đà Nẵng - DDV",
+          "data_school": [
+            {
+              "ten_nganh": "Khoa học Y Sinh",
+              "to_hop_mon": "B00; B08; D07; A00; B03; D01",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "20.25"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Vật liệu thông minh và trí tuệ nhân tạo",
+      "data": [
+        {
+          "ten_truong": "Đại Học Phenikaa - PKA",
+          "data_school": [
+            {
+              "ten_nganh": "Vật liệu thông minh và trí tuệ nhân tạo",
+              "to_hop_mon": "A00; A01; B00; D07; X06; X07",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Vật liệu tiên tiến và công nghệ nano",
+      "data": [
+        {
+          "ten_truong": "Đại Học Phenikaa - PKA",
+          "data_school": [
+            {
+              "ten_nganh": "Vật liệu tiên tiến và Công nghệ nano",
+              "to_hop_mon": "A00; A01; B00; D07; X06; X07",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "20"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

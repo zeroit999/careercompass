@@ -1,0 +1,153 @@
+{
+  "school_code": "HPU",
+  "school_name": "Trường Đại học Quản lý và Công nghệ Hải Phòng",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D66; D14; D15",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Việt Nam học",
+          "Tổ hợp môn": "D01; D66; D14; C00",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A01; A00; C14; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; A10; D84",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử",
+          "Tổ hợp môn": "A00; A02; A10; D84",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kĩ thuật môi trường",
+          "Tổ hợp môn": "A00; D84; A02; C14",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 6
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D66; D14; D15",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Việt Nam học",
+          "Tổ hợp môn": "D01; D66; D14; C00",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A01; A00; C14; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; A10; D84",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử",
+          "Tổ hợp môn": "A00; A02; A10; D84",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kĩ thuật môi trường",
+          "Tổ hợp môn": "A00; D84; A02; C14",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 6
+    },
+    {
+      "table_title": "Điểm xét tuyển kết hợp năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D66; D14; D15",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "Kết hợp điểm thi TN THPT với CCTA Quốc tế"
+        },
+        {
+          "Tên ngành": "Việt Nam học",
+          "Tổ hợp môn": "D01; D66; D14; C00",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "Kết hợp điểm thi TN THPT với CCTA Quốc tế"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A01; A00; C14; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "Kết hợp điểm thi TN THPT với CCTA Quốc tế"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; A10; D84",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "Kết hợp điểm thi TN THPT với CCTA Quốc tế"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử",
+          "Tổ hợp môn": "A00; A01; A10; D84",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "Kết hợp điểm thi TN THPT với CCTA Quốc tế"
+        },
+        {
+          "Tên ngành": "Kĩ thuật môi trường",
+          "Tổ hợp môn": "A00; D84; A02; C14",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "Kết hợp điểm thi TN THPT với CCTA Quốc tế"
+        }
+      ],
+      "row_count": 6
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:31:39.958482",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-quan-ly-va-cong-nghe-hai-phong-HPU.html"
+}

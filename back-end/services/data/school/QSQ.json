@@ -1,0 +1,831 @@
+{
+  "school_code": "QSQ",
+  "school_name": "Trường Đại Học Quốc Tế - ĐHQG TPHCM",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D09; D14; D15",
+          "Điểm chuẩn": "34.5",
+          "Ghi chú": "Thang điểm 40, TA nhân hệ số 2"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (Chương trình liên kết với ĐH West of England) (2+2)",
+          "Tổ hợp môn": "D01; D09; D14; D15",
+          "Điểm chuẩn": "30",
+          "Ghi chú": "Thang điểm 40, TA nhân hệ số 2"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (Chương trình liên kết với ĐH West of England) (3+1)",
+          "Tổ hợp môn": "D01; D09; D14; D15",
+          "Điểm chuẩn": "30",
+          "Ghi chú": "Thang điểm 40, TA nhân hệ số 2"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (Chương trình liên kết với ĐH West of England) (4+0)",
+          "Tổ hợp môn": "D01; D09; D14; D15",
+          "Điểm chuẩn": "30",
+          "Ghi chú": "Thang điểm 40, TA nhân hệ số 2"
+        },
+        {
+          "Tên ngành": "Kinh tế (Phân tích dữ liệu trong kinh tế)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "23.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chương trình liên kết với ĐH Andrews) (4+0)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chương trình liên kết với ĐH Công nghệ Auckland) (1+2/1.5+1.5)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chương trình liên kết với ĐH Lakehead) (2+2)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chương trình liên kết với ĐH New South Wales) (2+2)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chương trình liên kết với ĐH Sydney) (2+2)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chương trình liên kết với ĐH Houston) (2+2)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chương trình liên kết với ĐH West of England) (2+2)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chương trình liên kết với ĐH West of England) (4+0)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính – Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính (Chương trình liên kết với ĐH Macquarie) (2+1)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán (Chương trình liên kết với ĐH Macquarie) (2+1)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "A00; B00; B08; D07",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học (Chương trình liên kết với ĐH West of England) (2+2)",
+          "Tổ hợp môn": "A00; B00; B08; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học định hướng Y Sinh (Chương trình liên kết với ĐH West of England) (4+0)",
+          "Tổ hợp môn": "A00; B00; B08; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hóa học (Hóa sinh)",
+          "Tổ hợp môn": "A00; B00; B08; D07",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Toán ứng dụng (Kỹ thuật Tài chính và Quản trị rủi ro)",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thống kê (Thống kê ứng dụng)",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính (Chương trình liên kết với ĐH West of England) (2+2)",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Chương trình liên kết với ĐH SUNY Binghamton) (2+2)",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Chương trình liên kết với ĐH West of England) (4+0)",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật hệ thống công nghiệp",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật hệ thống công nghiệp (Chương trình liên kết với ĐH SUNY Binghamton) (2+2)",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật không gian (Phân tích và ứng dụng dữ liệu lớn)",
+          "Tổ hợp môn": "A00; A01; A02; D01",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử – viễn thông",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử (Chương trình liên kết với ĐH SUNY Binghamton) (2+2)",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử – viễn thông (Chương trình liên kết với ĐH West of England) (2+2)",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật y sinh",
+          "Tổ hợp môn": "A01; B00; B08; D07",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và tự động hóa",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật hóa học",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng (Chương trình liên kết với ĐH Deakin) (2+2)",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "16.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 45
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "835",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (Chương trình liên kết với ĐH West of England) (2+2)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (Chương trình liên kết với ĐH West of England) (3+1)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (Chương trình liên kết với ĐH West of England) (4+0)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế (Phân tích dữ liệu trong kinh tế)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "760",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "800",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chương trình liên kết với ĐH Andrews) (4+0)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chương trình liên kết với ĐH Công nghệ Auckland) (1+2/1.5+1.5)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chương trình liên kết với ĐH Lakehead) (2+2)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chương trình liên kết với ĐH New South Wales) (2+2)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chương trình liên kết với ĐH Sydney) (2+2)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chương trình liên kết với ĐH Houston) (2+2)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chương trình liên kết với ĐH West of England) (2+2)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chương trình liên kết với ĐH West of England) (4+0)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "800",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính – Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "750",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "750",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "680",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học (Chương trình liên kết với ĐH West of England) (2+2)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học định hướng Y Sinh (Chương trình liên kết với ĐH West of England) (4+0)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hóa học (Hóa sinh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "680",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "860",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Toán ứng dụng (Kỹ thuật Tài chính và Quản trị rủi ro)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "740",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thống kê (Thống kê ứng dụng)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "860",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính (Chương trình liên kết với ĐH West of England) (2+2)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "850",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Chương trình liên kết với ĐH Suny Binghamton) (2+2)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Chương trình liên kết với ĐH West of England) (4+0)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "860",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật hệ thống công nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "630",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật hệ thống công nghiệp (Chương trình liên kết với ĐH Suny Binghamton) (2+2)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "620",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật không gian (Phân tích và ứng dụng dữ liệu lớn)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "660",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử – viễn thông",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "680",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử (Chương trình liên kết với ĐH Suny Binghamton) (2+2)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử – viễn thông (Chương trình liên kết với ĐH West of England) (2+2)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật y sinh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "680",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và tự động hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "680",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật hóa học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "720",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "680",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "660",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Xây dựng (Chương trình liên kết với ĐH Deakin) (2+2)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "610",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "630",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 43
+    },
+    {
+      "table_title": "ƯTXT, XT thẳng năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D09; D14; D15",
+          "Điểm chuẩn": "38",
+          "Ghi chú": "Ưu tiên xét tuyển HSG"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (Chương trình liên kết với ĐH West of England) (2+2)",
+          "Tổ hợp môn": "D01; D09; D14; D15",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": "Ưu tiên xét tuyển HSG"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (Chương trình liên kết với ĐH West of England) (3+1)",
+          "Tổ hợp môn": "D01; D09; D14; D15",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": "Ưu tiên xét tuyển HSG"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (Chương trình liên kết với ĐH Wcst of England) (4+0)",
+          "Tổ hợp môn": "D01; D09; D14; D15",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": "Ưu tiên xét tuyển HSG"
+        },
+        {
+          "Tên ngành": "Kinh tế (Phân tích dữ liệu trong kinh tế)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Ưu tiên xét tuyển HSG"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Ưu tiên xét tuyển HSG"
+        },
+        {
+          "Tên ngành": "Quản trị Kinh doanh (Chương trình liên kết với ĐH Andrews) (4+0)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Ưu tiên xét tuyển HSG"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chương trình liên kết với ĐH Công nghệ Auckland) (1+2/1.5+1.5)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Ưu tiên xét tuyển HSG"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chương trình liên kết với ĐH Lakchead) (2+2)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Ưu tiên xét tuyển HSG"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chương trinh liên kết với DH Ncw South Wales) (2+2)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Ưu tiên xét tuyển HSG"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chương trình liên kết với ĐH Sydney) (2+2)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Ưu tiên xét tuyển HSG"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chương trình liên kết với DH Houston) (2+2)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Ưu tiên xét tuyển HSG"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chương trinh liên kết với ĐH West of England) (2+2)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Ưu tiên xét tuyển HSG"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chương trình liên kết với DH West of England) (4+0)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Ưu tiên xét tuyển HSG"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Ưu tiên xét tuyển HSG"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "Ưu tiên xét tuyển HSG"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Ưu tiên xét tuyển HSG"
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "A00; B00; B08; D07",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Ưu tiên xét tuyển HSG"
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học (Chương trình liên kết với ĐH West of England) (2+2)",
+          "Tổ hợp môn": "A00; B00; B08; D07",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Ưu tiên xét tuyển HSG"
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học định hướng Y Sinh (Chương trình liên kết với ĐH West of England) (4+0)",
+          "Tổ hợp môn": "A00; B00; B08; D07",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Ưu tiên xét tuyển HSG"
+        },
+        {
+          "Tên ngành": "Hóa học (Hóa sinh)",
+          "Tổ hợp môn": "A00; B00; B08; D07",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Ưu tiên xét tuyển HSG"
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": "Ưu tiên xét tuyển HSG"
+        },
+        {
+          "Tên ngành": "Toán ứng dụng (Kỹ thuật Tài chính và Quản trị rủi ro)",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Ưu tiên xét tuyển HSG"
+        },
+        {
+          "Tên ngành": "Thống kê (Thống kê ứng dụng)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Ưu tiên xét tuyển HSG"
+        },
+        {
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": "Ưu tiên xét tuyển HSG"
+        },
+        {
+          "Tên ngành": "Khoa học máy tính (Chương trình liên kết với DH West of England) (2+2)",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Ưu tiên xét tuyển HSG"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": "Ưu tiên xét tuyển HSG"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Chương trình liên kết với ĐH Suny Binghamton) (2+2)",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Ưu tiên xét tuyển HSG"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Chương trinh liên kết với ĐH West of England) (4+0)",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Ưu tiên xét tuyển HSG"
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": "Ưu tiên xét tuyển HSG"
+        },
+        {
+          "Tên ngành": "Kỹ thuật hệ thống công nghiệp",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Ưu tiên xét tuyển HSG"
+        },
+        {
+          "Tên ngành": "Kỹ thuật hệ thống công nghiệp (Chương trình liên kết với ĐH Suny Binghamton) (2+2)",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Ưu tiên xét tuyển HSG"
+        },
+        {
+          "Tên ngành": "Kỹ thuật không gian (Phân tích và ứng dụng dữ liệu lớn)",
+          "Tổ hợp môn": "A00; A01; A02; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Ưu tiên xét tuyển HSG"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử - viễn thông",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Ưu tiên xét tuyển HSG"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử (Chương trình liên kết với ĐH Suny Binghamton) (2+2)",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": "Ưu tiên xét tuyển HSG"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử - viễn thông (Chương trình liên kết với ĐH West of England) (2+2)",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": "Ưu tiên xét tuyển HSG"
+        },
+        {
+          "Tên ngành": "Kỹ thuật y sinh",
+          "Tổ hợp môn": "A01; B00; B08; D07",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Ưu tiên xét tuyển HSG"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và tự động hóa",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Ưu tiên xét tuyển HSG"
+        },
+        {
+          "Tên ngành": "Kỹ thuật hóa học",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Ưu tiên xét tuyển HSG"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Ưu tiên xét tuyển HSG"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Ưu tiên xét tuyển HSG"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Xây dựng (Chương trình liên kết với ĐH Deakin) (2+2)",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Ưu tiên xét tuyển HSG"
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Ưu tiên xét tuyển HSG"
+        }
+      ],
+      "row_count": 43
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:25:43.381579",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-quoc-te-dhqg-tphcm-QSQ.html"
+}

@@ -1,0 +1,183 @@
+{
+  "school_code": "SKD",
+  "school_name": "Trường Đại Học Sân Khấu Điện Ảnh Hà Nội",
+  "tables": [
+    {
+      "table_title": "Điểm thi riêng năm 2025",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Diễn viên chèo",
+          "Tổ hợp môn": "S00",
+          "Điểm chuẩn": "17.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Diễn viên rối",
+          "Tổ hợp môn": "S00",
+          "Điểm chuẩn": "20.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nhạc công kịch hát dân tộc",
+          "Tổ hợp môn": "S00",
+          "Điểm chuẩn": "17.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đạo diễn âm thanh, ánh sáng sân khấu",
+          "Tổ hợp môn": "S00",
+          "Điểm chuẩn": "17.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đạo diễn sự kiện lễ hội",
+          "Tổ hợp môn": "S00",
+          "Điểm chuẩn": "19.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Biên kịch điện ảnh",
+          "Tổ hợp môn": "S00",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Biên tập truyền hình",
+          "Tổ hợp môn": "S00",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Diễn viên kịch, điện ảnh – truyền hình",
+          "Tổ hợp môn": "S00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Diễn viên nhạc kịch",
+          "Tổ hợp môn": "S00",
+          "Điểm chuẩn": "20.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đạo diễn điện ảnh",
+          "Tổ hợp môn": "S00",
+          "Điểm chuẩn": "18.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đạo diễn truyền hình",
+          "Tổ hợp môn": "S00",
+          "Điểm chuẩn": "16.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đạo diễn, sản xuất nội dung số",
+          "Tổ hợp môn": "S00",
+          "Điểm chuẩn": "17.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quay phim điện ảnh",
+          "Tổ hợp môn": "S00",
+          "Điểm chuẩn": "19.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quay phim truyền hình",
+          "Tổ hợp môn": "S00",
+          "Điểm chuẩn": "18.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Biên đạo múa",
+          "Tổ hợp môn": "S00",
+          "Điểm chuẩn": "18.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Biên đạo múa đại chúng",
+          "Tổ hợp môn": "S00",
+          "Điểm chuẩn": "18.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Huấn luyện múa",
+          "Tổ hợp môn": "S00",
+          "Điểm chuẩn": "17.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nhiếp ảnh nghệ thuật",
+          "Tổ hợp môn": "S00",
+          "Điểm chuẩn": "17.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nhiếp ảnh báo chí",
+          "Tổ hợp môn": "S00",
+          "Điểm chuẩn": "16.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nhiếp ảnh truyền thông đa phương tiện",
+          "Tổ hợp môn": "S00",
+          "Điểm chuẩn": "19.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ dựng phim",
+          "Tổ hợp môn": "S00",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Âm thanh điện ảnh – truyền hình",
+          "Tổ hợp môn": "S00",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế mỹ thuật sân khấu",
+          "Tổ hợp môn": "S00",
+          "Điểm chuẩn": "18.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế mỹ thuật hoạt hình",
+          "Tổ hợp môn": "S00",
+          "Điểm chuẩn": "22.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế trang phục nghệ thuật",
+          "Tổ hợp môn": "S00",
+          "Điểm chuẩn": "19.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế đồ hoạ kỹ xảo",
+          "Tổ hợp môn": "S00",
+          "Điểm chuẩn": "19.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nghệ thuật hóa trang",
+          "Tổ hợp môn": "S00",
+          "Điểm chuẩn": "21.8",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 27
+    }
+  ],
+  "table_count": 1,
+  "crawled_at": "2025-07-18T23:32:48.996538",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-san-khau-dien-anh-ha-noi-SKD.html"
+}

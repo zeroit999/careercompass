@@ -1,0 +1,3969 @@
+{
+  "school_code": "SPK",
+  "school_name": "Trường Đại Học Sư Phạm Kỹ Thuật TPHCM",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Sư phạm tiếng Anh (đào tạo bằng tiếng Việt)",
+          "Tổ hợp môn": "D01; D96",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Công nghệ (đào tạo bằng tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "24.15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế đồ họa (đào tạo bằng tiếng Việt)",
+          "Tổ hợp môn": "V01; V02; V07; V08",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế thời trang (đào tạo bằng tiếng Việt)",
+          "Tổ hợp môn": "V01; V02; V07; V09",
+          "Điểm chuẩn": "24.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (đào tạo bằng tiếng Việt)",
+          "Tổ hợp môn": "D01; D96",
+          "Điểm chuẩn": "24.57",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học giáo dục (đào tạo bằng tiếng Việt)",
+          "Tổ hợp môn": "C00; C20; D01; D14",
+          "Điểm chuẩn": "25.15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh Quốc tế (đào tạo bằng tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "22.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử (đào tạo bằng tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán (đào tạo bằng tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "22.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật (đào tạo bằng tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "25.12",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật máy tính (đào tạo bằng tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "25.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật máy tính (đào tạo bằng tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống nhúng và IoT (đào tạo bằng tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "25.65",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (đào tạo bằng tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "25.65",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (chương trình Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "25.65",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (đào tạo bằng tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "25.97",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "An toàn thông tin (đào tạo bằng tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "24.89",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật dữ liệu (đào tạo bằng tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "24.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật công trình xây dựng (đào tạo bằng tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật công trình xây dựng (đào tạo bằng tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "23.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống kỹ thuật công trình xây dựng (đào tạo bằng tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "22.22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí (đào tạo bằng tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "24.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí (đào tạo bằng tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "25.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ chế tạo máy (đào tạo bằng tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ chế tạo máy (chương trình Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ chế tạo máy (đào tạo bằng tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "24.27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử (đào tạo bằng tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "25.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử (đào tạo bằng tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "25.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô (đào tạo bằng tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô (chương trình Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô (đào tạo bằng tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "25.39",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật nhiệt (đào tạo bằng tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật nhiệt (chương trình Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "24.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật nhiệt (đào tạo bằng tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "24.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Năng lượng tái tạo (đào tạo bằng tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "23.15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Robot và trí tuệ nhân tạo (đào tạo bằng tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "25.66",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện; điện tử (đào tạo bằng tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện; điện tử (đào tạo bằng tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "25.12",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông (đào tạo bằng tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "24.35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử; viễn thông (chương trình Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình đào tạo Kỹ thuật Thiết kế Vi mạch - thuộc ngành CNKT ĐT - Viễn thông (đào tạo bằng tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "25.95",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử; viễn thông (đào tạo bằng tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "25.15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hóa (đào tạo bằng tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "25.35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hóa (đào tạo bằng tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "26.14",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật hóa học (đào tạo bằng tiếng Việt)",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "24.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ vật liệu (đào tạo bằng tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D07; D90",
+          "Điểm chuẩn": "23.33",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật môi trường (đào tạo bằng tiếng Việt)",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý công nghiệp (đào tạo bằng tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "23.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý công nghiệp (đào tạo bằng tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "24.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng (đào tạo bằng tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "25.21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật in (đào tạo bằng tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật công nghiệp (đào tạo bằng tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "23.88",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật y sinh (Điện tử y sinh) (đào tạo bằng tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "24.15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm (đào tạo bằng tiếng Anh)",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm (đào tạo bằng tiếng Việt)",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "24.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ may (đào tạo bằng tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "21.41",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ nghệ gỗ và nội thất (đào tạo bằng tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc (đào tạo bằng tiếng Việt)",
+          "Tổ hợp môn": "V03; V04; V05; V06",
+          "Điểm chuẩn": "22.97",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc nội thất (đào tạo bằng tiếng Việt)",
+          "Tổ hợp môn": "V03; V04; V05; V06",
+          "Điểm chuẩn": "22.77",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình giao thông (đào tạo bằng tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "21.55",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng (đào tạo bằng tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "22.17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị nhà hàng và dịch vụ ăn uống (đào tạo bằng tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "23.27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý và vận hành hạ tầng (đào tạo bằng tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "21.22",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 63
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Sư phạm tiếng Anh (Tiếng Việt)",
+          "Tổ hợp môn": "D01; D96",
+          "Điểm chuẩn": "24.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Anh (Tiếng Việt)",
+          "Tổ hợp môn": "D01; D96",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Anh (Tiếng Việt)",
+          "Tổ hợp môn": "D01; D96",
+          "Điểm chuẩn": "28.7",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Anh (Tiếng Việt)",
+          "Tổ hợp môn": "D01; D96",
+          "Điểm chuẩn": "29",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Anh (Tiếng Việt)",
+          "Tổ hợp môn": "D01; D96",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Anh (Tiếng Việt)",
+          "Tổ hợp môn": "D01; D96",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Anh (Tiếng Việt)",
+          "Tổ hợp môn": "D01; D96",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Sư phạm công nghệ (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Sư phạm công nghệ (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Sư phạm công nghệ (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Sư phạm công nghệ (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Sư phạm công nghệ (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Sư phạm công nghệ (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (Tiếng Việt)",
+          "Tổ hợp môn": "D01; D96",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (Tiếng Việt)",
+          "Tổ hợp môn": "D01; D96",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (Tiếng Việt)",
+          "Tổ hợp môn": "D01; D96",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (Tiếng Việt)",
+          "Tổ hợp môn": "D01; D96",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (Tiếng Việt)",
+          "Tổ hợp môn": "D01; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (Tiếng Việt)",
+          "Tổ hợp môn": "D01; D96",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Tâm lý học giáo dục (Tiếng Việt)",
+          "Tổ hợp môn": "D01; C00; C20; D14",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Tàm lý học giáo dục (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Tàm lý học giáo dục (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Tâm lý học giáo dục (Tiếng Việt)",
+          "Tổ hợp môn": "D01; C00; C20; D14",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Tâm lý học giáo dục (Tiếng Việt)",
+          "Tổ hợp môn": "D01; C00; C20; D14",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Tâm lý học giáo dục (Tiêng Việt)",
+          "Tổ hợp môn": "D01; C00; C20; D14",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "24.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "26.75",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Thương mại điện tử (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Thương mại điện tử (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "27.25",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Thương mại điện tử (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "28.25",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Thương mại điện tử (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Thương mại điện tử (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Thương mại điện tử (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Kế toán (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Kế toán (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Kế toán (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "27.25",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Kế toán (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Kế toán (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Kế toán (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Luật (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Luật (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Luật (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Luật (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Luật (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Luật (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật máy tính (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật máy tính (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật máy tính (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật máy tính (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật máy tính (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21.75",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật máy tính (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật máy tính (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật máy tính (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật máy tính (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "26.25",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật máy tính (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật máy tính (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "28.75",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật máy tính (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật máy tính (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật máy tính (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Hệ thống nhúng và loT (Tiêng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "25.15",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Hệ thống nhúng và loT (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Hệ thống nhúng và loT (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "28.25",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Hệ thống nhúng và loT (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Hệ thống nhúng và loT (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Hệ thống nhúng và loT (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "26.25",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "27.75",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "29",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "An toàn thông tin (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "25.75",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "An toàn thông tin (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "An toàn thông tin (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "An toàn thông tin (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "An toàn thông tin (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "An toàn thông tin (Tiêng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Kỹ thuật dữ liệu (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật dữ liệu (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Kỹ thuật dữ liệu (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Kỹ thuật dữ liệu (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Kỹ thuật dữ liệu (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Kỹ thuật dữ liệu (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Kỹ thuật dữ liệu (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật công trình xây dựng (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21.4",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật công trình xây dựng (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21.4",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Cõng nghệ kỹ thuật công trình xây dựng (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật công trình xây dựng (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật công trình xây dựng (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật công trình xây dựng (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật công trình xây dựng (Tiêng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật công trình xây dựng (Tiêng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.75",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật công trình xây dựng (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật công trình xây dựng (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật công trình xây dựng (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật công trình xây dựng (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Hệ thống kỹ thuật công trình xây dựng (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.75",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Hệ thông kỹ thuật công trình xây dựng (Tiêng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Hệ thống kỹ thuật công trình xây dựng (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.25",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Hệ thống kỹ thuật công trình xây dựng (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Hệ thống kỹ thuật công trình xây dựng (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Hệ thống kỹ thuật công trình xây dựng (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.25",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.75",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "24.25",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "27.75",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ chế tạo máy (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ chế tạo máy (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ chế tạo máy (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ chế tạo máy (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ chế tạo máy (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ chế tạo máy (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ chế tạo máy (Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21.25",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ chế tạo máy (Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ chế tạo máy (Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ chế tạo máy (Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ chế tạo máy (Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Cõng nghệ chế tạo máy (Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ chế tạo máy (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.25",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ chế tạo máy (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ chế tạo máy (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "26.25",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ chế tạo máy (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.25",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ chế tạo máy (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.25",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ chế tạo máy (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Còng nghệ kỹ thuật cơ điện tử (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "25.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21.75",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "25.75",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "24.25",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "26.25",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.25",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô (Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô (Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô (Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô (Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô (Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô (Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "26.25",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Cõng nghệ kỹ thuật ô tô (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "27.85",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật nhiệt (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "20.25",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật nhiệt (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "20.25",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật nhiệt (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "20.25",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật nhiệt (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật nhiệt (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật nhiệt (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật nhiệt (Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật nhiệt (Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật nhiệt (Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật nhiệt (Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật nhiệt (Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật nhiệt (Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật nhiệt (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật nhiệt (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật nhiệt (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật nhiệt (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật nhiệt (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật nhiệt (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Năng lượng tái tạo (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Năng lượng tái tạo (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.25",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Năng lượng tái tạo (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Năng lượng tái tạo (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21.75",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Nâng lượng tái tạo (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21.75",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Năng lượng tái tạo (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Robot và trí tuệ nhân tạo (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Robot và trí tuệ nhân tạo (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "26.65",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Robot và trí tuệ nhân tạo (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "26.75",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Robot và trí tuệ nhân tạo (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "28.75",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Robot và trí tuệ nhân tạo (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Robot và trí tuệ nhân tạo (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Robot và trí tuệ nhân tạo (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "26.25",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Cõng nghệ kỹ thuật điện, điện tử (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.75",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử (Tiêng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Cõng nghệ kỹ thuật điện, điện tử (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông (Tiêng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông (Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông (Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông (Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - Viễn thông (Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông (Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hóa (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hóa (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hóa (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hóa (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hóa (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hóa (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hóa (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hóa (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hóa (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "26.85",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hóa (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điêu khiển và tự động hóa (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "28.75",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hóa (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hóa (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hóa (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật hóa học (Tiếng Việt)",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật hóa học (Tiếng Việt)",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật hóa học (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "26.75",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật hóa học (Tiếng Việt)",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật hóa học (Tiếng Việt)",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật hóa học (Tiếng Việt)",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật hóa học (Tiếng Việt)",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ vật liệu (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D07; D90",
+          "Điểm chuẩn": "21.25",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ vật liệu (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D07; D90",
+          "Điểm chuẩn": "21.25",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ vật liệu (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D07; D90",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ vật liệu (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D07; D90",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ vật liệu (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D07; D90",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ vật liệu (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật môi trường (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật môi trường (Tiếng Việt)",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "21.75",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật môi trường (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21.75",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật môi trường (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật môi trường (Tiêng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật môi trường (Tiếng Việt)",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật môi trường (Tiếng Việt)",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Quản lý công nghiệp (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Quản lý công nghiệp (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Quản lý công nghiệp (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Quản lý công nghiệp (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Quản lý công nghiệp (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Quản lý công nghiệp (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Quản lý công nghiệp (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý công nghiệp (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Quản lý công nghiệp (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Quan lý công nghiệp (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Quản lý công nghiệp (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Quản lý công nghiệp (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Quản lý công nghiệp (Tiêng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "24.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "27.25",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "28.3",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "25.75",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật in (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21.75",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật in (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21.85",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật in (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật in (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật in (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật in (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông (Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Kỹ thuật công nghiệp (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.25",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Kỹ thuật công nghiệp (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Kỹ thuật công nghiệp (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Kỹ thuật công nghiệp (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Kỹ thuật công nghiệp (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.25",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Kỹ thuật công nghiệp (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Kỹ thuật y sinh (Điện tử y sinh) (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật y sinh (Điện tử y sinh) (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Kỹ thuật y sinh (Điện tử y sinh) (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Kỹ thuật y sinh (Điện tử y sinh) (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Kỹ thuật y sinh (Điện tử y sinh) (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Kỹ thuật y sinh (Điện tử y sinh) (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Kỹ thuật y sinh (Điện tử y sinh) (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Thiết kế Vi mạch - thuộc ngành Công nghệ KT Điện tử - Viễn thông (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Thiết kế Vi mạch - thuộc ngành Công nghệ KT Điện tử - Viễn thông (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Thiết kế Vi mạch - thuộc ngành Công nghệ KT Điện tử - Viễn thông (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "26.75",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Thiết kế Vi mạch - thuộc ngành Công nghệ KT Điện tử - Viễn thông (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "28.75",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Thiết kế Vi mạch - thuộc ngành Công nghệ KT Điện tử - Viễn thông (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Thiết kế Vi mạch - thuộc ngành Công nghệ KT Điện tử - Viễn thông (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Thiết kế Vi mạch - thuộc ngành Công nghệ KT Điện tử - Viễn thông (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm (Tiếng Anh)",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "22.25",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm (Tiếng Anh)",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "22.25",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.25",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm (Tiếng Anh)",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm (Tiếng Anh)",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm (Tiếng Việt)",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "26.1",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "26.85",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.25",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ may (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ may (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.25",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ may (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Công nghệ may (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ may (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Công nghệ may (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Kỹ nghệ gỗ và nội thất (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "20.75",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Kỹ nghệ gỗ và nội thất (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "20.75",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Kỹ nghệ gỗ và nội thất (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Kỹ nghệ gỗ và nội thất (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Kỹ nghệ gỗ và nội thất (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Kỹ nghệ gỗ và nội thất (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình giao thông (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21.75",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình giao thông (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21.75",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình giao thông (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình giao thông (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình giao thông (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình giao thông (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Quản trị nhà hàng và dịch vụ ăn uống (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "22.25",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Quản trị nhà hàng và dịch vụ ăn uống (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Quản trị nhà hàng và dịch vụ ăn uống (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Quản trị nhà hàng và dịch vụ ăn uống (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Quản trị nhà hàng và dịch vụ ăn uống (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Quản trị nhà hàng và dịch vụ ăn uống (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        },
+        {
+          "Tên ngành": "Quản lý và vận hành hạ tầng (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "HS Trường Chuyên"
+        },
+        {
+          "Tên ngành": "Quản lý và vận hành hạ tầng (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "HS trường TOP 200"
+        },
+        {
+          "Tên ngành": "Quản lý và vận hành hạ tầng (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21.25",
+          "Ghi chú": "Các trường còn lại"
+        },
+        {
+          "Tên ngành": "Quản lý và vận hành hạ tầng (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "THPT Liên kết, trường chuyên"
+        },
+        {
+          "Tên ngành": "Quản lý và vận hành hạ tầng (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "THPT Liên kết, trường TOP 200"
+        },
+        {
+          "Tên ngành": "Quản lý và vận hành hạ tầng (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Trường liên kết, diện trường còn lại"
+        }
+      ],
+      "row_count": 377
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Sư phạm tiếng Anh (Tiếng Việt)",
+          "Tổ hợp môn": "D01; D96",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Sư phạm công nghệ (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Thiết kế đồ họa (Tiếng Việt)",
+          "Tổ hợp môn": "V07; V01; V02; V08",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Các ngành có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Thiết kế thời trang (Tiếng Việt)",
+          "Tổ hợp môn": "V02; V01; V09; V07",
+          "Điểm chuẩn": "19",
+          "Ghi chú": "Các ngành có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (Tiếng Việt)",
+          "Tổ hợp môn": "D01; D96",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Tâm lý học giáo dục (Tiếng Việt)",
+          "Tổ hợp môn": "D01; C00; C20; D14",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Thương mại điện tử (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Kế toán (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.25",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Luật (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật máy tính (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật máy tính (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Hệ thống nhúng và loT (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "An toàn thông tin (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Kỹ thuật dữ liệu (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật công trình xây dựng (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật công trình xây dựng (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Hệ thống kỹ thuật công trình xây dựng (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Công nghệ chế tạo máy (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Công nghệ chế tạo máy (Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Công nghệ chế tạo máy (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21.25",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21.25",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô (Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật nhiệt (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật nhiệt (Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật nhiệt (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Năng lượng tái tạo (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Robot và trí tuệ nhân tạo (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông (Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hóa (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hóa (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật hóa học (Tiếng Việt)",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Công nghệ vật liệu (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D07; D90",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật môi trường (Tiếng Việt)",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Quản lý công nghiệp (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Quản lý công nghiệp (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật in (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Kỹ thuật công nghiệp (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Kỹ thuật y sinh (Điện tử y sinh) (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Thiết kế Vi mạch - thuộc ngành Công nghệ KT Điện tử - Viễn thông (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm (Tiếng Việt)",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Công nghệ may (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Kỹ nghệ gỗ và nội thất (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Kiến trúc (Tiếng Việt)",
+          "Tổ hợp môn": "V03; V04; V05; V06",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Các ngành có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Kiến trúc nội thất (Tiếng Việt)",
+          "Tổ hợp môn": "V03; V04; V05; V06",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Các ngành có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình giao thông (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Quản trị nhà hàng và dịch vụ ăn uống (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        },
+        {
+          "Tên ngành": "Quản lý và vận hành hạ tầng (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Các ngành không có môn năng khiếu"
+        }
+      ],
+      "row_count": 63
+    },
+    {
+      "table_title": "Điểm xét tuyển kết hợp năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Thiết kế đồ họa (Tiếng Việt)",
+          "Tổ hợp môn": "V07; V01; V02; V08",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": "Học bạ THPT + năng khiếu"
+        },
+        {
+          "Tên ngành": "Thiết kế thời trang (Tiếng Việt)",
+          "Tổ hợp môn": "V02; V01; V09; V07",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": "Học bạ THPT + năng khiếu"
+        },
+        {
+          "Tên ngành": "Kiến trúc (Tiếng Việt)",
+          "Tổ hợp môn": "V03; V04; V05; V06",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Học bạ THPT + năng khiếu"
+        },
+        {
+          "Tên ngành": "Kiến trúc nội thất (Tiếng Việt)",
+          "Tổ hợp môn": "V03; V04; V05; V06",
+          "Điểm chuẩn": "22.3",
+          "Ghi chú": "Học bạ THPT + năng khiếu"
+        }
+      ],
+      "row_count": 4
+    },
+    {
+      "table_title": "ƯTXT, XT thẳng năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Sư phạm tiếng Anh (Tiếng Việt)",
+          "Tổ hợp môn": "D01; D96",
+          "Điểm chuẩn": "27.75",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Anh (Tiếng Việt)",
+          "Tổ hợp môn": "D01; D96",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": "UTXT HSG, TOP 200"
+        },
+        {
+          "Tên ngành": "Sư phạm công nghệ (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Sư phạm công nghệ (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "UTXT HSG, TOP 201"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (Tiếng Việt)",
+          "Tổ hợp môn": "D01; D96",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (Tiếng Việt)",
+          "Tổ hợp môn": "D01; D96",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "UTXT HSG, TOP 202"
+        },
+        {
+          "Tên ngành": "Tâm lý học giáo dục (Tiếng Việt)",
+          "Tổ hợp môn": "D01; C00; C20; D14",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Tâm lý học giáo dục (Tiếng Việt)",
+          "Tổ hợp môn": "D01; C00; C20; D14",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "UTXT HSG, TOP 203"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "26.75",
+          "Ghi chú": "UTXT HSG, TOP 204"
+        },
+        {
+          "Tên ngành": "Thương mại điện tử (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "26.25",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Thương mại điện tử (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "26.75",
+          "Ghi chú": "UTXT HSG, TOP 205"
+        },
+        {
+          "Tên ngành": "Kế toán (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Kế toán (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "UTXT HSG, TOP 206"
+        },
+        {
+          "Tên ngành": "Luật (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Luật (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "UTXT HSG, TOP 207"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật máy tính (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21.75",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật máy tính (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "UTXT HSG, TOP 208"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật máy tính (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật máy tính (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "25.75",
+          "Ghi chú": "UTXT HSG, TOP 209"
+        },
+        {
+          "Tên ngành": "Hệ thống nhúng và loT (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Hệ thống nhúng và loT (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "UTXT HSG, TOP 210"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "24.25",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "25.75",
+          "Ghi chú": "UTXT HSG, TOP 211"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "UTXT HSG, TOP 212"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": "UTXT HSG, TOP 213"
+        },
+        {
+          "Tên ngành": "An toàn thông tin (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "An toàn thông tin (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "25.75",
+          "Ghi chú": "UTXT HSG, TOP 214"
+        },
+        {
+          "Tên ngành": "Kỹ thuật dữ liệu (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "26.25",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Kỹ thuật dữ liệu (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "26.25",
+          "Ghi chú": "UTXT HSG, TOP 215"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật công trình xây dựng (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21.4",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật công trình xây dựng (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21.4",
+          "Ghi chú": "UTXT HSG, TOP 216"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật công trình xây dựng (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật công trình xây dựng (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "UTXT HSG, TOP 217"
+        },
+        {
+          "Tên ngành": "Hệ thống kỹ thuật công trình xây dựng (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Hệ thống kỹ thuật công trình xây dựng (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "UTXT HSG, TOP 218"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.75",
+          "Ghi chú": "UTXT HSG, TOP 219"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khi (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "UTXT HSG, TOP 220"
+        },
+        {
+          "Tên ngành": "Công nghệ chế tạo máy (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Công nghệ chế tạo máy (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "UTXT HSG, TOP 221"
+        },
+        {
+          "Tên ngành": "Công nghệ chế tạo máy (Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Công nghệ chế tạo máy (Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "UTXT HSG, TOP 222"
+        },
+        {
+          "Tên ngành": "Công nghệ chế tạo máy (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.25",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Công nghệ chế tạo máy (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.25",
+          "Ghi chú": "UTXT HSG, TOP 223"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "UTXT HSG, TOP 224"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "25.75",
+          "Ghi chú": "UTXT HSG, TOP 225"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "UTXT HSG, TOP 226"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô (Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô (Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "UTXT HSG, TOP 227"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "UTXT HSG, TOP 228"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật nhiệt (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật nhiệt (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "20.25",
+          "Ghi chú": "UTXT HSG, TOP 229"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật nhiệt (Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật nhiệt (Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "UTXT HSG, TOP 230"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật nhiệt (Tiêng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật nhiệt (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "UTXT HSG, TOP 231"
+        },
+        {
+          "Tên ngành": "Nâng lượng tái tạo (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21.75",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Năng lượng tái tạo (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21.75",
+          "Ghi chú": "UTXT HSG, TOP 232"
+        },
+        {
+          "Tên ngành": "Robot và trí tuệ nhân tạo (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Robot và trí tuệ nhân tạo (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "UTXT HSG, TOP 233"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "UTXT HSG, TOP 234"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.25",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": "UTXT HSG, TOP 235"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông (Tiêng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": "UTXT HSG, TOP 236"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông (Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông (Việt - Nhật)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "UTXT HSG, TOP 237"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": "UTXT HSG, TOP 238"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hóa (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hóa (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "UTXT HSG, TOP 239"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hóa (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hóa (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "26.85",
+          "Ghi chú": "UTXT HSG, TOP 240"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật hóa học (Tiếng Việt)",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật hóa học (Tiếng Việt)",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "UTXT HSG, TOP 241"
+        },
+        {
+          "Tên ngành": "Công nghệ vật liệu (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D07; D90",
+          "Điểm chuẩn": "21.25",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Công nghệ vật liệu (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D07; D90",
+          "Điểm chuẩn": "21.25",
+          "Ghi chú": "UTXT HSG, TOP 242"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật môi trường (Tiếng Việt)",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "21.75",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật môi trường (Tiếng Việt)",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "21.75",
+          "Ghi chú": "UTXT HSG, TOP 243"
+        },
+        {
+          "Tên ngành": "Quản lý công nghiệp (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Quản lý công nghiệp (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": "UTXT HSG, TOP 244"
+        },
+        {
+          "Tên ngành": "Quản lý công nghiệp (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Quản lý công nghiệp (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "UTXT HSG, TOP 245"
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "26.75",
+          "Ghi chú": "UTXT HSG, TOP 246"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật in (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21.75",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật in (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21.75",
+          "Ghi chú": "UTXT HSG, TOP 247"
+        },
+        {
+          "Tên ngành": "Kỹ thuật công nghiệp (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.25",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Kỹ thuật công nghiệp (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22.25",
+          "Ghi chú": "UTXT HSG, TOP 248"
+        },
+        {
+          "Tên ngành": "Kỹ thuật y sinh (Điện tử y sinh) (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Kỹ thuật y sinh (Điện tử y sinh) (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": "UTXT HSG, TOP 249"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Thiết kế Vi mạch - thuộc ngành Công nghệ KT Điện tử - Viễn thông (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "26.35",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Kỹ thuật Thiết kế Vi mạch - thuộc ngành Công nghệ KT Điện tử - Viễn thông (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "26.35",
+          "Ghi chú": "UTXT HSG, TOP 250"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm (Tiếng Anh)",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm (Tiếng Anh)",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "22.25",
+          "Ghi chú": "UTXT HSG, TOP 251"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm (Tiếng Việt)",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm (Tiếng Việt)",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "25.75",
+          "Ghi chú": "UTXT HSG, TOP 252"
+        },
+        {
+          "Tên ngành": "Công nghệ may (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Công nghệ may (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "UTXT HSG, TOP 253"
+        },
+        {
+          "Tên ngành": "Kỹ nghệ gỗ và nội thất (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Kỹ nghệ gỗ và nội thất (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "20.75",
+          "Ghi chú": "UTXT HSG, TOP 254"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình giao thông (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình giao thông (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": "UTXT HSG, TOP 255"
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "UTXT HSG, TOP 256"
+        },
+        {
+          "Tên ngành": "Quản trị nhà hàng và dịch vụ ăn uống (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Quản trị nhà hàng và dịch vụ ăn uống (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "UTXT HSG, TOP 257"
+        },
+        {
+          "Tên ngành": "Quản lý và vận hành hạ tầng (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Giải HSG 1, 2, 3 Tỉnh, KK ; giải 4 thi KHKT cấp quốc gia."
+        },
+        {
+          "Tên ngành": "Quản lý và vận hành hạ tầng (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "UTXT HSG, TOP 258"
+        }
+      ],
+      "row_count": 118
+    },
+    {
+      "table_title": "Chứng chỉ quốc tế năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Sư phạm tiếng Anh (Tiếng Việt)",
+          "Tổ hợp môn": "D01; D96",
+          "Điểm chuẩn": "800",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tể (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "800",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Thương mại điện tứ (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "800",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật máy tính (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "800",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật máy tính (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "800",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "800",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "800",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Kỹ thuật dữ liệu (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "800",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "800",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "800",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "800",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "800",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Robot và trí tuệ nhân tạo (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "800",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "800",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "800",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hóa (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "800",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hóa (đào tạo bằng tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "800",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật hóa học (Tiếng Việt)",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "800",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Công nghệ kỳ thuật môi trường (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "800",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Quản lý công nghiệp (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "800",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "800",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Kỹ thuật y sinh (Điện tử y sinh) (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "800",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Thiết kế Vi mạch - thuộc ngành Công nghệ KT Điện tử - Viễn thông (Tiếng Việt)",
+          "Tổ hợp môn": "A00; A01; D01; D90; D96",
+          "Điểm chuẩn": "800",
+          "Ghi chú": "SAT"
+        }
+      ],
+      "row_count": 23
+    }
+  ],
+  "table_count": 6,
+  "crawled_at": "2025-07-18T23:24:50.155907",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-su-pham-ky-thuat-tphcm-SPK.html"
+}

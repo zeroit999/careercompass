@@ -1,0 +1,3019 @@
+{
+  "nhom_nganh": "Báo chí - Marketing - Quảng cáo - PR",
+  "danh_sach_nganh": [
+    {
+      "ten_nganh": "Báo chí",
+      "data": [
+        {
+          "ten_truong": "Học Viện Công Nghệ Bưu Chính Viễn Thông - BVH",
+          "data_school": [
+            {
+              "ten_nganh": "Báo chí",
+              "to_hop_mon": "A00; A01; D01; X06; X26",
+              "diem_chuan_2024": "25.29",
+              "diem_chuan_2023": "25.36"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Hóa Hà Nội - VHH",
+          "data_school": [
+            {
+              "ten_nganh": "Báo chí",
+              "to_hop_mon": "C00; C03; C04; X01; X70; D01; D14; D15; X78",
+              "diem_chuan_2024": "28.9",
+              "diem_chuan_2023": "26.85"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Xã Hội và Nhân Văn Hà Nội - QHX",
+          "data_school": [
+            {
+              "ten_nganh": "Báo chí",
+              "to_hop_mon": "D01; D14; D15; D66; C00; C03; C04",
+              "diem_chuan_2024": "26.07",
+              "diem_chuan_2023": "25.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học viện Báo chí và Tuyên truyền - HBT",
+          "data_school": [
+            {
+              "ten_nganh": "Ngành Báo chí, chuyên ngành Báo in",
+              "to_hop_mon": "D01; D14; X78; X79",
+              "diem_chuan_2024": "35.48",
+              "diem_chuan_2023": "34.97"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Xã Hội và Nhân Văn TPHCM - QSX",
+          "data_school": [
+            {
+              "ten_nganh": "Báo chí",
+              "to_hop_mon": "C00; D01; D14",
+              "diem_chuan_2024": "28.8",
+              "diem_chuan_2023": "28"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Báo chí",
+              "to_hop_mon": "C00; D01; D14; D15",
+              "diem_chuan_2024": "26.87",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm - Đại Học Đà Nẵng - DDS",
+          "data_school": [
+            {
+              "ten_nganh": "Báo chí",
+              "to_hop_mon": "C00; D14; C03",
+              "diem_chuan_2024": "25.8",
+              "diem_chuan_2023": "24.77"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Huế - DHT",
+          "data_school": [
+            {
+              "ten_nganh": "Báo chí",
+              "to_hop_mon": "C00; C03; C19; D01; X70",
+              "diem_chuan_2024": "18",
+              "diem_chuan_2023": "17.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Thái Nguyên - DTZ",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị truyền thông",
+              "to_hop_mon": "C00; C03; C04; C14; C19; C20; D01; D10; D66; D84",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Marketing",
+      "data": [
+        {
+          "ten_truong": "Đại Học Kinh Tế Quốc Dân - KHA",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "27.78",
+              "diem_chuan_2023": "27.55"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Tài chính - HTC",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Ngân Hàng - NHH",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing số (ĐH Coventry, Anh Quốc cấp bằng)",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "24.8",
+              "diem_chuan_2023": "23.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Ngoại thương - NTH",
+          "data_school": [
+            {
+              "ten_nganh": "Chương trình ĐHNNQT Marketing số",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "28.1",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Công Nghệ Bưu Chính Viễn Thông - BVH",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; D01; X06; X26",
+              "diem_chuan_2024": "25.85",
+              "diem_chuan_2023": "25.8"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thương Mại - TMU",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị khách sạn (Quản trị khách sạn)",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "27",
+              "diem_chuan_2023": "27"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp Hà Nội - DCN",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A01; D01; X25",
+              "diem_chuan_2024": "25.33",
+              "diem_chuan_2023": "25.24"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp TPHCM - IUH",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing gồm 02 chuyên ngành: Marketing; Digital Marketing",
+              "to_hop_mon": "C01; C03; C04; D01; X01; X02",
+              "diem_chuan_2024": "25.25",
+              "diem_chuan_2023": "25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Phụ Nữ Việt Nam - HPN",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; C00; D01",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Tế Kỹ Thuật Công Nghiệp - DKK",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing (CS Nam Định)",
+              "to_hop_mon": "A00; A01; A03; A04; C01; C03; C04; D01; D07; D09; D10; X01; X02; X03; X05; X06; X07; X25; X26; X27",
+              "diem_chuan_2024": "18.5",
+              "diem_chuan_2023": "18.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Thương TPHCM - DCT",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; C01; D01",
+              "diem_chuan_2024": "24.5",
+              "diem_chuan_2023": "22.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Hàng không Việt Nam - HHK",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; A02; A03; A04; A05; A06; A07; B00; B01; B02; B03; B08; C00; C01; C02; C03; C04; C05; C06; C07; C08; C09; C10; C11; C12; C13; D01; D07; D09; D10; D11; D12; D13; D14; D15; X01; X02; X03; X04; X05; X06; X07; X08; X09; X10; X11; X12; X13; X14; X15",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Phenikaa - PKA",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing (Một số học phần chuyên ngành học bằng tiếng Anh)",
+              "to_hop_mon": "A01; B08; D01; D07; D09; D10",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hà Nội - NHF",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "D01",
+              "diem_chuan_2024": "33.93",
+              "diem_chuan_2023": "35.05"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thủ Dầu Một - TDM",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; A02; C01; D01; D07; X01; X02; X03; X09",
+              "diem_chuan_2024": "23.1",
+              "diem_chuan_2023": "22.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thăng Long - DTL",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; D01; D07; X01; X25",
+              "diem_chuan_2024": "24.97",
+              "diem_chuan_2023": "25.41"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tôn Đức Thắng - DTT",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; C01; C02; D01; D07",
+              "diem_chuan_2024": "34.25",
+              "diem_chuan_2023": "34.45"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; C02; D01",
+              "diem_chuan_2024": "24.6",
+              "diem_chuan_2023": "25.35"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Ngoại thương (Cơ sở II) - NTS",
+          "data_school": [
+            {
+              "ten_nganh": "Chương trình ĐHNNQT truyền thông Marketing tích hợp",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kinh Tế Luật TPHCM - QSK",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing (Chuyên ngành Marketing)",
+              "to_hop_mon": "A00; A01; D01; D07; X25; X26",
+              "diem_chuan_2024": "26.87",
+              "diem_chuan_2023": "26.64"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Kinh Tế TPHCM - KSA",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; D01; D07; D09",
+              "diem_chuan_2024": "26.8",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tài Chính Marketing - DMS",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "C01; C02; C03; C04; X01; D01; A00; A03; A04; X05; A01; A05; A06; X09; D07; A07; X17; D09; X21; D10; X25",
+              "diem_chuan_2024": "23.8",
+              "diem_chuan_2023": "24.9"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nha Trang - TSN",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "D01; X01; X02; C04",
+              "diem_chuan_2024": "23",
+              "diem_chuan_2023": "23"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Công Nghệ Bưu Chính Viễn Thông (Cơ sở TP.HCM) - BVS",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; X06 (Toán, Lí, Tin); X26 (Toán, Tin, Anh); D01",
+              "diem_chuan_2024": "24.24",
+              "diem_chuan_2023": "24.1"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quốc Tế - ĐHQG TPHCM - QSQ",
+          "data_school": [
+            {
+              "ten_nganh": "Kinh doanh – Quản lý – Kinh tế\r\n(Nhóm ngành: Quản trị kinh doanh; Marketing; Tài chính – Ngân hàng; Kế toán; Kinh tế (Phân tích dữ liệu trong kinh tế))",
+              "to_hop_mon": "A01; D07; D09; D10; X25; D01",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học An Giang - QSA",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; D01; X01; X27; X28",
+              "diem_chuan_2024": "23.17",
+              "diem_chuan_2023": "22.93"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hải Dương - DKT",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; C01; C02; C03; C04; C14; D01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Phạm Văn Đồng - DPQ",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "C03; X74; X01; D01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Tài Nguyên và Môi Trường Hà Nội - DMT",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; C00; D01; C01; C02; X03; X04; B03; C03; C04; C14; X02",
+              "diem_chuan_2024": "26.5",
+              "diem_chuan_2023": "24.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Ngân Hàng TPHCM - NHS",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "26.1",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Quốc Tế  - ĐHQG Hà Nội",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing (song bằng do ĐHQGHN và Đại học HELP, Malaysia cùng cấp bằng)",
+              "to_hop_mon": "A00; A01; D01; D07; D09; C01; C02; X02; X26",
+              "diem_chuan_2024": "21.5",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Mở TPHCM - MBS",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; D01; D07; B08; (Toán, Lí, Tin); (Toán, Hóa, Tin); (Toán, Anh, Tin); C01; C02; (Toán, Văn, Tin); (Văn, Anh, Tin).",
+              "diem_chuan_2024": "24.5",
+              "diem_chuan_2023": "25.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Điện Lực - DDL",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học CMC - CMC",
+          "data_school": [
+            {
+              "ten_nganh": "Digital Marketing",
+              "to_hop_mon": "(Toán, 2 môn bất kì); (Văn, 2 môn bất kì)",
+              "diem_chuan_2024": "22.5",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nguyễn Tất Thành - NTT",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "D01; C01; C04; X01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Tế - Đại Học Huế - DHK",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; C03; D01; D03; D07; D09; D10; X01; X26",
+              "diem_chuan_2024": "23",
+              "diem_chuan_2023": "23"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công Nghệ Thông Tin và Truyền Thông Thái Nguyên - DTC",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing số",
+              "to_hop_mon": "A00; A01; A02; A03; A04; A05; A06; A07; A08; A09; A10; A11; B00; B01; B02; B03; B04; B08; C01; C02; C03; C04; C14; D01; D07; D09; D10; D84; X01; X02; X03; X04; X05; X06; X07; X08; X09; X10; X11; X12; X13; X14; X15; X16; X17; X18; X19; X20; X21; X22; X23",
+              "diem_chuan_2024": "21.5",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Duy Tân - DDT",
+          "data_school": [
+            {
+              "ten_nganh": "Ngành Marketing có các chuyên ngành: Quản trị kinh doanh Marketing, Digital Marketing",
+              "to_hop_mon": "A00; A01; A07; C01; D01; X01 (Văn, Toán, KT&PL)",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "14"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Nam Cần Thơ - DNC",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; C03; C04; D01; D10; X17; X56; Y07",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Lang - DVL",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; C01; D01; D07; D10; X25",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đại Nam - DDN",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing\r\n– Chuyên ngành Digital Marketing",
+              "to_hop_mon": "A00; A01; C01; C03; C04; D01; D07",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đông Á - DAD",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; A07; D01; D10; X01; X02; X17; X21",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Đô - DTD",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; D01; C04; X26; X02; X06",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công Nghệ TPHCM - DKC",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "D01; C03; C04; C01; (Toán, Văn, Tin); X01",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "20"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Lạc Hồng - DLH",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "D01; X01; X04; Y09; C04; C03",
+              "diem_chuan_2024": "16.25",
+              "diem_chuan_2023": "15.1"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Tế Tài Chính TPHCM - UEF",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "D01; C01; (Toán, Văn, Tin); C14; C03; C04",
+              "diem_chuan_2024": "18",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kinh tế Quản trị kinh doanh Thái Nguyên",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; C04; D01; X01",
+              "diem_chuan_2024": "18.5",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Ngoại Ngữ Tin Học TPHCM - DNT",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "D01; A01; D07; X27; X28; X25; X26; D11; D14",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kinh Tế Nghệ An - CEA",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; C03; D01",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Lâm nghiệp - LNH",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing  (dự kiến)",
+              "to_hop_mon": "D01; A01; K01; C14; C00; D66; D15; D14; C20; C19",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Hiến - DVH",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; C04; D01; A12; A15; X54; X05",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "23"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hoa Sen - HSU",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; D01; D03; D09",
+              "diem_chuan_2024": "18",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công nghiệp và Thương mại Hà Nội - CCM",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; B00; C01; C03; C04; C14; D01; X23; X24; X03; X04",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Tế Công Nghiệp Long An - DLA",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A01; D13; X74; B03",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ và Quản Lý Hữu Nghị - DCQ",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "X25; X02; D01; X53",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thái Bình Dương - TBD",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; A09; C14; C19; D01; D03; D04; D07; D24; D25; D29; D30; DD2; X02; X03; X26",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh tế công nghệ Thái Nguyên - DVB",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A01; D01; D10; X01",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp Việt - Hung - VHD",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A07; A08; A09; C00; C03; C04; C14; C19; C20; D01; D10; D13; D14; D85",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Ngân Hàng (Phân Viện Phú Yên) - NHP",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Gia Định - GDU",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; C00; C01; C03; C14; D01; K01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ Sài Gòn - DSG",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "(Toán, 2 môn bất kì); (Văn, 2 môn bất kì)",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công nghệ Thông tin và Truyền thông Việt Hàn - Đại học Đà Nẵng",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; C03; D01; X02; X26",
+              "diem_chuan_2024": "24.01",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Truyền thông Marketing",
+      "data": [
+        {
+          "ten_truong": "Đại Học Kinh Tế Quốc Dân - KHA",
+          "data_school": [
+            {
+              "ten_nganh": "Luật kinh tế",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "27.05",
+              "diem_chuan_2023": "26.85"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Ngoại thương - NTH",
+          "data_school": [
+            {
+              "ten_nganh": "Chương trình ĐHNNQT truyền thông Marketing tích hợp",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp TPHCM - IUH",
+          "data_school": [
+            {
+              "ten_nganh": "Luật kinh tế",
+              "to_hop_mon": "C00; C03; D01; D09; D10; D14; X25; X70",
+              "diem_chuan_2024": "26",
+              "diem_chuan_2023": "23.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Phụ Nữ Việt Nam - HPN",
+          "data_school": [
+            {
+              "ten_nganh": "Luật kinh tế",
+              "to_hop_mon": "A00; C00; D01; D14; D15",
+              "diem_chuan_2024": "24.5",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Thương TPHCM - DCT",
+          "data_school": [
+            {
+              "ten_nganh": "Luật kinh tế",
+              "to_hop_mon": "C00; C03; C14; D01",
+              "diem_chuan_2024": "22.75",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thăng Long - DTL",
+          "data_school": [
+            {
+              "ten_nganh": "Luật kinh tế",
+              "to_hop_mon": "C00; D01; X01; X70; X74; X78",
+              "diem_chuan_2024": "25.8",
+              "diem_chuan_2023": "23.96"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Luật Hà Nội - LPH",
+          "data_school": [
+            {
+              "ten_nganh": "Luật Kinh tế",
+              "to_hop_mon": "A00; A01; C00; D01; D02; D03; D04; D05; D06",
+              "diem_chuan_2024": "26.9",
+              "diem_chuan_2023": "25.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Luật kinh tế",
+              "to_hop_mon": "A00; C00; D01; D03",
+              "diem_chuan_2024": "26.85",
+              "diem_chuan_2023": "25.85"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Ngoại thương (Cơ sở II) - NTS",
+          "data_school": [
+            {
+              "ten_nganh": "Chương trình ĐHNNQT truyền thông Marketing tích hợp",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kinh Tế Luật TPHCM - QSK",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing (Chuyên ngành Digital Marketing)",
+              "to_hop_mon": "A00; A01; D01; D07; X25; X26",
+              "diem_chuan_2024": "27.1",
+              "diem_chuan_2023": "27.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Kinh Tế TPHCM - KSA",
+          "data_school": [
+            {
+              "ten_nganh": "Luật kinh tế (Economic Law)",
+              "to_hop_mon": "A00; A01; D01; D09",
+              "diem_chuan_2024": "25.6",
+              "diem_chuan_2023": "25.6"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tài Chính Marketing - DMS",
+          "data_school": [
+            {
+              "ten_nganh": "Luật kinh tế",
+              "to_hop_mon": "C01; C02; C03; C04; X01; D01; A00; A03; A04; X05; A01; A05; A06; X09; D07; A07; X17; D09; X21; D10; X25",
+              "diem_chuan_2024": "24.4",
+              "diem_chuan_2023": "24.8"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Chính Sách và Phát Triển - HCP",
+          "data_school": [
+            {
+              "ten_nganh": "Ngành Luật Kinh tế",
+              "to_hop_mon": "C00; C02; C03; C04; D66",
+              "diem_chuan_2024": "27.43",
+              "diem_chuan_2023": "25.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Mở Hà Nội - MHN",
+          "data_school": [
+            {
+              "ten_nganh": "Luật kinh tế",
+              "to_hop_mon": "C00; C01; C03; D01; X01",
+              "diem_chuan_2024": "24.12",
+              "diem_chuan_2023": "22.8"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Vinh - TDV",
+          "data_school": [
+            {
+              "ten_nganh": "Luật kinh tế",
+              "to_hop_mon": "C14; C19; C20; D66",
+              "diem_chuan_2024": "18",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Ngân Hàng TPHCM - NHS",
+          "data_school": [
+            {
+              "ten_nganh": "Luật kinh tế",
+              "to_hop_mon": "A00; A01; D14; D01; C00",
+              "diem_chuan_2024": "24.35",
+              "diem_chuan_2023": "25.07"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Lao Động – Xã Hội - DLX",
+          "data_school": [
+            {
+              "ten_nganh": "Luật kinh tế",
+              "to_hop_mon": "A00; A01; D01",
+              "diem_chuan_2024": "23.7",
+              "diem_chuan_2023": "23.05"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Lao Động – Xã Hội (Cơ sở II) - DLS",
+          "data_school": [
+            {
+              "ten_nganh": "Luật kinh tế",
+              "to_hop_mon": "A00; A01; D01",
+              "diem_chuan_2024": "21.75",
+              "diem_chuan_2023": "21.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Phân Hiệu Đại Học Đà Nẵng tại Kon Tum - DDP",
+          "data_school": [
+            {
+              "ten_nganh": "Luật kinh tế",
+              "to_hop_mon": "A07; C00; X74; X70",
+              "diem_chuan_2024": "18.75",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Mở TPHCM - MBS",
+          "data_school": [
+            {
+              "ten_nganh": "Luật kinh tế",
+              "to_hop_mon": "D01; D03; D05; D06; C03; C14; A00; A01; C00; C19; D14; D63; D64; D61.",
+              "diem_chuan_2024": "24.75",
+              "diem_chuan_2023": "23.9"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tài Chính Ngân Hàng Hà Nội - FBU",
+          "data_school": [
+            {
+              "ten_nganh": "Luật kinh tế",
+              "to_hop_mon": "A00; A01; D01; C04; X01; X02",
+              "diem_chuan_2024": "24",
+              "diem_chuan_2023": "22.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Điện Lực - DDL",
+          "data_school": [
+            {
+              "ten_nganh": "Luật kinh tế",
+              "to_hop_mon": "D01; D09; D10; D14; D66; D84; X25; X78",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Doanh và Công Nghệ Hà Nội - DQK",
+          "data_school": [
+            {
+              "ten_nganh": "Luật kinh tế",
+              "to_hop_mon": "A00; C00; X01; D01; D09; D10; C03; X25",
+              "diem_chuan_2024": "22.5",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Duy Tân - DDT",
+          "data_school": [
+            {
+              "ten_nganh": "Ngành Luật kinh tế",
+              "to_hop_mon": "C00; C03; C04; D01; D14; D15",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Nam Cần Thơ - DNC",
+          "data_school": [
+            {
+              "ten_nganh": "Luật Kinh tế",
+              "to_hop_mon": "C00; C03; D01; D14; D15; D66; X71; X17; Y07",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quốc Tế Hồng Bàng - HIU",
+          "data_school": [
+            {
+              "ten_nganh": "Digital Marketing",
+              "to_hop_mon": "A01; C00; C03; C04; D01; X26",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Lang - DVL",
+          "data_school": [
+            {
+              "ten_nganh": "Luật kinh tế",
+              "to_hop_mon": "C00; D01; D09; D10; D14; D15; X25",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hòa Bình - ETU",
+          "data_school": [
+            {
+              "ten_nganh": "Luật kinh tế",
+              "to_hop_mon": "C00; C01; C19; D01; D14",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đại Nam - DDN",
+          "data_school": [
+            {
+              "ten_nganh": "Luật kinh tế",
+              "to_hop_mon": "C00; C03; C04; D01; D14; X01",
+              "diem_chuan_2024": "18",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đông Á - DAD",
+          "data_school": [
+            {
+              "ten_nganh": "Luật kinh tế (Cơ sở đào tạo Đà Nẵng)",
+              "to_hop_mon": "A01; C00; C03; C04; D01; D14; X01; X02; X25",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Quản Trị và Kinh Doanh - ĐHQG Hà Nội - QHD",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing và Truyền thông",
+              "to_hop_mon": "A01; D01; D07; D08; D09; D10; X25; X26; X27; X28",
+              "diem_chuan_2024": "21.2",
+              "diem_chuan_2023": "21.55"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Đô - DTD",
+          "data_school": [
+            {
+              "ten_nganh": "Luật kinh tế",
+              "to_hop_mon": "C00; D14; D84; D66; D01; X25; X78",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công Nghệ TPHCM - DKC",
+          "data_school": [
+            {
+              "ten_nganh": "Digital Marketing (Marketing số)",
+              "to_hop_mon": "D01; C03; C04; C01; (Toán, Văn, Tin); X01",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đông Đô - DDU",
+          "data_school": [
+            {
+              "ten_nganh": "Luật kinh tế",
+              "to_hop_mon": "A00; A01; C00; C19; C14; D01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Lạc Hồng - DLH",
+          "data_school": [
+            {
+              "ten_nganh": "Luật kinh tế",
+              "to_hop_mon": "D01; X01; X04; Y09; C04; C03",
+              "diem_chuan_2024": "15.5",
+              "diem_chuan_2023": "15.45"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thành Đông - DDB",
+          "data_school": [
+            {
+              "ten_nganh": "Luật kinh tế",
+              "to_hop_mon": "A00; A01; C00; D01",
+              "diem_chuan_2024": "14",
+              "diem_chuan_2023": "14"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Luật Huế - DHA",
+          "data_school": [
+            {
+              "ten_nganh": "Luật Kinh tế",
+              "to_hop_mon": "A00; C00; C19; C20; D66; D01",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Yersin Đà Lạt - DYD",
+          "data_school": [
+            {
+              "ten_nganh": "Luật kinh tế",
+              "to_hop_mon": "D01; C03; C04; X01 (Toán, Văn, GDKT&PT); C00; D14; D15",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Bình Dương - DBD",
+          "data_school": [
+            {
+              "ten_nganh": "Luật kinh tế",
+              "to_hop_mon": "A00; C00; C03; C04; C14; D01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công nghệ Miền Đông - MIT",
+          "data_school": [
+            {
+              "ten_nganh": "Digital marketing",
+              "to_hop_mon": "A00; A01; C00; C01; C03; C14; D01; K01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Tế Tài Chính TPHCM - UEF",
+          "data_school": [
+            {
+              "ten_nganh": "Digital Marketing",
+              "to_hop_mon": "D01; C01; (Toán, Văn, Tin); C14; C03; C04",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kinh tế Quản trị kinh doanh Thái Nguyên",
+          "data_school": [
+            {
+              "ten_nganh": "Luật kinh tế",
+              "to_hop_mon": "A00; C00; D01; D14; X01",
+              "diem_chuan_2024": "18",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Ngoại Ngữ Tin Học TPHCM - DNT",
+          "data_school": [
+            {
+              "ten_nganh": "Luật kinh tế",
+              "to_hop_mon": "D09; X25; A01; D01; C00; X78; D14; D15",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Hiến - DVH",
+          "data_school": [
+            {
+              "ten_nganh": "Luật Kinh tế",
+              "to_hop_mon": "A00; A01; C04; D01; A12; Y08; X54; X74",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hoa Sen - HSU",
+          "data_school": [
+            {
+              "ten_nganh": "Digital Marketing",
+              "to_hop_mon": "A00; A01; D01; D03; D09",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Phan Thiết - DPT",
+          "data_school": [
+            {
+              "ten_nganh": "Luật Kinh tế",
+              "to_hop_mon": "C00; D01; D14; D15; X01; X25; X78",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Trưng Vương - DVP",
+          "data_school": [
+            {
+              "ten_nganh": "Luật kinh tế",
+              "to_hop_mon": "A00; A01; C00; D01",
+              "diem_chuan_2024": "15.5",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hồng Đức - HDT",
+          "data_school": [
+            {
+              "ten_nganh": "Luật Kinh tế",
+              "to_hop_mon": "C01; C03; C04; C14; D01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Tư thục Quốc Tế Sài Gòn - SIU",
+          "data_school": [
+            {
+              "ten_nganh": "Luật kinh tế",
+              "to_hop_mon": "A00; A01; C00; C20; D01; D66",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Chu Văn An - DCA",
+          "data_school": [
+            {
+              "ten_nganh": "Luật Kinh tế",
+              "to_hop_mon": "A00; A01; C00; D01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Tế Công Nghiệp Long An - DLA",
+          "data_school": [
+            {
+              "ten_nganh": "Luật Kinh tế",
+              "to_hop_mon": "A00; C00; C04; C05",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ và Quản Lý Hữu Nghị - DCQ",
+          "data_school": [
+            {
+              "ten_nganh": "Luật kinh tế",
+              "to_hop_mon": "X25; C00; D01; D14",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Hùng Vương TPHCM - DHV",
+          "data_school": [
+            {
+              "ten_nganh": "LUẬT KINH TẾ",
+              "to_hop_mon": "C00; A00; A01; D01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Tài Chính Kế Toán - UFA",
+          "data_school": [
+            {
+              "ten_nganh": "Luật Kinh tế",
+              "to_hop_mon": "A00; C00; C01; C02; D01; X01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Gia Định - GDU",
+          "data_school": [
+            {
+              "ten_nganh": "Luật kinh tế",
+              "to_hop_mon": "A00; A01; C00; C01; C03; C14; D01; K01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ Sài Gòn - DSG",
+          "data_school": [
+            {
+              "ten_nganh": "Luật kinh tế",
+              "to_hop_mon": "(Toán, 2 môn bất kì); (Văn, 2 môn bất kì)",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Phân hiệu Đại học Thái Nguyên tại Hà Giang - DTG",
+          "data_school": [
+            {
+              "ten_nganh": "Kinh tế",
+              "to_hop_mon": "A00; C01; D01; D14",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Quan hệ công chúng",
+      "data": [
+        {
+          "ten_truong": "Đại Học Kinh Tế Quốc Dân - KHA",
+          "data_school": [
+            {
+              "ten_nganh": "Quan hệ công chúng",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "28.18",
+              "diem_chuan_2023": "27.2"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Xã Hội và Nhân Văn Hà Nội - QHX",
+          "data_school": [
+            {
+              "ten_nganh": "Nhân học",
+              "to_hop_mon": "C00; D01; D14; D15; D66; C03; C04",
+              "diem_chuan_2024": "26.45",
+              "diem_chuan_2023": "28.78"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học viện Báo chí và Tuyên truyền - HBT",
+          "data_school": [
+            {
+              "ten_nganh": "Ngành Quan hệ công chúng, chuyên ngành Quan hệ công chúng chuyên nghiệp",
+              "to_hop_mon": "D01; D14; X78; X79",
+              "diem_chuan_2024": "36.45",
+              "diem_chuan_2023": "36.52"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm - Đại Học Đà Nẵng - DDS",
+          "data_school": [
+            {
+              "ten_nganh": "Quan hệ công chúng",
+              "to_hop_mon": "D14; D15; D01",
+              "diem_chuan_2024": "25.33",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Thanh Thiếu Niên Việt Nam - HTN",
+          "data_school": [
+            {
+              "ten_nganh": "Quan hệ Công chúng",
+              "to_hop_mon": "C00; X74; D01; C20; D15",
+              "diem_chuan_2024": "27.5",
+              "diem_chuan_2023": "24"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nguyễn Tất Thành - NTT",
+          "data_school": [
+            {
+              "ten_nganh": "Quan hệ công chúng",
+              "to_hop_mon": "A01; C00; D01; D14",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Duy Tân - DDT",
+          "data_school": [
+            {
+              "ten_nganh": "Ngành Quan hệ Công chúng",
+              "to_hop_mon": "C00; C03; C04; D01; D14; D15",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Nam Cần Thơ - DNC",
+          "data_school": [
+            {
+              "ten_nganh": "Quan hệ công chúng (PR)",
+              "to_hop_mon": "C00; C03; D01; D14; D15; D66; X71; X17; Y07",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quốc Tế Hồng Bàng - HIU",
+          "data_school": [
+            {
+              "ten_nganh": "Quan hệ công chúng",
+              "to_hop_mon": "C00; D01; D14; D15; X71; X75",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Lang - DVL",
+          "data_school": [
+            {
+              "ten_nganh": "Quan hệ công chúng",
+              "to_hop_mon": "A00; A01; C00; C01; D01; X78",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hòa Bình - ETU",
+          "data_school": [
+            {
+              "ten_nganh": "Quan hệ công chúng",
+              "to_hop_mon": "C00; C01; C04; C14; D01; D14",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đại Nam - DDN",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "C00; C03; C04; D01",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công Nghệ TPHCM - DKC",
+          "data_school": [
+            {
+              "ten_nganh": "Quan hệ công chúng",
+              "to_hop_mon": "D01; C03; C04; C01; (Toán, Văn, Tin); X01",
+              "diem_chuan_2024": "18",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Lạc Hồng - DLH",
+          "data_school": [
+            {
+              "ten_nganh": "Quan hệ công chúng",
+              "to_hop_mon": "C00; D01; C04; X01; C03; X04",
+              "diem_chuan_2024": "17.75",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Yersin Đà Lạt - DYD",
+          "data_school": [
+            {
+              "ten_nganh": "Quan hệ công chúng",
+              "to_hop_mon": "D01; C01; C03; C04; X02 (Toán, Văn, Tin); C00; X01 (Toán, Văn, GDKT&PL)",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Tế Tài Chính TPHCM - UEF",
+          "data_school": [
+            {
+              "ten_nganh": "Quan hệ công chúng",
+              "to_hop_mon": "D01; C01; (Toán, Văn, Tin); C14; C03; C04",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Ngoại Ngữ Tin Học TPHCM - DNT",
+          "data_school": [
+            {
+              "ten_nganh": "Quan hệ công chúng",
+              "to_hop_mon": "D01; D14; D15; X78; D09; D10; X25",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "20"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Hiến - DVH",
+          "data_school": [
+            {
+              "ten_nganh": "Quan hệ công chúng",
+              "to_hop_mon": "C00; D01; D14; D15; C16; X01; X70; X74",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "24"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hoa Sen - HSU",
+          "data_school": [
+            {
+              "ten_nganh": "Quan hệ công chúng",
+              "to_hop_mon": "A00; A01; D01; C00",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Tư thục Quốc Tế Sài Gòn - SIU",
+          "data_school": [
+            {
+              "ten_nganh": "Quan hệ công chúng",
+              "to_hop_mon": "A00; A01; C00; C03; C19; D01",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Gia Định - GDU",
+          "data_school": [
+            {
+              "ten_nganh": "Quan hệ công chúng",
+              "to_hop_mon": "A00; A01; C00; C01; C03; C14; D01; K01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "16.5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Quản lí giải trí và sự kiện",
+      "data": [
+        {
+          "ten_truong": "Đại Học Kinh Tế Quốc Dân - KHA",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị giải trí và sự kiện",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "36.55",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Khoa học liên ngành và Nghệ thuật Hà Nội - QHK",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý giải trí và sự kiện",
+              "to_hop_mon": "A00; A01; C00; C01; C02; C03; C04; D01; D03; D04; D09; D10; D14; D15; D19; D20; D29; D30; D39; D40; D44; D45; D64; D65; X01; X25; X33; X37; X78; X86; X90",
+              "diem_chuan_2024": "25.1",
+              "diem_chuan_2023": "24.35"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Quản trị kinh doanh & Marketing",
+      "data": [
+        {
+          "ten_truong": "Đại Học Kinh Tế Quốc Dân - KHA",
+          "data_school": [
+            {
+              "ten_nganh": "Digital Marketing",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hàng Hải Việt Nam - HHA",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý kinh doanh và Marketing",
+              "to_hop_mon": "A01; D01; D09; D10; D14; D15",
+              "diem_chuan_2024": "23.5",
+              "diem_chuan_2023": "22.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công nghệ Giao thông vận tải - GTA",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị Marketing",
+              "to_hop_mon": "A00; A01; C01; C02; D01; D07; X01; X02; X03; X25; X26; X27",
+              "diem_chuan_2024": "23.39",
+              "diem_chuan_2023": "23.65"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kinh tế Quản trị kinh doanh Thái Nguyên",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị marketing (dạy và học bằng tiếng Anh)",
+              "to_hop_mon": "A00; A01; C04; D01; X01",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Quản trị thương hiệu",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Thương Mại - TMU",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing (Quản trị thương hiệu - Chương trình định hướng chuyên sâu nghề nghiệp quốc tế - IPOP)",
+              "to_hop_mon": "A01; D01; D07; D09; D10; X25; X26; X27; X28",
+              "diem_chuan_2024": "26.6",
+              "diem_chuan_2023": "27"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Khoa học liên ngành và Nghệ thuật Hà Nội - QHK",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị thương hiệu",
+              "to_hop_mon": "A00; A01; C00; C01; C02; C03; C04; D01; D03; D04; D09; D10; D14; D15; D19; D20; D29; D30; D39; D40; D44; D45; D64; D65; X01; X25; X33; X37; X78; X86; X90",
+              "diem_chuan_2024": "25.15",
+              "diem_chuan_2023": "24.17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Tế - Đại Học Huế - DHK",
+          "data_school": [
+            {
+              "ten_nganh": "Tài chính - Ngân hàng (Liên kết)",
+              "to_hop_mon": "A00; A01; C03; D01; D03; D07; D09; D10; X01; X26",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Truyền thông, quảng cáo",
+      "data": [
+        {
+          "ten_truong": "Đại Học Bách Khoa Hà Nội - BKA",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông số và Kỹ thuật đa phương tiện (CT tiên tiến)",
+              "to_hop_mon": "A00; A01; B03; C01; C02; X02",
+              "diem_chuan_2024": "26.61",
+              "diem_chuan_2023": "25.73"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Công Nghệ Bưu Chính Viễn Thông - BVH",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "A00; A01; D01; X06; X26",
+              "diem_chuan_2024": "25.94",
+              "diem_chuan_2023": "26.33"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Phụ Nữ Việt Nam - HPN",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "A00; A01; C00; D01",
+              "diem_chuan_2024": "26",
+              "diem_chuan_2023": "24.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hà Nội - NHF",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "D01",
+              "diem_chuan_2024": "25.65",
+              "diem_chuan_2023": "25.94"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Ngoại Giao - HQT",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông quốc tế",
+              "to_hop_mon": "A00; A01; C00; D01; D03; D04; D06; D07; D09; D10; D14; D15; DD2",
+              "diem_chuan_2024": "27.05",
+              "diem_chuan_2023": "26.96"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thủ Dầu Một - TDM",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "C00; C01; C03; C04; D01; D14; D15; X01; X70; X74",
+              "diem_chuan_2024": "25",
+              "diem_chuan_2023": "23"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thăng Long - DTL",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "C00; C03; C04; D01; D14; D15",
+              "diem_chuan_2024": "26.52",
+              "diem_chuan_2023": "25.89"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học viện Báo chí và Tuyên truyền - HBT",
+          "data_school": [
+            {
+              "ten_nganh": "Ngành Truyền thông đa phương tiện",
+              "to_hop_mon": "D01; D14; X78; X79",
+              "diem_chuan_2024": "27",
+              "diem_chuan_2023": "27.18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Xã Hội và Nhân Văn TPHCM - QSX",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông, chuyên ngành Báo chí",
+              "to_hop_mon": "A01; D01; D14; D15",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "A00; A01; D01; X02",
+              "diem_chuan_2024": "24.94",
+              "diem_chuan_2023": "24.8"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ Thông Tin - ĐHQG TPHCM - QSC",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông Đa phương tiện",
+              "to_hop_mon": "A01; D01; X26; D09; D10; D07",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Kinh Tế TPHCM - KSA",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông số và thiết kế đa phương tiện (Digital Communication and Media Design) (S)",
+              "to_hop_mon": "A00; A01; D01; D07; D09; V00",
+              "diem_chuan_2024": "26.6",
+              "diem_chuan_2023": "26.33"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Công Nghệ Bưu Chính Viễn Thông (Cơ sở TP.HCM) - BVS",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "A00; A01; X06 (Toán, Lí, Tin); X26 (Toán, Tin, Anh); D01",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Đoàn - LDA",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đại chúng",
+              "to_hop_mon": "D01; D11; D12; D14; D15; X79",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đồng Tháp - SPD",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "C00; C03; C04; C19; C20; D66; X70; X74; X78",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Khoa học liên ngành và Nghệ thuật Hà Nội - QHK",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ truyền thông",
+              "to_hop_mon": "A00; A01; D01; D07; D10; X06; X07; X25; X26; X27",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Phương Đông - DPD",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "A01; C03; D01; D09; D14; D15; X26",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật Vĩnh Long - VLU",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "A01; C01; C03; C04; C14; D01; X01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Khoa Quốc tế - Đại học Huế - DHI",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "C03; C04; D01; D09; D10",
+              "diem_chuan_2024": "23",
+              "diem_chuan_2023": "23"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nguyễn Tất Thành - NTT",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "A01; C00; D01; D15",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công Nghệ Thông Tin và Truyền Thông Thái Nguyên - DTC",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "A00; A01; A02; A03; A04; A05; A06; A07; A08; A09; A10; A11; B00; B01; B02; B03; B04; B08; C01; C02; C03; C04; C14; D01; D07; D09; D10; D84; X01; X02; X03; X04; X05; X06; X07; X08; X09; X10; X11; X12; X13; X14; X15; X16; X17; X18; X19; X20; X21; X22; X23",
+              "diem_chuan_2024": "21.7",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Duy Tân - DDT",
+          "data_school": [
+            {
+              "ten_nganh": "Ngành Truyền thông Đa phương tiện",
+              "to_hop_mon": "C00; C03; C04; D01; D14; D15",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "14"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Nam Cần Thơ - DNC",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "C00; C03; D01; D14; D15; D66; X71; X17; Y07",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quốc Tế Hồng Bàng - HIU",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "C00; D01; D14; D15; X71; X75",
+              "diem_chuan_2024": "16.25",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Lang - DVL",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "A00; A01; C00; C01; D01; X78",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hòa Bình - ETU",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "C00; C01; C04; C14; D01; D14",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đông Á - DAD",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện (Cơ sở đào tạo Đà Nẵng)",
+              "to_hop_mon": "A00; A01; C00; D01; D14; X01; X02; X17; X21",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Đô - DTD",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "A01; C00; D01; D15; A00; X02",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công Nghệ TPHCM - DKC",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "D01; C03; C04; C01; (Toán, Văn, Tin); X01",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "20"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Lạc Hồng - DLH",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông Đa phương tiện",
+              "to_hop_mon": "C00; D01; C04; X01; C03; X04",
+              "diem_chuan_2024": "15.45",
+              "diem_chuan_2023": "15.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công nghệ Miền Đông - MIT",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "A00; A01; C00; C01; C03; C14; D01; K01",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học FPT - FPT",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ truyền thông",
+              "to_hop_mon": "A; B; C01; C02; C03; C04",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Tế Tài Chính TPHCM - UEF",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "D01; C01; (Toán, Văn, Tin); C14; C03; C04",
+              "diem_chuan_2024": "18",
+              "diem_chuan_2023": "20"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Ngoại Ngữ Tin Học TPHCM - DNT",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "D01; D14; D15; X78; D09; D10; X25",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Hiến - DVH",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "A00; A01; C01; D01; C16; X01; X70; X74",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "24.03"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hoa Sen - HSU",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "A00; A01; D01; C00",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Trưng Vương - DVP",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "A00; C00; D01; D14",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ Đồng Nai - DCD",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "C00; C01; C02; D01; D11; D14; D15; D66",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hồng Đức - HDT",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "B03; C01; C04; C14; D01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Tư thục Quốc Tế Sài Gòn - SIU",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "A00; A01; C00; D01; D09; D10",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thái Bình Dương - TBD",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "A01; C19; D01; D14",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Gia Định - GDU",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "A00; A01; C00; C01; C03; C14; D01; K01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kiên Giang - TKG",
+          "data_school": [
+            {
+              "ten_nganh": "Truyền thông đa phương tiện",
+              "to_hop_mon": "A00; A01; C00; C14; C20; D01",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Hóa, Thể Thao Và Du Lịch Thanh Hóa - DVD",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ truyền thông",
+              "to_hop_mon": "C00; C01; C04; D66; X78",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công nghệ Thông tin và Truyền thông Việt Hàn - Đại học Đà Nẵng",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ truyền thông (cử nhân)",
+              "to_hop_mon": "A00; A01; D01; X02; X06; X26",
+              "diem_chuan_2024": "23.7",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Xuất bản và kinh doanh xuất bản phẩm",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Văn Hóa Hà Nội - VHH",
+          "data_school": [
+            {
+              "ten_nganh": "Kinh doanh xuất bản phẩm",
+              "to_hop_mon": "C00; C03; C04; X01; X70; D01; D14; D15; X78",
+              "diem_chuan_2024": "25.8",
+              "diem_chuan_2023": "23"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học viện Báo chí và Tuyên truyền - HBT",
+          "data_school": [
+            {
+              "ten_nganh": "Ngành Xuất bản, chuyên ngành Biên tập xuất bản",
+              "to_hop_mon": "D01; D14; X78; X79",
+              "diem_chuan_2024": "26.2",
+              "diem_chuan_2023": "25.53"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Hóa TPHCM - VHS",
+          "data_school": [
+            {
+              "ten_nganh": "Kinh doanh xuất bản phẩm",
+              "to_hop_mon": "C00; C03; C14; D01; D10; D14; D15",
+              "diem_chuan_2024": "25.3",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Quan hệ quốc tế",
+      "data": [
+        {
+          "ten_truong": "Học Viện Ngoại Giao - HQT",
+          "data_school": [
+            {
+              "ten_nganh": "Quan hệ quốc tế",
+              "to_hop_mon": "A00; A01; C00; D01; D03; D04; D06; D07; D09; D10; D14; D15; DD2",
+              "diem_chuan_2024": "26.76",
+              "diem_chuan_2023": "26.8"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thủ Dầu Một - TDM",
+          "data_school": [
+            {
+              "ten_nganh": "Quan hệ quốc tế",
+              "to_hop_mon": "C00; C03; C04; C07; D01; D14; D15; X01; X70; X74",
+              "diem_chuan_2024": "22.3",
+              "diem_chuan_2023": "18.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học viện Báo chí và Tuyên truyền - HBT",
+          "data_school": [
+            {
+              "ten_nganh": "Ngành Quan hệ quốc tế, chuyên ngành Thông tin đối ngoại",
+              "to_hop_mon": "D01; D14; X78; X79",
+              "diem_chuan_2024": "35",
+              "diem_chuan_2023": "35.6"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Xã Hội và Nhân Văn TPHCM - QSX",
+          "data_school": [
+            {
+              "ten_nganh": "Quan hệ quốc tế",
+              "to_hop_mon": "D01; D14",
+              "diem_chuan_2024": "26.45",
+              "diem_chuan_2023": "26.63"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Khoa Học Quân Sự - Hệ Quân sự - NQH",
+          "data_school": [
+            {
+              "ten_nganh": "Quan hệ quốc tế (Thí sinh Nam)",
+              "to_hop_mon": "D01",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Ngoại Ngữ Đà Nẵng - DDF",
+          "data_school": [
+            {
+              "ten_nganh": "Quan hệ quốc tế",
+              "to_hop_mon": "D01; D09; D14; D10; D15",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Khoa Quốc tế - Đại học Huế - DHI",
+          "data_school": [
+            {
+              "ten_nganh": "Quan hệ quốc tế",
+              "to_hop_mon": "C03; C04; D01; D09; D10",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "20"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Duy Tân - DDT",
+          "data_school": [
+            {
+              "ten_nganh": "Ngành Quan hệ Quốc tế",
+              "to_hop_mon": "C00; C03; C04; D01; D14; D15",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quốc Tế Hồng Bàng - HIU",
+          "data_school": [
+            {
+              "ten_nganh": "Quan hệ quốc tế",
+              "to_hop_mon": "C00; D01; D14; D15; X71; X75",
+              "diem_chuan_2024": "17.75",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Tế Tài Chính TPHCM - UEF",
+          "data_school": [
+            {
+              "ten_nganh": "Quan hệ quốc tế",
+              "to_hop_mon": "D14; D15; D01; (Văn, Anh, Tin); D11; D66",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Ngoại Ngữ Tin Học TPHCM - DNT",
+          "data_school": [
+            {
+              "ten_nganh": "Quan hệ quốc tế",
+              "to_hop_mon": "D01; D14; D15; X78; D09; D10; X25",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "20"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Hiến - DVH",
+          "data_school": [
+            {
+              "ten_nganh": "Quan hệ quốc tế",
+              "to_hop_mon": "A01; D01; D14; D15; D66; D84; D78; D90",
+              "diem_chuan_2024": "17.7",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Digital Marketing",
+      "data": [
+        {
+          "ten_truong": "Đại Học Kinh Tế Quốc Dân - KHA",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "27.78",
+              "diem_chuan_2023": "27.55"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Tài chính - HTC",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Ngoại thương - NTH",
+          "data_school": [
+            {
+              "ten_nganh": "Chương trình ĐHNNQT Marketing số",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "28.1",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Công Nghệ Bưu Chính Viễn Thông - BVH",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; D01; X06; X26",
+              "diem_chuan_2024": "25.85",
+              "diem_chuan_2023": "25.8"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp Hà Nội - DCN",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A01; D01; X25",
+              "diem_chuan_2024": "25.33",
+              "diem_chuan_2023": "25.24"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp TPHCM - IUH",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing gồm 02 chuyên ngành: Marketing; Digital Marketing",
+              "to_hop_mon": "C01; C03; C04; D01; X01; X02",
+              "diem_chuan_2024": "25.25",
+              "diem_chuan_2023": "25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Phụ Nữ Việt Nam - HPN",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; C00; D01",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Thương TPHCM - DCT",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; C01; D01",
+              "diem_chuan_2024": "24.5",
+              "diem_chuan_2023": "22.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Hàng không Việt Nam - HHK",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; A02; A03; A04; A05; A06; A07; B00; B01; B02; B03; B08; C00; C01; C02; C03; C04; C05; C06; C07; C08; C09; C10; C11; C12; C13; D01; D07; D09; D10; D11; D12; D13; D14; D15; X01; X02; X03; X04; X05; X06; X07; X08; X09; X10; X11; X12; X13; X14; X15",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hà Nội - NHF",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "D01",
+              "diem_chuan_2024": "33.93",
+              "diem_chuan_2023": "35.05"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thủ Dầu Một - TDM",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; A02; C01; D01; D07; X01; X02; X03; X09",
+              "diem_chuan_2024": "23.1",
+              "diem_chuan_2023": "22.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thăng Long - DTL",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; D01; D07; X01; X25",
+              "diem_chuan_2024": "24.97",
+              "diem_chuan_2023": "25.41"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tôn Đức Thắng - DTT",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; C01; C02; D01; D07",
+              "diem_chuan_2024": "34.25",
+              "diem_chuan_2023": "34.45"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; C02; D01",
+              "diem_chuan_2024": "24.6",
+              "diem_chuan_2023": "25.35"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kinh Tế Luật TPHCM - QSK",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing (Chuyên ngành Digital Marketing)",
+              "to_hop_mon": "A00; A01; D01; D07; X25; X26",
+              "diem_chuan_2024": "27.1",
+              "diem_chuan_2023": "27.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nha Trang - TSN",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "D01; X01; X02; C04",
+              "diem_chuan_2024": "23",
+              "diem_chuan_2023": "23"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Công Nghệ Bưu Chính Viễn Thông (Cơ sở TP.HCM) - BVS",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; X06 (Toán, Lí, Tin); X26 (Toán, Tin, Anh); D01",
+              "diem_chuan_2024": "24.24",
+              "diem_chuan_2023": "24.1"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học An Giang - QSA",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; D01; X01; X27; X28",
+              "diem_chuan_2024": "23.17",
+              "diem_chuan_2023": "22.93"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hải Dương - DKT",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; C01; C02; C03; C04; C14; D01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Phạm Văn Đồng - DPQ",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "C03; X74; X01; D01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Tài Nguyên và Môi Trường Hà Nội - DMT",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; C00; D01; C01; C02; X03; X04; B03; C03; C04; C14; X02",
+              "diem_chuan_2024": "26.5",
+              "diem_chuan_2023": "24.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Ngân Hàng TPHCM - NHS",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "26.1",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Mở TPHCM - MBS",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; D01; D07; B08; (Toán, Lí, Tin); (Toán, Hóa, Tin); (Toán, Anh, Tin); C01; C02; (Toán, Văn, Tin); (Văn, Anh, Tin).",
+              "diem_chuan_2024": "24.5",
+              "diem_chuan_2023": "25.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Điện Lực - DDL",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Tế - Đại Học Huế - DHK",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; C03; D01; D03; D07; D09; D10; X01; X26",
+              "diem_chuan_2024": "23",
+              "diem_chuan_2023": "23"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Duy Tân - DDT",
+          "data_school": [
+            {
+              "ten_nganh": "Ngành Marketing có các chuyên ngành: Quản trị kinh doanh Marketing, Digital Marketing",
+              "to_hop_mon": "A00; A01; A07; C01; D01; X01 (Văn, Toán, KT&PL)",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "14"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Nam Cần Thơ - DNC",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; C03; C04; D01; D10; X17; X56; Y07",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quốc Tế Hồng Bàng - HIU",
+          "data_school": [
+            {
+              "ten_nganh": "Digital Marketing",
+              "to_hop_mon": "A01; C00; C03; C04; D01; X26",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Lang - DVL",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; C01; D01; D07; D10; X25",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đại Nam - DDN",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing\r\n– Chuyên ngành Digital Marketing",
+              "to_hop_mon": "A00; A01; C01; C03; C04; D01; D07",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đông Á - DAD",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; A07; D01; D10; X01; X02; X17; X21",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Đô - DTD",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; D01; C04; X26; X02; X06",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công Nghệ TPHCM - DKC",
+          "data_school": [
+            {
+              "ten_nganh": "Digital Marketing (Marketing số)",
+              "to_hop_mon": "D01; C03; C04; C01; (Toán, Văn, Tin); X01",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Lạc Hồng - DLH",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "D01; X01; X04; Y09; C04; C03",
+              "diem_chuan_2024": "16.25",
+              "diem_chuan_2023": "15.1"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công nghệ Miền Đông - MIT",
+          "data_school": [
+            {
+              "ten_nganh": "Digital marketing",
+              "to_hop_mon": "A00; A01; C00; C01; C03; C14; D01; K01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Tế Tài Chính TPHCM - UEF",
+          "data_school": [
+            {
+              "ten_nganh": "Digital Marketing",
+              "to_hop_mon": "D01; C01; (Toán, Văn, Tin); C14; C03; C04",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kinh tế Quản trị kinh doanh Thái Nguyên",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; C04; D01; X01",
+              "diem_chuan_2024": "18.5",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Ngoại Ngữ Tin Học TPHCM - DNT",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "D01; A01; D07; X27; X28; X25; X26; D11; D14",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kinh Tế Nghệ An - CEA",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; C03; D01",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Lâm nghiệp - LNH",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing  (dự kiến)",
+              "to_hop_mon": "D01; A01; K01; C14; C00; D66; D15; D14; C20; C19",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Hiến - DVH",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; C04; D01; A12; A15; X54; X05",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "23"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hoa Sen - HSU",
+          "data_school": [
+            {
+              "ten_nganh": "Digital Marketing",
+              "to_hop_mon": "A00; A01; D01; D03; D09",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công nghiệp và Thương mại Hà Nội - CCM",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; B00; C01; C03; C04; C14; D01; X23; X24; X03; X04",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Tế Công Nghiệp Long An - DLA",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A01; D13; X74; B03",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ và Quản Lý Hữu Nghị - DCQ",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "X25; X02; D01; X53",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thái Bình Dương - TBD",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; A09; C14; C19; D01; D03; D04; D07; D24; D25; D29; D30; DD2; X02; X03; X26",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh tế công nghệ Thái Nguyên - DVB",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A01; D01; D10; X01",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp Việt - Hung - VHD",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A07; A08; A09; C00; C03; C04; C14; C19; C20; D01; D10; D13; D14; D85",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Gia Định - GDU",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; C00; C01; C03; C14; D01; K01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ Sài Gòn - DSG",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "(Toán, 2 môn bất kì); (Văn, 2 môn bất kì)",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công nghệ Thông tin và Truyền thông Việt Hàn - Đại học Đà Nẵng",
+          "data_school": [
+            {
+              "ten_nganh": "Marketing",
+              "to_hop_mon": "A00; A01; C03; D01; X02; X26",
+              "diem_chuan_2024": "24.01",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

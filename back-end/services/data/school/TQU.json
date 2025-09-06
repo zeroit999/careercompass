@@ -1,0 +1,189 @@
+{
+  "school_code": "TQU",
+  "school_name": "Trường Đại học Tân Trào",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Giáo dục Mầm non (Trình độ Cao Đẳng)",
+          "Tổ hợp môn": "C00; C14; C19; C20",
+          "Điểm chuẩn": "24.68",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Mầm non",
+          "Tổ hợp môn": "C00; C14; C19; C20",
+          "Điểm chuẩn": "26.07",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Tiểu học",
+          "Tổ hợp môn": "A00; D01; C00; C19",
+          "Điểm chuẩn": "26.88",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Toán học",
+          "Tổ hợp môn": "A00; A01; B00; C14",
+          "Điểm chuẩn": "25.88",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Ngữ văn",
+          "Tổ hợp môn": "C00; D14; C19; C20",
+          "Điểm chuẩn": "27.67",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Khoa học Tự nhiên",
+          "Tổ hợp môn": "A00; A02; B00; D08",
+          "Điểm chuẩn": "23.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý Văn hóa",
+          "Tổ hợp môn": "C00; D01; C19; C20",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "A00; B00; D07; C05",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều duỡng",
+          "Tổ hợp môn": "B00; B03; D07; C08",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "C00; D01; C19; C20",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị Dịch vụ Du lịch và Lữ hành",
+          "Tổ hợp môn": "C00; D01; C19; C20",
+          "Điểm chuẩn": "24.15",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 13
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Giáo dục Mầm non (Trình độ Cao Đẳng)",
+          "Tổ hợp môn": "C00; C14; C19; C20",
+          "Điểm chuẩn": "25.09",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Mầm non",
+          "Tổ hợp môn": "C00; C14; C19; C20",
+          "Điểm chuẩn": "25.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Tiểu học",
+          "Tổ hợp môn": "A00; D01; C00; C19",
+          "Điểm chuẩn": "27.29",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Toán học",
+          "Tổ hợp môn": "A00; A01; B00; C14",
+          "Điểm chuẩn": "27.53",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Ngữ văn",
+          "Tổ hợp môn": "C00; D14; C19; C20",
+          "Điểm chuẩn": "27.53",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Khoa học Tự nhiên",
+          "Tổ hợp môn": "A00; A02; B00; D08",
+          "Điểm chuẩn": "26.85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý Văn hóa",
+          "Tổ hợp môn": "C00; D01; C19; C20",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "21.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "A00; B00; D07; C05",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "B00; B03; D07; C08",
+          "Điểm chuẩn": "21.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "C00; D01; C19; C20",
+          "Điểm chuẩn": "19.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị Dịch vụ Du lịch và Lữ hành",
+          "Tổ hợp môn": "C00; D01; C19; C20",
+          "Điểm chuẩn": "22.94",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 13
+    }
+  ],
+  "table_count": 2,
+  "crawled_at": "2025-07-18T23:32:11.004820",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-tan-trao-TQU.html"
+}

@@ -1,0 +1,1749 @@
+{
+  "school_code": "NTH",
+  "school_name": "Trường Đại học Ngoại thương",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "28.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Kinh doanh quốc tế",
+          "Tổ hợp môn": "A01; D01; D02; D03; D04; D06; D07",
+          "Điểm chuẩn": "27.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình CLC Kinh doanh quốc tế",
+          "Tổ hợp môn": "A01; D01; D02; D03; D04; D06; D07",
+          "Điểm chuẩn": "27.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình CLC Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "28.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "28.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A01; D01; D02; D03; D04; D06; D07",
+          "Điểm chuẩn": "27.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Kinh doanh quốc tế theo mô hình tiên tiến Nhật Bản",
+          "Tổ hợp môn": "A01; D01; D02; D03; D04; D06; D07",
+          "Điểm chuẩn": "27.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Kinh doanh quốc tế theo mô hình tiên tiến Nhật Bản",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "28.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Kinh doanh số",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "28.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Kinh doanh số",
+          "Tổ hợp môn": "A01; D01; D02; D03; D04; D06; D07",
+          "Điểm chuẩn": "27.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiên tiến i-Hons hợp tác với Đại học Queensland về Kinh doanh quốc tế và Phân tích dữ liệu kinh doanh",
+          "Tổ hợp môn": "A01; D01; D02; D03; D04; D06; D07",
+          "Điểm chuẩn": "27.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiên tiến i-Hons hợp tác với Đại học Queensland về Kinh doanh quốc tế và Phân tích dữ liệu kinh doanh",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "28.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "27.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình ĐHPTQT Kinh tế chính trị quốc tế",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "26.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình ĐHPTQT Kinh tế chính trị quốc tế",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "27.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Kinh tế đối ngoại",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Kinh tế đối ngoại",
+          "Tổ hợp môn": "A01; D01; D02; D03; D04; D06; D07",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Thương mại quốc tế",
+          "Tổ hợp môn": "A01; D01; D02; D03; D04; D06; D07",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Thương mại quốc tế",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình CLC Kinh tế đối ngoại",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình CLC Kinh tế đối ngoại",
+          "Tổ hợp môn": "A01; D01; D02; D03; D04; D06; D07",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiên tiến Kinh tế đối ngoại",
+          "Tổ hợp môn": "A01; D01; D02; D03; D04; D06; D07",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiên tiến Kinh tế đối ngoại",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Kế toán - Kiểm toán",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "27.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Kế toán - Kiểm toán",
+          "Tổ hợp môn": "A01; D01; D02; D03; D04; D06; D07",
+          "Điểm chuẩn": "27.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Kế toán - Kiểm toán theo định hướng ACCA",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "27.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Kế toán - Kiểm toán theo định hướng ACCA",
+          "Tổ hợp môn": "A01; D01; D02; D03; D04; D06; D07",
+          "Điểm chuẩn": "27.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Kế toán - Kiểm toán",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "27.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Kế toán - Kiểm toán",
+          "Tổ hợp môn": "A01; D01; D02; D03; D04; D06; D07",
+          "Điểm chuẩn": "27.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Kinh tế quốc tế",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Kinh tế quốc tế",
+          "Tổ hợp môn": "A01; D01; D02; D03; D04; D06; D07",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Kinh tế và Phát triển quốc tế",
+          "Tổ hợp môn": "A01; D01; D02; D03; D04; D06; D07",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Kinh tế và Phát triển quốc tế",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình CLC Kinh tế quốc tế",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình CLC Kinh tế quốc tế",
+          "Tổ hợp môn": "A01; D01; D02; D03; D04; D06; D07",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Luật thương mại quốc tế",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Luật thương mại quốc tế",
+          "Tổ hợp môn": "A01; D01; D02; D03; D04; D06; D07",
+          "Điểm chuẩn": "27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Luật Kinh doanh quốc tế theo mô hình thực hành nghề nghiệp",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Luật Kinh doanh quốc tế theo mô hình thực hành nghề nghiệp",
+          "Tổ hợp môn": "A01; D01; D02; D03; D04; D06; D07",
+          "Điểm chuẩn": "27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Marketing số",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "28.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Marketing số",
+          "Tổ hợp môn": "A01; D01; D02; D03; D04; D06; D07",
+          "Điểm chuẩn": "27.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Tiếng Anh Thương mại",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình CLC Tiếng Anh Thương mại",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Tiếng Nhật thương mại",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Tiếng Nhật thương mại",
+          "Tổ hợp môn": "D06",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình CLC ngành Tiếng Nhật thương mại",
+          "Tổ hợp môn": "D06",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình CLC ngành Tiếng Nhật thương mại",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Tiếng Pháp thương mại",
+          "Tổ hợp môn": "D03",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Tiếng Pháp thương mại",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình CLC Tiếng Pháp thương mại",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình CLC Tiếng Pháp thương mại",
+          "Tổ hợp môn": "D03",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Tiếng Trung Thương mại",
+          "Tổ hợp môn": "D04",
+          "Điểm chuẩn": "27.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Tiếng Trung Thương mại",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình CLC Tiếng Trung Thương mại",
+          "Tổ hợp môn": "D04",
+          "Điểm chuẩn": "27.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình CLC Tiếng Trung Thương mại",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Luật",
+          "Tổ hợp môn": "A01; D01; D02; D03; D04; D06; D07",
+          "Điểm chuẩn": "27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Luật",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Kinh tế quốc tế",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Kinh tế",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Kinh tế quốc tế",
+          "Tổ hợp môn": "A01; D01; D02; D03; D04; D06; D07",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Kinh tế",
+          "Tổ hợp môn": "A01; D01; D02; D03; D04; D06; D07",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Quản trị kinh doanh Ngành Kinh doanh quốc tế Ngành quản trị khách sạn Ngành Marketing",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "28.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Quản trị kinh doanh Ngành Kinh doanh quốc tế Ngành quản trị khách sạn Ngành Marketing",
+          "Tổ hợp môn": "A01; D01; D02; D03; D04; D06; D07",
+          "Điểm chuẩn": "27.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Kế toán Ngành Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A01; D01; D02; D03; D04; D06; D07",
+          "Điểm chuẩn": "27.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Kế toán Ngành Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "27.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Ngôn ngữ Pháp",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Ngôn ngữ Pháp",
+          "Tổ hợp môn": "D03",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Ngôn ngữ Trung",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Ngôn ngữ Trung",
+          "Tổ hợp môn": "D04",
+          "Điểm chuẩn": "27.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Ngôn ngữ Nhật",
+          "Tổ hợp môn": "D06",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Ngôn ngữ Nhật",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Kinh tế chính trị",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "26.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Kinh tế chính trị",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "27.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Khoa học máy tính",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "27.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Quản trị khách sạn",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "28.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Quản trị khách sạn",
+          "Tổ hợp môn": "A01; D01; D02; D03; D04; D06; D07",
+          "Điểm chuẩn": "27.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Quản trị kinh doanh quốc tế",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "28.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Quản trị kinh doanh quốc tế",
+          "Tổ hợp môn": "A01; D01; D02; D03; D04; D06; D07",
+          "Điểm chuẩn": "27.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình CLC Quản trị kinh doanh quốc tế",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "28.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình CLC Quản trị kinh doanh quốc tế",
+          "Tổ hợp môn": "A01; D01; D02; D03; D04; D06; D07",
+          "Điểm chuẩn": "27.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiên tiến Quản trị kinh doanh quốc tế",
+          "Tổ hợp môn": "A01; D01; D02; D03; D04; D06; D07",
+          "Điểm chuẩn": "27.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiên tiến Quản trị kinh doanh quốc tế",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "28.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Tài chính quốc tế",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "27.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Tài chính quốc tế",
+          "Tổ hợp môn": "A01; D01; D02; D03; D04; D06; D07",
+          "Điểm chuẩn": "27.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Ngân hàng",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "27.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Ngân hàng",
+          "Tổ hợp môn": "A01; D01; D02; D03; D04; D06; D07",
+          "Điểm chuẩn": "27.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Phân tích và đầu tư tài chính",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "27.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Phân tích và đầu tư tài chính",
+          "Tổ hợp môn": "A01; D01; D02; D03; D04; D06; D07",
+          "Điểm chuẩn": "27.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình CLC Ngân hàng và Tài chính quốc tế",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "27.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình CLC Ngân hàng và Tài chính quốc tế",
+          "Tổ hợp môn": "A01; D01; D02; D03; D04; D06; D07",
+          "Điểm chuẩn": "27.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiên tiến Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "27.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiên tiến Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A01; D01; D02; D03; D04; D06; D07",
+          "Điểm chuẩn": "27.3",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 93
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28.4",
+          "Ghi chú": "Hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "30.3",
+          "Ghi chú": "Giải HSG Tỉnh"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "29.3",
+          "Ghi chú": "Giải HSG Quốc gia"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "29",
+          "Ghi chú": "Giải HSG Quốc gia"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "30.4",
+          "Ghi chú": "Giải HSG Tỉnh"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28.7",
+          "Ghi chú": "Hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Kinh doanh quốc tế theo mô hình tiên tiến Nhật Bản",
+          "Tổ hợp môn": "A00; A01; D01; D06; D07",
+          "Điểm chuẩn": "29.5",
+          "Ghi chú": "Giải HSG Tỉnh"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Kinh doanh quốc tế theo mô hình tiên tiến Nhật Bản",
+          "Tổ hợp môn": "A00; A01; D01; D06; D07",
+          "Điểm chuẩn": "28.1",
+          "Ghi chú": "Hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Kinh doanh quốc tế theo mô hình tiên tiến Nhật Bản",
+          "Tổ hợp môn": "A00; A01; D01; D06; D07",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Giải HSG Quốc gia"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Kinh doanh số",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28.2",
+          "Ghi chú": "Hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Kinh doanh số",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "30",
+          "Ghi chú": "Giải HSG Tỉnh"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Kinh doanh số",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Giải HSG Quốc gia"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "CS Quảng Ninh"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "CS Quảng Ninh"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "CS Quảng Ninh"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "30.3",
+          "Ghi chú": "Giải HSG Tỉnh"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28.7",
+          "Ghi chú": "Hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": "Giải HSG Quốc gia"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHPTQT Kinh tế chính trị quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHPTQT Kinh tế chính trị quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "29.5",
+          "Ghi chú": "Giải HSG Quốc gia"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHPTQT Kinh tế chính trị quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "29.5",
+          "Ghi chú": "Giải HSG Tỉnh"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Kinh tế đối ngoại",
+          "Tổ hợp môn": "A00; A01; D01; D02; D03; D04; D06; D07",
+          "Điểm chuẩn": "28.9",
+          "Ghi chú": "Giải HSG Quốc gia"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Kinh tế đối ngoại",
+          "Tổ hợp môn": "A00; A01; D01; D02; D03; D04; D06; D07",
+          "Điểm chuẩn": "30.3",
+          "Ghi chú": "Giải HSG Tỉnh"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Kinh tế đối ngoại",
+          "Tổ hợp môn": "A00; A01; D01; D02; D03; D04; D06; D07",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": "Hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Thương mại quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D02; D03; D04; D06; D07",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": "Hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Thương mại quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D02; D03; D04; D06; D07",
+          "Điểm chuẩn": "28.9",
+          "Ghi chú": "Giải HSG Quốc gia"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Thương mại quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D02; D03; D04; D06; D07",
+          "Điểm chuẩn": "30.3",
+          "Ghi chú": "Giải HSG Tỉnh"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Kế toán - Kiểm toán",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "30",
+          "Ghi chú": "Giải HSG Tỉnh"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Kế toán - Kiểm toán",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28.2",
+          "Ghi chú": "Hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Kế toán - Kiểm toán",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Giải HSG Quốc gia"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Kế toán - Kiểm toán theo định hướng ACCA",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28.2",
+          "Ghi chú": "Hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Kế toán - Kiểm toán theo định hướng ACCA",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.6",
+          "Ghi chú": "Giải HSG Quốc gia"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Kế toán - Kiểm toán theo định hướng ACCA",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "30",
+          "Ghi chú": "Giải HSG Tỉnh"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Kế toán - Kiểm toán",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "CS Quảng Ninh"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Kế toán - Kiểm toán",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "CS Quảng Ninh"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Kế toán - Kiểm toán",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "CS Quảng Ninh"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Kinh tế quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D03; D07",
+          "Điểm chuẩn": "30.2",
+          "Ghi chú": "Giải HSG Tỉnh"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Kinh tế quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D03; D07",
+          "Điểm chuẩn": "28.2",
+          "Ghi chú": "Hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Kinh tế quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D03; D07",
+          "Điểm chuẩn": "28.2",
+          "Ghi chú": "Giải HSG Quốc gia"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Kinh tế và Phát triển quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D03; D07",
+          "Điểm chuẩn": "28.2",
+          "Ghi chú": "Giải HSG Quốc gia"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Kinh tế và Phát triển quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D03; D07",
+          "Điểm chuẩn": "30.2",
+          "Ghi chú": "Giải HSG Tỉnh"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Kinh tế và Phát triển quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D03; D07",
+          "Điểm chuẩn": "28.2",
+          "Ghi chú": "Hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Luật thương mại quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "29",
+          "Ghi chú": "Giải HSG Tỉnh"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Luật thương mại quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Luật thương mại quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Giải HSG Quốc gia"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Luật Kinh doanh quốc tế theo mô hình thực hành nghề nghiệp",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28.2",
+          "Ghi chú": "Giải HSG Quốc gia"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Luật Kinh doanh quốc tế theo mô hình thực hành nghề nghiệp",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "29",
+          "Ghi chú": "Giải HSG Tỉnh"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Luật Kinh doanh quốc tế theo mô hình thực hành nghề nghiệp",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Marketing số",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28.6",
+          "Ghi chú": "Hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Marketing số",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "30",
+          "Ghi chú": "Giải HSG Quốc gia"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Marketing số",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "30.3",
+          "Ghi chú": "Giải HSG Tỉnh"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Tiếng Anh Thương mại",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "29",
+          "Ghi chú": "Giải HSG Tỉnh"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Tiếng Anh Thương mại",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Tiếng Nhật thương mại",
+          "Tổ hợp môn": "D01; D06",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Giải HSG Tỉnh"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Tiếng Nhật thương mại",
+          "Tổ hợp môn": "D01; D06",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "Hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Tiếng Nhật thương mại",
+          "Tổ hợp môn": "D01; D06",
+          "Điểm chuẩn": "26.8",
+          "Ghi chú": "Giải HSG Quốc gia"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Tiếng Pháp thương mại",
+          "Tổ hợp môn": "D01; D03",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Giải HSG Tỉnh"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Tiếng Pháp thương mại",
+          "Tổ hợp môn": "D01; D03",
+          "Điểm chuẩn": "26.8",
+          "Ghi chú": "Hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Tiếng Pháp thương mại",
+          "Tổ hợp môn": "D01; D03",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": "Giải HSG Quốc gia"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Tiếng Trung Thương mại",
+          "Tổ hợp môn": "D01; D04",
+          "Điểm chuẩn": "29",
+          "Ghi chú": "Giải HSG Tỉnh"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Tiếng Trung Thương mại",
+          "Tổ hợp môn": "D01; D04",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Tiếng Trung Thương mại",
+          "Tổ hợp môn": "D01; D04",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": "Giải HSG Quốc gia"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Quản trị khách sạn",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Quản trị khách sạn",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "29",
+          "Ghi chú": "Giải HSG Tỉnh"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Quản trị khách sạn",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Giải HSG Quốc gia"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Quản trị kinh doanh quốc tế",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "27.1",
+          "Ghi chú": "Giải HSG Quốc gia"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Quản trị kinh doanh quốc tế",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "28.1",
+          "Ghi chú": "Hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Quản trị kinh doanh quốc tế",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "29.5",
+          "Ghi chú": "Giải HSG Tỉnh"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Tài chính quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Giải HSG Quốc gia"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Tài chính quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28.3",
+          "Ghi chú": "Hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Tài chính quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "29.5",
+          "Ghi chú": "Giải HSG Tỉnh"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28.3",
+          "Ghi chú": "Hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "29.5",
+          "Ghi chú": "Giải HSG Tỉnh"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Giải HSG Quốc gia"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Phân tích và đầu tư tài chính",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "29.5",
+          "Ghi chú": "Giải HSG Tỉnh"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Phân tích và đầu tư tài chính",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28.3",
+          "Ghi chú": "Hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Phân tích và đầu tư tài chính",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Giải HSG Quốc gia"
+        }
+      ],
+      "row_count": 77
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Kinh doanh quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiên chuẩn Kinh tế đối ngoại",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Thương mại quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Kế toán - Kiểm toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Kinh tế quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Kinh tế và Phát triển quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Luật thương mại quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Quản trị kinh doanh quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Tài chính quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Phân tích và đầu tư tài chính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 11
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Kinh doanh quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiên chuẩn Kinh tế đối ngoại",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Thương mại quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Kế toán - Kiểm toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Kinh tế quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Kinh tế và Phát triển quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Luật thương mại quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Quản trị kinh doanh quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Tài chính quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Phân tích và đầu tư tài chính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 11
+    },
+    {
+      "table_title": "Điểm xét tuyển kết hợp năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Chương trình CLC Kinh doanh quốc tế",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": "CCQT và Hệ không chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình CLC Kinh doanh quốc tế",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "29",
+          "Ghi chú": "CCQT và SAT, SCT"
+        },
+        {
+          "Tên ngành": "Chương trình CLC Kinh doanh quốc tế",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "28.1",
+          "Ghi chú": "CCQT và điểm thi tốt nghiệp"
+        },
+        {
+          "Tên ngành": "Chương trình CLC Kinh doanh quốc tế",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "27.6",
+          "Ghi chú": "CCQT và hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28.7",
+          "Ghi chú": "CCQT và Hệ không chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "29.5",
+          "Ghi chú": "CCQT và SAT, SCT"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.3",
+          "Ghi chú": "CCQT và điểm thi tốt nghiệp"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "CCQT và hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Kinh doanh quốc tế theo mô hình tiên tiến Nhật Bản",
+          "Tổ hợp môn": "A00; A01; D01; D06; D07",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "CCQT và điểm thi tốt nghiệp"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Kinh doanh quốc tế theo mô hình tiên tiến Nhật Bản",
+          "Tổ hợp môn": "A00; A01; D01; D06; D07",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "CCQT và hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Kinh doanh quốc tế theo mô hình tiên tiến Nhật Bản",
+          "Tổ hợp môn": "A00; A01; D01; D06; D07",
+          "Điểm chuẩn": "28.2",
+          "Ghi chú": "CCQT và Hệ không chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Kinh doanh quốc tế theo mô hình tiên tiến Nhật Bản",
+          "Tổ hợp môn": "A00; A01; D01; D06; D07",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": "CCQT và SAT, SCT"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Kinh doanh số",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "CCQT và điểm thi tốt nghiệp"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Kinh doanh số",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.1",
+          "Ghi chú": "CCQT và hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Kinh doanh số",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28.2",
+          "Ghi chú": "CCQT và Hệ không chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Kinh doanh số",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": "CCQT và SAT, SCT"
+        },
+        {
+          "Tên ngành": "Chương trình tiên tiến i-Hons hợp tác với Đại học Queensland về Kinh doanh quốc tế và Phân tích dữ liệu kinh doanh",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "29",
+          "Ghi chú": "CCQT và SAT, SCT"
+        },
+        {
+          "Tên ngành": "Chương trình tiên tiến i-Hons hợp tác với Đại học Queensland về Kinh doanh quốc tế và Phân tích dữ liệu kinh doanh",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "CCQT và điểm thi tốt nghiệp"
+        },
+        {
+          "Tên ngành": "Chương trình tiên tiến i-Hons hợp tác với Đại học Queensland về Kinh doanh quốc tế và Phân tích dữ liệu kinh doanh",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "27.6",
+          "Ghi chú": "CCQT và hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình tiên tiến i-Hons hợp tác với Đại học Queensland về Kinh doanh quốc tế và Phân tích dữ liệu kinh doanh",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "28.3",
+          "Ghi chú": "CCQT và Hệ không chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.8",
+          "Ghi chú": "CCQT và hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.33",
+          "Ghi chú": "CCQT và điểm thi tốt nghiệp"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": "CCQT và Hệ không chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "29.5",
+          "Ghi chú": "CCQT và SAT, SCT"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHPTQT Kinh tế chính trị quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "CCQT và hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHPTQT Kinh tế chính trị quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "CCQT và Hệ không chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHPTQT Kinh tế chính trị quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "CCQT và SAT, SCT"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHPTQT Kinh tế chính trị quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.6",
+          "Ghi chú": "CCQT và điểm thi tốt nghiệp"
+        },
+        {
+          "Tên ngành": "Chương trình CLC Kinh tế đối ngoại",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "28.6",
+          "Ghi chú": "CCQT và Hệ không chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình CLC Kinh tế đối ngoại",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "29",
+          "Ghi chú": "CCQT và SAT, SCT"
+        },
+        {
+          "Tên ngành": "Chương trình CLC Kinh tế đối ngoại",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "27.6",
+          "Ghi chú": "CCQT và hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình CLC Kinh tế đối ngoại",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "28.1",
+          "Ghi chú": "CCQT và điểm thi tốt nghiệp"
+        },
+        {
+          "Tên ngành": "Chương trình tiên tiến Kinh tế đối ngoại",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "28.8",
+          "Ghi chú": "CCQT và Hệ không chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình tiên tiến Kinh tế đối ngoại",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "29.5",
+          "Ghi chú": "CCQT và SAT, SCT"
+        },
+        {
+          "Tên ngành": "Chương trình tiên tiến Kinh tế đối ngoại",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "28.3",
+          "Ghi chú": "CCQT và hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình tiên tiến Kinh tế đối ngoại",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "28.25",
+          "Ghi chú": "CCQT và điểm thi tốt nghiệp"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Kế toán - Kiểm toán theo định hướng ACCA",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.8",
+          "Ghi chú": "CCQT và điểm thi tốt nghiệp"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Kế toán - Kiểm toán theo định hướng ACCA",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28.1",
+          "Ghi chú": "CCQT và Hệ không chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Kế toán - Kiểm toán theo định hướng ACCA",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": "CCQT và SAT, SCT"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Kế toán - Kiểm toán theo định hướng ACCA",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "CCQT và hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình CLC Kinh tế quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": "CCQT và hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình CLC Kinh tế quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "CCQT và điểm thi tốt nghiệp"
+        },
+        {
+          "Tên ngành": "Chương trình CLC Kinh tế quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28.4",
+          "Ghi chú": "CCQT và Hệ không chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình CLC Kinh tế quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": "CCQT và SAT, SCT"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Luật Kinh doanh quốc tế theo mô hình thực hành nghề nghiệp",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "CCQT và SAT, SCT"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Luật Kinh doanh quốc tế theo mô hình thực hành nghề nghiệp",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.6",
+          "Ghi chú": "CCQT và hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Luật Kinh doanh quốc tế theo mô hình thực hành nghề nghiệp",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.3",
+          "Ghi chú": "CCQT và điểm thi tốt nghiệp"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Luật Kinh doanh quốc tế theo mô hình thực hành nghề nghiệp",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "CCQT và Hệ không chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Marketing số",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "29",
+          "Ghi chú": "CCQT và SAT, SCT"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Marketing số",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.2",
+          "Ghi chú": "CCQT và điểm thi tốt nghiệp"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Marketing số",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "CCQT và hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Marketing số",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28.6",
+          "Ghi chú": "CCQT và Hệ không chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình CLC Tiếng Anh Thương mại",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "27.9",
+          "Ghi chú": "CCQT và Hệ không chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình CLC Tiếng Anh Thương mại",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "CCQT và SAT, SCT"
+        },
+        {
+          "Tên ngành": "Chương trình CLC Tiếng Anh Thương mại",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "26.6",
+          "Ghi chú": "CCQT và hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình CLC Tiếng Anh Thương mại",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "26.3",
+          "Ghi chú": "CCQT và điểm thi tốt nghiệp"
+        },
+        {
+          "Tên ngành": "Chương trình CLC ngành Tiếng Nhật thương mại",
+          "Tổ hợp môn": "D06",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "CCQT và điểm thi tốt nghiệp"
+        },
+        {
+          "Tên ngành": "Chương trình CLC ngành Tiếng Nhật thương mại",
+          "Tổ hợp môn": "D06",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": "CCQT và hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình CLC ngành Tiếng Nhật thương mại",
+          "Tổ hợp môn": "D06",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "CCQT và Hệ không chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình CLC ngành Tiếng Nhật thương mại",
+          "Tổ hợp môn": "D06",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "CCQT và SAT, SCT"
+        },
+        {
+          "Tên ngành": "Chương trình CLC Tiếng Pháp thương mại",
+          "Tổ hợp môn": "D01; D03",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": "CCQT và hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình CLC Tiếng Pháp thương mại",
+          "Tổ hợp môn": "D03",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "CCQT và điểm thi tốt nghiệp"
+        },
+        {
+          "Tên ngành": "Chương trình CLC Tiếng Pháp thương mại",
+          "Tổ hợp môn": "D03",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "CCQT và Hệ không chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình CLC Tiếng Pháp thương mại",
+          "Tổ hợp môn": "D03",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "CCQT và SAT, SCT"
+        },
+        {
+          "Tên ngành": "Chương trình CLC Tiếng Trung thương mại",
+          "Tổ hợp môn": "D04",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": "CCQT và Hệ không chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình CLC Tiếng Trung thương mại",
+          "Tổ hợp môn": "D04",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "CCQT và SAT, SCT"
+        },
+        {
+          "Tên ngành": "Chương trình CLC Tiếng Trung Thương mại",
+          "Tổ hợp môn": "D01; D04",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "CCQT và hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình CLC Tiếng Trung thương mại",
+          "Tổ hợp môn": "D04",
+          "Điểm chuẩn": "27.3",
+          "Ghi chú": "CCQT và điểm thi tốt nghiệp"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Quản trị khách sạn",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "CCQT và Hệ không chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Quản trị khách sạn",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "CCQT và SAT, SCT"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Quản trị khách sạn",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "CCQT và điểm thi tốt nghiệp"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Quản trị khách sạn",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "CCQT và hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình CLC Quản trị kinh doanh quốc tế",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "26.8",
+          "Ghi chú": "CCQT và điểm thi tốt nghiệp"
+        },
+        {
+          "Tên ngành": "Chương trình CLC Quản trị kinh doanh quốc tế",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "26.6",
+          "Ghi chú": "CCQT và hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình CLC Quản trị kinh doanh quốc tế",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "28.1",
+          "Ghi chú": "CCQT và Hệ không chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình CLC Quản trị kinh doanh quốc tế",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "CCQT và SAT, SCT"
+        },
+        {
+          "Tên ngành": "Chương trình tiên tiến Quản trị kinh doanh quốc tế",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "CCQT và Hệ không chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình tiên tiến Quản trị kinh doanh quốc tế",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "CCQT và SAT, SCT"
+        },
+        {
+          "Tên ngành": "Chương trình tiên tiến Quản trị kinh doanh quốc tế",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "26.7",
+          "Ghi chú": "CCQT và điểm thi tốt nghiệp"
+        },
+        {
+          "Tên ngành": "Chương trình tiên tiến Quản trị kinh doanh quốc tế",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "26.7",
+          "Ghi chú": "CCQT và hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình CLC Ngân hàng và Tài chính quốc tế",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "28.1",
+          "Ghi chú": "CCQT và Hệ không chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình CLC Ngân hàng và Tài chính quốc tế",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "CCQT và SAT, SCT"
+        },
+        {
+          "Tên ngành": "Chương trình CLC Ngân hàng và Tài chính quốc tế",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "26.6",
+          "Ghi chú": "CCQT và hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình CLC Ngân hàng và Tài chính quốc tế",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "CCQT và điểm thi tốt nghiệp"
+        },
+        {
+          "Tên ngành": "Chương trình tiên tiến Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "27.1",
+          "Ghi chú": "CCQT và hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình tiên tiến Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "CCQT và điểm thi tốt nghiệp"
+        },
+        {
+          "Tên ngành": "Chương trình tiên tiến Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "28.2",
+          "Ghi chú": "CCQT và Hệ không chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình tiên tiến Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "29",
+          "Ghi chú": "CCQT và SAT, SCT"
+        }
+      ],
+      "row_count": 88
+    }
+  ],
+  "table_count": 5,
+  "crawled_at": "2025-07-18T23:22:19.562669",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-ngoai-thuong-co-so-phia-bac-NTH.html"
+}

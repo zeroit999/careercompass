@@ -1,0 +1,1125 @@
+{
+  "school_code": "DVT",
+  "school_name": "Trường Đại Học Trà Vinh",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Âm nhạc học",
+          "Tổ hợp môn": "N00",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Biểu diễn nhạc cụ truyền thống",
+          "Tổ hợp môn": "N00",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Khmer",
+          "Tổ hợp môn": "C00; D01; D14",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D09; D14; DH1",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "D01; D09; D14; DH1",
+          "Điểm chuẩn": "18.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Văn hoá học",
+          "Tổ hợp môn": "C00; D14",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chính trị học",
+          "Tổ hợp môn": "C00; D01; C19; C20",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "C00; C04; D01; D14",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; A01; C14; C15",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "C00; C04; D01; D14",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật (Luật dân sự, Luật thương mại và Luật hình sự)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "A00; B00; B08; D90",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "A00; A01; C01; D07",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; C01; D07",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật công trình xây dựng",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử (Hệ thống điện, Điện công nghiệp)",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hoá",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật hóa học",
+          "Tổ hợp môn": "A00; B00; D07",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; C14; D01; D84",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật môi trường",
+          "Tổ hợp môn": "A01; A02; B00; B08",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình giao thông",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nông nghiệp",
+          "Tổ hợp môn": "A00; B00; B08; D90",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Bảo vệ thực vật",
+          "Tổ hợp môn": "A02; B00; B08; D90",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nuôi trồng thuỷ sản",
+          "Tổ hợp môn": "A02; B00; B08; D90",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thú y",
+          "Tổ hợp môn": "A02; B00; B08; D90",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "B00; B08",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y học dự phòng",
+          "Tổ hợp môn": "B00; B08",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "A00; B00",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hóa dược",
+          "Tổ hợp môn": "A00; B00",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "B00; B08",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Răng - Hàm - Mặt",
+          "Tổ hợp môn": "B00; B08",
+          "Điểm chuẩn": "24.62",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xét nghiệm y học",
+          "Tổ hợp môn": "A00; B00",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật hình ảnh y học",
+          "Tổ hợp môn": "A00; B00",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phục hồi chức năng",
+          "Tổ hợp môn": "A00; B00",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y tế công cộng",
+          "Tổ hợp môn": "A00; B00",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "C00; D78; D66; C04",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "C00; C04; D01; D15",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý thể dục thể thao",
+          "Tổ hợp môn": "C00; C14; C19; D78",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "A00; B00; B02; B08",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Quản trị kinh doanh tổng hợp, dạy và học bằng Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (dạy và học bằng Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; C01; D07",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 48
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Âm nhạc học",
+          "Tổ hợp môn": "N00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Biểu diễn nhạc cụ truyền thống",
+          "Tổ hợp môn": "N00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Khmer",
+          "Tổ hợp môn": "C00; D01; D14",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D09; D14; DH1",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "D01; D09; D14; DH1",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Văn hoá học",
+          "Tổ hợp môn": "C00; D14",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chính trị học",
+          "Tổ hợp môn": "C00; D01; C19; C20",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "C00; C04; D01; D14",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; A01; C14; C15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "C00; C04; D01; D14",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật (Luật dân sự, Luật thương mại và Luật hình sự)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "A00; B00; B08; D90",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "A00; A01; C01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; C01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật công trình xây dựng",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử (Hệ thống điện, Điện công nghiệp)",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hoá",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật hóa học",
+          "Tổ hợp môn": "A00; B00; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; C14; D01; D84",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật môi trường",
+          "Tổ hợp môn": "A01; A02; B00; B08",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình giao thông",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nông nghiệp",
+          "Tổ hợp môn": "A00; B00; B08; D90",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Bảo vệ thực vật",
+          "Tổ hợp môn": "A02; B00; B08; D90",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nuôi trồng thuỷ sản",
+          "Tổ hợp môn": "A02; B00; B08; D90",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thú y",
+          "Tổ hợp môn": "A02; B00; B08; D90",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y hoc dự phòng",
+          "Tổ hợp môn": "B00; B08",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hóa dược",
+          "Tổ hợp môn": "A00; B00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "B00; B08",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xét nghiệm y học",
+          "Tổ hợp môn": "A00; B00",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật hình ảnh y học",
+          "Tổ hợp môn": "A00; B00",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phục hồi chức năng",
+          "Tổ hợp môn": "A00; B00",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y tế công cộng",
+          "Tổ hợp môn": "A00; B00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "C00; D78; D66; C04",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "C00; C04; D01; D15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý thể dục thể thao",
+          "Tổ hợp môn": "C00; C14; C19; D78",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "A00; B00; B02; B08",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Quản trị kinh doanh tổng hợp, dạy và học bằng Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (dạy và học bằng Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; C01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 45
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Khmer",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "400",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "400",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "500",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Văn hoá học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "400",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "400",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chính trị học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "400",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "400",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "400",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "400",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "400",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "400",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "400",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật (Luật dân sự, Luật thương mại và Luật hình sự)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "400",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "400",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "400",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "400",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật công trình xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "400",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "400",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "400",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử (Hệ thống điện, Điện công nghiệp)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "400",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hoá",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "400",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật hóa học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "400",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "400",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật môi trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "400",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "400",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình giao thông",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "400",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nông nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "400",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Bảo vệ thực vật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "400",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nuôi trồng thuỷ sản",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "400",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thú y",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "400",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "900",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y hoc dự phòng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "500",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hóa dược",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "400",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Răng - Hàm - Mặt",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "900",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xét nghiệm y học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật hình ảnh y học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "500",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phục hồi chức năng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "500",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y tế công cộng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "400",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "400",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "400",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý thể dục thể thao",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "500",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "400",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Quản trị kinh doanh tổng hợp, dạy và học bằng Tiếng Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "400",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (dạy và học bằng Tiếng Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "400",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 46
+    },
+    {
+      "table_title": "Điểm Đánh giá đầu vào V-SAT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Khmer",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "225",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngồn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "225",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "225",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "225",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "225",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "225",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "225",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "225",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật (Luật dân sự, Luật thương mại và Luật hình sự)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "225",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "225",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "225",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "225",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật công trình xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "225",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "225",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "225",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử (Hệ thống điện, Điện công nghiệp)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "225",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hoá",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "225",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật hóa học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "225",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "225",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật môi trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "225",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "225",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình giao thông",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "225",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nông nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "225",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Bảo vệ thực vật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "225",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nuôi trồng thuỷ sản",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "225",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thú y",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "225",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "300",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y hoc dự phòng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "270",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "300",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hóa dược",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "225",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "270",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Răng - Hàm - Mặt",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "300",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xét nghiệm y học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "270",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật hình ảnh y học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "270",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phục hồi chức năng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "270",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y tế công cộng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "225",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "225",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Quản trị kinh doanh tổng hợp, dạy và học bằng Tiếng Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "225",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (dạy và học bằng Tiếng Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "225",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 39
+    }
+  ],
+  "table_count": 4,
+  "crawled_at": "2025-07-18T23:27:09.712500",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-tra-vinh-DVT.html"
+}

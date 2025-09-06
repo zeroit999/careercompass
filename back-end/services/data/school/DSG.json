@@ -1,0 +1,285 @@
+{
+  "school_code": "DSG",
+  "school_name": "Trường Đại Học Công Nghệ Sài Gòn",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Thiết kế công nghiệp",
+          "Tổ hợp môn": "D01; D02; D03; D04; D05; D06; D72; D73; D74; D75; D76; D77; A01; D26; D27; D28; D29; D30; D78; D79; D80; D81; D82; D83",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "D01; D02; D03; D04; D05; D06; A00; A01; D26; D27; D28; D29; D30; D78; D79; D80; D81; D82; D83",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "D01; D02; D03; D04; D05; D06; A00; A01; D26; D27; D28; D29; D30; C01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "D01; D02; D03; D04; D05; D06; A00; A01; D26; D27; D28; D29; D30; D90; D92; D93; D94; D91; D95",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện - điện tử",
+          "Tổ hợp môn": "D01; D02; D03; D04; D05; D06; A00; A01; D26; D27; D28; D29; D30; D90; D92; D93; D94; D91; D95",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "CNKT Điện tử viễn thông",
+          "Tổ hợp môn": "D01; D02; D03; D04; D05; D06; A00; A01; D26; D27; D28; D29; D30; D90; D92; D93; D94; D91; D95",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "D01; D02; D03; D04; D05; D06; A00; B00; D08; D31; D32; D33; D34; D35",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Xây dựng",
+          "Tổ hợp môn": "D01; D02; D03; D04; D05; D06; A00; A01; D26; D27; D28; D29; D30; D90; D92; D93; D94; D91; D95",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 8
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Thiết kế công nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Thiết kế công nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 5 học kỳ"
+        },
+        {
+          "Tên ngành": "Thiết kế công nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 5 học kỳ"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 5 học kỳ"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 5 học kỳ"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện - điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 5 học kỳ"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện - điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện - điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử viễn thông",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử viễn thông",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 5 học kỳ"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử viễn thông",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 5 học kỳ"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 3 học kỳ"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ 5 học kỳ"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ lớp 12"
+        }
+      ],
+      "row_count": 24
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Thiết kế công nghiệp",
+          "Tổ hợp môn": "NL1",
+          "Điểm chuẩn": "500",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "NL1",
+          "Điểm chuẩn": "500",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "NL1",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "NL1",
+          "Điểm chuẩn": "500",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện - điện tử",
+          "Tổ hợp môn": "NL1",
+          "Điểm chuẩn": "500",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử viễn thông",
+          "Tổ hợp môn": "NL1",
+          "Điểm chuẩn": "500",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "NL1",
+          "Điểm chuẩn": "500",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "NL1",
+          "Điểm chuẩn": "500",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 8
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:31:58.448673",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-cong-nghe-sai-gon-DSG.html"
+}

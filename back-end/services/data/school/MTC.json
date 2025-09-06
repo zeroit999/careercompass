@@ -1,0 +1,63 @@
+{
+  "school_code": "MTC",
+  "school_name": "Trường Đại Học Mỹ Thuật Công Nghiệp",
+  "tables": [
+    {
+      "table_title": "Điểm học bạ năm 2023",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Hội họa",
+          "Tổ hợp môn": "H00; H07",
+          "Điểm chuẩn": "22.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điêu khắc",
+          "Tổ hợp môn": "H00; H07",
+          "Điểm chuẩn": "21.15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Gốm",
+          "Tổ hợp môn": "H00; H07",
+          "Điểm chuẩn": "21.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế công nghiệp",
+          "Tổ hợp môn": "H00; H07",
+          "Điểm chuẩn": "21.65",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế Đồ họa",
+          "Tổ hợp môn": "H00; H07",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế thời trang",
+          "Tổ hợp môn": "H00; H07",
+          "Điểm chuẩn": "21.65",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế Nội thất",
+          "Tổ hợp môn": "H00; H07",
+          "Điểm chuẩn": "22.25",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 7
+    }
+  ],
+  "table_count": 1,
+  "crawled_at": "2025-07-18T23:32:37.423981",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-my-thuat-cong-nghiep-MTC.html"
+}

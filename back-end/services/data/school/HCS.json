@@ -1,0 +1,261 @@
+{
+  "school_code": "HCS",
+  "school_name": "Học Viện Hành Chính Và Quản Trị Công (phía Nam)",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A00; A01; A07; D01",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "A00; D01; D15; C00",
+          "Điểm chuẩn": "25.35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Lưu trữ học",
+          "Tổ hợp môn": "C19",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Lưu trữ học",
+          "Tổ hợp môn": "D14; C00; C03",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "A01; D01; D15; C00",
+          "Điểm chuẩn": "24.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "26.45",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 6
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A00; A01; A07; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "A00; D01; D15; C00",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Lưu trữ học",
+          "Tổ hợp môn": "D14; C00; C03",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Lưu trữ học",
+          "Tổ hợp môn": "C19",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "A01; D01; D15; C00",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 6
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "82",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "82",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Lưu trữ học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "82",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "90",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 5
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "656",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "656",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Lưu trữ học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "640",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "656",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "720",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 5
+    },
+    {
+      "table_title": "Điểm xét tuyển kết hợp năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "Chứng chỉ IELTS"
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "74",
+          "Ghi chú": "Chứng chỉ TOEFL iBT"
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "Chứng chỉ IELTS"
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "74",
+          "Ghi chú": "Chứng chỉ TOEFL iBT"
+        },
+        {
+          "Tên ngành": "Lưu trữ học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": "Chứng chỉ IELTS"
+        },
+        {
+          "Tên ngành": "Lưu trữ học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "65",
+          "Ghi chú": "Chứng chỉ TOEFL iBT"
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "Chứng chỉ IELTS"
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "74",
+          "Ghi chú": "Chứng chỉ TOEFL iBT"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": "Chứng chỉ TOEFL iBT"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6.5",
+          "Ghi chú": "Chứng chỉ IELTS"
+        }
+      ],
+      "row_count": 10
+    }
+  ],
+  "table_count": 5,
+  "crawled_at": "2025-07-18T23:26:42.269630",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-hanh-chinh-va-quan-tri-cong-phia-nam-HCS.html"
+}

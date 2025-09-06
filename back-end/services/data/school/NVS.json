@@ -1,0 +1,63 @@
+{
+  "school_code": "NVS",
+  "school_name": "Nhạc Viện TPHCM",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2022",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Âm nhạc học",
+          "Tổ hợp môn": "1",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sáng tác âm nhạc",
+          "Tổ hợp môn": "1",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chỉ huy âm nhạc",
+          "Tổ hợp môn": "1",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thanh nhạc",
+          "Tổ hợp môn": "1",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Biểu diễn nhạc cụ phương tây",
+          "Tổ hợp môn": "1",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Piano",
+          "Tổ hợp môn": "1",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Biểu diễn nhạc cụ truyền thống",
+          "Tổ hợp môn": "1",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 7
+    }
+  ],
+  "table_count": 1,
+  "crawled_at": "2025-07-18T23:32:30.966490",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/nhac-vien-tphcm-NVS.html"
+}

@@ -1,0 +1,339 @@
+{
+  "nhom_nganh": "Thể dục - Thể thao",
+  "danh_sach_nganh": [
+    {
+      "ten_nganh": "Giáo dục Thể chất",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội - SPH",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục thể chất",
+              "to_hop_mon": "T01; T02",
+              "diem_chuan_2024": "25.66",
+              "diem_chuan_2023": "22.85"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm TPHCM - SPS",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Thể chất",
+              "to_hop_mon": "M08; T01",
+              "diem_chuan_2024": "26.71",
+              "diem_chuan_2023": "26.1"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thủ Đô Hà Nội - HNM",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục thể chất",
+              "to_hop_mon": "T00; T01; T02; T08; T11",
+              "diem_chuan_2024": "24",
+              "diem_chuan_2023": "23.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Thể chất",
+              "to_hop_mon": "T00; T01; T06; T10",
+              "diem_chuan_2024": "25.6",
+              "diem_chuan_2023": "23.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm - Đại Học Đà Nẵng - DDS",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Thể chất",
+              "to_hop_mon": "T01; T08",
+              "diem_chuan_2024": "23.25",
+              "diem_chuan_2023": "20.63"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội 2 - SP2",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Thể chất",
+              "to_hop_mon": "T00; T01; T02; T07",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hùng Vương - THV",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Thể chất",
+              "to_hop_mon": "M03; M02",
+              "diem_chuan_2024": "34",
+              "diem_chuan_2023": "31.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đồng Tháp - SPD",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Thể chất",
+              "to_hop_mon": "T00; T01; T02; T03; T05; T06; T15",
+              "diem_chuan_2024": "25.7",
+              "diem_chuan_2023": "25.66"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quy Nhơn - DQN",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục thể chất",
+              "to_hop_mon": "T00; T01; T02; T04; T06",
+              "diem_chuan_2024": "26.5",
+              "diem_chuan_2023": "22.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hải Dương - DKT",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục thể chất",
+              "to_hop_mon": "T00; T01; T02; T03",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thể Dục Thể Thao TPHCM - TDS",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục thể chất",
+              "to_hop_mon": "T00; T01; T04; T06",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": "35"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Thể Dục Thể Thao TPHCM - STS",
+          "data_school": [
+            {
+              "ten_nganh": "Ngành Giáo dục thể chất",
+              "to_hop_mon": "T00; T02; T05; T08; T09; T10",
+              "diem_chuan_2024": "23.75",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hồng Đức - HDT",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục thể chất",
+              "to_hop_mon": "T01; T02; T05; T07; (Văn, Sử, Năng khiếu)",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Hóa, Thể Thao Và Du Lịch Thanh Hóa - DVD",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Thể chất",
+              "to_hop_mon": "T00; T03; T05; T08",
+              "diem_chuan_2024": "26.5",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Huấn luyện thể thao",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Đồng Tháp - SPD",
+          "data_school": [
+            {
+              "ten_nganh": "Huấn luyện thể thao",
+              "to_hop_mon": "T00; T01; T02; T03; T05; T06; T15",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thể Dục Thể Thao TPHCM - TDS",
+          "data_school": [
+            {
+              "ten_nganh": "Huấn luyện thể thao",
+              "to_hop_mon": "T00; T01; T04; T06",
+              "diem_chuan_2024": "24",
+              "diem_chuan_2023": "23"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Thể Dục Thể Thao TPHCM - STS",
+          "data_school": [
+            {
+              "ten_nganh": "Ngành Huấn luyện thể thao",
+              "to_hop_mon": "T00; T02; T05; T08; T09; T10",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thể Dục Thể Thao Đà Nẵng - TTD",
+          "data_school": [
+            {
+              "ten_nganh": "Huấn luyện thể thao",
+              "to_hop_mon": "B03; C14; T10",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thể Dục Thể Thao Bắc Ninh - TDB",
+          "data_school": [
+            {
+              "ten_nganh": "Huấn luyện thể thao",
+              "to_hop_mon": "T00; T01; T02; T05; T06",
+              "diem_chuan_2024": "18.35",
+              "diem_chuan_2023": "18.7"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Hóa, Thể Thao Và Du Lịch Thanh Hóa - DVD",
+          "data_school": [
+            {
+              "ten_nganh": "Huấn luyện thể thao",
+              "to_hop_mon": "T00; T03; T05; T08; T06; T09",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Quản lý thể dục thể thao",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Tôn Đức Thắng - DTT",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý thể dục thể thao (Chuyên ngành Kinh doanh thể thao và tổ chức sự kiện)",
+              "to_hop_mon": "A01; B03; B08; C01; D01; T00; T01",
+              "diem_chuan_2024": "31.3",
+              "diem_chuan_2023": "30.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội 2 - SP2",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý thể dục thể thao",
+              "to_hop_mon": "T00; T01; T02; T07",
+              "diem_chuan_2024": "18",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Trà Vinh - DVT",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý thể dục thể thao",
+              "to_hop_mon": "B03; B08; C00; C14; D14; X01; X58",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thể Dục Thể Thao TPHCM - TDS",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý thể dục thể thao",
+              "to_hop_mon": "T00; T01; T04; T06",
+              "diem_chuan_2024": "24",
+              "diem_chuan_2023": "23"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Thể Dục Thể Thao TPHCM - STS",
+          "data_school": [
+            {
+              "ten_nganh": "Ngành Quản lý thể dục thể thao",
+              "to_hop_mon": "T00; T02; T05; T08; T09; T10",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công Nghệ TPHCM - DKC",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý thể dục thể thao",
+              "to_hop_mon": "D01; C03; C04; C01; (Toán, Văn, Tin); X01",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thể Dục Thể Thao Bắc Ninh - TDB",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý TDTT",
+              "to_hop_mon": "T00; T01; T02; T05; T06",
+              "diem_chuan_2024": "18.35",
+              "diem_chuan_2023": "18.7"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Thái Nguyên - DTZ",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý thể dục thể thao",
+              "to_hop_mon": "C00; C03; C04; C14; C19; C20; D01; D10; D66; D84",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Hóa, Thể Thao Và Du Lịch Thanh Hóa - DVD",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý Thể dục thể thao",
+              "to_hop_mon": "T00; T03; T05; T08; T06; T09",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

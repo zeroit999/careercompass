@@ -1,0 +1,69 @@
+{
+  "school_code": "NHP",
+  "school_name": "Học Viện Ngân Hàng (Phân Viện Phú Yên)",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 3
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 3
+    }
+  ],
+  "table_count": 2,
+  "crawled_at": "2025-07-18T23:31:48.169879",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-ngan-hang-phan-vien-phu-yen-NHP.html"
+}

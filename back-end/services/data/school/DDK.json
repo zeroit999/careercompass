@@ -1,0 +1,801 @@
+{
+  "school_code": "DDK",
+  "school_name": "Trường Đại Học Bách Khoa Đà Nẵng",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "A00; D07; B00",
+          "Điểm chuẩn": "23.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học, chuyên ngành Công nghệ sinh học Y Dược",
+          "Tổ hợp môn": "A00; D07; B00",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật máy tính",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "25.82",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiên tiến Việt-Mỹ ngành Hệ thống Nhúng và IoT",
+          "Tổ hợp môn": "A01; D07",
+          "Điểm chuẩn": "23.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Đặc thù - Hợp tác doanh nghiệp)",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "26.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (ngoại ngữ Nhật)",
+          "Tổ hợp môn": "A00; A01; D28",
+          "Điểm chuẩn": "25.55",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Đặc thù - Hợp tác doanh nghiệp), chuyên ngành Khoa học dữ liệu và Trí tuệ nhân tạo",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "27.11",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật vật liệu xây dựng",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "17.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ chế tạo máy",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "23.85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý công nghiệp",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "23.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ dầu khí và khai thác dầu",
+          "Tổ hợp môn": "A00; D07",
+          "Điểm chuẩn": "22.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Cơ khí, chuyên ngành Cơ khí động lực",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "24.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Cơ khí, chuyên ngành Cơ khí hàng không",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "24.85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Cơ điện tử",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "25.35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật nhiệt",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "22.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật hệ thống công nghiệp",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Tàu thủy",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "20.15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "25.36",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điện",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "24.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử - viễn thông",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "25.14",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử - viễn thông, chuyên ngành vi điện tử - thiết kế vi mạch",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "26.31",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiên tiến Việt - Mỹ ngành Kỹ thuật Điện tử viễn thông",
+          "Tổ hợp môn": "A01; D07",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điều khiển và Tự động hóa",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật hóa học",
+          "Tổ hợp môn": "A00; D07",
+          "Điểm chuẩn": "23.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật môi trường",
+          "Tổ hợp môn": "A00; D07; B00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; D07; B00",
+          "Điểm chuẩn": "22.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "V00; V01; V02",
+          "Điểm chuẩn": "22.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng, chuyên ngành Xây dựng dân dụng và công nghiệp",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng, chuyên ngành Tin học xây dựng",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "17.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng, chuyên ngành Kỹ thuật và quản lý xây dựng đô thị thông minh",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "17.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng, chuyên ngành Mô hình thông tin và trí tuệ nhân tạo trong xây dựng",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "17.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình thủy",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "17.65",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình giao thông",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "18.35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ sở hạ tầng",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "17.95",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế xây dựng",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "21.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "A00; D07; B00",
+          "Điểm chuẩn": "18.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình đào tạo kỹ sư chất lượng cao Việt - Pháp (PFIEV)",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "22.35",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 37
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "A00; D07; B00",
+          "Điểm chuẩn": "27.16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học, chuyên ngành Công nghệ sinh học Y Dược",
+          "Tổ hợp môn": "A00; D07; B00",
+          "Điểm chuẩn": "27.73",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật máy tính",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "28.83",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiên tiến Việt-Mỹ ngành Hệ thống Nhúng và IoT",
+          "Tổ hợp môn": "A01; D07",
+          "Điểm chuẩn": "25.73",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật vật liệu xây dựng",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "21.47",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ chế tạo máy",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "26.92",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý công nghiệp",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "25.93",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ dầu khí và khai thác dầu",
+          "Tổ hợp môn": "A00; D07",
+          "Điểm chuẩn": "26.78",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Cơ khí, chuyên ngành Cơ khí động lực",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "26.52",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Cơ khí, chuyên ngành Cơ khí hàng không",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Cơ điện tử",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "27.93",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật nhiệt",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "25.23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật hệ thống công nghiệp",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "21.13",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Tàu thủy",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "19.39",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điện",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "27.11",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử - viễn thông",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "27.83",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiên tiến Việt - Mỹ ngành Kỹ thuật Điện tử viễn thông",
+          "Tổ hợp môn": "A01; D07",
+          "Điểm chuẩn": "25.07",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điều khiển và Tự động hóa",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "28.38",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật hóa học",
+          "Tổ hợp môn": "A00; D07",
+          "Điểm chuẩn": "26.47",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật môi trường",
+          "Tổ hợp môn": "A00; D07; B00",
+          "Điểm chuẩn": "20.51",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; D07; B00",
+          "Điểm chuẩn": "26.18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "V00; V01; V02",
+          "Điểm chuẩn": "24.08",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng, chuyên ngành Xây dựng dân dụng và công nghiệp",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "24.59",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng, chuyên ngành Tin học xây dựng",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "22.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng, chuyên ngành Kỹ thuật và quản lý xây dựng đô thị thông minh",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "23.23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng, chuyên ngành Mô hình thông tin và trí tuệ nhân tạo trong xây dựng",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình thủy",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "18.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình giao thông",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "19.48",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ sở hạ tầng",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "20.35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế xây dựng",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "25.72",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "A00; D07; B00",
+          "Điểm chuẩn": "24.17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình đào tạo kỹ sư chất lượng cao Việt - Pháp (PFIEV)",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "25.76",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 32
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "706",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học, chuyên ngành Công nghệ sinh học Y Dược",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "769",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "825",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiên tiến Việt-Mỹ ngành Hệ thống Nhúng và IoT",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "619",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Đặc thù - Hợp tác doanh nghiệp)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "858",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (ngoại ngữ Nhật)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "806",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Đặc thù - Hợp tác doanh nghiệp), chuyên ngành Khoa học dữ liệu và Trí tuệ nhân tạo",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "926",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật vật liệu xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "619",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ chế tạo máy",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "705",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý công nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "713",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ dầu khí và khai thác dầu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "722",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Cơ khí, chuyên ngành Cơ khí động lực",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "734",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Cơ khí, chuyên ngành Cơ khí hàng không",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "723",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Cơ điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "824",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật nhiệt",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "613",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật hệ thống công nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "613",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Tàu thủy",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "659",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật ô tô",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "727",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "779",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử - viễn thông",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "753",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử - viễn thông, chuyên ngành vi điện tử - thiết kế vi mạch",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "909",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiên tiến Việt-Mỹ ngành Kỹ thuật Điện tử viễn thông",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "669",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điều khiển và Tự động hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "856",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật hóa học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "754",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật môi trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "611",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "761",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng, chuyên ngành Xây dựng dân dụng và công nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "654",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng, chuyên ngành Tin học xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "681",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng, chuyên ngành Kỹ thuật và quản lý xây dựng đô thị thông minh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "634",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng, chuyên ngành Mô hình thông tin và trí tuệ nhân tạo trong xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "636",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình thủy",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "764",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình giao thông",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "631",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ sở hạ tầng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "622",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "688",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "611",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình đào tạo kỹ sư chất lượng cao Việt - Pháp (PFIEV)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "754",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 36
+    },
+    {
+      "table_title": "Điểm Đánh giá Tư duy năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "54.99",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học, chuyên ngành Công nghệ sinh học Y Dược",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "54.99",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "71.31",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiên tiến Việt-Mỹ ngành Hệ thống Nhúng và IoT",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "53.34",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Đặc thù - Hợp tác doanh nghiệp)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "66.64",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (ngoại ngữ Nhật)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "62.07",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Đặc thù - Hợp tác doanh nghiệp), chuyên ngành Khoa học dữ liệu và Trí tuệ nhân tạo",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "73.57",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ chế tạo máy",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "56.66",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Cơ khí, chuyên ngành Cơ khí động lực",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "57.61",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Cơ khí, chuyên ngành Cơ khí hàng không",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "58.15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Cơ điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "63.24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật ô tô",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "61.61",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "60.13",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử - viễn thông",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "62.76",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử - viễn thông, chuyên ngành vi điện tử - thiết kế vi mạch",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "68.12",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiên tiến Việt-Mỹ ngành Kỹ thuật Điện tử viễn thông",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "56.43",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điều khiển và Tự động hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "65.04",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng, chuyên ngành Xây dựng dân dụng và công nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "53.37",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình đào tạo kỹ sư chất lượng cao Việt - Pháp (PFIEV)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "57.51",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 19
+    }
+  ],
+  "table_count": 4,
+  "crawled_at": "2025-07-18T23:25:09.098700",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-bach-khoa-da-nang-DDK.html"
+}

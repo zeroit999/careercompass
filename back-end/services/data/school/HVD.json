@@ -1,0 +1,45 @@
+{
+  "school_code": "HVD",
+  "school_name": "Học Viện Dân Tộc",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kinh tế giáo dục vùng dân tộc thiểu số",
+          "Tổ hợp môn": "C00; C03; C04; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 1
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kinh tế giáo dục vùng dân tộc thiểu số",
+          "Tổ hợp môn": "C00; C03; C04; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 1
+    }
+  ],
+  "table_count": 2,
+  "crawled_at": "2025-07-18T23:30:39.016780",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-dan-toc-HVD.html"
+}

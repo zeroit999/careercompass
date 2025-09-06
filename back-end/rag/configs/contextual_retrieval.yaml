@@ -1,0 +1,40 @@
+# RAG System Configuration - Contextual Retrieval Algorithm
+# Enhanced retrieval with contextual information
+
+algorithm:
+  name: "contextual_retrieval"
+  description: "Document chunking with contextual enhancement"
+
+chunking:
+  strategy: "contextual"
+  chunk_size: 1000
+  overlap: 200
+  add_context: true
+  context_window: 2
+  
+retrieval:
+  method: "contextual"
+  max_results: 7
+  similarity_threshold: 0.65
+  rerank: true
+  context_boost: 0.1
+
+embedding:
+  model: "text-embedding-3-small"
+  dimension: 1536
+  batch_size: 50
+
+vector_store:
+  index_name: "rag_contextual_index"
+  index_type: "cosine"
+  create_index: true
+
+generation:
+  model: "gpt-4o-mini"
+  temperature: 0.1
+  max_tokens: 1500
+  system_prompt: |
+    You are an AI assistant that specializes in document analysis and Q&A.
+    You have access to contextually enhanced document chunks.
+    Provide comprehensive answers using the enhanced context provided.
+    Cite specific sections when possible.

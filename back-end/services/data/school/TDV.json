@@ -1,0 +1,1599 @@
+{
+  "school_code": "TDV",
+  "school_name": "Trường Đại Học Vinh",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản lý Giáo dục",
+          "Tổ hợp môn": "C00; D01; A00; A01",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Tiểu học",
+          "Tổ hợp môn": "C00; D01; A00; A01",
+          "Điểm chuẩn": "28.12",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Chính trị",
+          "Tổ hợp môn": "C00; D66; C19; C20",
+          "Điểm chuẩn": "27.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Quốc phòng -An ninh",
+          "Tổ hợp môn": "C00; D01; A00; C19",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Toán học",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "26.2",
+          "Ghi chú": "Toán hệ số 2"
+        },
+        {
+          "Tên ngành": "Sư phạm Toán học (lớp tài năng)",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Toán hệ số 2"
+        },
+        {
+          "Tên ngành": "Sư phạm Tin học",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Vật lý",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "25.9",
+          "Ghi chú": "Vật lý hệ số 2"
+        },
+        {
+          "Tên ngành": "Sư phạm Hóa học",
+          "Tổ hợp môn": "A00; B00; D07; C02",
+          "Điểm chuẩn": "26.4",
+          "Ghi chú": "Hóa học hệ số 2"
+        },
+        {
+          "Tên ngành": "Sư phạm Sinh học",
+          "Tổ hợp môn": "B00; B03; B08; A02",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": "Sinh học hệ số 2"
+        },
+        {
+          "Tên ngành": "Sư phạm Ngữ văn",
+          "Tổ hợp môn": "C00; D01; D15; C20",
+          "Điểm chuẩn": "28.46",
+          "Ghi chú": "Ngữ văn hệ số 2"
+        },
+        {
+          "Tên ngành": "Sư phạm Lịch sử",
+          "Tổ hợp môn": "C00; C19; C20; D14",
+          "Điểm chuẩn": "28.71",
+          "Ghi chú": "Lịch sử hệ số 2"
+        },
+        {
+          "Tên ngành": "Sư phạm Địa lý",
+          "Tổ hợp môn": "C00; C04; C20; D15",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": "Địa lý hệ số 2"
+        },
+        {
+          "Tên ngành": "Sư phạm Tiếng Anh",
+          "Tổ hợp môn": "D01; D14; D15; A01",
+          "Điểm chuẩn": "26.46",
+          "Ghi chú": "Tiếng Anh hệ số 2"
+        },
+        {
+          "Tên ngành": "Sư phạm Tiếng Anh (lớp tài năng)",
+          "Tổ hợp môn": "D01; D14; D15; A01",
+          "Điểm chuẩn": "27.25",
+          "Ghi chú": "Tiếng Anh hệ số 2"
+        },
+        {
+          "Tên ngành": "Sư phạm Khoa học tự nhiên",
+          "Tổ hợp môn": "A00; A02; B00",
+          "Điểm chuẩn": "25.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Lịch sừ - Địa lý",
+          "Tổ hợp môn": "C00; C19; C20; D14",
+          "Điểm chuẩn": "28.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D14; D15; A01",
+          "Điểm chuẩn": "24.8",
+          "Ghi chú": "Tiếng Anh hệ số 2"
+        },
+        {
+          "Tên ngành": "Quán lý văn hóa",
+          "Tổ hợp môn": "C00; D01; A00; A01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế (Chuyên ngành Kình tế đầu tư và chuyên ngành Quán lý kinh tế)",
+          "Tổ hợp môn": "A00; A01; D01; B00",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế số (chuyên ngành Kinh tế và Kinh doanh so)",
+          "Tổ hợp môn": "A00; A01; D01; B00",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chính trị học",
+          "Tổ hợp môn": "C00; D01; C19; A01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quán lý nhà nước",
+          "Tổ hợp môn": "C00; D01; A00; A01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học giáo dục",
+          "Tổ hợp môn": "C00; D01; A00; A01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quốc tế học",
+          "Tổ hợp môn": "D01; D14; D15; D66",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Việt Nam học (Chuyên ngành Du lịch)",
+          "Tổ hợp môn": "C00; D01; A00; A01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chương trình đào tạo bằng tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính ngân hàng (Chuyên ngành Tài chính doanh nghiệp; chuyên ngành Ngân hàng thương mại)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "C00; D01; A00; A01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "C00; D01; A00; A01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "B00; A01; A02; B08",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Chương trình đào tạo bằng tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; B00; D01; A01",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật nhiệt",
+          "Tổ hợp môn": "A00; B00; D01; A01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện; điện tử",
+          "Tổ hợp môn": "A00; B00; D01; A01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử - viễn thông",
+          "Tổ hợp môn": "A00; B00; D01; A01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và tự động hóa",
+          "Tổ hợp môn": "A00; B00; D01; A01",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; B00; A01; D07",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng (chuyên ngành: Xây dựng công trình dân dụng và công nghiệp; Kết cấu công trình; Công nghệ kỹ thuật xây dựng)",
+          "Tổ hợp môn": "A00; B00; D01; A01",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình giao thông (chuyên ngành: Kỹ thuật xây dựng cầu đường; Kỹ thuật xây dựng công trình ngầm; Kỹ thuật hạ tầng đô thị)",
+          "Tổ hợp môn": "A00; B00; D01; A01",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế xây dựng (Chuyên ngành : Kinh tế đầu tư xây dựng; Kinh tế vận tải và logistic; Quản lý dự án công trình xây dựng)",
+          "Tổ hợp môn": "A00; B00; D01; A01",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chăn nuôi",
+          "Tổ hợp môn": "A00; B00; D01; B08",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nông học",
+          "Tổ hợp môn": "A00; B00; D01; B08",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học cây trồng",
+          "Tổ hợp môn": "A00; B00; D01; B08",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nuôi trồng thủy sản",
+          "Tổ hợp môn": "A00; B00; D01; B08",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thú y",
+          "Tổ hợp môn": "A00; B00; D01; B08",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "B00; C08; D08; D13",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "C00; D01; A00; A01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "A00; B00; D01; B08",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý đất đai (Chuyên ngành: Quản lý đất đai; Quản lý phát triển đô thị và bất động sán)",
+          "Tổ hợp môn": "A00; B00; D01; B08",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 55
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản lý giáo dục",
+          "Tổ hợp môn": "C00; D01; A00; A01",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý văn hóa",
+          "Tổ hợp môn": "C00; D01; A00; A01",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế (Chuyên ngành Kinh tế đầu tư và chuyên ngành Quản lý kinh tế)",
+          "Tổ hợp môn": "A00; A01; D01; B00",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế số (chuyên ngành Kinh tế và Kinh doanh số)",
+          "Tổ hợp môn": "A00; A01; D01; B00",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chính trị học",
+          "Tổ hợp môn": "C00; D01; C19; A01",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "C00; D01; A00; A01",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học giáo dục",
+          "Tổ hợp môn": "C00; D01; A00; A01",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quốc tế học",
+          "Tổ hợp môn": "D01; D14; D15; D66",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Việt Nam học (Chuyên ngành Du lịch)",
+          "Tổ hợp môn": "C00; D01; A00; A01",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chương trình đào tạo bằng tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính ngân hàng (Chuyên ngành Tài chính doanh nghiệp; chuyên ngành Ngân hàng thương mại)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; B00; D01; A01",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "C00; D01; A00; A01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "C00; D01; A00; A01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "B00; A01; A02; B08",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; B00; D01; A01",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật nhiệt",
+          "Tổ hợp môn": "A00; B00; D01; A01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện; điện tử",
+          "Tổ hợp môn": "A00; B00; D01; A01",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử - viễn thông",
+          "Tổ hợp môn": "A00; B00; D01; A01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và tự động hóa",
+          "Tổ hợp môn": "A00; B00; D01; A01",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; B00; A01; D07",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng (chuyên ngành: Xây dựng công trình dân dụng và công nghiệp; Kêt câu công trình; Công nghệ kỹ thuật xây dựng)",
+          "Tổ hợp môn": "A00; B00; D01; A01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỳ thuật xây dựng công trình giao thông (chuyên ngành: Kỹ thuật xây dựng câu đường; Kỳ thuật xây dựng công trình ngầm; Kỹ thuật hạ tầng đô thị)",
+          "Tổ hợp môn": "A00; B00; D01; A01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế xây dựng (Chuyên ngành: Kinh tế đầu tư xây dựng; Kinh tế vận tải và logistic; Quản lý dự án công trình xây dựng)",
+          "Tổ hợp môn": "A00; B00; D01; A01",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nông học",
+          "Tổ hợp môn": "A00; B00; D01; B08",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học cây trồng",
+          "Tổ hợp môn": "A00; B00; D01; B08",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nuôi trồng thủy sản",
+          "Tổ hợp môn": "A00; B00; D01; B08",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thú y",
+          "Tổ hợp môn": "A00; B00; D01; B08",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "B00; C08; D08; D13",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "C00; D01; A00; A01",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "A00; B00; D01; B08",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quán lý đất đai (Chuyên ngành: Quán lý đất đai; Quán lý phát triển đô thị và bất động sản)",
+          "Tổ hợp môn": "A00; B00; D01; B08",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 38
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản lý giáo dục",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý văn hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế (Chuyên ngành Kinh tế đầu tư và chuyên ngành Quản lý kinh tế)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế số (chuyên ngành Kinh tế và Kinh doanh số)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chính trị học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học giáo dục",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quốc tế học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Việt Nam học (Chuyên ngành Du lịch)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chương trình đào tạo bằng tiếng Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính ngân hàng (Chuyên ngành Tài chính doanh nghiệp; chuyên ngành Ngân hàng thương mại)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật nhiệt",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện; điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử - viễn thông",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và tự động hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng (chuyên ngành: Xây dựng công trình dân dụng và công nghiệp; Kêt câu công trình; Công nghệ kỹ thuật xây dựng)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỳ thuật xây dựng công trình giao thông (chuyên ngành: Kỹ thuật xây dựng câu đường; Kỳ thuật xây dựng công trình ngầm; Kỹ thuật hạ tầng đô thị)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế xây dựng (Chuyên ngành: Kinh tế đầu tư xây dựng; Kinh tế vận tải và logistic; Quản lý dự án công trình xây dựng)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nông học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học cây trồng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nuôi trồng thủy sản",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thú y",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quán lý đất đai (Chuyên ngành: Quán lý đất đai; Quán lý phát triển đô thị và bất động sản)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 38
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản lý giáo dục",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý văn hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế (Chuyên ngành Kinh tế đầu tư và chuyên ngành Quản lý kinh tế)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế số (chuyên ngành Kinh tế và Kinh doanh số)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chính trị học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học giáo dục",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quốc tế học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Việt Nam học (Chuyên ngành Du lịch)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chương trình đào tạo bằng tiếng Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính ngân hàng (Chuyên ngành Tài chính doanh nghiệp; chuyên ngành Ngân hàng thương mại)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật nhiệt",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện; điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử - viễn thông",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và tự động hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng (chuyên ngành: Xây dựng công trình dân dụng và công nghiệp; Kêt câu công trình; Công nghệ kỹ thuật xây dựng)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỳ thuật xây dựng công trình giao thông (chuyên ngành: Kỹ thuật xây dựng câu đường; Kỳ thuật xây dựng công trình ngầm; Kỹ thuật hạ tầng đô thị)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế xây dựng (Chuyên ngành: Kinh tế đầu tư xây dựng; Kinh tế vận tải và logistic; Quản lý dự án công trình xây dựng)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nông học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học cây trồng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nuôi trồng thủy sản",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thú y",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quán lý đất đai (Chuyên ngành: Quán lý đất đai; Quán lý phát triển đô thị và bất động sản)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 38
+    },
+    {
+      "table_title": "Điểm Đánh giá Tư duy năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản lý giáo dục",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý văn hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế (Chuyên ngành Kinh tế đầu tư và chuyên ngành Quản lý kinh tế)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế số (chuyên ngành Kinh tế và Kinh doanh số)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chính trị học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học giáo dục",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quốc tế học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Việt Nam học (Chuyên ngành Du lịch)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chương trình đào tạo bằng tiếng Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính ngân hàng (Chuyên ngành Tài chính doanh nghiệp; chuyên ngành Ngân hàng thương mại)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật nhiệt",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện; điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử - viễn thông",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và tự động hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng (chuyên ngành: Xây dựng công trình dân dụng và công nghiệp; Kêt câu công trình; Công nghệ kỹ thuật xây dựng)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỳ thuật xây dựng công trình giao thông (chuyên ngành: Kỹ thuật xây dựng câu đường; Kỳ thuật xây dựng công trình ngầm; Kỹ thuật hạ tầng đô thị)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế xây dựng (Chuyên ngành: Kinh tế đầu tư xây dựng; Kinh tế vận tải và logistic; Quản lý dự án công trình xây dựng)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nông học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học cây trồng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nuôi trồng thủy sản",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thú y",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quán lý đất đai (Chuyên ngành: Quán lý đất đai; Quán lý phát triển đô thị và bất động sản)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 38
+    },
+    {
+      "table_title": "Điểm xét tuyển kết hợp năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Giáo dục Mầm non",
+          "Tổ hợp môn": "M00, M01, M10, M13",
+          "Điểm chuẩn": "23.55",
+          "Ghi chú": "Kết hợp điểm thi tốt nghiệp THPT với năng khiếu"
+        },
+        {
+          "Tên ngành": "Giáo dục Mầm non",
+          "Tổ hợp môn": "M00, M01, M10, M13",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": "Kết hợp học bạ THPT với năng khiếu"
+        },
+        {
+          "Tên ngành": "Giáo dục Thể chất",
+          "Tổ hợp môn": "T00, T01, T02, T05",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Kết hợp điểm thi tốt nghiệp THPT với năng khiếu"
+        },
+        {
+          "Tên ngành": "Giáo dục Thể chất",
+          "Tổ hợp môn": "T00, T01, T02, T05",
+          "Điểm chuẩn": "26.8",
+          "Ghi chú": "Kết hợp học bạ THPT với năng khiếu"
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Kết hợp học bạ THPT với năng khiếu"
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "19",
+          "Ghi chú": "Kết hợp điểm thi tốt nghiệp THPT với năng khiếu"
+        }
+      ],
+      "row_count": 6
+    },
+    {
+      "table_title": "Điểm ĐGNL ĐH Sư phạm HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản lý giáo dục",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý văn hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế (Chuyên ngành Kinh tế đầu tư và chuyên ngành Quản lý kinh tế)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế số (chuyên ngành Kinh tế và Kinh doanh số)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chính trị học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học giáo dục",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quốc tế học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Việt Nam học (Chuyên ngành Du lịch)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chương trình đào tạo bằng tiếng Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính ngân hàng (Chuyên ngành Tài chính doanh nghiệp; chuyên ngành Ngân hàng thương mại)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật nhiệt",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện; điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử - viễn thông",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và tự động hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng (chuyên ngành: Xây dựng công trình dân dụng và công nghiệp; Kêt câu công trình; Công nghệ kỹ thuật xây dựng)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỳ thuật xây dựng công trình giao thông (chuyên ngành: Kỹ thuật xây dựng câu đường; Kỳ thuật xây dựng công trình ngầm; Kỹ thuật hạ tầng đô thị)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế xây dựng (Chuyên ngành: Kinh tế đầu tư xây dựng; Kinh tế vận tải và logistic; Quản lý dự án công trình xây dựng)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nông học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học cây trồng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nuôi trồng thủy sản",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thú y",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quán lý đất đai (Chuyên ngành: Quán lý đất đai; Quán lý phát triển đô thị và bất động sản)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.28",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 38
+    }
+  ],
+  "table_count": 7,
+  "crawled_at": "2025-07-18T23:26:02.477867",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-vinh-TDV.html"
+}

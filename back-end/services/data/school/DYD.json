@@ -1,0 +1,525 @@
+{
+  "school_code": "DYD",
+  "school_name": "Trường Đại Học Yersin Đà Lạt",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "A00; B00; C00; D01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đông phương học",
+          "Tổ hợp môn": "A01; C00; D01; D15",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ công chúng",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; C00; C20; D01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D01; K01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; B00; C08; D07",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "A01; C01; H01; V00",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế nội thất",
+          "Tổ hợp môn": "A01; C01; H01; V00",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "A01; B00; D01; D08",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "A00; C00; D01; D15",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 16
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Tổng ĐTB lớp 12 theo tổ hợp môn xét tuyển"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Tổng ĐTB HK1 lớp 11 + ĐTB HK2 lớp 11 + ĐTB HK1 lớp 12"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "ĐTB cả năm lớp 12"
+        },
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "A00; B00; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Tổng ĐTB HK1 lớp 11 + ĐTB HK2 lớp 11 + ĐTB HK1 lớp 12"
+        },
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "ĐTB cả năm lớp 12"
+        },
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "A00; B00; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Tổng ĐTB lớp 12 theo tổ hợp môn xét tuyển"
+        },
+        {
+          "Tên ngành": "Đông phương học",
+          "Tổ hợp môn": "A01; C00; D01; D15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Tổng ĐTB lớp 12 theo tổ hợp môn xét tuyển"
+        },
+        {
+          "Tên ngành": "Đông phương học",
+          "Tổ hợp môn": "A01; C00; D01; D15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Tổng ĐTB HK1 lớp 11 + ĐTB HK2 lớp 11 + ĐTB HK1 lớp 12"
+        },
+        {
+          "Tên ngành": "Đông phương học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "ĐTB cả năm lớp 12"
+        },
+        {
+          "Tên ngành": "Quan hệ công chúng",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Tổng ĐTB lớp 12 theo tổ hợp môn xét tuyển"
+        },
+        {
+          "Tên ngành": "Quan hệ công chúng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "ĐTB cả năm lớp 12"
+        },
+        {
+          "Tên ngành": "Quan hệ công chúng",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Tổng ĐTB HK1 lớp 11 + ĐTB HK2 lớp 11 + ĐTB HK1 lớp 12"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "ĐTB cả năm lớp 12"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Tổng ĐTB lớp 12 theo tổ hợp môn xét tuyển"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Tổng ĐTB HK1 lớp 11 + ĐTB HK2 lớp 11 + ĐTB HK1 lớp 12"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; C00; C20; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Tổng ĐTB lớp 12 theo tổ hợp môn xét tuyển"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; C00; C20; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Tổng ĐTB HK1 lớp 11 + ĐTB HK2 lớp 11 + ĐTB HK1 lớp 12"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "ĐTB cả năm lớp 12"
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Tổng ĐTB lớp 12 theo tổ hợp môn xét tuyển"
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Tổng ĐTB HK1 lớp 11 + ĐTB HK2 lớp 11 + ĐTB HK1 lớp 12"
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "ĐTB cả năm lớp 12"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D01; K01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Tổng ĐTB HK1 lớp 11 + ĐTB HK2 lớp 11 + ĐTB HK1 lớp 12"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "ĐTB cả năm lớp 12"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D01; K01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Tổng ĐTB lớp 12 theo tổ hợp môn xét tuyển"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Tổng ĐTB lớp 12 theo tổ hợp môn xét tuyển"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Tổng ĐTB HK1 lớp 11 + ĐTB HK2 lớp 11 + ĐTB HK1 lớp 12"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "ĐTB cả năm lớp 12"
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Tổng ĐTB HK1 lớp 11 + ĐTB HK2 lớp 11 + ĐTB HK1 lớp 12"
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "ĐTB cả năm lớp 12"
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Tổng ĐTB lớp 12 theo tổ hợp môn xét tuyển"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; B00; C08; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Tổng ĐTB lớp 12 theo tổ hợp môn xét tuyển"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; B00; C08; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Tổng ĐTB HK1 lớp 11 + ĐTB HK2 lớp 11 + ĐTB HK1 lớp 12"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "ĐTB cả năm lớp 12"
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "A01; C01; H01; V00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Tổng ĐTB lớp 12 theo tổ hợp môn xét tuyển"
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "A01; C01; H01; V00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Tổng ĐTB HK1 lớp 11 + ĐTB HK2 lớp 11 + ĐTB HK1 lớp 12"
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "ĐTB cả năm lớp 12"
+        },
+        {
+          "Tên ngành": "Thiết kế nội thất",
+          "Tổ hợp môn": "A01; C01; H01; V00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Tổng ĐTB HK1 lớp 11 + ĐTB HK2 lớp 11 + ĐTB HK1 lớp 12"
+        },
+        {
+          "Tên ngành": "Thiết kế nội thất",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "ĐTB cả năm lớp 12"
+        },
+        {
+          "Tên ngành": "Thiết kế nội thất",
+          "Tổ hợp môn": "A01; C01; H01; V00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Tổng ĐTB lớp 12 theo tổ hợp môn xét tuyển"
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Tổng ĐTB HK1 lớp 11 + ĐTB HK2 lớp 11 + ĐTB HK1 lớp 12; Học lực L12 xếp loại giỏi hoặc điểm xét TN THPT từ 8.0 trở lên"
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "ĐTB cả năm lớp 12; Học lực L12 xếp loại giỏi hoặc điểm xét TN THPT từ 8.0 trở lên"
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Tổng ĐTB lớp 12 theo tổ hợp môn xét tuyển; Học lực L12 xếp loại giỏi hoặc điểm xét TN THPT từ 8.0 trở lên"
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "A01; B00; D01; D08",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Tổng ĐTB lớp 12 theo tổ hợp môn xét tuyển; Học lực L12 xếp loại khá hoặc điểm xét TN THPT từ 6.5 trở lên"
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "A01; B00; D01; D08",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Tổng ĐTB HK1 lớp 11 + ĐTB HK2 lớp 11 + ĐTB HK1 lớp 12; Học lực L12 xếp loại khá hoặc điểm xét TN THPT từ 6.5 trở lên"
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "ĐTB cả năm lớp 12; Học lực L12 xếp loại khá hoặc điểm xét TN THPT từ 6.5 trở lên"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "A00; C00; D01; D15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Tổng ĐTB lớp 12 theo tổ hợp môn xét tuyển"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "A00; C00; D01; D15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Tổng ĐTB HK1 lớp 11 + ĐTB HK2 lớp 11 + ĐTB HK1 lớp 12"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "ĐTB cả năm lớp 12"
+        }
+      ],
+      "row_count": 48
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đông phương học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ công chúng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế nội thất",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "Học lực L12 xếp loại giỏi hoặc điểm xét TN THPT từ 8.0 trở lên"
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học lực L12 xếp loại khá hoặc điểm xét TN THPT từ 6.5 trở lên"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 16
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:29:25.168698",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-yersin-da-lat-DYD.html"
+}

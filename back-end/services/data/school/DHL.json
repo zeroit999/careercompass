@@ -1,0 +1,303 @@
+{
+  "school_code": "DHL",
+  "school_name": "Trường Đại Học Nông Lâm Huế",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Bất động sản",
+          "Tổ hợp môn": "A00; B00; C00; C04",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí",
+          "Tổ hợp môn": "A00; A02; A01; B00",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ – điện tử",
+          "Tổ hợp môn": "A00; A02; A01; B00",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; B00; B03; D08",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đảm bảo chất lượng và an toàn thực phẩm",
+          "Tổ hợp môn": "A00; B00; B03; D08",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khuyến nông",
+          "Tổ hợp môn": "A07; B03; C00; C04",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chăn nuôi",
+          "Tổ hợp môn": "A00; A02; B00; D08",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học cây trồng",
+          "Tổ hợp môn": "A00; B00; B03; D08",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Bảo vệ thực vật",
+          "Tổ hợp môn": "A00; B00; B03; D08",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Phát triển nông thôn",
+          "Tổ hợp môn": "A07; B03; C00; C04",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nông nghiệp công nghệ cao",
+          "Tổ hợp môn": "A00; B00; B03; D08",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh và khởi nghiệp nông thôn",
+          "Tổ hợp môn": "A07; C00; C04; D10",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Lâm nghiệp",
+          "Tổ hợp môn": "A00; A02; B00; B03",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên rừng",
+          "Tổ hợp môn": "A00; A02; B00; B03",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nuôi trồng thủy sản",
+          "Tổ hợp môn": "A00; B00; D01; D08",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Bệnh học thủy sản",
+          "Tổ hợp môn": "A00; B00; D01; D08",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý thủy sản",
+          "Tổ hợp môn": "A00; B00; D01; D08",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thú y",
+          "Tổ hợp môn": "A00; A02; B00; D08",
+          "Điểm chuẩn": "17.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý đất đai",
+          "Tổ hợp môn": "A00; B00; C00; C04",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 19
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Bất động sản",
+          "Tổ hợp môn": "A00; B00; C00; C04",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí",
+          "Tổ hợp môn": "A00; A02; A10; B00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ – điện tử",
+          "Tổ hợp môn": "A00; A02; A10; B00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; B00; B04; D08",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đảm bảo chất lượng và an toàn thực phẩm",
+          "Tổ hợp môn": "A00; B00; B04; D08",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khuyến nông",
+          "Tổ hợp môn": "A07; B03; C00; C04",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chăn nuôi",
+          "Tổ hợp môn": "A00; A02; B00; D08",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học cây trồng",
+          "Tổ hợp môn": "A00; B00; B04; D08",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Bảo vệ thực vật",
+          "Tổ hợp môn": "A00; B00; B04; D08",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Phát triển nông thôn",
+          "Tổ hợp môn": "A07; B03; C00; C04",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nông nghiệp công nghệ cao",
+          "Tổ hợp môn": "A00; B00; B04; D08",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh và khởi nghiệp nông thôn",
+          "Tổ hợp môn": "A07; C00; C04; D10",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Lâm nghiệp",
+          "Tổ hợp môn": "A00; A02; B00; D08",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên rừng",
+          "Tổ hợp môn": "A00; A02; B00; D08",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nuôi trồng thủy sản",
+          "Tổ hợp môn": "A00; B00; B04; D08",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Bệnh học thủy sản",
+          "Tổ hợp môn": "A00; B00; B04; D08",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý thủy sản",
+          "Tổ hợp môn": "A00; B00; B04; D08",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thú y",
+          "Tổ hợp môn": "A00; A02; B00; D08",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý đất đai",
+          "Tổ hợp môn": "A00; B00; C00; C04",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 19
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chăn nuôi",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nuôi trồng thủy sản",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thú y",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý đất đai",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 5
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:31:03.518520",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-nong-lam-hue-DHL.html"
+}

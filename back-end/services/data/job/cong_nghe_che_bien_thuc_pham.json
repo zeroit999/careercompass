@@ -1,0 +1,679 @@
+{
+  "nhom_nganh": "Công nghệ chế biến thực phẩm",
+  "danh_sach_nganh": [
+    {
+      "ten_nganh": "Công nghệ Thực phẩm",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp Hà Nội - DCN",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ thực phẩm",
+              "to_hop_mon": "A00; B00; C02; D07",
+              "diem_chuan_2024": "22.65",
+              "diem_chuan_2023": "23.51"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp TPHCM - IUH",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ thực phẩm",
+              "to_hop_mon": "A00; B00; C02; D07; X11",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "19.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Tế Kỹ Thuật Công Nghiệp - DKK",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ thực phẩm (CS Nam Định)",
+              "to_hop_mon": "A00; A01; A02; A03; B00; C01; C02; D01; D07; X02; X03; X05; X06; X07; X10; X11; X14; X15; X26; X27; X56",
+              "diem_chuan_2024": "17.5",
+              "diem_chuan_2023": "17.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Thương TPHCM - DCT",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ thực phẩm",
+              "to_hop_mon": "A00; B00; B08; D07",
+              "diem_chuan_2024": "23",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thủ Dầu Một - TDM",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ thực phẩm",
+              "to_hop_mon": "A00; B00; B02; B03; B08; C02; D07; X09; X10; X12",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Nông Nghiệp Việt Nam - HVN",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ thực phẩm và Chế biến",
+              "to_hop_mon": "A00; A01; B00; C03; C04; D01; D07; X01; X07; X08",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ thực phẩm",
+              "to_hop_mon": "A00; A01; B00; D07",
+              "diem_chuan_2024": "20.5",
+              "diem_chuan_2023": "23.83"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật TPHCM - SPK",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ thực phẩm (đào tạo bằng tiếng Anh)",
+              "to_hop_mon": "A00; B00; C02; D07",
+              "diem_chuan_2024": "22.5",
+              "diem_chuan_2023": "21.1"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Bách Khoa Đà Nẵng - DDK",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ thực phẩm",
+              "to_hop_mon": "A00; A01; B00; C02; D07; D08",
+              "diem_chuan_2024": "22.4",
+              "diem_chuan_2023": "22.1"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nha Trang - TSN",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ thực phẩm (02 chuyên ngành: Công nghệ thực phẩm; Dinh dưỡng và ẩm thực)",
+              "to_hop_mon": "(Toán, Văn, Anh, Sinh); (Toán, Văn, Anh, Hóa); B03; C02; X03; X04; D01",
+              "diem_chuan_2024": "17.5",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Mở Hà Nội - MHN",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ thực phẩm",
+              "to_hop_mon": "A00; A01; B00; D07",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "17.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Vinh - TDV",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ thực phẩm",
+              "to_hop_mon": "A00; A11; B00; D07",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học An Giang - QSA",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ thực phẩm",
+              "to_hop_mon": "A00; A05; A06; C02; D01; D07; X12; X65",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đồng Tháp - SPD",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ thực phẩm",
+              "to_hop_mon": "A00; B00; B03; C02; D07; D08",
+              "diem_chuan_2024": "18.3",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Nguyên - TTN",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ thực phẩm",
+              "to_hop_mon": "A00; A02; B00; D07; X08",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quy Nhơn - DQN",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ thực phẩm",
+              "to_hop_mon": "A02; A06; B00; B08; C02; C08; D07; D12",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kỹ Thuật Công Nghệ Cần Thơ - KCC",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ thực phẩm",
+              "to_hop_mon": "A00; B00; B03; B08; C02; C08; D07; X10",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "21.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Và Công Nghệ Hà Nội - KCN",
+          "data_school": [
+            {
+              "ten_nganh": "Khoa học và Công nghệ thực phẩm",
+              "to_hop_mon": "A00; A01; A02; X06; B00; D07; X10; X11; X12; A06; D08; X14; X15; X16; B02",
+              "diem_chuan_2024": "20.35",
+              "diem_chuan_2023": "22.05"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Trà Vinh - DVT",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ thực phẩm",
+              "to_hop_mon": "A02; B00; B08; X12; X14; X16; X28",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nông Lâm TPHCM - NLS",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ thực phẩm",
+              "to_hop_mon": "A00, A01, A02, D07, D08, B00",
+              "diem_chuan_2024": "22.5",
+              "diem_chuan_2023": "21.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Mở TPHCM - MBS",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ thực phẩm",
+              "to_hop_mon": "D07; A00; B00; A01; B08.",
+              "diem_chuan_2024": "18",
+              "diem_chuan_2023": "20.9"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật Vĩnh Long - VLU",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ thực phẩm",
+              "to_hop_mon": "A00; A01; A02; A04; A06; B00; C04; D01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nguyễn Tất Thành - NTT",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ thực phẩm",
+              "to_hop_mon": "A00; B00; C02; D07",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Duy Tân - DDT",
+          "data_school": [
+            {
+              "ten_nganh": "Ngành Công nghệ Thực phẩm",
+              "to_hop_mon": "A00; A02; B00; B03; C01; C02",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Nam Cần Thơ - DNC",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ thực phẩm",
+              "to_hop_mon": "A00; A02; B00; B08; D01; D07; X01; X14",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Lang - DVL",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ thực phẩm",
+              "to_hop_mon": "A02; B00; B08; X14; X66",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đông Á - DAD",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ thực phẩm (Cơ sở đào tạo Đà Nẵng)",
+              "to_hop_mon": "A00; A02; B00; B02; B03; B08; X09; X13; X14",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Đô - DTD",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ thực phẩm",
+              "to_hop_mon": "A00; A02; A01; C01; X06; D01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công Nghệ TPHCM - DKC",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ thực phẩm",
+              "to_hop_mon": "D01; C02; B03; C01; (Toán, Văn, Tin); X01",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Lạc Hồng - DLH",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ thực phẩm",
+              "to_hop_mon": "D01; B03; C02; B00; D07; B08",
+              "diem_chuan_2024": "15.9",
+              "diem_chuan_2023": "15.05"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Yersin Đà Lạt - DYD",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ thực phẩm",
+              "to_hop_mon": "A02; B00; B08; X15 (Toán, Sinh, Công nghệ); X14 (Toán, Sinh, Tin); X66 (Văn, Sinh, GDKT&PL); C08; D01; B03",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Bình Dương - DBD",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ thực phẩm",
+              "to_hop_mon": "A00; B00; B03; C02; C14; D01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tiền Giang - TTG",
+          "data_school": [
+            {
+              "ten_nganh": "ĐH Công nghệ thực phẩm",
+              "to_hop_mon": "C01; C02; D01; B03; A00; A01; B00; D07; (Toán, Văn, Công nghệ); C04",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Hiến - DVH",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ thực phẩm",
+              "to_hop_mon": "A00; A01; D01; X01; X06; X25; X26; X54",
+              "diem_chuan_2024": "16.35",
+              "diem_chuan_2023": "16.4"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ Đồng Nai - DCD",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ thực phẩm",
+              "to_hop_mon": "A00; A07; B00; B04; B08; D01; D09; D10",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp Việt Trì - VUI",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ thực phẩm",
+              "to_hop_mon": "A00; A01; D01; (Toán, Tin, Công nghệ); (Toán; Lí, Tin); B00",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nông Lâm Huế - DHL",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ thực phẩm",
+              "to_hop_mon": "A00; A08; B03; C01; C02; C04; D01; X17",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nông Lâm Thái Nguyên - DTN",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ thực phẩm",
+              "to_hop_mon": "A00; A07; A09; B00; C00; C02; C04; C20; D01; D14",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ Sài Gòn - DSG",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ thực phẩm",
+              "to_hop_mon": "(Toán, 2 môn bất kì)",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Nông Lâm Bắc Giang - DBG",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ thực phẩm",
+              "to_hop_mon": "A00; A01; A07; B00; C03; D01; D07; X01; X11; X12; D30. D25; D04",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đà Lạt - TDL",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ thực phẩm",
+              "to_hop_mon": "A02; B00; B03; X15; X16; X14; B02; A00; X11; X12; D07; X10; A06; X08; X28; X24; X57; X13; X09; X55",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kiên Giang - TKG",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ thực phẩm (chuyên ngành Quản lý chất lượng và an toàn thực phẩm)",
+              "to_hop_mon": "A00; A02; B00; B01; B03; D07",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ Đông Á - DDA",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ Thực phẩm",
+              "to_hop_mon": "A00; A01; A02; A03; A05; A06; A07; A08; A09; A10; A11; C00; C01; C02; C03; C14; D01; D07; B00; D08",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "19.5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Đảm bảo chất lượng và an toàn thực phẩm",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp TPHCM - IUH",
+          "data_school": [
+            {
+              "ten_nganh": "Đảm bảo chất lượng và An toàn thực phẩm",
+              "to_hop_mon": "A00; B00; C02; D07; X11",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Thương TPHCM - DCT",
+          "data_school": [
+            {
+              "ten_nganh": "Đảm bảo chất lượng và an toàn thực phẩm",
+              "to_hop_mon": "A00; B00; B08; D07",
+              "diem_chuan_2024": "18",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Đảm bảo chất lượng và an toàn thực phẩm",
+              "to_hop_mon": "A00; A01; B00; D07",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nha Trang - TSN",
+          "data_school": [
+            {
+              "ten_nganh": "Đảm bảo chất lượng và an toàn thưc phẩm",
+              "to_hop_mon": "(Toán, Văn, Anh, Sinh); (Toán, Văn, Anh, Hóa); B03; C02; X03; X04; D01",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học An Giang - QSA",
+          "data_school": [
+            {
+              "ten_nganh": "Đảm bảo chất lượng và an toàn thực phẩm",
+              "to_hop_mon": "A00; A05; A06; C02; C08; D01; D07; X12",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Tài Nguyên và Môi Trường Hà Nội - DMT",
+          "data_school": [
+            {
+              "ten_nganh": "Đảm bảo chất lượng và An toàn thực phẩm",
+              "to_hop_mon": "A00; B00; D07; D01; C01; C02; X03; X04; B03; X02; D08; A01; B04",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nông Lâm TPHCM - NLS",
+          "data_school": [
+            {
+              "ten_nganh": "Đảm bảo chất lượng và An toàn thực phẩm",
+              "to_hop_mon": "A00, A01, A02, B00, D07, D08",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nông Lâm Huế - DHL",
+          "data_school": [
+            {
+              "ten_nganh": "Đảm bảo chất lượng và an toàn thực phẩm",
+              "to_hop_mon": "A00; A08; B03; C01; C02; C04; D01; X17",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nông Lâm Thái Nguyên - DTN",
+          "data_school": [
+            {
+              "ten_nganh": "Đảm bảo chất lượng và An toàn thực phẩm",
+              "to_hop_mon": "A00; A07; A09; B00; C00; C02; C04; C20; D01; D14",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ Sài Gòn - DSG",
+          "data_school": [
+            {
+              "ten_nganh": "Đảm bảo chất lượng và an toàn thực phâm",
+              "to_hop_mon": "(Toán, 2 môn bất kì); (Văn, 2 môn bất kì)",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Kỹ thuật thực phẩm",
+      "data": [
+        {
+          "ten_truong": "Đại Học Bách Khoa Hà Nội - BKA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật Thực phẩm (CT tiên tiến)",
+              "to_hop_mon": "A00; B00; B03; C01; C02; D07; X02",
+              "diem_chuan_2024": "22",
+              "diem_chuan_2023": "22.7"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Tự Nhiên Hà Nội - QHT",
+          "data_school": [
+            {
+              "ten_nganh": "Khoa học và công nghệ thực phẩm",
+              "to_hop_mon": "A00; A01; A02; B00; B03; C01; C02; D01; D07; D08; X09; X10; X11; X12; X13; X14; X15; X16",
+              "diem_chuan_2024": "24.6",
+              "diem_chuan_2023": "24.35"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Sư phạm Kỹ thuật - Đại học Đà Nẵng - DSK",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật thực phẩm",
+              "to_hop_mon": "A00; A01; B00; D01; C02; D07",
+              "diem_chuan_2024": "18.4",
+              "diem_chuan_2023": "16.45"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Quản trị kinh doanh thực phẩm",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Công Thương TPHCM - DCT",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị kinh doanh thực phẩm",
+              "to_hop_mon": "B00; C02; D01; D07",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nguyễn Tất Thành - NTT",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị kinh doanh thực phẩm",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Khoa học chế biến món ăn",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Công Thương TPHCM - DCT",
+          "data_school": [
+            {
+              "ten_nganh": "Khoa học chế biến món ăn",
+              "to_hop_mon": "A01; B00; C02; D07",
+              "diem_chuan_2024": "17.5",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

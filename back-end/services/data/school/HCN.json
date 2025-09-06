@@ -1,0 +1,45 @@
+{
+  "school_code": "HCN",
+  "school_name": "Trường Đại Học Kỹ Thuật - Hậu Cần Công An Nhân Dân (Phía Nam)",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Nhóm ngành Kỹ thuật - Hậu cần",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "19.92",
+          "Ghi chú": "Nam, miền Bắc; Tổng điểm 3 môn thuộc tổ hợp xét tuyển (tỷ lệ 40%) và điểm bài thi đánh giá của BCA (tỷ lệ 60%) làm tròn đến 02 chữ số thập phân từ 19.67 điểm trở lên và điểm thi đánh giá của BCA từ 54.50 điểm trở lên"
+        },
+        {
+          "Tên ngành": "Nhóm ngành Kỹ thuật - Hậu cần",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "17.81",
+          "Ghi chú": "Nam, miền Nam; Tổng điểm 3 môn thuộc tổ hợp xét tuyển (tỷ lệ 40%) và điểm bài thi đánh giá của BCA (tỷ lệ 60%) làm tròn đến 02 chữ số thập phân từ 17.56 điểm trở lên"
+        },
+        {
+          "Tên ngành": "Nhóm ngành Kỹ thuật - Hậu cần",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "22.38",
+          "Ghi chú": "Nữ, miền Bắc"
+        },
+        {
+          "Tên ngành": "Nhóm ngành Kỹ thuật - Hậu cần",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "21.07",
+          "Ghi chú": "Nữ, miền Nam"
+        }
+      ],
+      "row_count": 4
+    }
+  ],
+  "table_count": 1,
+  "crawled_at": "2025-07-18T23:28:50.083850",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-ky-thuat-hau-can-cong-an-nhan-dan-phia-nam-HCN.html"
+}

@@ -1,0 +1,45 @@
+{
+  "school_code": "LBS",
+  "school_name": "Trường Đại học Nguyễn Huệ",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2017",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Thí sinh Nam Quân khu 7",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "23.25",
+          "Ghi chú": "Thí sinh mức 23,25 điểm: Điểm môn Toán ≥ 7,60."
+        },
+        {
+          "Tên ngành": "Thí sinh Nam Quân khu 4 (Quảng Trị và TT-Huế)",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "Thí sinh mức 23,50 điểm: Điểm môn Toán ≥ 8,60."
+        },
+        {
+          "Tên ngành": "Thí sinh Nam Quân khu 9",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": "Thí sinh mức 23,75 điểm: Điểm môn Toán ≥ 8,20."
+        },
+        {
+          "Tên ngành": "Thí sinh Nam Quân khu 5",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Thí sinh mức 24,00 điểm: Tiêu chí phụ 1: Điểm môn Toán ≥ 7,20. Tiêu chí phụ 2: Điểm môn Lý ≥ 9,00."
+        }
+      ],
+      "row_count": 4
+    }
+  ],
+  "table_count": 1,
+  "crawled_at": "2025-07-18T23:32:24.968593",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-nguyen-hue-LBS.html"
+}

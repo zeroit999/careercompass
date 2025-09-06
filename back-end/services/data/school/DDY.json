@@ -1,0 +1,75 @@
+{
+  "school_code": "DDY",
+  "school_name": "Trường Y Dược Đà Nẵng",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "B00; B08",
+          "Điểm chuẩn": "25.55",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "B00; A00; D07",
+          "Điểm chuẩn": "24.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "B00; B08",
+          "Điểm chuẩn": "22.65",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Răng - Hàm - Mặt",
+          "Tổ hợp môn": "B00; B08",
+          "Điểm chuẩn": "25.57",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xét nghiệm y học",
+          "Tổ hợp môn": "B00; B08; A00",
+          "Điểm chuẩn": "22.35",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 5
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "B00; B08",
+          "Điểm chuẩn": "25.59",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xét nghiệm y học",
+          "Tổ hợp môn": "B00; B08; A00",
+          "Điểm chuẩn": "26.2",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 2
+    }
+  ],
+  "table_count": 2,
+  "crawled_at": "2025-07-18T23:25:34.159766",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/truong-y-duoc-da-nang-DDY.html"
+}

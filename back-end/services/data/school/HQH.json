@@ -1,0 +1,129 @@
+{
+  "school_code": "HQH",
+  "school_name": "Học Viện Hải Quân",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Chỉ huy tham mưu Hải quân",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "24.21",
+          "Ghi chú": "Thí sinh Nam miền Bắc"
+        },
+        {
+          "Tên ngành": "Chỉ huy tham mưu Hải quân",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "24.21",
+          "Ghi chú": "Thí sinh Nam miền Bắc"
+        },
+        {
+          "Tên ngành": "Chỉ huy tham mưu Hải quân",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "20.6",
+          "Ghi chú": "Thí sinh Nam miền Nam"
+        },
+        {
+          "Tên ngành": "Chỉ huy tham mưu Hải quân",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "20.6",
+          "Ghi chú": "Thí sinh Nam miền Nam"
+        }
+      ],
+      "row_count": 4
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Chỉ huy tham mưu Hải quân",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "27.543",
+          "Ghi chú": "Thí sinh Nam miền Bắc"
+        },
+        {
+          "Tên ngành": "Chỉ huy tham mưu Hải quân",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "27.543",
+          "Ghi chú": "Thí sinh Nam miền Bắc"
+        },
+        {
+          "Tên ngành": "Chỉ huy tham mưu Hải quân",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "25.053",
+          "Ghi chú": "Thí sinh Nam miền Nam"
+        },
+        {
+          "Tên ngành": "Chỉ huy tham mưu Hải quân",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "25.053",
+          "Ghi chú": "Thí sinh Nam miền Nam"
+        }
+      ],
+      "row_count": 4
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Chỉ huy tham mưu Hải quân",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.65",
+          "Ghi chú": "Thí sinh Nam miền Bắc"
+        },
+        {
+          "Tên ngành": "Chỉ huy tham mưu Hải quân",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.85",
+          "Ghi chú": "Thí sinh Nam miền Nam"
+        }
+      ],
+      "row_count": 2
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Chỉ huy tham mưu Hải quân",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.65",
+          "Ghi chú": "Thí sinh Nam miền Bắc"
+        },
+        {
+          "Tên ngành": "Chỉ huy tham mưu Hải quân",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.85",
+          "Ghi chú": "Thí sinh Nam miền Nam"
+        }
+      ],
+      "row_count": 2
+    }
+  ],
+  "table_count": 4,
+  "crawled_at": "2025-07-18T23:23:15.162817",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-hai-quan-HQH.html"
+}

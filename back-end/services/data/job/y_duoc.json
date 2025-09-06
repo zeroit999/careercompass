@@ -1,0 +1,3416 @@
+{
+  "nhom_nganh": "Y - Dược",
+  "danh_sach_nganh": [
+    {
+      "ten_nganh": "Y khoa",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Y Hà Nội - YHB",
+          "data_school": [
+            {
+              "ten_nganh": "Y khoa",
+              "to_hop_mon": "B00",
+              "diem_chuan_2024": "26.67",
+              "diem_chuan_2023": "26.39"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Y Dược TPHCM - YDS",
+          "data_school": [
+            {
+              "ten_nganh": "Y khoa",
+              "to_hop_mon": "B00",
+              "diem_chuan_2024": "27.8",
+              "diem_chuan_2023": "27.34"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Dược Thái Bình - YTB",
+          "data_school": [
+            {
+              "ten_nganh": "Y khoa",
+              "to_hop_mon": "B00; D07; D08",
+              "diem_chuan_2024": "26.17",
+              "diem_chuan_2023": "25.8"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Dược Hải Phòng - YPB",
+          "data_school": [
+            {
+              "ten_nganh": "Y khoa",
+              "to_hop_mon": "A00; B00",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kỹ Thuật Y Tế Hải Dương - DKY",
+          "data_school": [
+            {
+              "ten_nganh": "Y khoa",
+              "to_hop_mon": "B00; A00; D07; B08",
+              "diem_chuan_2024": "25.4",
+              "diem_chuan_2023": "24.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Y Dược Học Cổ Truyền Việt Nam - HYD",
+          "data_school": [
+            {
+              "ten_nganh": "Y khoa",
+              "to_hop_mon": "A02; AH4; B00; B03; D08; D31; D32; D33; D34; D35; X14",
+              "diem_chuan_2024": "25.57",
+              "diem_chuan_2023": "25.05"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Phenikaa - PKA",
+          "data_school": [
+            {
+              "ten_nganh": "Y khoa",
+              "to_hop_mon": "A00; B00; B03; B08; C02; D07",
+              "diem_chuan_2024": "22.5",
+              "diem_chuan_2023": "22.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Dược Cần Thơ - YCT",
+          "data_school": [
+            {
+              "ten_nganh": "Y khoa",
+              "to_hop_mon": "B00",
+              "diem_chuan_2024": "25.7",
+              "diem_chuan_2023": "25.52"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Khoa Phạm Ngọc Thạch - TYS",
+          "data_school": [
+            {
+              "ten_nganh": "Y khoa",
+              "to_hop_mon": "B00",
+              "diem_chuan_2024": "26.57",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Quân Y - Hệ Quân sự - YQH",
+          "data_school": [
+            {
+              "ten_nganh": "Ngành Y khoa (Bác sỹ đa khoa) (Thí sinh Nam, miền Bắc)",
+              "to_hop_mon": "A00; B00; D07",
+              "diem_chuan_2024": "26.13",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Y Dược - ĐHQG Hà Nội - QHY",
+          "data_school": [
+            {
+              "ten_nganh": "Y khoa",
+              "to_hop_mon": "B00; D08",
+              "diem_chuan_2024": "27.15",
+              "diem_chuan_2023": "26.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Khoa Vinh - YKV",
+          "data_school": [
+            {
+              "ten_nganh": "Y khoa",
+              "to_hop_mon": "B00; A00",
+              "diem_chuan_2024": "24.85",
+              "diem_chuan_2023": "24"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kỹ thuật Y Dược Đà Nẵng - YDN",
+          "data_school": [
+            {
+              "ten_nganh": "Y khoa",
+              "to_hop_mon": "B00; B08; A00; D07",
+              "diem_chuan_2024": "25.47",
+              "diem_chuan_2023": "25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Dược Thái Nguyên - DTY",
+          "data_school": [
+            {
+              "ten_nganh": "Y khoa",
+              "to_hop_mon": "A00; A02; B00; D07; D08",
+              "diem_chuan_2024": "26.25",
+              "diem_chuan_2023": "26"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Dược Huế - DHY",
+          "data_school": [
+            {
+              "ten_nganh": "Y khoa",
+              "to_hop_mon": "B00; B08; D07",
+              "diem_chuan_2024": "26.3",
+              "diem_chuan_2023": "26"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Y Dược Đà Nẵng - DDY",
+          "data_school": [
+            {
+              "ten_nganh": "Y khoa",
+              "to_hop_mon": "B00; B08",
+              "diem_chuan_2024": "25.55",
+              "diem_chuan_2023": "25.05"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Khoa học sức khỏe TPHCM - QSY",
+          "data_school": [
+            {
+              "ten_nganh": "Y khoa",
+              "to_hop_mon": "B00; A02",
+              "diem_chuan_2024": "26.4",
+              "diem_chuan_2023": "26.15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Nguyên - TTN",
+          "data_school": [
+            {
+              "ten_nganh": "Y khoa",
+              "to_hop_mon": "B00; B03; B08; D07",
+              "diem_chuan_2024": "25.01",
+              "diem_chuan_2023": "24.6"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Trà Vinh - DVT",
+          "data_school": [
+            {
+              "ten_nganh": "Y khoa",
+              "to_hop_mon": "B00; B08",
+              "diem_chuan_2024": "25",
+              "diem_chuan_2023": "24.45"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Doanh và Công Nghệ Hà Nội - DQK",
+          "data_school": [
+            {
+              "ten_nganh": "Y Khoa",
+              "to_hop_mon": "A00; A02; B00; D08; B03; X13",
+              "diem_chuan_2024": "22.5",
+              "diem_chuan_2023": "22.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nguyễn Tất Thành - NTT",
+          "data_school": [
+            {
+              "ten_nganh": "Y khoa",
+              "to_hop_mon": "B00; D07; B08",
+              "diem_chuan_2024": "23",
+              "diem_chuan_2023": "23"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Duy Tân - DDT",
+          "data_school": [
+            {
+              "ten_nganh": "Ngành Y Khoa",
+              "to_hop_mon": "A00; A02; B00; B03; D08; X14 (Toán, Sinh, Tin)",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": "22.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Nam Cần Thơ - DNC",
+          "data_school": [
+            {
+              "ten_nganh": "Y khoa",
+              "to_hop_mon": "B00; A00; A02; B03; D07; D08",
+              "diem_chuan_2024": "22.5",
+              "diem_chuan_2023": "22.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quốc Tế Hồng Bàng - HIU",
+          "data_school": [
+            {
+              "ten_nganh": "Y khoa",
+              "to_hop_mon": "A00; A02; B00; D07; D08; X14",
+              "diem_chuan_2024": "22.5",
+              "diem_chuan_2023": "22.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Tân Tạo - TTU",
+          "data_school": [
+            {
+              "ten_nganh": "Y khoa (Bác sĩ Đa khoa)",
+              "to_hop_mon": "A02; B00; B08",
+              "diem_chuan_2024": "22.5",
+              "diem_chuan_2023": "22.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Lang - DVL",
+          "data_school": [
+            {
+              "ten_nganh": "Y khoa",
+              "to_hop_mon": "A00; B00; D07; X09; X10",
+              "diem_chuan_2024": "22.5",
+              "diem_chuan_2023": "22.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Phan Châu Trinh - DPC",
+          "data_school": [
+            {
+              "ten_nganh": "Y khoa",
+              "to_hop_mon": "A00; A01; B00; B08; D07",
+              "diem_chuan_2024": "22.5",
+              "diem_chuan_2023": "22.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Bắc - UKB",
+          "data_school": [
+            {
+              "ten_nganh": "Y khoa",
+              "to_hop_mon": "A00; A01; B00; D07; D08; D90",
+              "diem_chuan_2024": "22.5",
+              "diem_chuan_2023": "22.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hòa Bình - ETU",
+          "data_school": [
+            {
+              "ten_nganh": "Y khoa",
+              "to_hop_mon": "A00; A02; B00; B03; B08",
+              "diem_chuan_2024": "22.5",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đại Nam - DDN",
+          "data_school": [
+            {
+              "ten_nganh": "Y khoa (Đào tạo SV Việt Nam)",
+              "to_hop_mon": "A00; B00; B03; B04; B08; D07; X13",
+              "diem_chuan_2024": "22.5",
+              "diem_chuan_2023": "22.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Võ Trường Toản - VTT",
+          "data_school": [
+            {
+              "ten_nganh": "Y khoa",
+              "to_hop_mon": "B00",
+              "diem_chuan_2024": "22.5",
+              "diem_chuan_2023": "22.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đông Á - DAD",
+          "data_school": [
+            {
+              "ten_nganh": "Y khoa (Cơ sở đào tạo Đà Nẵng)",
+              "to_hop_mon": "A00; A02; B00; B08; D07; X09; X11; X13; X14",
+              "diem_chuan_2024": "22.5",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Y Dược Buôn Ma Thuột - BMU",
+          "data_school": [
+            {
+              "ten_nganh": "Y khoa",
+              "to_hop_mon": "X06; X07; X08; A01; AH3; D29; D26; D27; D28; D30; A00; X10; X11; X12; D07; AH2; B00; A02; X14; X16; X15; B08; D35; (Toán, Sinh học, Tiếng Hàn); D33; D34; D31; D32",
+              "diem_chuan_2024": "24",
+              "diem_chuan_2023": "22.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Quân Y - Hệ Dân sự",
+          "data_school": [
+            {
+              "ten_nganh": "Y khoa",
+              "to_hop_mon": "A00; B00; D07",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Răng Hàm Mặt",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Y Hà Nội - YHB",
+          "data_school": [
+            {
+              "ten_nganh": "Răng - Hàm - Mặt",
+              "to_hop_mon": "B00",
+              "diem_chuan_2024": "27.67",
+              "diem_chuan_2023": "27.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Y Dược TPHCM - YDS",
+          "data_school": [
+            {
+              "ten_nganh": "Răng - Hàm - Mặt",
+              "to_hop_mon": "B00",
+              "diem_chuan_2024": "27.35",
+              "diem_chuan_2023": "26.96"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Dược Hải Phòng - YPB",
+          "data_school": [
+            {
+              "ten_nganh": "Răng hàm mặt",
+              "to_hop_mon": "A00; B00",
+              "diem_chuan_2024": "25.85",
+              "diem_chuan_2023": "25.4"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Phenikaa - PKA",
+          "data_school": [
+            {
+              "ten_nganh": "Răng - Hàm - Mặt",
+              "to_hop_mon": "A00; B00; B03; B08; C02; D07",
+              "diem_chuan_2024": "22.5",
+              "diem_chuan_2023": "22.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Dược Cần Thơ - YCT",
+          "data_school": [
+            {
+              "ten_nganh": "Răng hàm mặt",
+              "to_hop_mon": "B00",
+              "diem_chuan_2024": "25.65",
+              "diem_chuan_2023": "25.4"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Khoa Phạm Ngọc Thạch - TYS",
+          "data_school": [
+            {
+              "ten_nganh": "Răng Hàm Mặt",
+              "to_hop_mon": "B00",
+              "diem_chuan_2024": "26.49",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Y Dược - ĐHQG Hà Nội - QHY",
+          "data_school": [
+            {
+              "ten_nganh": "Răng Hàm Mặt",
+              "to_hop_mon": "B00; D08",
+              "diem_chuan_2024": "27",
+              "diem_chuan_2023": "26.8"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Dược Thái Nguyên - DTY",
+          "data_school": [
+            {
+              "ten_nganh": "Răng - Hàm - Mặt",
+              "to_hop_mon": "A00; A02; B00; D07; D08",
+              "diem_chuan_2024": "26.35",
+              "diem_chuan_2023": "26.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Dược Huế - DHY",
+          "data_school": [
+            {
+              "ten_nganh": "Răng - Hàm - Mặt",
+              "to_hop_mon": "B00; B08; D07",
+              "diem_chuan_2024": "25.95",
+              "diem_chuan_2023": "25.8"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Y Dược Đà Nẵng - DDY",
+          "data_school": [
+            {
+              "ten_nganh": "Răng - Hàm - Mặt",
+              "to_hop_mon": "B00; B08",
+              "diem_chuan_2024": "25.57",
+              "diem_chuan_2023": "25.52"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Khoa học sức khỏe TPHCM - QSY",
+          "data_school": [
+            {
+              "ten_nganh": "Răng - Hàm - Mặt",
+              "to_hop_mon": "B00; A02",
+              "diem_chuan_2024": "26.33",
+              "diem_chuan_2023": "26.05"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Trà Vinh - DVT",
+          "data_school": [
+            {
+              "ten_nganh": "Răng - Hàm - Mặt",
+              "to_hop_mon": "B00; B08",
+              "diem_chuan_2024": "24.62",
+              "diem_chuan_2023": "24.27"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Doanh và Công Nghệ Hà Nội - DQK",
+          "data_school": [
+            {
+              "ten_nganh": "Răng - Hàm - Mặt",
+              "to_hop_mon": "A00; A02; B00; D08",
+              "diem_chuan_2024": "24",
+              "diem_chuan_2023": "23.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nguyễn Tất Thành - NTT",
+          "data_school": [
+            {
+              "ten_nganh": "Răng - Hàm - Mặt",
+              "to_hop_mon": "A00; B00; D07; B08",
+              "diem_chuan_2024": "22.5",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Duy Tân - DDT",
+          "data_school": [
+            {
+              "ten_nganh": "Ngành Răng-Hàm-Mặt",
+              "to_hop_mon": "A00; A02; B00; B03; D08; X14 (Toán, Sinh, Tin)",
+              "diem_chuan_2024": "22.5",
+              "diem_chuan_2023": "22.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Nam Cần Thơ - DNC",
+          "data_school": [
+            {
+              "ten_nganh": "Răng - Hàm - Mặt (Bác sĩ Nha khoa)",
+              "to_hop_mon": "B00; A00; A02; B03; D07; D08",
+              "diem_chuan_2024": "22.5",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quốc Tế Hồng Bàng - HIU",
+          "data_school": [
+            {
+              "ten_nganh": "Răng – Hàm – Mặt",
+              "to_hop_mon": "A00; A02; B00; D07; D08; X14",
+              "diem_chuan_2024": "22.5",
+              "diem_chuan_2023": "22.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Lang - DVL",
+          "data_school": [
+            {
+              "ten_nganh": "Răng - Hàm - Mặt",
+              "to_hop_mon": "A00; B00; D07; X09; X10",
+              "diem_chuan_2024": "22.5",
+              "diem_chuan_2023": "24"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Phan Châu Trinh - DPC",
+          "data_school": [
+            {
+              "ten_nganh": "Răng - Hàm - Mặt",
+              "to_hop_mon": "A00; A01; B00; B08; D07",
+              "diem_chuan_2024": "22.5",
+              "diem_chuan_2023": "22.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Võ Trường Toản - VTT",
+          "data_school": [
+            {
+              "ten_nganh": "Răng - Hàm - Mặt",
+              "to_hop_mon": "B00",
+              "diem_chuan_2024": "22.5",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Gia Định - GDU",
+          "data_school": [
+            {
+              "ten_nganh": "Răng hàm mặt",
+              "to_hop_mon": "A00; A01; B00; B01; B03; D07; D08",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Dược học",
+      "data": [
+        {
+          "ten_truong": "Đại Học Y Dược TPHCM - YDS",
+          "data_school": [
+            {
+              "ten_nganh": "Dược học",
+              "to_hop_mon": "B00; A00",
+              "diem_chuan_2024": "25.72",
+              "diem_chuan_2023": "25.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Dược Thái Bình - YTB",
+          "data_school": [
+            {
+              "ten_nganh": "Dược học",
+              "to_hop_mon": "A00; A01; D07",
+              "diem_chuan_2024": "24",
+              "diem_chuan_2023": "23.14"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Dược Hải Phòng - YPB",
+          "data_school": [
+            {
+              "ten_nganh": "Dược học",
+              "to_hop_mon": "A00; B00; D07",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp TPHCM - IUH",
+          "data_school": [
+            {
+              "ten_nganh": "Dược học",
+              "to_hop_mon": "A00; B00; C02; D07; X11",
+              "diem_chuan_2024": "23",
+              "diem_chuan_2023": "23"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Dược Hà Nội - DKH",
+          "data_school": [
+            {
+              "ten_nganh": "Dược học",
+              "to_hop_mon": "A00; B00",
+              "diem_chuan_2024": "25.51",
+              "diem_chuan_2023": "25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Y Dược Học Cổ Truyền Việt Nam - HYD",
+          "data_school": [
+            {
+              "ten_nganh": "Dược học",
+              "to_hop_mon": "A00; AH2; B00; C02; D07; D21; D22; D23; D24; D25; X10",
+              "diem_chuan_2024": "23.52",
+              "diem_chuan_2023": "23.09"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Phenikaa - PKA",
+          "data_school": [
+            {
+              "ten_nganh": "Dược học",
+              "to_hop_mon": "A00; B00; B08; D07; X10; X14",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Dược Cần Thơ - YCT",
+          "data_school": [
+            {
+              "ten_nganh": "Dược học",
+              "to_hop_mon": "B00; A00",
+              "diem_chuan_2024": "24.78",
+              "diem_chuan_2023": "24.7"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Khoa Phạm Ngọc Thạch - TYS",
+          "data_school": [
+            {
+              "ten_nganh": "Dược học",
+              "to_hop_mon": "B00",
+              "diem_chuan_2024": "25.51",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tôn Đức Thắng - DTT",
+          "data_school": [
+            {
+              "ten_nganh": "Dược học",
+              "to_hop_mon": "A00; B00; C02; D07; X10; X11",
+              "diem_chuan_2024": "31.45",
+              "diem_chuan_2023": "31.4"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Quân Y - Hệ Quân sự - YQH",
+          "data_school": [
+            {
+              "ten_nganh": "Dược học (Thí sinh Nam, miền Bắc)",
+              "to_hop_mon": "A00; D07",
+              "diem_chuan_2024": "25.19",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Y Dược - ĐHQG Hà Nội - QHY",
+          "data_school": [
+            {
+              "ten_nganh": "Dược học",
+              "to_hop_mon": "A00; D07",
+              "diem_chuan_2024": "25.1",
+              "diem_chuan_2023": "24.35"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Khoa Vinh - YKV",
+          "data_school": [
+            {
+              "ten_nganh": "Dược học",
+              "to_hop_mon": "B00; A00; D07",
+              "diem_chuan_2024": "23",
+              "diem_chuan_2023": "22.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kỹ thuật Y Dược Đà Nẵng - YDN",
+          "data_school": [
+            {
+              "ten_nganh": "Dược học",
+              "to_hop_mon": "B00; B08; A00; D07",
+              "diem_chuan_2024": "23.6",
+              "diem_chuan_2023": "23.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Dược Thái Nguyên - DTY",
+          "data_school": [
+            {
+              "ten_nganh": "Dược học",
+              "to_hop_mon": "A00; A01; A02; B00; D07; D08",
+              "diem_chuan_2024": "24.75",
+              "diem_chuan_2023": "24.7"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Dược Huế - DHY",
+          "data_school": [
+            {
+              "ten_nganh": "Dược học",
+              "to_hop_mon": "A00; B00; D07",
+              "diem_chuan_2024": "24.55",
+              "diem_chuan_2023": "24.7"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Y Dược Đà Nẵng - DDY",
+          "data_school": [
+            {
+              "ten_nganh": "Dược học",
+              "to_hop_mon": "B00; D07; A00",
+              "diem_chuan_2024": "24.45",
+              "diem_chuan_2023": "24.56"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Khoa học sức khỏe TPHCM - QSY",
+          "data_school": [
+            {
+              "ten_nganh": "Dược học",
+              "to_hop_mon": "B00; A00",
+              "diem_chuan_2024": "25.31",
+              "diem_chuan_2023": "25.12"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Và Công Nghệ Hà Nội - KCN",
+          "data_school": [
+            {
+              "ten_nganh": "Dược học",
+              "to_hop_mon": "A00; A01; A02; X06; X07; X08; B00; D07; X14; X10; X11; X12; D08; X15; X16",
+              "diem_chuan_2024": "23.57",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Trà Vinh - DVT",
+          "data_school": [
+            {
+              "ten_nganh": "Dược học",
+              "to_hop_mon": "A00; B00",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "21.85"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Doanh và Công Nghệ Hà Nội - DQK",
+          "data_school": [
+            {
+              "ten_nganh": "Dược học",
+              "to_hop_mon": "A00; A01; A02; B00; D07; X09; X10; X06; X13",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nguyễn Tất Thành - NTT",
+          "data_school": [
+            {
+              "ten_nganh": "Dược học",
+              "to_hop_mon": "A00; A01; B00; D07",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Duy Tân - DDT",
+          "data_school": [
+            {
+              "ten_nganh": "Ngành Dược",
+              "to_hop_mon": "A00; A02; B00; B03; D08; X14 (Toán, Sinh, Tin)",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Nam Cần Thơ - DNC",
+          "data_school": [
+            {
+              "ten_nganh": "Dược học",
+              "to_hop_mon": "B00; A00; A02; B03; D07; D08",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quốc Tế Hồng Bàng - HIU",
+          "data_school": [
+            {
+              "ten_nganh": "Dược học",
+              "to_hop_mon": "A00; B00; D07; D08; X10; X14",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Lang - DVL",
+          "data_school": [
+            {
+              "ten_nganh": "Dược học",
+              "to_hop_mon": "A00; B00; D07; X09; X10",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Bắc - UKB",
+          "data_school": [
+            {
+              "ten_nganh": "Dược học",
+              "to_hop_mon": "A00; A01; B00; D07; D08; D90",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hòa Bình - ETU",
+          "data_school": [
+            {
+              "ten_nganh": "Dược học",
+              "to_hop_mon": "A00; A02; A11; B00; B03; B08; C02; D07",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đại Nam - DDN",
+          "data_school": [
+            {
+              "ten_nganh": "Dược học",
+              "to_hop_mon": "A00; A11; B00; D07; X09; X13",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Võ Trường Toản - VTT",
+          "data_school": [
+            {
+              "ten_nganh": "Dược học",
+              "to_hop_mon": "B00",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đông Á - DAD",
+          "data_school": [
+            {
+              "ten_nganh": "Dược học (Cơ sở đào tạo Đà Nẵng)",
+              "to_hop_mon": "A00; A02; B00; B08; D07; X09; X11; X13; X14",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Đô - DTD",
+          "data_school": [
+            {
+              "ten_nganh": "Dược học",
+              "to_hop_mon": "A00; B00; D07; C02; D08; A02",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công Nghệ TPHCM - DKC",
+          "data_school": [
+            {
+              "ten_nganh": "Dược học",
+              "to_hop_mon": "D07; B00; A00; B03; C02; X09",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đông Đô - DDU",
+          "data_school": [
+            {
+              "ten_nganh": "Dược học",
+              "to_hop_mon": "A00; A02; B00; B04; B08; D07",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Lạc Hồng - DLH",
+          "data_school": [
+            {
+              "ten_nganh": "Dược học",
+              "to_hop_mon": "D01; C02; B03; B00; D07; B08",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thành Đông - DDB",
+          "data_school": [
+            {
+              "ten_nganh": "Dược học",
+              "to_hop_mon": "A00; A02; B00",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Yersin Đà Lạt - DYD",
+          "data_school": [
+            {
+              "ten_nganh": "Dược học",
+              "to_hop_mon": "B00; X15 (Toán, Sinh, Công nghệ); B08; A02; X14 (Toán, Sinh, Tin); D07; X10 (Toán, Hóa, Tin); X11 (Toán, Hóa, Công nghệ); A00",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thành Đô - TDD",
+          "data_school": [
+            {
+              "ten_nganh": "Dược học",
+              "to_hop_mon": "A00; A02; A03; B00; B08; D07",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Bình Dương - DBD",
+          "data_school": [
+            {
+              "ten_nganh": "Dược học",
+              "to_hop_mon": "A00; B00; B03; C02; C08; D07",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công nghệ Miền Đông - MIT",
+          "data_school": [
+            {
+              "ten_nganh": "Dược học",
+              "to_hop_mon": "A00; A01; B00; C08; D01; D07; D08",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Trưng Vương - DVP",
+          "data_school": [
+            {
+              "ten_nganh": "Dược học",
+              "to_hop_mon": "A00; A02; B00; B03; B08; C02; D07",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ Đông Á - DDA",
+          "data_school": [
+            {
+              "ten_nganh": "Dược học",
+              "to_hop_mon": "A00; A02; A03; B00; B01; B02; B03; B04; B08; D07",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Y Dược Buôn Ma Thuột - BMU",
+          "data_school": [
+            {
+              "ten_nganh": "Dược học",
+              "to_hop_mon": "X06; X07; X08; A01; AH3; D29; D26; D27; D28; D30; A00; X10; X11; X12; D07; AH2; B00; A02; X14; X16; X15; B08; D35; (Toán, Sinh học, Tiếng Hàn); D33; D34; D31; D32",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Quân Y - Hệ Dân sự",
+          "data_school": [
+            {
+              "ten_nganh": "Dược học",
+              "to_hop_mon": "A00; D07",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Điều dưỡng",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Y Hà Nội - YHB",
+          "data_school": [
+            {
+              "ten_nganh": "Điều dưỡng",
+              "to_hop_mon": "A00; B00",
+              "diem_chuan_2024": "20.25",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Y Dược TPHCM - YDS",
+          "data_school": [
+            {
+              "ten_nganh": "Điều dưỡng",
+              "to_hop_mon": "B00; A00",
+              "diem_chuan_2024": "24.03",
+              "diem_chuan_2023": "23.15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Dược Thái Bình - YTB",
+          "data_school": [
+            {
+              "ten_nganh": "Điều dưỡng",
+              "to_hop_mon": "B00; D08",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "22.1"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Dược Hải Phòng - YPB",
+          "data_school": [
+            {
+              "ten_nganh": "Điều dưỡng",
+              "to_hop_mon": "A00; B00",
+              "diem_chuan_2024": "20.55",
+              "diem_chuan_2023": "20.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kỹ Thuật Y Tế Hải Dương - DKY",
+          "data_school": [
+            {
+              "ten_nganh": "Điều dưỡng",
+              "to_hop_mon": "B00; A00; D07; B08",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Phenikaa - PKA",
+          "data_school": [
+            {
+              "ten_nganh": "Điều dưỡng",
+              "to_hop_mon": "A00; B00; B03; B08; D07; X14",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Dược Cần Thơ - YCT",
+          "data_school": [
+            {
+              "ten_nganh": "Điều dưỡng",
+              "to_hop_mon": "B00",
+              "diem_chuan_2024": "23.45",
+              "diem_chuan_2023": "23.2"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Khoa Phạm Ngọc Thạch - TYS",
+          "data_school": [
+            {
+              "ten_nganh": "Điều dưỡng",
+              "to_hop_mon": "B00; B03; B08",
+              "diem_chuan_2024": "23.57",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thăng Long - DTL",
+          "data_school": [
+            {
+              "ten_nganh": "Điều dưỡng",
+              "to_hop_mon": "A00; B00; B03; B08; C02; D07",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Y Dược - ĐHQG Hà Nội - QHY",
+          "data_school": [
+            {
+              "ten_nganh": "Điều dưỡng",
+              "to_hop_mon": "B00; D08",
+              "diem_chuan_2024": "24.49",
+              "diem_chuan_2023": "23.95"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Khoa Vinh - YKV",
+          "data_school": [
+            {
+              "ten_nganh": "Điều dưỡng",
+              "to_hop_mon": "B00; A00; D07",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kỹ thuật Y Dược Đà Nẵng - YDN",
+          "data_school": [
+            {
+              "ten_nganh": "Điều dưỡng đa khoa",
+              "to_hop_mon": "B00; B08; A00; D07",
+              "diem_chuan_2024": "20.9",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Dược Thái Nguyên - DTY",
+          "data_school": [
+            {
+              "ten_nganh": "Điều dưỡng",
+              "to_hop_mon": "A00; A02; B00; D01; D07; D08",
+              "diem_chuan_2024": "21.8",
+              "diem_chuan_2023": "20"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Dược Huế - DHY",
+          "data_school": [
+            {
+              "ten_nganh": "Điều dưỡng",
+              "to_hop_mon": "B00; B08; D07",
+              "diem_chuan_2024": "19.9",
+              "diem_chuan_2023": "19.05"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Y Dược Đà Nẵng - DDY",
+          "data_school": [
+            {
+              "ten_nganh": "Điều dưỡng",
+              "to_hop_mon": "B00; B08; A00; D07",
+              "diem_chuan_2024": "22.65",
+              "diem_chuan_2023": "20.95"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Khoa học sức khỏe TPHCM - QSY",
+          "data_school": [
+            {
+              "ten_nganh": "Điều dưỡng",
+              "to_hop_mon": "B00; A02",
+              "diem_chuan_2024": "22.6",
+              "diem_chuan_2023": "19.65"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hùng Vương - THV",
+          "data_school": [
+            {
+              "ten_nganh": "Điều dưỡng",
+              "to_hop_mon": "B00; (Toán, Sinh, Tin); B03; D01",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Vinh - TDV",
+          "data_school": [
+            {
+              "ten_nganh": "Điều dưỡng",
+              "to_hop_mon": "B00; B03; B04; D08",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "20"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Nguyên - TTN",
+          "data_school": [
+            {
+              "ten_nganh": "Điều dưỡng",
+              "to_hop_mon": "B00; B03; B08; D07",
+              "diem_chuan_2024": "20.85",
+              "diem_chuan_2023": "21.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Trà Vinh - DVT",
+          "data_school": [
+            {
+              "ten_nganh": "Điều dưỡng",
+              "to_hop_mon": "B00; B08",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Doanh và Công Nghệ Hà Nội - DQK",
+          "data_school": [
+            {
+              "ten_nganh": "Điều dưỡng",
+              "to_hop_mon": "A00; A01; A02; B00; D07; X09; X10; X06; X13",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nguyễn Tất Thành - NTT",
+          "data_school": [
+            {
+              "ten_nganh": "Điều dưỡng",
+              "to_hop_mon": "A00; A01; B00; D07",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Duy Tân - DDT",
+          "data_school": [
+            {
+              "ten_nganh": "Ngành Điều dưỡng",
+              "to_hop_mon": "A00; A02; B00; B03; D08; X14 (Toán, Sinh, Tin)",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Nam Cần Thơ - DNC",
+          "data_school": [
+            {
+              "ten_nganh": "Điều dưỡng",
+              "to_hop_mon": "B00; A00; A11; B03; D01; D07; D08; X10",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quốc Tế Hồng Bàng - HIU",
+          "data_school": [
+            {
+              "ten_nganh": "Điều dưỡng",
+              "to_hop_mon": "A00; B00; D07; D08; X10; X14",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Tân Tạo - TTU",
+          "data_school": [
+            {
+              "ten_nganh": "Điều dưỡng",
+              "to_hop_mon": "A02; B00; B08; A00; D07",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Lang - DVL",
+          "data_school": [
+            {
+              "ten_nganh": "Điều dưỡng",
+              "to_hop_mon": "A00; B00; D07; X09; X10",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Phan Châu Trinh - DPC",
+          "data_school": [
+            {
+              "ten_nganh": "Điều dưỡng Đa khoa",
+              "to_hop_mon": "A00; A01; B00; B08; D07",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hòa Bình - ETU",
+          "data_school": [
+            {
+              "ten_nganh": "Điều dưỡng",
+              "to_hop_mon": "A02; B00; B03; B08; C02",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đại Nam - DDN",
+          "data_school": [
+            {
+              "ten_nganh": "Điều dưỡng",
+              "to_hop_mon": "A00; B00; C02; D07; X01; X13",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đông Á - DAD",
+          "data_school": [
+            {
+              "ten_nganh": "Điều dưỡng (Cơ sở đào tạo Đà Nẵng)",
+              "to_hop_mon": "A00; A02; B00; B03; B08; D07; X11; X13; X14",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Đô - DTD",
+          "data_school": [
+            {
+              "ten_nganh": "Điều dưỡng",
+              "to_hop_mon": "A02; B00; D08; B03; A00",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công Nghệ TPHCM - DKC",
+          "data_school": [
+            {
+              "ten_nganh": "Điều dưỡng",
+              "to_hop_mon": "D07; B00; A00; B03; C02; X09",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đông Đô - DDU",
+          "data_school": [
+            {
+              "ten_nganh": "Điều dưỡng",
+              "to_hop_mon": "A00; A01; B00; B04; B08; D07",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thành Đông - DDB",
+          "data_school": [
+            {
+              "ten_nganh": "Điều dưỡng",
+              "to_hop_mon": "A00; A02; B00",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Yersin Đà Lạt - DYD",
+          "data_school": [
+            {
+              "ten_nganh": "Điều dưỡng",
+              "to_hop_mon": "B00; X15 (Toán, Sinh, Công nghệ); B08; A02; X14 (Toán, Sinh, Tin); D07; X10 (Toán, Hóa, Tin); X11 (Toán, Hóa, Công nghệ); A00",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thành Đô - TDD",
+          "data_school": [
+            {
+              "ten_nganh": "Điều dưỡng",
+              "to_hop_mon": "A00; A02; A03; B00; B08; D07",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Hiến - DVH",
+          "data_school": [
+            {
+              "ten_nganh": "Điều dưỡng",
+              "to_hop_mon": "B03; D07; C02; D01; B04; X13; X66; B00",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quang Trung - DQT",
+          "data_school": [
+            {
+              "ten_nganh": "Điều dưỡng",
+              "to_hop_mon": "A00; A02; B00; B03; B04; B08; C02; C05; C06; C08; D01; D07; D08; D12; D13",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Trưng Vương - DVP",
+          "data_school": [
+            {
+              "ten_nganh": "Điều dưỡng",
+              "to_hop_mon": "A00; A01; A02; B00; B03; B04; B08; C02; C08; D07",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Điều Dưỡng Nam Định - YDD",
+          "data_school": [
+            {
+              "ten_nganh": "Điều dưỡng",
+              "to_hop_mon": "A00; A01; B00; B03; B08; C02; D01; D07",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Y khoa Tokyo Việt Nam - THU",
+          "data_school": [
+            {
+              "ten_nganh": "Điều dưỡng",
+              "to_hop_mon": "A00; A01; A02; B00; B08; D07; D23; D28; D33",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ Đồng Nai - DCD",
+          "data_school": [
+            {
+              "ten_nganh": "Điều dưỡng",
+              "to_hop_mon": "A00; A02; B00; B08; D01; D07; D09; D10",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quốc Tế Miền Đông - EIU",
+          "data_school": [
+            {
+              "ten_nganh": "Điều dưỡng",
+              "to_hop_mon": "A00; A01; B00; B03; B08; C02; D01; D07; D08; D09; D10; X01; X25",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Gia Định - GDU",
+          "data_school": [
+            {
+              "ten_nganh": "Điều dưỡng",
+              "to_hop_mon": "A00; A01; B00; B01; B03; D07; D08",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ Đông Á - DDA",
+          "data_school": [
+            {
+              "ten_nganh": "Điều dưỡng",
+              "to_hop_mon": "A00; A02; A03; B00; B01; B02; B03; B04; B08; D07",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Y Dược Buôn Ma Thuột - BMU",
+          "data_school": [
+            {
+              "ten_nganh": "Điều dưỡng",
+              "to_hop_mon": "X06; X07; X08; A01; AH3; D29; D26; D27; D28; D30; A00; X10; X11; X12; D07; AH2; B00; A02; X14; X16; X15; B08; D35; (Toán, Sinh học, Tiếng Hàn); D33; D34; D31; D32",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Y học cổ truyền",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Y Hà Nội - YHB",
+          "data_school": [
+            {
+              "ten_nganh": "Y học cổ truyền",
+              "to_hop_mon": "B00",
+              "diem_chuan_2024": "25.29",
+              "diem_chuan_2023": "24.77"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Y Dược TPHCM - YDS",
+          "data_school": [
+            {
+              "ten_nganh": "Y học cổ truyền",
+              "to_hop_mon": "B00",
+              "diem_chuan_2024": "24.8",
+              "diem_chuan_2023": "24.54"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Dược Thái Bình - YTB",
+          "data_school": [
+            {
+              "ten_nganh": "Y học cổ truyền",
+              "to_hop_mon": "B00; D08",
+              "diem_chuan_2024": "23",
+              "diem_chuan_2023": "23.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Dược Hải Phòng - YPB",
+          "data_school": [
+            {
+              "ten_nganh": "Y học cổ truyền",
+              "to_hop_mon": "A00; B00",
+              "diem_chuan_2024": "22.5",
+              "diem_chuan_2023": "21.8"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Y Dược Học Cổ Truyền Việt Nam - HYD",
+          "data_school": [
+            {
+              "ten_nganh": "Y học cổ truyền",
+              "to_hop_mon": "A02; AH4; B00; B03; D08; D31; D32; D33; D34; D35; X14",
+              "diem_chuan_2024": "22.75",
+              "diem_chuan_2023": "21.85"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Phenikaa - PKA",
+          "data_school": [
+            {
+              "ten_nganh": "Y học cổ truyền",
+              "to_hop_mon": "A00; B00; B03; B08; C02; D07",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Dược Cần Thơ - YCT",
+          "data_school": [
+            {
+              "ten_nganh": "Y học cổ truyền",
+              "to_hop_mon": "B00",
+              "diem_chuan_2024": "24.48",
+              "diem_chuan_2023": "23.9"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Khoa Phạm Ngọc Thạch - TYS",
+          "data_school": [
+            {
+              "ten_nganh": "Y học cổ truyền",
+              "to_hop_mon": "B00",
+              "diem_chuan_2024": "24.6",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Dược Huế - DHY",
+          "data_school": [
+            {
+              "ten_nganh": "Y học cổ truyền",
+              "to_hop_mon": "B00; B08; D07",
+              "diem_chuan_2024": "23.5",
+              "diem_chuan_2023": "22.7"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Khoa học sức khỏe TPHCM - QSY",
+          "data_school": [
+            {
+              "ten_nganh": "Y học cổ truyền",
+              "to_hop_mon": "B00; A02",
+              "diem_chuan_2024": "24.24",
+              "diem_chuan_2023": "23.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nguyễn Tất Thành - NTT",
+          "data_school": [
+            {
+              "ten_nganh": "Y học cổ truyền",
+              "to_hop_mon": "A00; A01; B00; D07",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quốc Tế Hồng Bàng - HIU",
+          "data_school": [
+            {
+              "ten_nganh": "Y học cổ truyền",
+              "to_hop_mon": "A00; A02; B00; D07; D08; X14",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Bắc - UKB",
+          "data_school": [
+            {
+              "ten_nganh": "Y học cổ truyền",
+              "to_hop_mon": "A00; A01; B00; D07; D08; D90",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hòa Bình - ETU",
+          "data_school": [
+            {
+              "ten_nganh": "Y học cổ truyền",
+              "to_hop_mon": "A00; A02; B00; B03; B08",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thành Đông - DDB",
+          "data_school": [
+            {
+              "ten_nganh": "Y học cổ truyền",
+              "to_hop_mon": "A00; A02; B00",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Y Dược Buôn Ma Thuột - BMU",
+          "data_school": [
+            {
+              "ten_nganh": "Y học cổ truyền (dự kiến)",
+              "to_hop_mon": "X06; X07; X08; A01; AH3; D29; D26; D27; D28; D30; A00; X10; X11; X12; D07; AH2; B00; A02; X14; X16; X15; B08; D35; (Toán, Sinh học, Tiếng Hàn); D33; D34; D31; D32",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Y học dự phòng",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Y Hà Nội - YHB",
+          "data_school": [
+            {
+              "ten_nganh": "Y học dự phòng",
+              "to_hop_mon": "B00",
+              "diem_chuan_2024": "22.94",
+              "diem_chuan_2023": "22.3"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Y Dược TPHCM - YDS",
+          "data_school": [
+            {
+              "ten_nganh": "Y học dự phòng",
+              "to_hop_mon": "B00; A00",
+              "diem_chuan_2024": "23.25",
+              "diem_chuan_2023": "22.65"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Dược Thái Bình - YTB",
+          "data_school": [
+            {
+              "ten_nganh": "Y học dự phòng",
+              "to_hop_mon": "B00; D08",
+              "diem_chuan_2024": "19.15",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Dược Hải Phòng - YPB",
+          "data_school": [
+            {
+              "ten_nganh": "Y học dự phòng",
+              "to_hop_mon": "A00; B00",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Dược Cần Thơ - YCT",
+          "data_school": [
+            {
+              "ten_nganh": "Y học dự phòng",
+              "to_hop_mon": "B00",
+              "diem_chuan_2024": "22.7",
+              "diem_chuan_2023": "22.35"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Khoa Vinh - YKV",
+          "data_school": [
+            {
+              "ten_nganh": "Y học dự phòng",
+              "to_hop_mon": "B00; A00; D07",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Dược Thái Nguyên - DTY",
+          "data_school": [
+            {
+              "ten_nganh": "Y học dự phòng",
+              "to_hop_mon": "A00; A02; B00; D07; D08",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "21.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Dược Huế - DHY",
+          "data_school": [
+            {
+              "ten_nganh": "Y học dự phòng",
+              "to_hop_mon": "B00; B08; D07",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19.05"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Trà Vinh - DVT",
+          "data_school": [
+            {
+              "ten_nganh": "Y học dự phòng",
+              "to_hop_mon": "B00; B08",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nguyễn Tất Thành - NTT",
+          "data_school": [
+            {
+              "ten_nganh": "Y học dự phòng",
+              "to_hop_mon": "B00; D07; B08",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Nam Cần Thơ - DNC",
+          "data_school": [
+            {
+              "ten_nganh": "Y học dự phòng (Bác sĩ Y học dự phòng)",
+              "to_hop_mon": "B00; A00; A02; B03; D07; D08",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Y Dược Buôn Ma Thuột - BMU",
+          "data_school": [
+            {
+              "ten_nganh": "Y học dự phòng (dự kiến)",
+              "to_hop_mon": "X06; X07; X08; A01; AH3; D29; D26; D27; D28; D30; A00; X10; X11; X12; D07; AH2; B00; A02; X14; X16; X15; B08; D35; (Toán, Sinh học, Tiếng Hàn); D33; D34; D31; D32",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Y tế công cộng",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Y Hà Nội - YHB",
+          "data_school": [
+            {
+              "ten_nganh": "Y tế công cộng",
+              "to_hop_mon": "B00; B08; D01",
+              "diem_chuan_2024": "22.85",
+              "diem_chuan_2023": "20.7"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Y Dược TPHCM - YDS",
+          "data_school": [
+            {
+              "ten_nganh": "Y tế công cộng",
+              "to_hop_mon": "B00; A00",
+              "diem_chuan_2024": "21.45",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Tế Công Cộng - YTC",
+          "data_school": [
+            {
+              "ten_nganh": "Y tế công cộng",
+              "to_hop_mon": "B00; B03; B08; C02; D01; D13",
+              "diem_chuan_2024": "17.5",
+              "diem_chuan_2023": "16.15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Dược Cần Thơ - YCT",
+          "data_school": [
+            {
+              "ten_nganh": "Y tế công cộng",
+              "to_hop_mon": "B00",
+              "diem_chuan_2024": "19.2",
+              "diem_chuan_2023": "20"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Khoa Phạm Ngọc Thạch - TYS",
+          "data_school": [
+            {
+              "ten_nganh": "Y tế công cộng",
+              "to_hop_mon": "B00; A00; B03; B08",
+              "diem_chuan_2024": "21.35",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kỹ thuật Y Dược Đà Nẵng - YDN",
+          "data_school": [
+            {
+              "ten_nganh": "Y tế công cộng",
+              "to_hop_mon": "B00; B08; A00; D07",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Dược Huế - DHY",
+          "data_school": [
+            {
+              "ten_nganh": "Y tế công cộng",
+              "to_hop_mon": "B00; B08; D07",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Trà Vinh - DVT",
+          "data_school": [
+            {
+              "ten_nganh": "Y tế Công cộng",
+              "to_hop_mon": "A00; B00",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quốc Tế Hồng Bàng - HIU",
+          "data_school": [
+            {
+              "ten_nganh": "Y tế công cộng",
+              "to_hop_mon": "A00; B00; D07; D08; X10; X14",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quang Trung - DQT",
+          "data_school": [
+            {
+              "ten_nganh": "Y tế công cộng",
+              "to_hop_mon": "A00; A02; B00; B03; B04; B08; C02; C05; C06; C08; D01; D07; D08; D12; D13",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Y Dược Buôn Ma Thuột - BMU",
+          "data_school": [
+            {
+              "ten_nganh": "Y tế công cộng",
+              "to_hop_mon": "X06; X07; X08; A01; AH3; D29; D26; D27; D28; D30; A00; X10; X11; X12; D07; AH2; B00; A02; X14; X16; X15; B08; D35; (Toán, Sinh học, Tiếng Hàn); D33; D34; D31; D32",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Dinh dưỡng",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Y Hà Nội - YHB",
+          "data_school": [
+            {
+              "ten_nganh": "Dinh dưỡng",
+              "to_hop_mon": "A00; B00",
+              "diem_chuan_2024": "23.33",
+              "diem_chuan_2023": "23.19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Y Dược TPHCM - YDS",
+          "data_school": [
+            {
+              "ten_nganh": "Dinh dưỡng",
+              "to_hop_mon": "B00; A00",
+              "diem_chuan_2024": "24.1",
+              "diem_chuan_2023": "23.4"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp TPHCM - IUH",
+          "data_school": [
+            {
+              "ten_nganh": "Dinh dưỡng và Khoa học thực phẩm",
+              "to_hop_mon": "A00; B00; C02; D07; X11",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Thương TPHCM - DCT",
+          "data_school": [
+            {
+              "ten_nganh": "Khoa học dinh dưỡng và ẩm thực",
+              "to_hop_mon": "A01; B00; C02; D07",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Tế Công Cộng - YTC",
+          "data_school": [
+            {
+              "ten_nganh": "Dinh dưỡng",
+              "to_hop_mon": "B00; B03; B08; C02; D01; D07",
+              "diem_chuan_2024": "20.4",
+              "diem_chuan_2023": "19.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Dược Cần Thơ - YCT",
+          "data_school": [
+            {
+              "ten_nganh": "Dinh dưỡng",
+              "to_hop_mon": "B00",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Khoa Phạm Ngọc Thạch - TYS",
+          "data_school": [
+            {
+              "ten_nganh": "Dinh dưỡng",
+              "to_hop_mon": "B00; A00",
+              "diem_chuan_2024": "23.2",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Dược Huế - DHY",
+          "data_school": [
+            {
+              "ten_nganh": "Dinh dưỡng",
+              "to_hop_mon": "B00; B08; D07",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quốc Tế Hồng Bàng - HIU",
+          "data_school": [
+            {
+              "ten_nganh": "Dinh dưỡng",
+              "to_hop_mon": "A00; B00; D07; D08; X10; X14",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đông Á - DAD",
+          "data_school": [
+            {
+              "ten_nganh": "Dinh dưỡng (Cơ sở đào tạo Đà Nẵng)",
+              "to_hop_mon": "A00; A02; B00; B03; B08; D07; X11; X13; X14",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Đô - DTD",
+          "data_school": [
+            {
+              "ten_nganh": "Dinh dưỡng",
+              "to_hop_mon": "A00; B00; D07; D08",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thành Đông - DDB",
+          "data_school": [
+            {
+              "ten_nganh": "Dinh dưỡng",
+              "to_hop_mon": "A00; A02; B00",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Điều Dưỡng Nam Định - YDD",
+          "data_school": [
+            {
+              "ten_nganh": "Dinh dưỡng",
+              "to_hop_mon": "A00; A01; B00; B03; B08; C02; D01; D07",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15.3"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Bắc - TTB",
+          "data_school": [
+            {
+              "ten_nganh": "Dinh dưỡng",
+              "to_hop_mon": "A11; B00; D07; X09; B04; B08; X13; X66",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Hóa dược",
+      "data": [
+        {
+          "ten_truong": "Đại Học Bách Khoa Hà Nội - BKA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật Hóa dược (CT tiên tiến)",
+              "to_hop_mon": "A00; B00; B03; C01; C02; D07; X02",
+              "diem_chuan_2024": "24.34",
+              "diem_chuan_2023": "23.44"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Y Dược TPHCM - YDS",
+          "data_school": [
+            {
+              "ten_nganh": "Hóa dược",
+              "to_hop_mon": "B00; A00",
+              "diem_chuan_2024": "25.23",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp Hà Nội - DCN",
+          "data_school": [
+            {
+              "ten_nganh": "Hóa dược",
+              "to_hop_mon": "A00; B00; C02; D07",
+              "diem_chuan_2024": "21.55",
+              "diem_chuan_2023": "19.45"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Dược Hà Nội - DKH",
+          "data_school": [
+            {
+              "ten_nganh": "Hóa dược",
+              "to_hop_mon": "A00",
+              "diem_chuan_2024": "25.31",
+              "diem_chuan_2023": "24.9"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Tự Nhiên Hà Nội - QHT",
+          "data_school": [
+            {
+              "ten_nganh": "Hoá dược",
+              "to_hop_mon": "A00; A05; A06; B00; C02; D07; X09; X10; X11; X12",
+              "diem_chuan_2024": "25.65",
+              "diem_chuan_2023": "24.6"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Hóa dược",
+              "to_hop_mon": "A00; B00; C02; D07",
+              "diem_chuan_2024": "24.5",
+              "diem_chuan_2023": "24.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Y Dược Đà Nẵng - DDY",
+          "data_school": [
+            {
+              "ten_nganh": "Hóa dược",
+              "to_hop_mon": "B00; A00; D07; A01",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Trà Vinh - DVT",
+          "data_school": [
+            {
+              "ten_nganh": "Hóa dược",
+              "to_hop_mon": "A00; A11; B00; D07; X09; X10; X11",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Mỏ Địa Chất - MDA",
+          "data_school": [
+            {
+              "ten_nganh": "Hóa dược",
+              "to_hop_mon": "A00; B00; D07; A01; C02; A11; A06; D01",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nguyễn Tất Thành - NTT",
+          "data_school": [
+            {
+              "ten_nganh": "Hóa dược",
+              "to_hop_mon": "A00; A01; B00; D07",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Bình Dương - DBD",
+          "data_school": [
+            {
+              "ten_nganh": "Hóa dược",
+              "to_hop_mon": "A00; B00; B03; C02; C08; D07",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Thái Nguyên - DTZ",
+          "data_school": [
+            {
+              "ten_nganh": "Hóa dược",
+              "to_hop_mon": "A00; A05; A06; A11; B00; C02; C08; C10; C17; D07",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đà Lạt - TDL",
+          "data_school": [
+            {
+              "ten_nganh": "Hóa dược",
+              "to_hop_mon": "A00; B00; D07; X10; X11; X12",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Hộ Sinh",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Y Hà Nội - YHB",
+          "data_school": [
+            {
+              "ten_nganh": "Hộ sinh",
+              "to_hop_mon": "A00; B00",
+              "diem_chuan_2024": "22.95",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Y Dược TPHCM - YDS",
+          "data_school": [
+            {
+              "ten_nganh": "Hộ sinh",
+              "to_hop_mon": "B00; A00",
+              "diem_chuan_2024": "22.8",
+              "diem_chuan_2023": "21.35"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Dược Cần Thơ - YCT",
+          "data_school": [
+            {
+              "ten_nganh": "Hộ sinh",
+              "to_hop_mon": "B00",
+              "diem_chuan_2024": "22.35",
+              "diem_chuan_2023": "22.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Khoa Phạm Ngọc Thạch - TYS",
+          "data_school": [
+            {
+              "ten_nganh": "Hộ sinh",
+              "to_hop_mon": "B00; B03; B08",
+              "diem_chuan_2024": "22.4",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Dược Thái Nguyên - DTY",
+          "data_school": [
+            {
+              "ten_nganh": "Hộ sinh",
+              "to_hop_mon": "A00; A02; B00; D01; D07; D08",
+              "diem_chuan_2024": "19.5",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Dược Huế - DHY",
+          "data_school": [
+            {
+              "ten_nganh": "Hộ sinh",
+              "to_hop_mon": "B00; B08; D07",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quốc Tế Hồng Bàng - HIU",
+          "data_school": [
+            {
+              "ten_nganh": "Hộ sinh",
+              "to_hop_mon": "A00; B00; D07; D08; X10 (Toán, Hóa, Tin); X14 (Toán, Sinh, Tin)",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đông Á - DAD",
+          "data_school": [
+            {
+              "ten_nganh": "Hộ sinh (Cơ sở đào tạo Đà Nẵng)",
+              "to_hop_mon": "A00; A02; B00; B03; B08; D07; X11; X13; X14",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Điều Dưỡng Nam Định - YDD",
+          "data_school": [
+            {
+              "ten_nganh": "Hộ sinh",
+              "to_hop_mon": "A00; A01; B00; B03; B08; C02; D01; D07",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Khoa học và Công nghệ y khoa",
+      "data": [
+        {
+          "ten_truong": "Đại Học Y Dược TPHCM - YDS",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xét nghiệm y học",
+              "to_hop_mon": "B00; A00",
+              "diem_chuan_2024": "25.02",
+              "diem_chuan_2023": "24.59"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Dược Thái Bình - YTB",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xét nghiệm y học",
+              "to_hop_mon": "B00; A00",
+              "diem_chuan_2024": "23.05",
+              "diem_chuan_2023": "23.7"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Dược Hải Phòng - YPB",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xét nghiệm y học",
+              "to_hop_mon": "A00; B00",
+              "diem_chuan_2024": "22.5",
+              "diem_chuan_2023": "22.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kỹ Thuật Y Tế Hải Dương - DKY",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật Xét nghiệm y học",
+              "to_hop_mon": "B00; A00; D07; B08",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Tế Công Cộng - YTC",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xét nghiệm y học",
+              "to_hop_mon": "A00; A01; B00; B08; D07; D01",
+              "diem_chuan_2024": "20.1",
+              "diem_chuan_2023": "20"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Dược Cần Thơ - YCT",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật Xét nghiệm y học",
+              "to_hop_mon": "B00",
+              "diem_chuan_2024": "24.38",
+              "diem_chuan_2023": "24.05"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Khoa Phạm Ngọc Thạch - TYS",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xét nghiệm y học",
+              "to_hop_mon": "B00",
+              "diem_chuan_2024": "24.9",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Y Dược - ĐHQG Hà Nội - QHY",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật Xét nghiệm Y học",
+              "to_hop_mon": "B00; D08",
+              "diem_chuan_2024": "24.83",
+              "diem_chuan_2023": "23.55"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Khoa Vinh - YKV",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xét nghiệm y học",
+              "to_hop_mon": "B00; A00; D07",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kỹ thuật Y Dược Đà Nẵng - YDN",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xét nghiệm y học",
+              "to_hop_mon": "B00; B08; A00; D07",
+              "diem_chuan_2024": "20.6",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Dược Thái Nguyên - DTY",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xét nghiệm y học",
+              "to_hop_mon": "A00; A01; A02; B00; D07; D08",
+              "diem_chuan_2024": "24",
+              "diem_chuan_2023": "24.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Dược Huế - DHY",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xét nghiệm y học",
+              "to_hop_mon": "B00; B08; D07",
+              "diem_chuan_2024": "21.7",
+              "diem_chuan_2023": "20.7"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Y Dược Đà Nẵng - DDY",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xét nghiệm y học",
+              "to_hop_mon": "B00; B08; A00; D07",
+              "diem_chuan_2024": "22.35",
+              "diem_chuan_2023": "19.05"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Nguyên - TTN",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xét nghiệm y học",
+              "to_hop_mon": "B00; B03; B08; D07",
+              "diem_chuan_2024": "21.55",
+              "diem_chuan_2023": "21.35"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Và Công Nghệ Hà Nội - KCN",
+          "data_school": [
+            {
+              "ten_nganh": "Khoa học và Công nghệ y khoa",
+              "to_hop_mon": "A00; A01; X06; A02; B00; D07; X10; X11; X12; A06; D08; B02; X14; X15; X16",
+              "diem_chuan_2024": "21.1",
+              "diem_chuan_2023": "22.6"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Trà Vinh - DVT",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xét nghiệm y học",
+              "to_hop_mon": "A00; B00",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "20.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nguyễn Tất Thành - NTT",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xét nghiệm y học",
+              "to_hop_mon": "A00; B00; D07; B08",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Duy Tân - DDT",
+          "data_school": [
+            {
+              "ten_nganh": "Ngành Kỹ thuật Xét nghiệm Y học",
+              "to_hop_mon": "A00; A02; B00; B03; D08; X14 (Toán, Sinh, Tin)",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Nam Cần Thơ - DNC",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xét nghiệm y học",
+              "to_hop_mon": "B00; A00; A11; B03; D01; D07; D08; X10",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quốc Tế Hồng Bàng - HIU",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xét nghiệm y học",
+              "to_hop_mon": "A00; B00; D07; D08; X10; X14",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Tân Tạo - TTU",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xét nghiệm y học",
+              "to_hop_mon": "A02; B00; B08; A00; D07",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Lang - DVL",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xét nghiệm y học",
+              "to_hop_mon": "A00; B00; D07; X09; X10",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Phan Châu Trinh - DPC",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xét nghiệm y học",
+              "to_hop_mon": "A00; A01; B00; B08; D07",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công Nghệ TPHCM - DKC",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xét nghiệm y học",
+              "to_hop_mon": "D07; B00; A00; B03; C02; X09",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đông Đô - DDU",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xét nghiệm y học",
+              "to_hop_mon": "A00; A01; B00; B04; B08; D07",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thành Đông - DDB",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xét nghiệm y học",
+              "to_hop_mon": "A00; A02; B00",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Phan Thiết - DPT",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật Xét nghiệm Y học",
+              "to_hop_mon": "A00; B00; D07; D08",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Y khoa Tokyo Việt Nam - THU",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xét nghiệm y học",
+              "to_hop_mon": "A00; A02; B00; B08; D07; D23; D33; X10; X14",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ Đồng Nai - DCD",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xét nghiệm y học",
+              "to_hop_mon": "A00; A02; B00; B08; D01; D07; D09; D10",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Y Dược Buôn Ma Thuột - BMU",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xét nghiệm y học (dự kiến)",
+              "to_hop_mon": "X06; X07; X08; A01; AH3; D29; D26; D27; D28; D30; A00; X10; X11; X12; D07; AH2; B00; A02; X14; X16; X15; B08; D35; (Toán, Sinh học, Tiếng Hàn); D33; D34; D31; D32",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Kỹ thuật hình ảnh y học",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Y Hà Nội - YHB",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xét nghiệm y học",
+              "to_hop_mon": "A00; B00",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Y Dược TPHCM - YDS",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật hình ảnh y học",
+              "to_hop_mon": "B00; A00",
+              "diem_chuan_2024": "24.35",
+              "diem_chuan_2023": "23.85"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kỹ Thuật Y Tế Hải Dương - DKY",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật hình ảnh y học",
+              "to_hop_mon": "B00; A00; D07; B08",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Phenikaa - PKA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xét nghiệm y học",
+              "to_hop_mon": "A00; B00; B03; B08; D07; X10",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Dược Cần Thơ - YCT",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật Hình ảnh y học",
+              "to_hop_mon": "B00",
+              "diem_chuan_2024": "23.75",
+              "diem_chuan_2023": "23.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Khoa Phạm Ngọc Thạch - TYS",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật hình ảnh y học",
+              "to_hop_mon": "B00; A00",
+              "diem_chuan_2024": "24.1",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Y Dược - ĐHQG Hà Nội - QHY",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật Hình ảnh Y học",
+              "to_hop_mon": "B00; D08",
+              "diem_chuan_2024": "24.49",
+              "diem_chuan_2023": "23.85"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kỹ thuật Y Dược Đà Nẵng - YDN",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật hình ảnh y học",
+              "to_hop_mon": "B00; B08; A00; D07",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Dược Thái Nguyên - DTY",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật hình ảnh y học",
+              "to_hop_mon": "A00; A01; A02; B00; D07; D08",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Dược Huế - DHY",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật hình ảnh y học",
+              "to_hop_mon": "A00; B00; B08; D07",
+              "diem_chuan_2024": "19.8",
+              "diem_chuan_2023": "19.05"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Trà Vinh - DVT",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật hình ảnh y học",
+              "to_hop_mon": "A00; B00",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Nam Cần Thơ - DNC",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật hình ảnh y học",
+              "to_hop_mon": "B00; A00; A11; B03; D01; D07; D08; X10",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quốc Tế Hồng Bàng - HIU",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật hình ảnh y học (mở mới)",
+              "to_hop_mon": "A00; B00; D07; D08; X10; X14",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thành Đông - DDB",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật hình ảnh y học",
+              "to_hop_mon": "A00; A02; B00",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Y khoa Tokyo Việt Nam - THU",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật hình ảnh y học",
+              "to_hop_mon": "A00; A01; A02; B00; B08; D07; D23; D28; X26",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Kỹ Thuật Phục Hồi Chức Năng",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Y Hà Nội - YHB",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật phục hồi chức năng",
+              "to_hop_mon": "A00; B00",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Y Dược TPHCM - YDS",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật phục hồi chức năng",
+              "to_hop_mon": "B00; A00",
+              "diem_chuan_2024": "24.04",
+              "diem_chuan_2023": "23.35"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kỹ Thuật Y Tế Hải Dương - DKY",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật Phục hồi chức năng",
+              "to_hop_mon": "B00; A00; D07; B08",
+              "diem_chuan_2024": "20.5",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Phenikaa - PKA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật phục hồi chức năng",
+              "to_hop_mon": "A00; B00; B03; B08; D07; X10",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Tế Công Cộng - YTC",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật phục hồi chức năng",
+              "to_hop_mon": "A00; A01; B00; B08; D01; C01",
+              "diem_chuan_2024": "22.95",
+              "diem_chuan_2023": "21.8"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Khoa Phạm Ngọc Thạch - TYS",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật phục hồi chức năng",
+              "to_hop_mon": "B00; A00; A01",
+              "diem_chuan_2024": "24.01",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kỹ thuật Y Dược Đà Nẵng - YDN",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật phục hồi chức năng",
+              "to_hop_mon": "B00; B08; A00; D07",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Dược Thái Nguyên - DTY",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật phục hồi chức năng",
+              "to_hop_mon": "A00; A01; A02; B00; D07; D08",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Trà Vinh - DVT",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật phục hồi chức năng",
+              "to_hop_mon": "A00; B00",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nguyễn Tất Thành - NTT",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật Phục hồi chức năng",
+              "to_hop_mon": "A00; A01; B00; D07",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quốc Tế Hồng Bàng - HIU",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật Phục hồi chức năng",
+              "to_hop_mon": "A00; B00; D07; D08; X10; X14",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đông Á - DAD",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật phục hồi chức năng (Cơ sở đào tạo Đà Nẵng)",
+              "to_hop_mon": "A00; A02; B00; B03; B08; D07; X11; X13; X14",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Y khoa Tokyo Việt Nam - THU",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật phục hồi chức năng",
+              "to_hop_mon": "A00; A01; A02; B00; B08; D07; D23; D28; D33",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Gia Định - GDU",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật phục hồi chức năng",
+              "to_hop_mon": "A00; A01; B00; B01; B03; D07; D08",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Quản lý bệnh viện",
+      "data": [
+        {
+          "ten_truong": "Đại Học Phenikaa - PKA",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý bệnh viện",
+              "to_hop_mon": "A00; A01; A02; B00; B03; D01",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Kinh Tế TPHCM - KSA",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị bệnh viện (Hospital Management)",
+              "to_hop_mon": "A00; A01; D01; D07; D09",
+              "diem_chuan_2024": "24.1",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hà Tĩnh - HHT",
+          "data_school": [
+            {
+              "ten_nganh": "Ngôn ngữ Trung Quốc",
+              "to_hop_mon": "B03; C01; C02; C03; C04; C14; D01; X01; X02.",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nguyễn Tất Thành - NTT",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý bệnh viện",
+              "to_hop_mon": "B00; C00; D01; C04",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Nam Cần Thơ - DNC",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý bệnh viện",
+              "to_hop_mon": "B00; B03; C01; C02; D01; X10; A11; X06",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Hùng Vương TPHCM - DHV",
+          "data_school": [
+            {
+              "ten_nganh": "Khởi nghiệp và Phát triển Bền vững",
+              "to_hop_mon": "A00; A01; D01; C00; C03; C04",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Vật lý Y khoa",
+      "data": [
+        {
+          "ten_truong": "Đại Học Bách Khoa Hà Nội - BKA",
+          "data_school": [
+            {
+              "ten_nganh": "Vật lý Y khoa",
+              "to_hop_mon": "A00; A01; A02; B03; C01; C02; X02",
+              "diem_chuan_2024": "25.31",
+              "diem_chuan_2023": "24.02"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Tự Nhiên TPHCM - QST",
+          "data_school": [
+            {
+              "ten_nganh": "Vật lý y khoa",
+              "to_hop_mon": "A00; A01; C01; A02; A03; A04; X05; X07; X08; X06",
+              "diem_chuan_2024": "24.6",
+              "diem_chuan_2023": "24"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nguyễn Tất Thành - NTT",
+          "data_school": [
+            {
+              "ten_nganh": "Vật lý Y khoa",
+              "to_hop_mon": "A00; A01; B00; A02",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Công nghệ sinh học Y Dược",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Tự Nhiên Hà Nội - QHT",
+          "data_school": [
+            {
+              "ten_nganh": "Sinh dược học",
+              "to_hop_mon": "A00; A02; B00; B01; B02; B03; B08; D07; D08; X13; X14; X15; X16",
+              "diem_chuan_2024": "24.25",
+              "diem_chuan_2023": "23"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Bách Khoa Đà Nẵng - DDK",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ sinh học, chuyên ngành Công nghệ sinh học Y Dược",
+              "to_hop_mon": "A00; A01; B00; C02; D07; D08",
+              "diem_chuan_2024": "23.5",
+              "diem_chuan_2023": "23.45"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Nguyên - TTN",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ sinh học Y Dược",
+              "to_hop_mon": "A02; B00; B03; B08",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thể Dục Thể Thao TPHCM - TDS",
+          "data_school": [
+            {
+              "ten_nganh": "Y sinh học thể dục thể thao",
+              "to_hop_mon": "T00; T01; T04; T06",
+              "diem_chuan_2024": "24",
+              "diem_chuan_2023": "23"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Lang - DVL",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ sinh học y dược",
+              "to_hop_mon": "A02; B00; B08; X14; X66",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thể Dục Thể Thao Bắc Ninh - TDB",
+          "data_school": [
+            {
+              "ten_nganh": "Y sinh học TDTT",
+              "to_hop_mon": "T00; T01; T02; T05; T06",
+              "diem_chuan_2024": "18.35",
+              "diem_chuan_2023": "18.7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Công nghệ thẩm mỹ",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Văn Lang - DVL",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ thẩm mỹ",
+              "to_hop_mon": "A02; B00; B08; X14; X66",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công Nghệ TPHCM - DKC",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ thẩm mỹ",
+              "to_hop_mon": "D01; C02; B03; C01; (Toán, Văn, Tin); X01",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Dược liệu và hợp chất thiên nhiên",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Nông Lâm Thái Nguyên - DTN",
+          "data_school": [
+            {
+              "ten_nganh": "Dược liệu và hợp chất thiên nhiên",
+              "to_hop_mon": "A00; A07; A09; B00; C00; C02; C04; C20; D01; D14",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Khúc xạ nhãn khoa",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Y Hà Nội - YHB",
+          "data_school": [
+            {
+              "ten_nganh": "Khúc xạ nhãn khoa",
+              "to_hop_mon": "A00; B00",
+              "diem_chuan_2024": "25.38",
+              "diem_chuan_2023": "25.4"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Y Khoa Phạm Ngọc Thạch - TYS",
+          "data_school": [
+            {
+              "ten_nganh": "Khúc xạ nhãn khoa",
+              "to_hop_mon": "B00; A00; A01",
+              "diem_chuan_2024": "24.06",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Công nghệ kỹ thuật điện tử y sinh",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp Hà Nội - DCN",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật điện tử y sinh",
+              "to_hop_mon": "A00; A01; X06; X07",
+              "diem_chuan_2024": "21.4",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

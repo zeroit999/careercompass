@@ -1,0 +1,135 @@
+{
+  "school_code": "ANS",
+  "school_name": "Trường Đại Học An Ninh Nhân Dân",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Nghiệp vụ An ninh (Thí sinh Nam, vùng 4)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "21.43",
+          "Ghi chú": "Bài thi CA1, nam, vùng 4"
+        },
+        {
+          "Tên ngành": "Nghiệp vụ An ninh (Thí sinh Nam, vùng 4)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "20.13",
+          "Ghi chú": "Bài thi CA2, nam, vùng 4"
+        },
+        {
+          "Tên ngành": "Nghiệp vụ An ninh (Thí sinh Nam, vùng 5)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "20.57",
+          "Ghi chú": "Bài thi CA1, nam, vùng 5"
+        },
+        {
+          "Tên ngành": "Nghiệp vụ An ninh (Thí sinh Nam, vùng 5)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "20.56",
+          "Ghi chú": "Bài thi CA2, nam, vùng 5"
+        },
+        {
+          "Tên ngành": "Nghiệp vụ An ninh (Thí sinh Nam, vùng 6)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "19.07",
+          "Ghi chú": "Bài thi CA1, nam, vùng 6"
+        },
+        {
+          "Tên ngành": "Nghiệp vụ An ninh (Thí sinh Nam, vùng 6)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "19.39",
+          "Ghi chú": "Bài thi CA2, nam, vùng 6"
+        },
+        {
+          "Tên ngành": "Nghiệp vụ An ninh (Thí sinh Nam, vùng 7)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "20.84",
+          "Ghi chú": "Bài thi CA1, nam, vùng 7"
+        },
+        {
+          "Tên ngành": "Nghiệp vụ An ninh (Thí sinh Nam, vùng 7)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "21.23",
+          "Ghi chú": "Bài thi CA2, nam, vùng 7"
+        },
+        {
+          "Tên ngành": "Nghiệp vụ An ninh (Thí sinh Nam, vùng 8)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "21.32",
+          "Ghi chú": "Bài thi CA2, nam, vùng 8"
+        },
+        {
+          "Tên ngành": "Nghiệp vụ An ninh (Thí sinh Nam, vùng 8)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "20.18",
+          "Ghi chú": "Bài thi CA1, nam, vùng 8"
+        },
+        {
+          "Tên ngành": "Nghiệp vụ An ninh (Thí sinh Nữ, vùng 4)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "21.85",
+          "Ghi chú": "Bài thi CA1, nữ, vùng 4"
+        },
+        {
+          "Tên ngành": "Nghiệp vụ An ninh (Thí sinh Nữ, vùng 4)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "21.76",
+          "Ghi chú": "Bài thi CA2, nữ, vùng 4"
+        },
+        {
+          "Tên ngành": "Nghiệp vụ An ninh (Thí sinh Nữ, vùng 5)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "21.66",
+          "Ghi chú": "Bài thi CA1, nữ, vùng 5"
+        },
+        {
+          "Tên ngành": "Nghiệp vụ An ninh (Thí sinh Nữ, vùng 5)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "25.03",
+          "Ghi chú": "Bài thi CA2, nữ, vùng 5"
+        },
+        {
+          "Tên ngành": "Nghiệp vụ An ninh (Thí sinh Nữ, vùng 6)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "22.07",
+          "Ghi chú": "Bài thi CA2, nữ, vùng 6"
+        },
+        {
+          "Tên ngành": "Nghiệp vụ An ninh (Thí sinh Nữ, vùng 6)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "21.68",
+          "Ghi chú": "Bài thi CA1, nữ, vùng 6"
+        },
+        {
+          "Tên ngành": "Nghiệp vụ An ninh (Thí sinh Nữ, vùng 7)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "21.7",
+          "Ghi chú": "Bài thi CA1, nữ, vùng 7"
+        },
+        {
+          "Tên ngành": "Nghiệp vụ An ninh (Thí sinh Nữ, vùng 7)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "23.02",
+          "Ghi chú": "Bài thi CA2, nữ, vùng 7"
+        },
+        {
+          "Tên ngành": "Nghiệp vụ An ninh (Thí sinh Nữ, vùng 8)",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "16",
+          "Ghi chú": "Bài thi CA2, nữ, vùng 8"
+        }
+      ],
+      "row_count": 19
+    }
+  ],
+  "table_count": 1,
+  "crawled_at": "2025-07-18T23:23:37.649832",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-an-ninh-nhan-dan-ANS.html"
+}

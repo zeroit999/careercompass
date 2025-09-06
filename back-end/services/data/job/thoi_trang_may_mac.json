@@ -1,0 +1,349 @@
+{
+  "nhom_nganh": "Thời trang - May mặc",
+  "danh_sach_nganh": [
+    {
+      "ten_nganh": "Công nghệ Dệt May",
+      "data": [
+        {
+          "ten_truong": "Đại Học Bách Khoa Hà Nội - BKA",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ Dệt - May",
+              "to_hop_mon": "A00; A01; B03; C01; C02; D07; X02",
+              "diem_chuan_2024": "22.5",
+              "diem_chuan_2023": "21.4"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp Hà Nội - DCN",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ vật liệu dệt, may",
+              "to_hop_mon": "A01; D01; X27",
+              "diem_chuan_2024": "20.9",
+              "diem_chuan_2023": "20.1"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp TPHCM - IUH",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ dệt, may",
+              "to_hop_mon": "C01; C02; D01; X02; X03",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Tế Kỹ Thuật Công Nghiệp - DKK",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ dệt, may (CS Nam Định)",
+              "to_hop_mon": "A00; A01; A02; A03; B00; C01; C02; D01; D07; X02; X03; X05; X06; X07; X10; X11; X14; X15; X26; X27; X56",
+              "diem_chuan_2024": "17.5",
+              "diem_chuan_2023": "17.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Thương TPHCM - DCT",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ dệt, may",
+              "to_hop_mon": "A00; A01; C01; D01",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Nghệ Thuật Trung Ương - GNT",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ may",
+              "to_hop_mon": "A00; D00",
+              "diem_chuan_2024": "30",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Sao Đỏ - SDU",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ dệt, may",
+              "to_hop_mon": "A00; A09; C01; C04; C14; D01",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công nghiệp và Thương mại Hà Nội - CCM",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ may",
+              "to_hop_mon": "A00; A01; B00; C01; C03; C04; C14; D01; X23; X24; X03; X04",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Công nghệ may",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật TPHCM - SPK",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ may (đào tạo bằng tiếng Việt)",
+              "to_hop_mon": "A00; A01; C01; D01",
+              "diem_chuan_2024": "21.41",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật Hưng Yên - SKH",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ may",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công nghiệp và Thương mại Hà Nội - CCM",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ may",
+              "to_hop_mon": "A00; A01; B00; C01; C03; C04; C14; D01; X23; X24; X03; X04",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Công nghệ sợi dệt",
+      "data": [
+        {
+          "ten_truong": "Trường Đại học Công nghiệp và Thương mại Hà Nội - CCM",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ sợi dệt",
+              "to_hop_mon": "A00; A01; B00; C01; C03; C04; C14; D01; X23; X24; X03; X04",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Kinh doanh thời trang và Dệt may",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Công Thương TPHCM - DCT",
+          "data_school": [
+            {
+              "ten_nganh": "Kinh doanh thời trang và dệt may",
+              "to_hop_mon": "A00; A01; C01; D01",
+              "diem_chuan_2024": "18",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật Hưng Yên - SKH",
+          "data_school": [
+            {
+              "ten_nganh": "Kinh doanh thời trang và dệt may",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Thiết kế thời trang",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp Hà Nội - DCN",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế thời trang",
+              "to_hop_mon": "D01; D14",
+              "diem_chuan_2024": "23.56",
+              "diem_chuan_2023": "23.84"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp TPHCM - IUH",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế thời trang",
+              "to_hop_mon": "C01; C02; D01; X02; X03",
+              "diem_chuan_2024": "21.25",
+              "diem_chuan_2023": "22.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tôn Đức Thắng - DTT",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế thời trang",
+              "to_hop_mon": "H00; H01; H02; H03; H04; H05",
+              "diem_chuan_2024": "30.6",
+              "diem_chuan_2023": "26.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật TPHCM - SPK",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế thời trang (đào tạo bằng tiếng Việt)",
+              "to_hop_mon": "V01; V07; V08; V09; V11",
+              "diem_chuan_2024": "24.8",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kiến Trúc TPHCM - KTS",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế thời trang",
+              "to_hop_mon": "H01H06",
+              "diem_chuan_2024": "24.81",
+              "diem_chuan_2023": "24.7"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Khoa học liên ngành và Nghệ thuật Hà Nội - QHK",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế sáng tạo (Chuyên ngành Thời trang và sáng tạo)",
+              "to_hop_mon": "H01; H04; H06; H08; H09; H10; H11",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": "23.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Xây Dựng Hà Nội - XDA",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế thời trang (mới)",
+              "to_hop_mon": "H00; H07; V00; V01; V02",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nguyễn Tất Thành - NTT",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế thời trang",
+              "to_hop_mon": "A00; A01; D01; D14",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Duy Tân - DDT",
+          "data_school": [
+            {
+              "ten_nganh": "Ngành Thiết kế Thời trang",
+              "to_hop_mon": "A00; A01; D01; C01; C02; V01",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "14"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hòa Bình - ETU",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế thời trang",
+              "to_hop_mon": "V00; V01(Gố",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đông Á - DAD",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế thời trang (Cơ sở đào tạo Đà Nẵng)",
+              "to_hop_mon": "D01; H06; V01; V02; V03; X02; X07; X21; X27",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công Nghệ TPHCM - DKC",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế thời trang",
+              "to_hop_mon": "D01; C01; C03; C04; V01; (Toán, Văn, Tin)",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hoa Sen - HSU",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế Thời trang",
+              "to_hop_mon": "A01; D01; C10",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công nghiệp và Thương mại Hà Nội - CCM",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế thời trang",
+              "to_hop_mon": "D01; V01; V05; H00; H06; H08; (Văn, Địa, Vẽ mỹ thuật)",
+              "diem_chuan_2024": "18",
+              "diem_chuan_2023": "20"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Hóa, Thể Thao Và Du Lịch Thanh Hóa - DVD",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế thời trang",
+              "to_hop_mon": "H00",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

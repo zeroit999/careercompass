@@ -1,0 +1,81 @@
+{
+  "school_code": "LAH",
+  "school_name": "Trường Sĩ Quan Lục Quân 1 - Đại học Trần Quốc Tuấn",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Chỉ huy tham mưu Lục quân",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "24.45",
+          "Ghi chú": "TS nam miền Bắc; Tiêu chí phụ 1: Toán >= 8.80"
+        }
+      ],
+      "row_count": 1
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Chỉ huy tham mưu Lục quân",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "26.907",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 1
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Chỉ huy tham mưu Lục quân",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.25",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 1
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Chỉ huy tham mưu Lục quân",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.25",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 1
+    }
+  ],
+  "table_count": 4,
+  "crawled_at": "2025-07-18T23:23:12.992337",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/truong-si-quan-luc-quan-1-dai-hoc-tran-quoc-tuan-LAH.html"
+}

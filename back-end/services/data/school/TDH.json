@@ -1,0 +1,81 @@
+{
+  "school_code": "TDH",
+  "school_name": "Trường Đại Học Sư Phạm Thể Dục Thể Thao Hà Nội",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Giáo dục Quốc phòng và An ninh",
+          "Tổ hợp môn": "C00; C19; C20; D66",
+          "Điểm chuẩn": "36.03",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 1
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Giáo dục Quốc phòng và An ninh",
+          "Tổ hợp môn": "C00; C19; C20; D66",
+          "Điểm chuẩn": "35.99",
+          "Ghi chú": "Xét kết quả học tập lớp 12"
+        }
+      ],
+      "row_count": 1
+    },
+    {
+      "table_title": "Điểm xét tuyển kết hợp năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Giáo dục thể chất",
+          "Tổ hợp môn": "T00; T02; T05; T08",
+          "Điểm chuẩn": "33.42",
+          "Ghi chú": "Kết hợp kết quả học tập lớp 12 với năng khiếu"
+        },
+        {
+          "Tên ngành": "Giáo dục thể chất",
+          "Tổ hợp môn": "T00; T02; T05; T08",
+          "Điểm chuẩn": "33.48",
+          "Ghi chú": "Kết hợp điểm thi tốt nghiệp THPT với năng khiếu"
+        },
+        {
+          "Tên ngành": "Huấn luyện thể thao",
+          "Tổ hợp môn": "T00; T02; T05; T08",
+          "Điểm chuẩn": "27.83",
+          "Ghi chú": "Kết hợp điểm thi tốt nghiệp THPT với năng khiếu"
+        },
+        {
+          "Tên ngành": "Huấn luyện thể thao",
+          "Tổ hợp môn": "T00; T02; T05; T08",
+          "Điểm chuẩn": "27.87",
+          "Ghi chú": "Kết hợp kết quả học tập lớp 12 với năng khiếu"
+        }
+      ],
+      "row_count": 4
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:26:58.028988",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-su-pham-the-duc-the-thao-ha-noi-TDH.html"
+}

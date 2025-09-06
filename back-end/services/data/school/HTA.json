@@ -1,0 +1,225 @@
+{
+  "school_code": "HTA",
+  "school_name": "Học viện Tòa án",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.67",
+          "Ghi chú": "Nữ - phía Nam"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "22.7",
+          "Ghi chú": "Nam - phía Bắc"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.2",
+          "Ghi chú": "Nữ - phía Bắc"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": "Nam - phía Nam"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "21.95",
+          "Ghi chú": "Nam - phía Nam"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "21.7",
+          "Ghi chú": "Nữ - phía Nam"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "23.42",
+          "Ghi chú": "Nam - phía Bắc"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "24.68",
+          "Ghi chú": "Nam - phía Bắc"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "22.85",
+          "Ghi chú": "Nữ - phía Bắc"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.67",
+          "Ghi chú": "Nam - phía Nam"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "24.3",
+          "Ghi chú": "Nữ - phía Nam"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": "Nữ - phía Nam"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.1",
+          "Ghi chú": "Nam - phía Bắc"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "24.49",
+          "Ghi chú": "Nữ - phía Bắc"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "21.05",
+          "Ghi chú": "Nam - phía Nam"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.32",
+          "Ghi chú": "Nữ - phía Bắc"
+        }
+      ],
+      "row_count": 16
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "26.04",
+          "Ghi chú": "Nam - phía Bắc"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.43",
+          "Ghi chú": "Nữ - phía Nam"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "27.29",
+          "Ghi chú": "Nữ - phía Bắc"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "23.88",
+          "Ghi chú": "Nam - phía Nam"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "26.7",
+          "Ghi chú": "Nữ - phía Bắc"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "25.76",
+          "Ghi chú": "Nam - phía Bắc"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.6",
+          "Ghi chú": "Nữ - phía Bắc"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.39",
+          "Ghi chú": "Nữ - phía Nam"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "24.8",
+          "Ghi chú": "Nam - phía Nam"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "26.4",
+          "Ghi chú": "Nữ - phía Nam"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "23.55",
+          "Ghi chú": "Nam - phía Nam"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "26.51",
+          "Ghi chú": "Nam - phía Bắc"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "26.67",
+          "Ghi chú": "Nữ - phía Bắc"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "25.2",
+          "Ghi chú": "Nam - phía Nam"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.14",
+          "Ghi chú": "Nam - phía Bắc"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "28.01",
+          "Ghi chú": "Nữ - phía Nam"
+        }
+      ],
+      "row_count": 16
+    }
+  ],
+  "table_count": 2,
+  "crawled_at": "2025-07-18T23:24:37.373657",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-toa-an-HTA.html"
+}

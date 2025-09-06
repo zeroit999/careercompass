@@ -1,0 +1,117 @@
+{
+  "school_code": "BMU",
+  "school_name": "Trường Đại học Y Dược Buôn Ma Thuột",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "A00; A02; B00; B08",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "B00; A00; D07",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "A00; A02; B00; B08",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y tế công cộng",
+          "Tổ hợp môn": "A00; A02; B00; B08",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 4
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "A00; A02; B00; B08",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": "Học lực 12 đạt loại Giỏi hoặc Điểm xét tốt nghiệp >=8"
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "B00; A00; D07",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Học lực 12 đạt loại Giỏi hoặc Điểm xét tốt nghiệp >=8"
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "A00; A02; B00; B08",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Học lực 12 đạt loại Khá hoặc Điểm xét tốt nghiệp >=6.5"
+        },
+        {
+          "Tên ngành": "Y tế công cộng",
+          "Tổ hợp môn": "A00; A02; B00; B08",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 4
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "500",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y tế công cộng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "500",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 4
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:33:09.109843",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-y-duoc-buon-ma-thuot-BMU.html"
+}

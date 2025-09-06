@@ -1,0 +1,465 @@
+{
+  "school_code": "QHK",
+  "school_name": "Trường Khoa học liên ngành và Nghệ thuật Hà Nội",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản trị thương hiệu",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "25.15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị thương hiệu",
+          "Tổ hợp môn": "D04",
+          "Điểm chuẩn": "25.29",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị thương hiệu",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.36",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị thương hiệu",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "25.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị thương hiệu",
+          "Tổ hợp môn": "D03",
+          "Điểm chuẩn": "25.15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị thương hiệu",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.83",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý giải trí và sự kiện",
+          "Tổ hợp môn": "D03",
+          "Điểm chuẩn": "25.68",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý giải trí và sự kiện",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.58",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý giải trí và sự kiện",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "25.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý giải trí và sự kiện",
+          "Tổ hợp môn": "D04",
+          "Điểm chuẩn": "25.36",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý giải trí và sự kiện",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.36",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý giải trí và sự kiện",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "25.01",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị đô thị thông minh và bền vững",
+          "Tổ hợp môn": "D03",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị đô thị thông minh và bền vững",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "23.47",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị đô thị thông minh và bền vững",
+          "Tổ hợp môn": "D04",
+          "Điểm chuẩn": "24.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị đô thị thông minh và bền vững",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "24.07",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị đô thị thông minh và bền vững",
+          "Tổ hợp môn": "D07",
+          "Điểm chuẩn": "23.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị đô thị thông minh và bền vững",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "23.14",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị tài nguyên di sản",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "24.12",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị tài nguyên di sản",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "24.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị tài nguyên di sản",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "25.01",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị tài nguyên di sản",
+          "Tổ hợp môn": "D03",
+          "Điểm chuẩn": "24.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị tài nguyên di sản",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "26.38",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị tài nguyên di sản",
+          "Tổ hợp môn": "D04",
+          "Điểm chuẩn": "24.3",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 24
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Thiết kế nội thất bền vững",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.57",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đồ họa công nghệ số",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị thương hiệu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lí giải trí và sự kiện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc và thiết kế cảnh quan",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị đô thị (thông minh & bền vững)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị tài nguyên di sản",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 7
+    },
+    {
+      "table_title": "Điểm xét tuyển kết hợp năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Nhiếp ảnh nghệ thuật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "25.23",
+          "Ghi chú": "CCQT, Học bạ và phỏng vấn"
+        },
+        {
+          "Tên ngành": "Nhiếp ảnh nghệ thuật",
+          "Tổ hợp môn": "H01; H05; H06; H08",
+          "Điểm chuẩn": "22.18",
+          "Ghi chú": "Kết hợp thi năng khiếu với kết quả thi tốt nghiệp THPT"
+        },
+        {
+          "Tên ngành": "Nhiếp ảnh nghệ thuật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.25",
+          "Ghi chú": "Học bạ, năng khiếu và KQ phỏng vấn"
+        },
+        {
+          "Tên ngành": "Nghệ thuật tạo hình đương đại",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.49",
+          "Ghi chú": "Học bạ, năng khiếu và KQ phỏng vấn"
+        },
+        {
+          "Tên ngành": "Nghệ thuật tạo hình đương đại",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26.04",
+          "Ghi chú": "CCQT, Học bạ và phỏng vấn"
+        },
+        {
+          "Tên ngành": "Nghệ thuật tạo hình đương đại",
+          "Tổ hợp môn": "H01; H05; H06; H08",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Kết hợp thi năng khiếu với kết quả thi tốt nghiệp THPT"
+        },
+        {
+          "Tên ngành": "Thời trang và sáng tạo",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.14",
+          "Ghi chú": "Học bạ, năng khiếu và KQ phỏng vấn"
+        },
+        {
+          "Tên ngành": "Thời trang và sáng tạo",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.87",
+          "Ghi chú": "CCQT, Học bạ và phỏng vấn"
+        },
+        {
+          "Tên ngành": "Thời trang và sáng tạo",
+          "Tổ hợp môn": "H01; H04; H05; H06",
+          "Điểm chuẩn": "23.44",
+          "Ghi chú": "Kết hợp thi năng khiếu với kết quả thi tốt nghiệp THPT"
+        },
+        {
+          "Tên ngành": "Thời trang và sáng tạo",
+          "Tổ hợp môn": "H01; H04; H05; H06",
+          "Điểm chuẩn": "23.48",
+          "Ghi chú": "CCQT tiếng Anh, Pháp, Trung với điểm thi tốt nghiệp THPT 2 môn xét tuyển."
+        },
+        {
+          "Tên ngành": "Thiết kế nội thất bền vững",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "CCQT, Học bạ và phỏng vấn"
+        },
+        {
+          "Tên ngành": "Thiết kế nội thất bền vững",
+          "Tổ hợp môn": "H01; H04; H05; H06",
+          "Điểm chuẩn": "23.95",
+          "Ghi chú": "Kết hợp thi năng khiếu với kết quả thi tốt nghiệp THPT"
+        },
+        {
+          "Tên ngành": "Thiết kế nội thất bền vững",
+          "Tổ hợp môn": "H01; H04; H05; H06",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "CCQT tiếng Anh, Pháp, Trung với điểm thi tốt nghiệp THPT 2 môn xét tuyển."
+        },
+        {
+          "Tên ngành": "Thiết kế nội thất bền vững",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.4",
+          "Ghi chú": "Học bạ, năng khiếu và KQ phỏng vấn"
+        },
+        {
+          "Tên ngành": "Đồ họa công nghệ số",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "25.13",
+          "Ghi chú": "CCQT, Học bạ và phỏng vấn"
+        },
+        {
+          "Tên ngành": "Đồ họa công nghệ số",
+          "Tổ hợp môn": "H01; H04; H05; H06",
+          "Điểm chuẩn": "25.76",
+          "Ghi chú": "Kết hợp thi năng khiếu với kết quả thi tốt nghiệp THPT"
+        },
+        {
+          "Tên ngành": "Đồ họa công nghệ số",
+          "Tổ hợp môn": "H01; H04; H05; H06",
+          "Điểm chuẩn": "24.29",
+          "Ghi chú": "CCQT tiếng Anh, Pháp, Trung với điểm thi tốt nghiệp THPT 2 môn xét tuyển."
+        },
+        {
+          "Tên ngành": "Đồ họa công nghệ số",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.27",
+          "Ghi chú": "Học bạ, năng khiếu và KQ phỏng vấn"
+        },
+        {
+          "Tên ngành": "Quản trị thương hiệu",
+          "Tổ hợp môn": "D01; D03; D04; A00; A00; C00",
+          "Điểm chuẩn": "26.05",
+          "Ghi chú": "CCQT tiếng Anh, Pháp, Trung với điểm thi tốt nghiệp THPT 2 môn xét tuyển."
+        },
+        {
+          "Tên ngành": "Quản trị thương hiệu",
+          "Tổ hợp môn": "D01; D03; D04; A00; A01; C00",
+          "Điểm chuẩn": "25.8",
+          "Ghi chú": "CCQT, Học bạ và phỏng vấn"
+        },
+        {
+          "Tên ngành": "Quản lí giải trí và sự kiện",
+          "Tổ hợp môn": "D01; D03; D04; C00; A00; A01",
+          "Điểm chuẩn": "26.25",
+          "Ghi chú": "CCQT, Học bạ và phỏng vấn"
+        },
+        {
+          "Tên ngành": "Quản lí giải trí và sự kiện",
+          "Tổ hợp môn": "D01; D03; D04; C00; A00; A01",
+          "Điểm chuẩn": "26.25",
+          "Ghi chú": "CCQT tiếng Anh, Pháp, Trung với điểm thi tốt nghiệp THPT 2 môn xét tuyển."
+        },
+        {
+          "Tên ngành": "Kiến trúc và thiết kế cảnh quan",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.78",
+          "Ghi chú": "Học bạ, năng khiếu và KQ phỏng vấn"
+        },
+        {
+          "Tên ngành": "Kiến trúc và thiết kế cảnh quan",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.06",
+          "Ghi chú": "CCQT, Học bạ và phỏng vấn"
+        },
+        {
+          "Tên ngành": "Kiến trúc và thiết kế cảnh quan",
+          "Tổ hợp môn": "V00; V01; V02; V10; V11; V03",
+          "Điểm chuẩn": "22.1",
+          "Ghi chú": "Kết hợp thi năng khiếu với kết quả thi tốt nghiệp THPT"
+        },
+        {
+          "Tên ngành": "Quản trị đô thị (thông minh & bền vững)",
+          "Tổ hợp môn": "D01; D03; D04; A00; A01; D07",
+          "Điểm chuẩn": "25.06",
+          "Ghi chú": "CCQT, Học bạ và phỏng vấn"
+        },
+        {
+          "Tên ngành": "Quản trị đô thị (thông minh & bền vững)",
+          "Tổ hợp môn": "D01; D03; D04; A00; A01; D07",
+          "Điểm chuẩn": "24.68",
+          "Ghi chú": "CCQT tiếng Anh, Pháp, Trung với điểm thi tốt nghiệp THPT 2 môn xét tuyển."
+        },
+        {
+          "Tên ngành": "Quản trị tài nguyên di sản",
+          "Tổ hợp môn": "D01; D03; D04; C00; D78; A01",
+          "Điểm chuẩn": "24.82",
+          "Ghi chú": "CCQT, Học bạ và phỏng vấn"
+        },
+        {
+          "Tên ngành": "Quản trị tài nguyên di sản",
+          "Tổ hợp môn": "D01; D03; D04; C00; D78; A01",
+          "Điểm chuẩn": "24.94",
+          "Ghi chú": "CCQT tiếng Anh, Pháp, Trung với điểm thi tốt nghiệp THPT 2 môn xét tuyển."
+        }
+      ],
+      "row_count": 29
+    },
+    {
+      "table_title": "ƯTXT, XT thẳng năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Đồ họa công nghệ số",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.55",
+          "Ghi chú": "Theo QĐ của ĐHQGHN"
+        },
+        {
+          "Tên ngành": "Đồ họa công nghệ số",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.34",
+          "Ghi chú": "Theo QĐ của Bộ GD&ĐT"
+        },
+        {
+          "Tên ngành": "Quản trị thương hiệu",
+          "Tổ hợp môn": "D01; D03; D04; A00; A01; C00",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": "Theo QĐ của ĐHQGHN"
+        },
+        {
+          "Tên ngành": "Quản trị thương hiệu",
+          "Tổ hợp môn": "D01; D03; D04; A00; A01; C00",
+          "Điểm chuẩn": "30",
+          "Ghi chú": "Theo QĐ của Bộ GD&ĐT"
+        },
+        {
+          "Tên ngành": "Quản lí giải trí và sự kiện",
+          "Tổ hợp môn": "D01; D03; D04; C00; A00; A01",
+          "Điểm chuẩn": "30",
+          "Ghi chú": "Theo QĐ của Bộ GD&ĐT"
+        },
+        {
+          "Tên ngành": "Quản lí giải trí và sự kiện",
+          "Tổ hợp môn": "D01; D03; D04; C00; A00; A01",
+          "Điểm chuẩn": "27.58",
+          "Ghi chú": "Theo QĐ của ĐHQGHN"
+        },
+        {
+          "Tên ngành": "Quản trị đô thị (thông minh & bền vững)",
+          "Tổ hợp môn": "D01; D03; D04; A00; A01; D07",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Theo QĐ của ĐHQGHN"
+        },
+        {
+          "Tên ngành": "Quản trị tài nguyên di sản",
+          "Tổ hợp môn": "D01; D03; D04; C00; D78; A01",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Theo QĐ của ĐHQGHN"
+        }
+      ],
+      "row_count": 8
+    }
+  ],
+  "table_count": 4,
+  "crawled_at": "2025-07-18T23:26:11.818772",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/truong-khoa-hoc-lien-nganh-va-nghe-thuat-ha-noi-QHK.html"
+}

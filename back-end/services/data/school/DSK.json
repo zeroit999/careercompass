@@ -1,0 +1,345 @@
+{
+  "school_code": "DSK",
+  "school_name": "Trường Đại học Sư phạm Kỹ thuật - Đại học Đà Nẵng",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Sư phạm Kỹ thuật công nghiệp (chuyên ngành Công nghệ thông tin)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "21.95",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "23.35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật kiến trúc",
+          "Tổ hợp môn": "V00; V01; A00; D01",
+          "Điểm chuẩn": "17.55",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật xây dựng (chuyên ngành Xây dựng dân dụng và Công nghiệp)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật giao thông (chuyên ngành Xây dựng cầu đường)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí (chuyên ngành Cơ khí chế tạo)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "21.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "22.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "23.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô (chuyên ngành Ô tô điện)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "22.85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô (đào tạo 2 năm đầu tại Kon Tum)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "20.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật nhiệt (chuyên ngành Nhiệt - Điện lạnh)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "21.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử (chuyên ngành Công nghệ kỹ thuật điện tử)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "21.95",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử (chuyên ngành Công nghệ kỹ thuật điện)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "20.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "22.35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông (chuyên ngành Thiết kế vi mạch bán dẫn)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "23.55",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hóa",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "23.19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hóa (đào tạo 2 năm đầu tại Kon Tum)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "16.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật hóa học",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "21.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ vật liệu (chuyên ngành Hóa học Vật liệu mới)",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "15.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật môi trường",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "17.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật thực phẩm",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "18.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật thực phẩm (chuyên ngành Kỹ thuật sinh học thực phẩm)",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "15.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ sở hạ tầng (chuyên ngành Xây dựng hạ tầng đô thị)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18.45",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 23
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Sư phạm Kỹ thuật công nghiệp (chuyên ngành Công nghệ thông tin)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "25.15",
+          "Ghi chú": "HL Lớp 12 Giỏi"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "27.23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật kiến trúc",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "21.93",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật xây dựng (chuyên ngành Xây dựng dân dụng và Công nghiệp)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "20.79",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật giao thông (chuyên ngành Xây dựng cầu đường)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "20.78",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí (chuyên ngành Cơ khí chế tạo)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "25.14",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "25.93",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "26.92",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô (chuyên ngành Ô tô điện)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "24.96",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô (đào tạo 2 năm đầu tại Kon Tum)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18.14",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật nhiệt (chuyên ngành Nhiệt - Điện lạnh)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "23.72",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử (chuyên ngành Công nghệ kỹ thuật điện tử)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "25.47",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử (chuyên ngành Công nghệ kỹ thuật điện)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "24.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "25.39",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông (chuyên ngành Thiết kế vi mạch bán dẫn)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "26.17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hóa",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "26.67",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hóa (đào tạo 2 năm đầu tại Kon Tum)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "17.68",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật hóa học",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "21.32",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ vật liệu (chuyên ngành Hóa học Vật liệu mới)",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "18.71",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật môi trường",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "20.63",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật thực phẩm",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "23.21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật thực phẩm (chuyên ngành Kỹ thuật sinh học thực phẩm)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "22.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ sở hạ tầng (chuyên ngành Xây dựng hạ tầng đô thị)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "21.55",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 23
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "763",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "715",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô (chuyên ngành ô tô điện)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "673",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiền và tự động hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "647",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 4
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:27:51.122917",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-su-pham-ky-thuat-dai-hoc-da-nang-DSK.html"
+}

@@ -1,0 +1,200 @@
+{
+  "nhom_nganh": "Hàng không - Vũ trụ - Hạt nhân",
+  "danh_sach_nganh": [
+    {
+      "ten_nganh": "Kỹ thuật, công nghệ Hàng không",
+      "data": [
+        {
+          "ten_truong": "Đại Học Bách Khoa Hà Nội - BKA",
+          "data_school": [
+            {
+              "ten_nganh": "Cơ khí hàng không (Chương trình Việt - Pháp PFIEV)",
+              "to_hop_mon": "A00; A01; B03; C01; C02; D29; X02",
+              "diem_chuan_2024": "24.86",
+              "diem_chuan_2023": "23.7"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ – Đại Học Quốc Gia Hà Nội - QHI",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ hàng không vũ trụ",
+              "to_hop_mon": "A00; A01; X06; X26; D01",
+              "diem_chuan_2024": "24.61",
+              "diem_chuan_2023": "24.1"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Hàng không Việt Nam - HHK",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật hàng không",
+              "to_hop_mon": "A00; A01; A02; A03; A04; A05; A06; A07; B00; B01; B02; B03; B08; C01; C02; C03; C04; D01; D07; D09; D10; X01; X02; X03; X04; X05; X06; X07; X08; X09; X10; X11; X12; X13; X14; X15; X16; X17; X18; X19; X20; X21; X22; X23; X24; X25; X26; X27; X28; X53; X54",
+              "diem_chuan_2024": "23.6",
+              "diem_chuan_2023": "21.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Phòng Không – Không Quân - PKH",
+          "data_school": [
+            {
+              "ten_nganh": "Ngành Kỹ thuật Hàng không (Thí sinh miền Bắc)",
+              "to_hop_mon": "A00; A01; C01",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Và Công Nghệ Hà Nội - KCN",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật Hàng không",
+              "to_hop_mon": "A00; A01; X07; X08; X06",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Sĩ Quan Không Quân - Hệ Đại học - KGH",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật hàng không (Cao đẳng) - Thí sinh miền Bắc",
+              "to_hop_mon": "A00; A01",
+              "diem_chuan_2024": "19.05",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Lang - DVL",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật hàng không",
+              "to_hop_mon": "A00; A01; C01; D01; X26",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Kỹ thuật hạt nhân",
+      "data": [
+        {
+          "ten_truong": "Đại Học Bách Khoa Hà Nội - BKA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật hạt nhân",
+              "to_hop_mon": "A00; A01; A02; B03; C01; C02; X02",
+              "diem_chuan_2024": "24.64",
+              "diem_chuan_2023": "22.31"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Tự Nhiên TPHCM - QST",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật hạt nhân",
+              "to_hop_mon": "A00; A01; C01; A02; A03; A04; X05; X07; X08; X06",
+              "diem_chuan_2024": "23.6",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Tự Nhiên Hà Nội - QHT",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật hạt nhân",
+              "to_hop_mon": "A00; A01; A02; B00; C01; C02; D07; X02; X06; X26",
+              "diem_chuan_2024": "24.3",
+              "diem_chuan_2023": "21.3"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đà Lạt - TDL",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật hạt nhân",
+              "to_hop_mon": "A00; A02; A01; X06; X07; X08",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Quản lý hoạt động bay",
+      "data": [
+        {
+          "ten_truong": "Học Viện Hàng không Việt Nam - HHK",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý hoạt động bay; Hệ thống kỹ thuật quản lý bay",
+              "to_hop_mon": "A00; A01; A02; A03; A04; A05; A06; A07; B00; B01; B02; B03; B08; C01; C02; C03; C04; D01; D07; D09; D10; X01; X02; X03; X04; X05; X06; X07; X08; X09; X10; X11; X12; X13; X14; X15; X16; X17; X18; X19; X20; X21; X22; X23; X24; X25; X26; X27; X28; X53; X54",
+              "diem_chuan_2024": "25.5",
+              "diem_chuan_2023": "24.2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Phi công quân sự",
+      "data": [
+        {
+          "ten_truong": "Trường Sĩ Quan Không Quân - Hệ Đại học - KGH",
+          "data_school": [
+            {
+              "ten_nganh": "Chỉ huy tham mưu Không quân (Thiết bị bay không người lái) - Thí sinh miền Bắc",
+              "to_hop_mon": "A00; A01",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Khoa học thông tin địa không gian",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Tự Nhiên Hà Nội - QHT",
+          "data_school": [
+            {
+              "ten_nganh": "Khoa học thông tin địa không gian",
+              "to_hop_mon": "A00; A01; A04; A06; A07; B00; B02; C04; D01; D10; D20; X01; X21; X25",
+              "diem_chuan_2024": "22.5",
+              "diem_chuan_2023": "20.4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Quản trị kinh doanh hàng không",
+      "data": [
+        {
+          "ten_truong": "Học Viện Hàng không Việt Nam - HHK",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị Hàng không (học bằng Tiếng Anh)",
+              "to_hop_mon": "A01; B08; D01; D07; D09; D10; D11; D12; D13; D14; D15; X25; X26; X27; X28; X78; X79; X80; X81",
+              "diem_chuan_2024": "19.5",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

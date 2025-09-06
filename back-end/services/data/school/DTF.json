@@ -1,0 +1,93 @@
+{
+  "school_code": "DTF",
+  "school_name": "Trường Ngoại Ngữ Thái Nguyên",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Sư phạm Tiếng Anh",
+          "Tổ hợp môn": "A01; D01; D15; D66",
+          "Điểm chuẩn": "26.95",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tiếng Trung Quốc",
+          "Tổ hợp môn": "A01; D01; D04; D66",
+          "Điểm chuẩn": "26.65",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D15; D66",
+          "Điểm chuẩn": "23.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Pháp",
+          "Tổ hợp môn": "A01; D01; D03; D66",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "A01; D01; D04; D66",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 5
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Sư phạm Tiếng Anh",
+          "Tổ hợp môn": "A01; D01; D15; D66",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tiếng Trung Quốc",
+          "Tổ hợp môn": "A01; D01; D04; D66",
+          "Điểm chuẩn": "27.95",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D15; D66",
+          "Điểm chuẩn": "23.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Pháp",
+          "Tổ hợp môn": "A01; D01; D03; D66",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "A01; D01; D04; D66",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 5
+    }
+  ],
+  "table_count": 2,
+  "crawled_at": "2025-07-18T23:26:27.159907",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/truong-ngoai-ngu-thai-nguyen-DTF.html"
+}

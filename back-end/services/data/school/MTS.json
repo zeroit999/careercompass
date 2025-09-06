@@ -1,0 +1,57 @@
+{
+  "school_code": "MTS",
+  "school_name": "Trường Đại Học Mỹ Thuật TPHCM",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2017",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Sư phạm Mỹ thuật",
+          "Tổ hợp môn": "H",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Lý luận, lịch sử và phê bình mỹ thuật",
+          "Tổ hợp môn": "H",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hội hoạ",
+          "Tổ hợp môn": "H",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đồ hoạ",
+          "Tổ hợp môn": "H",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điêu khắc",
+          "Tổ hợp môn": "H",
+          "Điểm chuẩn": "22.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế đồ họa",
+          "Tổ hợp môn": "H",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 6
+    }
+  ],
+  "table_count": 1,
+  "crawled_at": "2025-07-18T23:32:39.859624",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-my-thuat-tphcm-MTS.html"
+}

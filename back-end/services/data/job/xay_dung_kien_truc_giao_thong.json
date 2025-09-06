@@ -1,0 +1,2458 @@
+{
+  "nhom_nganh": "Xây dựng - Kiến trúc - Giao thông",
+  "danh_sach_nganh": [
+    {
+      "ten_nganh": "Kinh tế Xây dựng",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Giao Thông Vận Tải - GHA",
+          "data_school": [
+            {
+              "ten_nganh": "Kinh tế xây dựng (chuyên ngành: Kinh tế và quản lý cơ sở hạ tầng, Kinh tế và quản lý đầu tư xây dựng)",
+              "to_hop_mon": "A00; A01; D01; D07; X06",
+              "diem_chuan_2024": "24.45",
+              "diem_chuan_2023": "23.98"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thủy Lợi - TLA",
+          "data_school": [
+            {
+              "ten_nganh": "Kinh tế xây dựng",
+              "to_hop_mon": "A00; A01; D01; D07; X02 (Toán, Văn, Tin); X26 (Toán, Anh, Tin)",
+              "diem_chuan_2024": "23.75",
+              "diem_chuan_2023": "23.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Bách Khoa Đà Nẵng - DDK",
+          "data_school": [
+            {
+              "ten_nganh": "Kinh tế xây dựng",
+              "to_hop_mon": "A00; A01; D01; X06; X25; X26",
+              "diem_chuan_2024": "21.6",
+              "diem_chuan_2023": "20"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Giao Thông Vận Tải (Cơ sở 2) - GSA",
+          "data_school": [
+            {
+              "ten_nganh": "Kinh tế xây dựng (chuyên ngành: Kinh tế và quản lý đầu tư xây dựng; Kinh tế và quản lý cơ sở hạ tầng)",
+              "to_hop_mon": "A00; A01; D01; C01; X06",
+              "diem_chuan_2024": "22.75",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kiến Trúc Hà Nội - KTA",
+          "data_school": [
+            {
+              "ten_nganh": "Kinh tế Xây dựng",
+              "to_hop_mon": "A00; C01; C02; D01; (Toán, Văn, Công nghệ)",
+              "diem_chuan_2024": "23.6",
+              "diem_chuan_2023": "22.9"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Vinh - TDV",
+          "data_school": [
+            {
+              "ten_nganh": "Kinh tế xây dựng (Chuyên ngành : Kinh tế đầu tư xây dựng; Kinh tế vận tải và logistic; Quản lý dự án công trình xây dựng)",
+              "to_hop_mon": "C01; C04; C14; D01",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Xây Dựng Hà Nội - XDA",
+          "data_school": [
+            {
+              "ten_nganh": "Kinh tế xây dựng",
+              "to_hop_mon": "A00; A01; A10; C01; D01; D07; X06 (Toán, Lí, Tin); X26 (Toán, Anh, Tin)",
+              "diem_chuan_2024": "23.9",
+              "diem_chuan_2023": "22.4"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công nghệ Giao thông vận tải - GTA",
+          "data_school": [
+            {
+              "ten_nganh": "Kinh tế xây dựng",
+              "to_hop_mon": "A00; A01; C01; C02; D01; D07; X02; X03; X26; X27",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "21.4"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Phương Đông - DPD",
+          "data_school": [
+            {
+              "ten_nganh": "Kinh tế xây dựng",
+              "to_hop_mon": "A00; A01; C14; D01; D66; D84",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Khoa Quốc tế - Đại học Huế - DHI",
+          "data_school": [
+            {
+              "ten_nganh": "Kinh tế xây dựng",
+              "to_hop_mon": "C03; C04; D01; D09; D10",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đại Nam - DDN",
+          "data_school": [
+            {
+              "ten_nganh": "Kinh tế xây dựng",
+              "to_hop_mon": "A00; A01; A10; C01; D01; D07; X05",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Xây Dựng Miền Trung - XDT",
+          "data_school": [
+            {
+              "ten_nganh": "Kinh tế xây dựng",
+              "to_hop_mon": "A00; A01; C01; D01; D07; X02; X03; X26; X27; X56",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Kỹ thuật xây dựng",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Giao Thông Vận Tải - GHA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng (chuyên ngành: Xây dựng dân dụng và công nghiệp, Kết cấu xây dựng, Vật liệu và công nghệ xây dựng)",
+              "to_hop_mon": "A00; A01; D01; D07; X06",
+              "diem_chuan_2024": "23.19",
+              "diem_chuan_2023": "22"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp TPHCM - IUH",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng",
+              "to_hop_mon": "A00; A01; C01; X05; X06; X07",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thủ Dầu Một - TDM",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng",
+              "to_hop_mon": "A00; A01; C01; C02; D01; D07; X01; X02; X05; X12",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thủy Lợi - TLA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng dân dụng và công nghiệp (Kỹ thuật xây dựng)",
+              "to_hop_mon": "A00; A01; D01; D07; C01; C02; X02 (Toán, Văn, Tin); X06 (Toán, Lí, Tin)",
+              "diem_chuan_2024": "22.5",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tôn Đức Thắng - DTT",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng",
+              "to_hop_mon": "A00; A01; C01; C02; D01; X06",
+              "diem_chuan_2024": "24",
+              "diem_chuan_2023": "24"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng",
+              "to_hop_mon": "A00; A01; V00; X07",
+              "diem_chuan_2024": "21.2",
+              "diem_chuan_2023": "22.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật TPHCM - SPK",
+          "data_school": [
+            {
+              "ten_nganh": "Hệ thống kỹ thuật công trình xây dựng (đào tạo bằng tiếng Việt)",
+              "to_hop_mon": "A00; A01; C01; D01",
+              "diem_chuan_2024": "22.22",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Bách Khoa Đà Nẵng - DDK",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng, chuyên ngành Xây dựng dân dụng và công nghiệp",
+              "to_hop_mon": "A00; A01; X05; X06; X07",
+              "diem_chuan_2024": "18.5",
+              "diem_chuan_2023": "18.6"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Giao Thông Vận Tải (Cơ sở 2) - GSA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng (chuyên ngành: Xây dựng dân dụng và công nghiệp)",
+              "to_hop_mon": "A00; A01; D01; C01; X06",
+              "diem_chuan_2024": "21.25",
+              "diem_chuan_2023": "19.55"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nha Trang - TSN",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng (02 chuyên ngành: Kỹ thuật xây dựng; Quản lý xây dựng)",
+              "to_hop_mon": "(Toán, Văn, Anh, Lí); C01; X02; X03; X04; D01",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kiến Trúc TPHCM - KTS",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng",
+              "to_hop_mon": "A00; A01; C01",
+              "diem_chuan_2024": "21.2",
+              "diem_chuan_2023": "20.95"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quốc Tế - ĐHQG TPHCM - QSQ",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật\r\n(Kỹ thuật điện tử – viễn thông (CTLK với ĐH West of England) (2+2); Kỹ thuật xây dựng (CTLK với ĐH Deakin) (2+2))",
+              "to_hop_mon": "A00; A01; B00; D07; B08; D01",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hàng Hải Việt Nam - HHA",
+          "data_school": [
+            {
+              "ten_nganh": "Xây dựng dân dụng và công nghiệp",
+              "to_hop_mon": "A00; A01; C01; C02; D01; X02",
+              "diem_chuan_2024": "20.5",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kiến Trúc Hà Nội - KTA",
+          "data_school": [
+            {
+              "ten_nganh": "Xây dựng dân dụng và công nghiệp (Chuyên ngành thuộc ngành Kỹ thuật xâv dựng)",
+              "to_hop_mon": "A00; C01; C02; D01; (Toán, Văn, Công nghệ)",
+              "diem_chuan_2024": "21.85",
+              "diem_chuan_2023": "20.01"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Vinh - TDV",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng (Chuyên ngành: Xây dựng dân dụng và công nghiệp; Kết cấu công trình; Công nghệ kỹ thuật xây dựng)",
+              "to_hop_mon": "C01; C04; C14; D01",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đồng Tháp - SPD",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng",
+              "to_hop_mon": "A00; A01; C01; C02; D01; X03",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quy Nhơn - DQN",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng",
+              "to_hop_mon": "A00; A01; C01; D01; D07; X06; X26",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hà Tĩnh - HHT",
+          "data_school": [
+            {
+              "ten_nganh": "Chính trị học",
+              "to_hop_mon": "A00; A01; A02; A09; B03; C01; C02; C04; C14; D01; X01; X02; X06; X21.",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Phân Hiệu Đại Học Đà Nẵng tại Kon Tum - DDP",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng",
+              "to_hop_mon": "C01; C02; A00; A01; D07",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Xây Dựng Hà Nội - XDA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng",
+              "to_hop_mon": "A00; A01; C01; D01; D07; X06 (Toán, Lí, Tin)",
+              "diem_chuan_2024": "21.9",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Mỏ Địa Chất - MDA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng",
+              "to_hop_mon": "A00; A01; A10; B04; C01; C02; C04; D01",
+              "diem_chuan_2024": "20.5",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Phương Đông - DPD",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng",
+              "to_hop_mon": "A00; A01; D01; X06; X07",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kiến Trúc Đà Nẵng - KTD",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng",
+              "to_hop_mon": "A00; A01; B00; D01; X06; X07; X26; X27",
+              "diem_chuan_2024": "19.5",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Doanh và Công Nghệ Hà Nội - DQK",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng",
+              "to_hop_mon": "A00; A01; A04; X01; X21; X05; X06; X11",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kỹ Thuật Công Nghiệp Thái Nguyên - DTK",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng",
+              "to_hop_mon": "A00; A01; C01; C02; D01; D07",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Sư phạm Kỹ thuật - Đại học Đà Nẵng - DSK",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật kiến trúc",
+              "to_hop_mon": "V00; V01; V02; A00; A01; D01",
+              "diem_chuan_2024": "17.55",
+              "diem_chuan_2023": "19.3"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nguyễn Tất Thành - NTT",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng",
+              "to_hop_mon": "A00; A01; D01; X02",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Duy Tân - DDT",
+          "data_school": [
+            {
+              "ten_nganh": "Ngành Kỹ thuật Xây dựng",
+              "to_hop_mon": "A00; A01; D01; C01; X06 (Toán, Lý, Tin); X07 (Toán, Lý, Công nghệ)",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Nam Cần Thơ - DNC",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng",
+              "to_hop_mon": "A00; A01; A02; A03; C03; D01; D07; X05; X06",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Lang - DVL",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng",
+              "to_hop_mon": "A00; A01; D01; X06; X26",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đại Nam - DDN",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng",
+              "to_hop_mon": "A00; A01; C01; D01; D07; X05",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công Nghệ TPHCM - DKC",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng",
+              "to_hop_mon": "D01; C01; C03; C04; (Toán, Văn, Tin); X01",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Việt Nhật - ĐHQG Hà Nội - VJU",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật Xây dựng – ECE",
+              "to_hop_mon": "A00; A01; D28; D01; D06; C01; X06; X02; D07; D23; C02; X26; X46",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "20"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Lâm nghiệp - LNH",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng",
+              "to_hop_mon": "A00; C01; C02; (Toán, Văn, Tin); (Toán, Văn, Công nghệ); D01; A01; (Toán, Lí, Tin); K01; (Toán, Tin, Công nghệ)",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Hiến - DVH",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng",
+              "to_hop_mon": "A00; A01; D01; X01; X06; X25; X26; X54",
+              "diem_chuan_2024": "15.45",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Phan Thiết - DPT",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật Xây dựng",
+              "to_hop_mon": "A00; A01; C01; D01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Khoa Kỹ thuật và Công nghệ - Đại học Huế - DHE",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng",
+              "to_hop_mon": "A00; A01; A04; C01; C02; D01",
+              "diem_chuan_2024": "15.75",
+              "diem_chuan_2023": "15.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Huế - DHT",
+          "data_school": [
+            {
+              "ten_nganh": "Địa kỹ thuật xây dựng",
+              "to_hop_mon": "A00; C04; D01; D84; X25",
+              "diem_chuan_2024": "15.5",
+              "diem_chuan_2023": "15.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hồng Đức - HDT",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng",
+              "to_hop_mon": "B03; C01; C02; C04; D01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Phân Hiệu Đại Học Huế tại Quảng Trị - DHQ",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng",
+              "to_hop_mon": "A00; A01; C01; D01; X06; X07",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Xây Dựng Miền Tây - MTU",
+          "data_school": [
+            {
+              "ten_nganh": "Nhóm ngành Kỹ thuật xây dựng",
+              "to_hop_mon": "A00; A01; A04; A06; A10; A11; C01; D01; D07; X06",
+              "diem_chuan_2024": "14.5",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Xây Dựng Miền Trung - XDT",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng",
+              "to_hop_mon": "A00; A01; C01; D01; D07; X02; X03; X26; X27; X56",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ Sài Gòn - DSG",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng",
+              "to_hop_mon": "(Toán, 2 môn bất kì)",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Phân hiệu Đại học Xây dựng miền Trung tại Đà Nẵng - XDN",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng",
+              "to_hop_mon": "A00; A01; C01; D01; D07; X02; X03; X26; X27; X56",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ Đông Á - DDA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật Xây dựng",
+              "to_hop_mon": "A00; A01; A02; A03; A05; A06; A07; A08; A09; A10; A11; C00; C01; C02; C03; C14; D01; D07",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "22"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Hậu Cần - Hệ Dân sự",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng _ DÂN SỰ",
+              "to_hop_mon": "A00; A01; C01; X06",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Công nghệ kỹ thuật Xây dựng",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ – Đại Học Quốc Gia Hà Nội - QHI",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật xây dựng",
+              "to_hop_mon": "A00; A01; X06; X26; D01",
+              "diem_chuan_2024": "23.91",
+              "diem_chuan_2023": "23.1"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Hàng không Việt Nam - HHK",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý và khai thác cảng HK (Ngành: CNKT Công trình xây dựng)",
+              "to_hop_mon": "A00; A01; A02; A03; A04; A05; A06; A07; B00; B01; B02; B03; B08; C01; C02; C03; C04; D01; D07; D09; D10; X01; X02; X03; X04; X05; X06; X07; X08; X09; X10; X11; X12; X13; X14; X15; X16; X17; X18; X19; X20; X21; X22; X23; X24; X25; X26; X27; X28; X53; X54",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thủy Lợi - TLA",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật xây dựng",
+              "to_hop_mon": "A00; A01; D01; D07; C01; C02; X02 (Toán, Văn, Tin); X06 (Toán, Lí, Tin)",
+              "diem_chuan_2024": "23",
+              "diem_chuan_2023": "22.45"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật TPHCM - SPK",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ Kỹ thuật công trình xây dựng* (đào tạo bằng tiếng Anh)",
+              "to_hop_mon": "A00; A01; C01; D01",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "20"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kỹ Thuật Công Nghệ Cần Thơ - KCC",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật công trình xây dựng",
+              "to_hop_mon": "A00; A01; C01; C02; D01; D07; X05; X06",
+              "diem_chuan_2024": "22.3",
+              "diem_chuan_2023": "18.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Trà Vinh - DVT",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật công trình xây dựng",
+              "to_hop_mon": "A00; A01; A03; A04; X05; X06; X07",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Mở TPHCM - MBS",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật công trình xây dựng\r\n(Môn Toán hệ số 2)",
+              "to_hop_mon": "A00; A01; (Toán, Lí, Tin); (Toán, Lí, Công nghệ); (Toán, Hóa, Tin); (Toán, Hóa, Công nghệ); D07; (Toán, Anh, Tin); (Toán, Anh, Công nghệ); (Toán, Tin, Công nghệ).",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công nghệ Giao thông vận tải - GTA",
+          "data_school": [
+            {
+              "ten_nganh": "CNKT Cầu đường bộ (học tại Vĩnh Phúc)",
+              "to_hop_mon": "A00; A01; C01; C02; D01; D07; X02; X03; X26; X27",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Điện Lực - DDL",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật công trình xây dựng",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "20.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật Vĩnh Long - VLU",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật công trình xây dựng",
+              "to_hop_mon": "A00; A01; A03; A04; A07; C01; C03; D01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Sư phạm Kỹ thuật - Đại học Đà Nẵng - DSK",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật xây dựng (chuyên ngành Xây dựng dân dụng & Công nghiệp)",
+              "to_hop_mon": "A00; A01; C01; D01; X02; C04",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Duy Tân - DDT",
+          "data_school": [
+            {
+              "ten_nganh": "Ngành Công nghệ Kỹ thuật Công trình Xây dựng",
+              "to_hop_mon": "A00; A01; D01; C01; X06 (Toán, Lý, Tin); X07 (Toán, Lý, Công nghệ)",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "14.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đông Á - DAD",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật xây dựng (Cơ sở đào tạo Đà Nẵng)",
+              "to_hop_mon": "A00; A01; A02; A04; C01; X05; X06; X07; X26",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Đô - DTD",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật công trình xây dựng",
+              "to_hop_mon": "A00; A02; A01; C01; X06; X07; D01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Lạc Hồng - DLH",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật công trình xây dựng",
+              "to_hop_mon": "D01; X02; X04; X08; A03; A04",
+              "diem_chuan_2024": "16.55",
+              "diem_chuan_2023": "15.15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thành Đông - DDB",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật xây dựng",
+              "to_hop_mon": "A00; A01; D07; D08",
+              "diem_chuan_2024": "14",
+              "diem_chuan_2023": "14"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Bình Dương - DBD",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật công trình xây dựng",
+              "to_hop_mon": "A00; C01; C03; C04; C14; D01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tiền Giang - TTG",
+          "data_school": [
+            {
+              "ten_nganh": "ĐH Công nghệ kỹ thuật xây dựng",
+              "to_hop_mon": "C01; C02; D01; A00; A01; D07; (Toán, Văn, Công nghệ); (Toán, Văn, Tin); (Toán, Tin, Anh); (Toán, Lí, Công nghệ)",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quang Trung - DQT",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ Kỹ thuật xây dựng",
+              "to_hop_mon": "A00; A01; A04; C01; C02; C04; D01; D10; D14; X02; X06; X07; X22",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ Đồng Nai - DCD",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật xây dựng",
+              "to_hop_mon": "A00; A01; A04; A10; D01; D09; D10",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Tế Công Nghiệp Long An - DLA",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ Kỹ thuật Xây dựng",
+              "to_hop_mon": "A00; A02; X25; C01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp Việt - Hung - VHD",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật xây dựng",
+              "to_hop_mon": "A00; A01; A03; A04; A07; A08; A09; A10; C01; C03; C04; C14; D01; D84",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp Quảng Ninh - DDM",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật công trình xây dựng",
+              "to_hop_mon": "A00; A01; D01; D04; X17; X21; X23",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kiên Giang - TKG",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật xây dựng",
+              "to_hop_mon": "A00; A01; A08; A09; D01; D09",
+              "diem_chuan_2024": "15.45",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Công nghệ kỹ thuật giao thông",
+      "data": [
+        {
+          "ten_truong": "Trường Đại học Công nghệ Giao thông vận tải - GTA",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ ô tô và giao thông thông minh",
+              "to_hop_mon": "A00; A01; C01; C02; D01; D07; X02; X03; X26; X27",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": "21.15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Sư phạm Kỹ thuật - Đại học Đà Nẵng - DSK",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật giao thông (chuyên ngành Xây dựng cầu đường)",
+              "to_hop_mon": "A00; A01; C01; D01; X02; C04",
+              "diem_chuan_2024": "18.5",
+              "diem_chuan_2023": "15.35"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Kiến trúc",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Giao Thông Vận Tải - GHA",
+          "data_school": [
+            {
+              "ten_nganh": "Kiến trúc",
+              "to_hop_mon": "A00; A01, V00; V01",
+              "diem_chuan_2024": "21.6",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thủ Dầu Một - TDM",
+          "data_school": [
+            {
+              "ten_nganh": "Kiến trúc",
+              "to_hop_mon": "A00; A01; C01; C03; D01; V00; V01; V02; X01; X02",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tôn Đức Thắng - DTT",
+          "data_school": [
+            {
+              "ten_nganh": "Kiến trúc",
+              "to_hop_mon": "H01; H06; V00",
+              "diem_chuan_2024": "29.8",
+              "diem_chuan_2023": "27"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Kiến trúc",
+              "to_hop_mon": "V00; V01; V02; V03",
+              "diem_chuan_2024": "21.5",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật TPHCM - SPK",
+          "data_school": [
+            {
+              "ten_nganh": "Kiến trúc (đào tạo bằng tiếng Việt)",
+              "to_hop_mon": "V03; V04; V05; V06; V12",
+              "diem_chuan_2024": "22.97",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Kinh Tế TPHCM - KSA",
+          "data_school": [
+            {
+              "ten_nganh": "Kiến trúc và thiết kế đô thị thông minh (Architectural and Urban Design for Inclusive Smart City)",
+              "to_hop_mon": "A00; A01; D01; V00; D09",
+              "diem_chuan_2024": "24.7",
+              "diem_chuan_2023": "24.63"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Bách Khoa Đà Nẵng - DDK",
+          "data_school": [
+            {
+              "ten_nganh": "Kiến trúc",
+              "to_hop_mon": "V00; V01; V02",
+              "diem_chuan_2024": "22.1",
+              "diem_chuan_2023": "22"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Giao Thông Vận Tải (Cơ sở 2) - GSA",
+          "data_school": [
+            {
+              "ten_nganh": "Kiến trúc",
+              "to_hop_mon": "A00; A01; V00; V01",
+              "diem_chuan_2024": "22.05",
+              "diem_chuan_2023": "21.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kiến Trúc TPHCM - KTS",
+          "data_school": [
+            {
+              "ten_nganh": "Kiến trúc",
+              "to_hop_mon": "V00; V01; V02",
+              "diem_chuan_2024": "24.09",
+              "diem_chuan_2023": "24.64"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Vinh - TDV",
+          "data_school": [
+            {
+              "ten_nganh": "Kiến trúc",
+              "to_hop_mon": "V01; D01; C01; C03; C04",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Khoa học liên ngành và Nghệ thuật Hà Nội - QHK",
+          "data_school": [
+            {
+              "ten_nganh": "Kiến trúc và Thiết kế cảnh quan",
+              "to_hop_mon": "V00; V01; V02; V03; V06; V10; V11",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Xây Dựng Hà Nội - XDA",
+          "data_school": [
+            {
+              "ten_nganh": "Kiến trúc",
+              "to_hop_mon": "V00; V02; V10",
+              "diem_chuan_2024": "21.9",
+              "diem_chuan_2023": "21.05"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kiến Trúc Đà Nẵng - KTD",
+          "data_school": [
+            {
+              "ten_nganh": "Kiến trúc",
+              "to_hop_mon": "A00; X06; X07; X26; X27",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "20"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Sư phạm Kỹ thuật - Đại học Đà Nẵng - DSK",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật kiến trúc",
+              "to_hop_mon": "V00; V01; V02; A00; A01; D01",
+              "diem_chuan_2024": "17.55",
+              "diem_chuan_2023": "19.3"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nguyễn Tất Thành - NTT",
+          "data_school": [
+            {
+              "ten_nganh": "Kiến trúc",
+              "to_hop_mon": "D01; C04; V01; H01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Duy Tân - DDT",
+          "data_school": [
+            {
+              "ten_nganh": "Ngành Kiến trúc có chuyên ngành: Kiến trúc công trình, Thiết kế nội thất",
+              "to_hop_mon": "V00; V01; V02; V06",
+              "diem_chuan_2024": "22",
+              "diem_chuan_2023": "16.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Nam Cần Thơ - DNC",
+          "data_school": [
+            {
+              "ten_nganh": "Kiến trúc",
+              "to_hop_mon": "A00; C01; D01; V00; V01; X06; X56",
+              "diem_chuan_2024": "6",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quốc Tế Hồng Bàng - HIU",
+          "data_school": [
+            {
+              "ten_nganh": "Kiến trúc",
+              "to_hop_mon": "A00; A01; V00; V01; X06; X10",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công Nghệ TPHCM - DKC",
+          "data_school": [
+            {
+              "ten_nganh": "Kiến trúc",
+              "to_hop_mon": "D01; C01; C03; C04; V01; (Toán, Văn, Tin)",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Yersin Đà Lạt - DYD",
+          "data_school": [
+            {
+              "ten_nganh": "Kiến trúc",
+              "to_hop_mon": "D01; C01; C04; X03; A01; H01; V00",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Bình Dương - DBD",
+          "data_school": [
+            {
+              "ten_nganh": "Kiến trúc",
+              "to_hop_mon": "A00; C01; C03; C04; C14; D01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Xây Dựng Miền Tây - MTU",
+          "data_school": [
+            {
+              "ten_nganh": "Nhóm ngành Kiến trúc",
+              "to_hop_mon": "A00; A01; A03; A04; A06; A07; A10; C01; C03; D01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Xây Dựng Miền Trung - XDT",
+          "data_school": [
+            {
+              "ten_nganh": "Kiến trúc",
+              "to_hop_mon": "A01; D01; D07; X02; X03",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Phân hiệu Đại học Xây dựng miền Trung tại Đà Nẵng - XDN",
+          "data_school": [
+            {
+              "ten_nganh": "Kiến trúc",
+              "to_hop_mon": "A00; A01; C01; D01; D07; X02; X03; X26; X27; X56",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Kiến trúc Cảnh quan",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Kiến Trúc TPHCM - KTS",
+          "data_school": [
+            {
+              "ten_nganh": "Kiến trúc cảnh quan",
+              "to_hop_mon": "V00; V01; V02",
+              "diem_chuan_2024": "23.4",
+              "diem_chuan_2023": "23.95"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Khoa học liên ngành và Nghệ thuật Hà Nội - QHK",
+          "data_school": [
+            {
+              "ten_nganh": "Kiến trúc và Thiết kế cảnh quan",
+              "to_hop_mon": "V00; V01; V02; V03; V06; V10; V11",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nông Lâm TPHCM - NLS",
+          "data_school": [
+            {
+              "ten_nganh": "Cảnh quan và kỹ thuật hoa viên",
+              "to_hop_mon": "A00, A02, B00, D01, D07, D08",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Xây Dựng Hà Nội - XDA",
+          "data_school": [
+            {
+              "ten_nganh": "Kiến trúc cảnh quan",
+              "to_hop_mon": "V00; V02; V06",
+              "diem_chuan_2024": "21.2",
+              "diem_chuan_2023": "19.23"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Lâm nghiệp - LNH",
+          "data_school": [
+            {
+              "ten_nganh": "Kiến trúc cảnh quan",
+              "to_hop_mon": "C14; (Toán, Văn, Công nghệ); C04; (Toán, Lí, Công nghệ); (Toán, Tin, Công nghệ); V06; (Toán, Văn, Tin); H08; (Văn, Sử, Tin); (Văn, Công nghệ; GDKTPL)",
+              "diem_chuan_2024": "18.5",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Kiến trúc nội thất",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật TPHCM - SPK",
+          "data_school": [
+            {
+              "ten_nganh": "Kiến trúc nội thất (đào tạo bằng tiếng Việt)",
+              "to_hop_mon": "V03; V04; V05; V06; V12",
+              "diem_chuan_2024": "22.77",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hàng Hải Việt Nam - HHA",
+          "data_school": [
+            {
+              "ten_nganh": "Kiến trúc và nội thất",
+              "to_hop_mon": "A00; A01; C01; C02; D01; X02",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Xây Dựng Hà Nội - XDA",
+          "data_school": [
+            {
+              "ten_nganh": "Kiến trúc/ Kiến trúc công nghệ",
+              "to_hop_mon": "V00; V02",
+              "diem_chuan_2024": "21.5",
+              "diem_chuan_2023": "20.64"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công nghệ Giao thông vận tải - GTA",
+          "data_school": [
+            {
+              "ten_nganh": "Kiến trúc nội thất",
+              "to_hop_mon": "A00; A01; C01; C02; D01; D07; X02; X03; X26; X27",
+              "diem_chuan_2024": "22.45",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Xây Dựng Miền Trung - XDT",
+          "data_school": [
+            {
+              "ten_nganh": "Kiến trúc nội thất",
+              "to_hop_mon": "",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Phân hiệu Đại học Xây dựng miền Trung tại Đà Nẵng - XDN",
+          "data_school": [
+            {
+              "ten_nganh": "Kiến trúc nội thất",
+              "to_hop_mon": "A00; A01; C01; D01; D07; X02; X03; X26; X27; X56",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Kỹ thuật cơ sở hạ tầng",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Giao Thông Vận Tải - GHA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ sở hạ tầng (chuyên ngành: cơ sở hạ tầng kỹ thuật đô thị)",
+              "to_hop_mon": "A00; A01; D01; D07; X06",
+              "diem_chuan_2024": "22.65",
+              "diem_chuan_2023": "21.6"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Bách Khoa Đà Nẵng - DDK",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ sở hạ tầng",
+              "to_hop_mon": "A00; A01; C01; D07; X06",
+              "diem_chuan_2024": "17.95",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kiến Trúc TPHCM - KTS",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ sở hạ tầng",
+              "to_hop_mon": "A00; A01; C01; D01",
+              "diem_chuan_2024": "18.8",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hàng Hải Việt Nam - HHA",
+          "data_school": [
+            {
+              "ten_nganh": "Công trình giao thông và cơ sở hạ tầng",
+              "to_hop_mon": "A00; A01; C01; C02; D01; X02",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kiến Trúc Hà Nội - KTA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật hạ tầng đô thị (Chuyên ngành thuộc ngành Kỹ thuật cơ sở hạ tầng)",
+              "to_hop_mon": "A00; C01; C02; D01; (Toán, Văn, Công nghệ)",
+              "diem_chuan_2024": "21.15",
+              "diem_chuan_2023": "21.45"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Sư phạm Kỹ thuật - Đại học Đà Nẵng - DSK",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ sở hạ tầng (chuyên ngành Xây dựng hạ tầng đô thị)",
+              "to_hop_mon": "A00; A01; C01; D01; X02; X03",
+              "diem_chuan_2024": "18.45",
+              "diem_chuan_2023": "15.4"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nông Lâm Huế - DHL",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ sở hạ tầng",
+              "to_hop_mon": "A00; A01; A08; C01; C04; C14; D01; X01; X17",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Kỹ thuật xây dựng công trình giao thông",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Giao Thông Vận Tải - GHA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng công trình giao thông (chuyên ngành: Cầu đường bộ (bao gồm lớp tài năng), Đường bộ và kỹ thuật giao thông, Cầu và kết cấu, Đường sắt, Xây dựng sân bay cảng hàng không, Công trình giao thông đô thị)",
+              "to_hop_mon": "A00; A01; D01; D07; X06",
+              "diem_chuan_2024": "21.15",
+              "diem_chuan_2023": "19.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp TPHCM - IUH",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng công trình giao thông",
+              "to_hop_mon": "A00; A01; C01; X05; X06; X07",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thủy Lợi - TLA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng công trình giao thông",
+              "to_hop_mon": "A00; A01; D01; D07; C01; C02; X02 (Toán, Văn, Tin); X06 (Toán, Lí, Tin)",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "19.2"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tôn Đức Thắng - DTT",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng công trình giao thông",
+              "to_hop_mon": "A00; A01; C01; C02; D01; X06",
+              "diem_chuan_2024": "22",
+              "diem_chuan_2023": "22"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng công trình giao thông",
+              "to_hop_mon": "A00; A01; V00; X07",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "21.6"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật TPHCM - SPK",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng công trình giao thông * (đào tạo bằng tiếng Việt)",
+              "to_hop_mon": "A00; A01; C01; D01",
+              "diem_chuan_2024": "21.55",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Bách Khoa Đà Nẵng - DDK",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng công trình giao thông",
+              "to_hop_mon": "A00; A01; C01; D07; X06",
+              "diem_chuan_2024": "18.35",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Giao Thông Vận Tải (Cơ sở 2) - GSA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng công trình giao thông (chuyên ngành: Cầu đường bộ; Đường bộ và kỹ thuật giao thông)",
+              "to_hop_mon": "A00; A01; D01; C01; X06",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "16.15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nha Trang - TSN",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng công trình giao thông",
+              "to_hop_mon": "(Toán, Văn, Anh, Lí); C01; X02; X03; X04; D01",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kiến Trúc Hà Nội - KTA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng công trình giao thông",
+              "to_hop_mon": "A00; C01; C02; D01; (Toán, Văn, Công nghệ)",
+              "diem_chuan_2024": "21.15",
+              "diem_chuan_2023": "21.45"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Vinh - TDV",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng công trình giao thông (chuyên ngành: Kỹ thuật xây dựng cầu đường; Kỹ thuật xây dựng công trình ngầm; Kỹ thuật hạ tầng đô thị)",
+              "to_hop_mon": "C01; C04; C14; D01",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Trà Vinh - DVT",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng công trình giao thông",
+              "to_hop_mon": "A00; A01; A03; A04; X05; X06; X07",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Xây Dựng Hà Nội - XDA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng công trình Giao thông/ Xây dựng Cầu đường",
+              "to_hop_mon": "A00; A01; C01; D01; D07; X06 (Toán, Lí, Tin)",
+              "diem_chuan_2024": "21.45",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công nghệ Giao thông vận tải - GTA",
+          "data_school": [
+            {
+              "ten_nganh": "Mô hình thông tin công trình giao thông (BIM)",
+              "to_hop_mon": "A00; A01; C01; C02; D01; D07; X02; X03; X26; X27",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Mỏ Địa Chất - MDA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng công trình giao thông",
+              "to_hop_mon": "A00; A01; C01; C04; D01",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kiến Trúc Đà Nẵng - KTD",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng công trình giao thông",
+              "to_hop_mon": "A00; A01; B00; D01; X06; X07; X26; X27",
+              "diem_chuan_2024": "19.5",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Xây Dựng Miền Tây - MTU",
+          "data_school": [
+            {
+              "ten_nganh": "Nhóm ngành Kỹ thuật xây dựng công trình Giao thông",
+              "to_hop_mon": "A00; A01; A04; A06; A10; A11; C01; D01; D07; X06",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Xây Dựng Miền Trung - XDT",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng công trình giao thông",
+              "to_hop_mon": "A00; A01; C01; D01; D07; X02; X03; X26; X27; X56",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Phân hiệu Đại học Xây dựng miền Trung tại Đà Nẵng - XDN",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng công trình giao thông",
+              "to_hop_mon": "A00; A01; C01; D01; D07; X02; X03; X26; X27; X56",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Thiết kế nội thất",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Tôn Đức Thắng - DTT",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế nội thất",
+              "to_hop_mon": "H00; H01; H02; H03; H04; H05",
+              "diem_chuan_2024": "29.7",
+              "diem_chuan_2023": "27"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kiến Trúc TPHCM - KTS",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế nội thất",
+              "to_hop_mon": "V00; V01; V02",
+              "diem_chuan_2024": "23.91",
+              "diem_chuan_2023": "24.61"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Khoa học liên ngành và Nghệ thuật Hà Nội - QHK",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế sáng tạo (Chuyên ngành Thiết kế nội thất bền vững)",
+              "to_hop_mon": "H01; H04; H06; H08; H09; H10; H11",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": "23.85"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kiến Trúc Đà Nẵng - KTD",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế nội thất",
+              "to_hop_mon": "A00; X06; X07; X26; X27",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "20"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nguyễn Tất Thành - NTT",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế nội thất",
+              "to_hop_mon": "D01; C04; V01; H01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hòa Bình - ETU",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế nội thất",
+              "to_hop_mon": "H01; V00; V01",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công Nghệ TPHCM - DKC",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế nội thất",
+              "to_hop_mon": "D01; C01; C03; C04; V01; (Toán, Văn, Tin)",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Yersin Đà Lạt - DYD",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế nội thất",
+              "to_hop_mon": "D01; C01; C04; X03; A01; H01; V00",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Lâm nghiệp - LNH",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế nội thất",
+              "to_hop_mon": "D01; C14; (Toán, Văn, Công nghệ); H01; C03; A01; (Toán, Lí, Công nghệ); C00; H08; D14",
+              "diem_chuan_2024": "16.1",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hoa Sen - HSU",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế Nội thất",
+              "to_hop_mon": "A00; A01; D01; D09",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Phân hiệu Đại Học Lâm nghiệp tại Đồng Nai - LNS",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế nội thất",
+              "to_hop_mon": "D01; C01; X02; X03; X04; A00; A01",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Quản lý xây dựng",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Giao Thông Vận Tải - GHA",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý xây dựng",
+              "to_hop_mon": "A00; A01; D01; D07; X06",
+              "diem_chuan_2024": "23.93",
+              "diem_chuan_2023": "23.51"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp TPHCM - IUH",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý xây dựng",
+              "to_hop_mon": "A00; A01; C01; X05; X06; X07",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thủy Lợi - TLA",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý xây dựng",
+              "to_hop_mon": "A00; A01; D01; D07; C01; C02; X02 (Toán, Văn, Tin); X06 (Toán, Lí, Tin)",
+              "diem_chuan_2024": "22.75",
+              "diem_chuan_2023": "22.1"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tôn Đức Thắng - DTT",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý xây dựng",
+              "to_hop_mon": "A00; A01; C01; C02; D01; X06",
+              "diem_chuan_2024": "23",
+              "diem_chuan_2023": "23"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật TPHCM - SPK",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý xây dựng (đào tạo bằng tiếng Việt)",
+              "to_hop_mon": "A00; A01; C01; D01",
+              "diem_chuan_2024": "22.17",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Giao Thông Vận Tải (Cơ sở 2) - GSA",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý xây dựng (chuyên ngành: Quản lý dự án)",
+              "to_hop_mon": "A00; A01; D01; C01; X06",
+              "diem_chuan_2024": "22.15",
+              "diem_chuan_2023": "20.1"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kiến Trúc TPHCM - KTS",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý xây dựng",
+              "to_hop_mon": "A00; A01; C01",
+              "diem_chuan_2024": "22.5",
+              "diem_chuan_2023": "21.2"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quốc Tế - ĐHQG TPHCM - QSQ",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật\r\n(Nhóm ngành: Logistics và Quản lý chuỗi cung ứng; Kỹ thuật hệ thống công nghiệp; Kỹ thuật điện tử – viễn thông; Kỹ thuật điều khiển và tự động hóa; Kỹ thuật y sinh; Kỹ thuật không gian (Phân tích và ứng dụng dữ liệu lớn); Kỹ thuật xây dựng; Quản",
+              "to_hop_mon": "A00; A01; B00; D07; B08; D01",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hàng Hải Việt Nam - HHA",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý công trình xây dựng",
+              "to_hop_mon": "A00; A01; C01; C02; D01; X02",
+              "diem_chuan_2024": "21.5",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kiến Trúc Hà Nội - KTA",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý dự án xây dựng (Chuyên ngành thuộc ngành Kỹ thuật xây dựng)",
+              "to_hop_mon": "A00; C01; C02; D01; (Toán, Văn, Công nghệ)",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kỹ Thuật Công Nghệ Cần Thơ - KCC",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý xây dựng",
+              "to_hop_mon": "A00; A01; C01; C02; D01; X01; X05; X06",
+              "diem_chuan_2024": "21.25",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Xây Dựng Hà Nội - XDA",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý xây dựng/ Kinh tế và quản lý đô thị",
+              "to_hop_mon": "A00; A01; A10; C01; D01; D07; X06 (Toán, Lí, Tin); X26 (Toán, Anh, Tin)",
+              "diem_chuan_2024": "23.45",
+              "diem_chuan_2023": "21.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Mở TPHCM - MBS",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý xây dựng\r\n(Môn Toán hệ số 2)",
+              "to_hop_mon": "A00; A01; (Toán, Lí, Tin); (Toán, Lí, Công nghệ); (Toán, Hóa, Tin); (Toán, Hóa, Công nghệ); D07; (Toán, Anh, Tin); (Toán, Anh, Công nghệ); (Toán, Tin, Công nghệ).",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "17.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Mỏ Địa Chất - MDA",
+          "data_school": [
+            {
+              "ten_nganh": "Quản Lí xây dựng",
+              "to_hop_mon": "A00; A01; A10; B04; C01; C02; C04; D01",
+              "diem_chuan_2024": "19.5",
+              "diem_chuan_2023": "19.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kiến Trúc Đà Nẵng - KTD",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý xây dựng",
+              "to_hop_mon": "A00; A01; B00; D01; X06; X07; X26; X27",
+              "diem_chuan_2024": "19.5",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Nam Cần Thơ - DNC",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý xây dựng",
+              "to_hop_mon": "A00; A01; A02; A03; C03; D01; D07; X05; X06",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Lang - DVL",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý xây dựng",
+              "to_hop_mon": "A00; A01; D01; X06; X26",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công Nghệ TPHCM - DKC",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý xây dựng",
+              "to_hop_mon": "D01; C01; C03; C04; (Toán, Văn, Tin); X01",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Lâm nghiệp - LNH",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý xây dựng(Dự kiến)",
+              "to_hop_mon": "A00; C01; C02; (Toán, Văn, Tin); (Toán, Văn, Công nghệ); D01; A01; (Toán, Lí, Tin); K01; (Toán, Tin, Công nghệ)",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Xây Dựng Miền Trung - XDT",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý xây dựng",
+              "to_hop_mon": "A00; A01; C01; D01; D07; X02; X03; X26; X27; X56",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ Sài Gòn - DSG",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý xây dựng",
+              "to_hop_mon": "(Toán, 2 môn bất kì)",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Phân hiệu Đại học Xây dựng miền Trung tại Đà Nẵng - XDN",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý xây dựng",
+              "to_hop_mon": "A00; A01; C01; D01; D07; X02; X03; X26; X27; X56",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Khai thác vận tải",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Giao Thông Vận Tải - GHA",
+          "data_school": [
+            {
+              "ten_nganh": "Khai thác vận tải (chuyên ngành: Vận tải - Thương mại quốc tế, Quy hoạch và quản lý GTVT đô thị, Vận tải - Kinh tế đường bộ và thành phố, Vận tải đuờng sắt)",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "25.07",
+              "diem_chuan_2023": "24.4"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Giao Thông Vận Tải (Cơ sở 2) - GSA",
+          "data_school": [
+            {
+              "ten_nganh": "Khai thác vận tải (chuyên ngành: Vận tải - Thương mại quốc tế; Quy hoạch và quản lý GTVT đô thị)",
+              "to_hop_mon": "A00; A01; D01; C01",
+              "diem_chuan_2024": "25.33",
+              "diem_chuan_2023": "23.84"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Kinh tế vận tải",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Hàng Hải Việt Nam - HHA",
+          "data_school": [
+            {
+              "ten_nganh": "Kinh tế vận tải biển",
+              "to_hop_mon": "A01; C01; C03; C04; D01; D09",
+              "diem_chuan_2024": "25.5",
+              "diem_chuan_2023": "24.5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Đô thị, mỹ thuật đô thị",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Xã Hội và Nhân Văn TPHCM - QSX",
+          "data_school": [
+            {
+              "ten_nganh": "Đô thị học",
+              "to_hop_mon": "A01; C00; D01; D14",
+              "diem_chuan_2024": "22",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kiến Trúc TPHCM - KTS",
+          "data_school": [
+            {
+              "ten_nganh": "Mỹ thuật đô thị",
+              "to_hop_mon": "V00; V01; V02",
+              "diem_chuan_2024": "22.76",
+              "diem_chuan_2023": "23.45"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Xây Dựng Hà Nội - XDA",
+          "data_school": [
+            {
+              "ten_nganh": "Mỹ thuật đô thị",
+              "to_hop_mon": "H00; H07; V00; V01; V02",
+              "diem_chuan_2024": "18.01",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Quản lý phát triển đô thị và bất động sản",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Tự Nhiên Hà Nội - QHT",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý phát triển đô thị và bất động sản",
+              "to_hop_mon": "A00; A01; A04; A06; A07; B00; B02; C04; D01; D10; D20; X01; X21; X25",
+              "diem_chuan_2024": "24",
+              "diem_chuan_2023": "22.45"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Mỏ Địa Chất - MDA",
+          "data_school": [
+            {
+              "ten_nganh": "Quản Lí phát triển đô thị và Bất động sản",
+              "to_hop_mon": "A00; A01; C02; C03; C04; D01; D10",
+              "diem_chuan_2024": "24.1",
+              "diem_chuan_2023": "22.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nông Lâm Thái Nguyên - DTN",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý phát triển đô thị và bất động sản",
+              "to_hop_mon": "A00; A07; A09; B00; C00; C02; C04; C20; D01; D14",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Quản lý, khai thác và bảo trì đường cao tốc",
+      "data": [
+        {
+          "ten_truong": "Trường Đại học Công nghệ Giao thông vận tải - GTA",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý, khai thác và bảo trì đường cao tốc",
+              "to_hop_mon": "A00; A01; C01; C02; D01; D07; X02; X03; X26; X27",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Quy hoạch vùng và đô thị",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Tôn Đức Thắng - DTT",
+          "data_school": [
+            {
+              "ten_nganh": "Quy hoạch vùng và đô thị",
+              "to_hop_mon": "A00; A01; C01; C02; D01; H01; H06; X06",
+              "diem_chuan_2024": "23",
+              "diem_chuan_2023": "23"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Quy hoạch vùng và đô thị",
+              "to_hop_mon": "A00; A01; B00; D07",
+              "diem_chuan_2024": "18",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kiến Trúc TPHCM - KTS",
+          "data_school": [
+            {
+              "ten_nganh": "Quy hoạch vùng và đô thị",
+              "to_hop_mon": "V00; V01; V02",
+              "diem_chuan_2024": "23.12",
+              "diem_chuan_2023": "23.54"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Xây Dựng Hà Nội - XDA",
+          "data_school": [
+            {
+              "ten_nganh": "Quy hoạch vùng và đô thị",
+              "to_hop_mon": "V00; V01; V02",
+              "diem_chuan_2024": "21.1",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Thiết kế, quản trị đô thị",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Giao Thông Vận Tải - GHA",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý đô thị và công trình",
+              "to_hop_mon": "A00; A01; D01; D07; X06",
+              "diem_chuan_2024": "23.28",
+              "diem_chuan_2023": "22.55"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Giao Thông Vận Tải (Cơ sở 2) - GSA",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý đô thị và công trình",
+              "to_hop_mon": "A00; A01; D01; C01; X06",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Khoa học liên ngành và Nghệ thuật Hà Nội - QHK",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị đô thị thông minh và bền vững",
+              "to_hop_mon": "A00; A01; A04; C04; D01; D03; D04; D07; D10; D19; D20; D24; D25; D29; D30; X06; X07; X22; X23",
+              "diem_chuan_2024": "23.14",
+              "diem_chuan_2023": "23.05"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Mỏ Địa Chất - MDA",
+          "data_school": [
+            {
+              "ten_nganh": "Quản Lí đô thị và công trình",
+              "to_hop_mon": "C04; A00; D10; C02; A07; D01; D07; C01",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Doanh và Công Nghệ Hà Nội - DQK",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý đô thị và công trình",
+              "to_hop_mon": "A00; A01; C00; D01; X21; X05; X06; X11",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Tài Nguyên và Môi Trường TPHCM - DTM",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý đô thị và công trình",
+              "to_hop_mon": "C01; C02; C03; C04; B03; D01; X01; X03; X04",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Xây Dựng Miền Tây - MTU",
+          "data_school": [
+            {
+              "ten_nganh": "Nhóm ngành Quản lý đô thị và công trình",
+              "to_hop_mon": "A00; A01; A03; A04; A10; A11; C01; C03; D01; X06",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Xây dựng, quản lý Cầu - đường sắt",
+      "data": [
+        {
+          "ten_truong": "Trường Đại học Công nghệ Giao thông vận tải - GTA",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý xây dựng",
+              "to_hop_mon": "A00; A01; C01; C02; D01; D07; X02; X03; X26; X27",
+              "diem_chuan_2024": "20.05",
+              "diem_chuan_2023": "21.1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Xây dựng công trình",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Hàng Hải Việt Nam - HHA",
+          "data_school": [
+            {
+              "ten_nganh": "Xây dựng công trình thủy",
+              "to_hop_mon": "A00; A01; C01; C02; D01; X02",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kiến Trúc Hà Nội - KTA",
+          "data_school": [
+            {
+              "ten_nganh": "Xây dựng công trình ngầm dô thị (Chuyên ngành thuộc ngành Kỹ thuật xây dựng)",
+              "to_hop_mon": "A00; C01; C02; D01; (Toán, Văn, Công nghệ)",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Mỏ Địa Chất - MDA",
+          "data_school": [
+            {
+              "ten_nganh": "Xây dựng công trình ngầm thành phố và hệ thống tàu điện ngầm",
+              "to_hop_mon": "A00; A01; A10; B04; C01; C02; C04; D01",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Duy Tân - DDT",
+          "data_school": [
+            {
+              "ten_nganh": "Ngành Kỹ thuật Xây dựng",
+              "to_hop_mon": "A00; A01; D01; C01; X06 (Toán, Lý, Tin); X07 (Toán, Lý, Công nghệ)",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Kỹ Thuật Quân Sự - Hệ Dân sự",
+          "data_school": [
+            {
+              "ten_nganh": "Xây dựng dân dụng và công nghiệp",
+              "to_hop_mon": "A00; A01; X06",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Xây dựng và quản lý hạ tầng đô thị",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Thủy Lợi - TLA",
+          "data_school": [
+            {
+              "ten_nganh": "Xây dựng và quản lý hạ tầng đô thị (Kỹ thuật cơ sở hạ tầng)",
+              "to_hop_mon": "A00; A01; D01; D07; C01; C02; X02 (Toán, Văn, Tin); X06 (Toán, Lí, Tin)",
+              "diem_chuan_2024": "22.35",
+              "diem_chuan_2023": "20.85"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công nghệ Giao thông vận tải - GTA",
+          "data_school": [
+            {
+              "ten_nganh": "Xây dựng và quản lý hạ tầng đô thị",
+              "to_hop_mon": "A00; A01; C01; C02; D01; D07; X02; X03; X26; X27",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Kỹ thuật xây dựng công trình thủy",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Giao Thông Vận Tải - GHA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng công trình thủy",
+              "to_hop_mon": "A00; A01; D01; D07; X06",
+              "diem_chuan_2024": "21.15",
+              "diem_chuan_2023": "18.3"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thủy Lợi - TLA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng công trình thủy",
+              "to_hop_mon": "A00; A01; D01; D07; C01; C02; X02 (Toán, Văn, Tin); X06 (Toán, Lí, Tin)",
+              "diem_chuan_2024": "20.5",
+              "diem_chuan_2023": "18.15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng công trình thủy",
+              "to_hop_mon": "A00; A01; V00; X07",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15.45"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Bách Khoa Đà Nẵng - DDK",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng công trình thủy",
+              "to_hop_mon": "A00; A01; C01; D07; X06; X26",
+              "diem_chuan_2024": "17.65",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Xây Dựng Hà Nội - XDA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật xây dựng/Kỹ thuật công trình thủy",
+              "to_hop_mon": "A00; A01; C01; D01; D07; X06 (Toán, Lí, Tin)",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Xây Dựng Miền Tây - MTU",
+          "data_school": [
+            {
+              "ten_nganh": "Nhóm ngành Kỹ thuật Xây dựng Công trình thủy (Kỹ sư)",
+              "to_hop_mon": "A00; A01; A04; A06; A10; A11; C01; D01; D07; X06",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

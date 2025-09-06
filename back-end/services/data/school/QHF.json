@@ -1,0 +1,801 @@
+{
+  "school_code": "QHF",
+  "school_name": "Trường Đại Học Ngoại Ngữ - ĐH Quốc gia Hà Nội",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Sư phạm tiếng Anh",
+          "Tổ hợp môn": "D01; D78; D90; D14",
+          "Điểm chuẩn": "38.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Trung",
+          "Tổ hợp môn": "D01; D78; D90; D04",
+          "Điểm chuẩn": "37.85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Đức",
+          "Tổ hợp môn": "D01; D78; D90; D05",
+          "Điểm chuẩn": "36.94",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Nhật",
+          "Tổ hợp môn": "D01; D78; D90; D06",
+          "Điểm chuẩn": "37.21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Hàn Quốc",
+          "Tổ hợp môn": "D01; D78; D90; DD2",
+          "Điểm chuẩn": "37.31",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D78; D90; D14",
+          "Điểm chuẩn": "36.99",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nga",
+          "Tổ hợp môn": "D01; D78; D90; D02",
+          "Điểm chuẩn": "34.24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Pháp",
+          "Tổ hợp môn": "D01; D78; D90; D03",
+          "Điểm chuẩn": "34.53",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "D01; D78; D90; D04",
+          "Điểm chuẩn": "37",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Đức",
+          "Tổ hợp môn": "D01; D78; D90; D05",
+          "Điểm chuẩn": "35.82",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật",
+          "Tổ hợp môn": "D01; D78; D90; D06",
+          "Điểm chuẩn": "35.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "D01; D78; D90; DD2",
+          "Điểm chuẩn": "36.38",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Ả Rập",
+          "Tổ hợp môn": "D01; D78; D90; D14",
+          "Điểm chuẩn": "33.42",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Văn hóa và truyền thông xuyên quốc gia",
+          "Tổ hợp môn": "D01; D78; D90; D14",
+          "Điểm chuẩn": "36.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế - Tài chính",
+          "Tổ hợp môn": "D01; A01; D78; D14",
+          "Điểm chuẩn": "26.75",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 15
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Sư phạm tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "120",
+          "Ghi chú": "NV1"
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Trung",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "120",
+          "Ghi chú": "NV1"
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Đức",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "120",
+          "Ghi chú": "NV1"
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Nhật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "120",
+          "Ghi chú": "NV1"
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Hàn Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "120",
+          "Ghi chú": "NV1"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "112.5",
+          "Ghi chú": "NV1, NV2"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nga",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "90",
+          "Ghi chú": "NV1, NV2"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Pháp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "90",
+          "Ghi chú": "NV1, NV2"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "105",
+          "Ghi chú": "NV1, NV2"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Đức",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "90",
+          "Ghi chú": "NV1, NV2"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "90",
+          "Ghi chú": "NV1, NV2"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "90",
+          "Ghi chú": "NV1, NV2"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Ả Rập",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "90",
+          "Ghi chú": "NV1, NV2"
+        },
+        {
+          "Tên ngành": "Văn hóa và truyền thông xuyên quốc gia",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "90",
+          "Ghi chú": "NV1, NV2"
+        }
+      ],
+      "row_count": 14
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Sư phạm tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "960",
+          "Ghi chú": "NV1"
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Trung",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "960",
+          "Ghi chú": "NV1"
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Đức",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "960",
+          "Ghi chú": "NV1"
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Nhật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "960",
+          "Ghi chú": "NV1"
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Hàn Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "960",
+          "Ghi chú": "NV1"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "900",
+          "Ghi chú": "NV1, NV2"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nga",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "750",
+          "Ghi chú": "NV1, NV2"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Pháp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "750",
+          "Ghi chú": "NV1, NV2"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "900",
+          "Ghi chú": "NV1, NV2"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Đức",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "750",
+          "Ghi chú": "NV1, NV2"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "750",
+          "Ghi chú": "NV1, NV2"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "750",
+          "Ghi chú": "NV1, NV2"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Ả Rập",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "750",
+          "Ghi chú": "NV1, NV2"
+        },
+        {
+          "Tên ngành": "Văn hóa và truyền thông xuyên quốc gia",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "750",
+          "Ghi chú": "NV1, NV2"
+        }
+      ],
+      "row_count": 14
+    },
+    {
+      "table_title": "Điểm xét tuyển kết hợp năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Sư phạm tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "10",
+          "Ghi chú": "NV1, IELTS + kết quả thi tốt nghiệp THPT, ĐTBC 3 năm THPT ≥ 9.0"
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "10",
+          "Ghi chú": "NV1, IELTS + học bạ THPT, ĐTBC 3 năm THPT của 3 môn thuộc tổ hợp xét tuyển ≥ 9.0"
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "9.4",
+          "Ghi chú": "Điểm học bạ THPT và phỏng vấn"
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Trung",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "9.2",
+          "Ghi chú": "Điểm học bạ THPT và phỏng vấn"
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Trung",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "9.5",
+          "Ghi chú": "NV1, HSK + học bạ THPT"
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Trung",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "10",
+          "Ghi chú": "NV1, IELTS + kết quả thi tốt nghiệpTHPT"
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Trung",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "9.5",
+          "Ghi chú": "NV1, HSK + kết quả thi tốt nghiệp THPT"
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Trung",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "10",
+          "Ghi chú": "NV1, IELTS + học bạ THPT"
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Đức",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "9.5",
+          "Ghi chú": "NV1, DSD + học bạ THPT"
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Đức",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "9.5",
+          "Ghi chú": "NV1, DSD + kết quả thi tốt nghiệp THPT"
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Đức",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "9.5",
+          "Ghi chú": "NV1, IELTS + kết quả thi tốt nghiệpTHPT"
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Đức",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "9.1",
+          "Ghi chú": "Điểm học bạ THPT và phỏng vấn"
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Đức",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "9.5",
+          "Ghi chú": "NV1, IELTS + học bạ THPT"
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Nhật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "8.6",
+          "Ghi chú": "NV1, JLPT + học bạ THPT"
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Nhật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "9",
+          "Ghi chú": "Điểm học bạ THPT và phỏng vấn"
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Nhật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "8.6",
+          "Ghi chú": "NV1, JLPT + kết quả thi tốt nghiệp THPT"
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Nhật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "9.5",
+          "Ghi chú": "NV1, IELTS + học bạ THPT"
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Nhật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "9.5",
+          "Ghi chú": "NV1, IELTS + kết quả thi tốt nghiệpTHPT"
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Hàn Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "9.5",
+          "Ghi chú": "NV1, IELTS + kết quả thi tốt nghiệpTHPT"
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Hàn Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "9.5",
+          "Ghi chú": "NV1, IELTS + học bạ THPT"
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Hàn Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "9",
+          "Ghi chú": "NV1, TOPIK + kết quả thi tốt nghiệp THPT"
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Hàn Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "9.1",
+          "Ghi chú": "Điểm học bạ THPT và phỏng vấn"
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Hàn Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "9",
+          "Ghi chú": "NV1, TOPIK + học bạ THPT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "9.3",
+          "Ghi chú": "NV1, 2; IELTS + học bạ THPT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "9.3",
+          "Ghi chú": "NV1, 2 IELTS + kết quả thi tốt nghiệpTHPT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "Điểm học bạ THPT và phỏng vấn"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nga",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "NV1, 2 IELTS + kết quả thi tốt nghiệpTHPT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nga",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "Điểm học bạ THPT và phỏng vấn"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nga",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "NV1, 2 IELTS + học bạ THPT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Pháp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "NV1, 2 IELTS + học bạ THPT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Pháp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "8.7",
+          "Ghi chú": "NV1, 2 VSTEP + kết quả thi tốt nghiệpTHPT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Pháp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "8.7",
+          "Ghi chú": "NV1, 2 VSTEP + học bạ THPT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Pháp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "NV1, 2 DELF + kết quả thi tốt nghiệp THPT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Pháp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "NV1, 2 IELTS + kết quả thi tốt nghiệpTHPT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Pháp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "Điểm học bạ THPT và phỏng vấn"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Pháp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "NV1, 2 DELF + học bạ THPT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "8.6",
+          "Ghi chú": "NV1, 2 HSK + học bạ THPT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "Điểm học bạ THPT và phỏng vấn"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "9",
+          "Ghi chú": "NV1, 2 IELTS + học bạ THPT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "9.3",
+          "Ghi chú": "NV1, 2 VSTEP + kết quả thi tốt nghiệpTHPT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "8.6",
+          "Ghi chú": "NV1, 2 HSK + kết quả thi tốt nghiệpTHPT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "9.3",
+          "Ghi chú": "NV1, 2 VSTEP + học bạ THPT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "9",
+          "Ghi chú": "NV1, 2 IELTS + kết quả thi tốt nghiệpTHPT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Đức",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "NV1, 2 IELTS + kết quả thi tốt nghiệpTHPT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Đức",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "9.5",
+          "Ghi chú": "NV1, 2 DSD + kết quả thi tốt nghiệpTHPT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Đức",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "NV1, 2 IELTS + học bạ THPT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Đức",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "Điểm học bạ THPT và phỏng vấn"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Đức",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "9.5",
+          "Ghi chú": "NV1, 2 DSD + học bạ THPT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "Điểm học bạ THPT và phỏng vấn"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "NV1, 2 IELTS + học bạ THPT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "NV1, 2 JLPT + kết quả thi tốt nghiệpTHPT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "NV1, 2 JLPT + học bạ THPT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "NV1, 2 IELTS + kết quả thi tốt nghiệpTHPT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "8.6",
+          "Ghi chú": "NV1, 2 TOPIK + học bạ THPT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "NV1, 2 IELTS + học bạ THPT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "9.5",
+          "Ghi chú": "NV1, 2 VSTEP + kết quả thi tốt nghiệpTHPT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "Điểm học bạ THPT và phỏng vấn"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "9.5",
+          "Ghi chú": "NV1, 2 VSTEP + học bạ THPT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "8.6",
+          "Ghi chú": "NV1, 2 TOPIK + kết quả thi tốt nghiệpTHPT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "NV1, 2 IELTS + kết quả thi tốt nghiệpTHPT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Ả Rập",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "NV1, 2 IELTS + kết quả thi tốt nghiệpTHPT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Ả Rập",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "NV1, 2 IELTS + học bạ THPT"
+        },
+        {
+          "Tên ngành": "Văn hóa và Truyền thông xuyên quốc gia",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "9.3",
+          "Ghi chú": "NV1, 2 IELTS + kết quả thi tốt nghiệpTHPT"
+        },
+        {
+          "Tên ngành": "Văn hóa và Truyền thông xuyên quốc gia",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "9.3",
+          "Ghi chú": "NV1, 2 IELTS + học bạ THPT"
+        },
+        {
+          "Tên ngành": "Văn hóa và Truyền thông xuyên quốc gia",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "Điểm học bạ THPT và phỏng vấn"
+        }
+      ],
+      "row_count": 65
+    },
+    {
+      "table_title": "Chứng chỉ quốc tế năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Sư phạm tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1408",
+          "Ghi chú": "CCQT SAT, NV1"
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Trung",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1376",
+          "Ghi chú": "CCQT SAT, NV1"
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Đức",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1408",
+          "Ghi chú": "CCQT SAT, NV1"
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Nhật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1376",
+          "Ghi chú": "CCQT SAT, NV1"
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Hàn Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1408",
+          "Ghi chú": "CCQT SAT, NV1"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1376",
+          "Ghi chú": "CCQT SAT; NV1,2"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nga",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1100",
+          "Ghi chú": "CCQT SAT; NV1,2"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Pháp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1100",
+          "Ghi chú": "CCQT SAT; NV1,2"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1280",
+          "Ghi chú": "CCQT SAT; NV1,2"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Đức",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1100",
+          "Ghi chú": "CCQT SAT; NV1,2"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1280",
+          "Ghi chú": "CCQT SAT; NV1,2"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1280",
+          "Ghi chú": "CCQT SAT; NV1,2"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Ả Rập",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1100",
+          "Ghi chú": "CCQT SAT; NV1,2"
+        },
+        {
+          "Tên ngành": "Văn hóa và truyền thông xuyên quốc gia",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1376",
+          "Ghi chú": "CCQT SAT; NV1,2"
+        }
+      ],
+      "row_count": 14
+    }
+  ],
+  "table_count": 5,
+  "crawled_at": "2025-07-18T23:24:06.647690",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-ngoai-ngu-ha-noi-QHF.html"
+}

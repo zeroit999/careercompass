@@ -1,0 +1,345 @@
+{
+  "school_code": "MHN",
+  "school_name": "Trường Đại Học Mở Hà Nội",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Thiết kế đồ họa",
+          "Tổ hợp môn": "H00; H01; H06",
+          "Điểm chuẩn": "22.38",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế thời trang",
+          "Tổ hợp môn": "H00; H01; H06",
+          "Điểm chuẩn": "19.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "32.03",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "D01; D04",
+          "Điểm chuẩn": "33.19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "23.52",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "24.91",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "23.48",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Bảo hiểm",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; D01",
+          "Điểm chuẩn": "23.77",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "25.52",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; D01",
+          "Điểm chuẩn": "24.12",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "26.12",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật quốc tế",
+          "Tổ hợp môn": "A00; D01",
+          "Điểm chuẩn": "22.99",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật quốc tế",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "25.24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "B00; A00; D07",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "22.95",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "22.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hóa",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "22.55",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "B00; A00; D07",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "V00; V01; V02",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế nội thất",
+          "Tổ hợp môn": "H00; H01; H06",
+          "Điểm chuẩn": "20.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "28.53",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "28.13",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 24
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Thiết kế đồ họa",
+          "Tổ hợp môn": "H00; H01; H06",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế thời trang",
+          "Tổ hợp môn": "H00; H01; H06",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "A00; B00; D07",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; B00; D07",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "V00; V01; V02",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế nội thất",
+          "Tổ hợp môn": "H00; H01; H06",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 6
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Thang điểm 30"
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Thang điểm 30"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Thang điểm 30"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Thang điểm 30"
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Thang điểm 30"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Thang điểm 30"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử -viễn thông",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Thang điểm 30"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hoá",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Thang điểm 30"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Thang điểm 30"
+        }
+      ],
+      "row_count": 9
+    },
+    {
+      "table_title": "Điểm Đánh giá Tư duy năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Thang điểm 30"
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Thang điểm 30"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Thang điểm 30"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Thang điểm 30"
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Thang điểm 30"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Thang điểm 30"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử -viễn thông",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Thang điểm 30"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hoá",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Thang điểm 30"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Thang điểm 30"
+        }
+      ],
+      "row_count": 9
+    }
+  ],
+  "table_count": 4,
+  "crawled_at": "2025-07-18T23:25:53.940716",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-mo-ha-noi-MHN.html"
+}

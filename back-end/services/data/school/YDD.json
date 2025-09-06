@@ -1,0 +1,69 @@
+{
+  "school_code": "YDD",
+  "school_name": "Trường Đại Học Điều Dưỡng Nam Định",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "B00; B08; D01; D07",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hộ sinh",
+          "Tổ hợp môn": "B00; B08; D01; D07",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dinh dưỡng",
+          "Tổ hợp môn": "B00; B08; D01; D07",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 3
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "B00; B08; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hộ sinh",
+          "Tổ hợp môn": "B00; B08; D01; D07",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dinh dưỡng",
+          "Tổ hợp môn": "B00; B08; D01; D07",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 3
+    }
+  ],
+  "table_count": 2,
+  "crawled_at": "2025-07-18T23:30:21.855210",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-dieu-duong-nam-dinh-YDD.html"
+}

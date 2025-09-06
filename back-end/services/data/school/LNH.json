@@ -1,0 +1,357 @@
+{
+  "school_code": "LNH",
+  "school_name": "Trường Đại Học Lâm nghiệp",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A00; A16; C15; D01",
+          "Điểm chuẩn": "16.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A16; C15; D01",
+          "Điểm chuẩn": "16.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Bất động sản",
+          "Tổ hợp môn": "A00; A16; C15; D01",
+          "Điểm chuẩn": "19.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính – Ngân hàng",
+          "Tổ hợp môn": "A00; A16; C15; D01",
+          "Điểm chuẩn": "17.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A16; C15; D01",
+          "Điểm chuẩn": "16.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "A00; A16; B00; B08",
+          "Điểm chuẩn": "15.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin",
+          "Tổ hợp môn": "A00; A01; A16; D01",
+          "Điểm chuẩn": "15.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "A00; A01; A16; D01",
+          "Điểm chuẩn": "15.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01; A16; D01",
+          "Điểm chuẩn": "15.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A16; C15; D01",
+          "Điểm chuẩn": "15.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí",
+          "Tổ hợp môn": "A00; A01; A16; D01",
+          "Điểm chuẩn": "16.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ chế biến lâm sản",
+          "Tổ hợp môn": "A00; A16; D01; D07",
+          "Điểm chuẩn": "17.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc cảnh quan",
+          "Tổ hợp môn": "A00; D01; C15; V01",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế nội thất",
+          "Tổ hợp môn": "A00; C15; D01; H00",
+          "Điểm chuẩn": "16.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "A00; A01; A16; D01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chăn nuôi",
+          "Tổ hợp môn": "A00; B00; C15; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học cây trồng",
+          "Tổ hợp môn": "A00; A16; B00; D01",
+          "Điểm chuẩn": "15.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Lâm sinh",
+          "Tổ hợp môn": "A00; A16; B00; D01",
+          "Điểm chuẩn": "16.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên rừng",
+          "Tổ hợp môn": "A00; B00; C15; D01",
+          "Điểm chuẩn": "15.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thú y",
+          "Tổ hợp môn": "A00; A16; B00; B08",
+          "Điểm chuẩn": "15.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "A00; C00; C15; D01",
+          "Điểm chuẩn": "15.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "A00; C00; C15; D01",
+          "Điểm chuẩn": "15.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên và Môi trường",
+          "Tổ hợp môn": "A00; A16; B00; D01",
+          "Điểm chuẩn": "16.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý đất đai",
+          "Tổ hợp môn": "A00; A16; B00; D01",
+          "Điểm chuẩn": "15.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch sinh thái",
+          "Tổ hợp môn": "B00; C00; C15; D01",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên thiên nhiên",
+          "Tổ hợp môn": "B08; D01; D07; D10",
+          "Điểm chuẩn": "16.4",
+          "Ghi chú": "Chương trình ĐT bằng Tiếng Anh"
+        }
+      ],
+      "row_count": 26
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A00; A16; C15; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A16; C15; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Bất động sản",
+          "Tổ hợp môn": "A00; A16; C15; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A16; C15; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A16; C15; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "A00; A16; B00; B08",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin",
+          "Tổ hợp môn": "A00; A01; A16; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "A00; A01; A16; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01; A16; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A16; C15; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí",
+          "Tổ hợp môn": "A00; A01; A16; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật hệ thống công nghiệp",
+          "Tổ hợp môn": "A00; A01; A16; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ chế biến lâm sản",
+          "Tổ hợp môn": "A00; A16; D01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc cảnh quan",
+          "Tổ hợp môn": "A00; D01; C15; V01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế nội thất",
+          "Tổ hợp môn": "A00; C15; D01; H00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "A00; A01; A16; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng",
+          "Tổ hợp môn": "A00; A01; A16; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chăn nuôi",
+          "Tổ hợp môn": "A00; B00; C15; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học cây trồng",
+          "Tổ hợp môn": "A00; A16; B00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Lâm sinh",
+          "Tổ hợp môn": "A00; A16; B00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên rừng (Kiểm lâm)",
+          "Tổ hợp môn": "A00; B00; C15; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thú y",
+          "Tổ hợp môn": "A00; A16; B00; B08",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "A00; C00; C15; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "A00; C00; C15; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên và Môi trường",
+          "Tổ hợp môn": "A00; A16; B00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý đất đai",
+          "Tổ hợp môn": "A00; A16; B00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch sinh thái",
+          "Tổ hợp môn": "B00; C00; C15; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên thiên nhiên",
+          "Tổ hợp môn": "B08; D01; D07; D10",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CCĐT bằng Tiếng Anh"
+        }
+      ],
+      "row_count": 28
+    }
+  ],
+  "table_count": 2,
+  "crawled_at": "2025-07-18T23:30:09.518906",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-lam-nghiep-LNH.html"
+}

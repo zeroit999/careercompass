@@ -1,0 +1,249 @@
+{
+  "school_code": "HVN",
+  "school_name": "Học Viện Nông Nghiệp Việt Nam",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Thú y",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chăn nuôi thú y - thuỷ sản",
+          "Tổ hợp môn": "A00; B00; B08; D01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nông nghiệp sinh thái và Nông nghiệp đô thị",
+          "Tổ hợp môn": "A00; A09; B00; D01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô và Cơ điện tử",
+          "Tổ hợp môn": "A00; A01; A09; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí",
+          "Tổ hợp môn": "A00; A01; A09; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện, Điện tử và Tự động hoá",
+          "Tổ hợp môn": "A00; A01; A09; D01",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A09; C20; D01",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh, Thương mại và Du lịch",
+          "Tổ hợp môn": "A00; A09; C20; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học và Công nghệ dược liệu",
+          "Tổ hợp môn": "A00; B00; B08; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm và Chế biến",
+          "Tổ hợp môn": "A00; B00; D07; D01",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế và Quản lý",
+          "Tổ hợp môn": "A00; C04; D07; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xã hội học",
+          "Tổ hợp môn": "A09; C00; C20; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A09; C00; C20; D01",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin và Kỹ thuật số",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý đất đai, Bất động sản và Môi trường",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "16.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học môi trường",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D07; D14; D15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm công nghệ",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "22.25",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 18
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Thú y",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Đợt 2"
+        },
+        {
+          "Tên ngành": "Chăn nuôi thú y - Thuỷ sản",
+          "Tổ hợp môn": "A00; B00; B08; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Đợt 2"
+        },
+        {
+          "Tên ngành": "Nông nghiệp sinh thái và Nông nghiệp đô thị",
+          "Tổ hợp môn": "A00; A09; B00; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Đợt 2"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô và Cơ điện tử",
+          "Tổ hợp môn": "A00; A01; A09; D01",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Đợt 2"
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí",
+          "Tổ hợp môn": "A00; A01; A09; D01",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Đợt 2"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện, Điện tử và Tự động hoá",
+          "Tổ hợp môn": "A00; A01; A09; D01",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Đợt 2"
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; C20; A09; D01",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Đợt 2"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh, Thương mại và Du lịch",
+          "Tổ hợp môn": "A00; C20; A09; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Đợt 2"
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học và Công nghệ dược liệu",
+          "Tổ hợp môn": "A00; B00; B08; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Đợt 2"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm và Chế biến",
+          "Tổ hợp môn": "A00; B00; D07; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Đợt 2"
+        },
+        {
+          "Tên ngành": "Kinh tế và Quản lý",
+          "Tổ hợp môn": "A00; C04; D07; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Đợt 2"
+        },
+        {
+          "Tên ngành": "Xã hội học",
+          "Tổ hợp môn": "A00; C00; C20; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Đợt 2"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A09; C00",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Đợt 2"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin và Kỹ thuật số",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Đợt 2"
+        },
+        {
+          "Tên ngành": "Quản lý đất đai, Bất động sản và Môi trường",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Đợt 2"
+        },
+        {
+          "Tên ngành": "Khoa học môi trường",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Đợt 2"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D07; D14; D15",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Đợt 2"
+        },
+        {
+          "Tên ngành": "Sư phạm công nghệ",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Đợt 2 (Phải đáp ứng yêu cầu của Bộ GD&ĐT)"
+        }
+      ],
+      "row_count": 18
+    }
+  ],
+  "table_count": 2,
+  "crawled_at": "2025-07-18T23:23:59.730596",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-nong-nghiep-viet-nam-HVN.html"
+}

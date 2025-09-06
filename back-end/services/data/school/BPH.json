@@ -1,0 +1,93 @@
+{
+  "school_code": "BPH",
+  "school_name": "Học Viện Biên Phòng",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngành Luật",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "26.75",
+          "Ghi chú": "TS nam miền Bắc; Tiêu chí phụ 1: Văn >= 8"
+        },
+        {
+          "Tên ngành": "Ngành Luật",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "26.63",
+          "Ghi chú": "TS nam miền Nam"
+        },
+        {
+          "Tên ngành": "Biên phòng (Quân khu 4)",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "25.2",
+          "Ghi chú": "TS nam Quân khu 4 (Quảng Trị và TT Huế)"
+        },
+        {
+          "Tên ngành": "Biên phòng (Quân khu 5)",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "23.04",
+          "Ghi chú": "TS nam Quân khu 5"
+        },
+        {
+          "Tên ngành": "Biên phòng (Quân khu 7)",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "21.3",
+          "Ghi chú": "TS nam Quân khu 7"
+        },
+        {
+          "Tên ngành": "Biên phòng (Quân khu 9)",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "23.7",
+          "Ghi chú": "TS nam Quân khu 9"
+        },
+        {
+          "Tên ngành": "Biên phòng (Thí sinh miền Bắc)",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "24.6",
+          "Ghi chú": "TS nam miền Bắc"
+        },
+        {
+          "Tên ngành": "Biên phòng (Thí sinh miền Bắc)",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.37",
+          "Ghi chú": "TS nam miền Bắc"
+        },
+        {
+          "Tên ngành": "Biên phòng (Quân khu 4)",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.58",
+          "Ghi chú": "TS nam Quân khu 4 (Quảng Trị và TT Huế)"
+        },
+        {
+          "Tên ngành": "Biên phòng (Quân khu 5)",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.34",
+          "Ghi chú": "TS nam Quân khu 5"
+        },
+        {
+          "Tên ngành": "Biên phòng (Quân khu 7)",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.2",
+          "Ghi chú": "TS nam Quân khu 7"
+        },
+        {
+          "Tên ngành": "Biên phòng (Quân khu 9)",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.9",
+          "Ghi chú": "TS nam Quân khu 9; Tiêu chí phụ 1: Văn >= 8.75"
+        }
+      ],
+      "row_count": 12
+    }
+  ],
+  "table_count": 1,
+  "crawled_at": "2025-07-18T23:24:24.470802",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-bien-phong-BPH.html"
+}

@@ -1,0 +1,99 @@
+{
+  "school_code": "TTD",
+  "school_name": "Trường Đại Học Thể Dục Thể Thao Đà Nẵng",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản lý TDTT",
+          "Tổ hợp môn": "B04; C14",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 1
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản lý TDTT",
+          "Tổ hợp môn": "B04; C14",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 1
+    },
+    {
+      "table_title": "Điểm xét tuyển kết hợp năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản lý TDTT",
+          "Tổ hợp môn": "T00; T03; T05; T08",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": "Kết hợp điểm thi TN THPT với năng khiếu ( điểm NK từ 6 trở lên)"
+        },
+        {
+          "Tên ngành": "Quản lý TDTT",
+          "Tổ hợp môn": "T00; T03; T05; T08",
+          "Điểm chuẩn": "17",
+          "Ghi chú": "Kết hợp học bạ với năng khiếu ( điểm NK từ 6 trở lên)"
+        },
+        {
+          "Tên ngành": "Quản lý TDTT",
+          "Tổ hợp môn": "T00; T03; T05; T08",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Kết hợp học bạ với năng khiếu ( điểm NK từ 6.5 trở lên)"
+        },
+        {
+          "Tên ngành": "Huấn luyện thể thao",
+          "Tổ hợp môn": "T00; T03; T05; T08",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": "Kết hợp điểm thi TN THPT với năng khiếu ( điểm NK từ 6.5 trở lên)"
+        }
+      ],
+      "row_count": 4
+    },
+    {
+      "table_title": "ƯTXT, XT thẳng năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Huấn luyện thể thao",
+          "Tổ hợp môn": "T00; T03; T05; T08",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 1
+    }
+  ],
+  "table_count": 4,
+  "crawled_at": "2025-07-18T23:28:25.421762",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-the-duc-the-thao-da-nang-TTD.html"
+}

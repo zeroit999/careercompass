@@ -1,0 +1,2918 @@
+{
+  "nhom_nganh": "Ô tô - Cơ khí - Chế tạo",
+  "danh_sach_nganh": [
+    {
+      "ten_nganh": "Quản lý công nghiệp",
+      "data": [
+        {
+          "ten_truong": "Đại Học Bách Khoa Hà Nội - BKA",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý công nghiệp",
+              "to_hop_mon": "A00; A01; B03; C01; C02; D01; X02",
+              "diem_chuan_2024": "25.6",
+              "diem_chuan_2023": "25.39"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thủ Dầu Một - TDM",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý công nghiệp",
+              "to_hop_mon": "A00; A01; A02; C01; D01; D07; X01; X02; X03; X09",
+              "diem_chuan_2024": "16.5",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý công nghiệp",
+              "to_hop_mon": "A00; A01; D01; X27",
+              "diem_chuan_2024": "23",
+              "diem_chuan_2023": "23.61"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Bách Khoa Đà Nẵng - DDK",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý công nghiệp",
+              "to_hop_mon": "A00; A01; D07; X06; X26",
+              "diem_chuan_2024": "23.25",
+              "diem_chuan_2023": "22"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kỹ Thuật Công Nghệ Cần Thơ - KCC",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý công nghiệp",
+              "to_hop_mon": "A00; A01; C01; D01; X01; X02; X05; X25",
+              "diem_chuan_2024": "22.3",
+              "diem_chuan_2023": "19.8"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Mỏ Địa Chất - MDA",
+          "data_school": [
+            {
+              "ten_nganh": "Quản Lí công nghiệp",
+              "to_hop_mon": "A00; A01; D01; D07; C04; D10; D09; D84",
+              "diem_chuan_2024": "21.25",
+              "diem_chuan_2023": "20.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Điện Lực - DDL",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý công nghiệp",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "22.7",
+              "diem_chuan_2023": "23.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kỹ Thuật Công Nghiệp Thái Nguyên - DTK",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý công nghiệp",
+              "to_hop_mon": "A00; A01; A10; D01; D07; D84; X05; X25",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Nam Cần Thơ - DNC",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý công nghiệp",
+              "to_hop_mon": "A00; A01; C03; D01; D07; X17; X26; X56",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công nghệ Miền Đông - MIT",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý công nghiệp",
+              "to_hop_mon": "A00; A01; C00; C01; C03; C14; D01; K01; M01; M02",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công nghiệp và Thương mại Hà Nội - CCM",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý công nghiệp",
+              "to_hop_mon": "A00; A01; B00; C01; C03; C04; C14; D01; X23; X24; X03; X04",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Công nghệ kỹ thuật ô tô",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp Hà Nội - DCN",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật cơ điện tử ô tô",
+              "to_hop_mon": "A00; A01; X06; X07",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp TPHCM - IUH",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô gồm 02 chuyên ngành: Công nghệ kỹ thuật ô tô; Công nghệ kỹ thuật ô tô điện",
+              "to_hop_mon": "A00; A01; C01; X05; X06; X07",
+              "diem_chuan_2024": "24",
+              "diem_chuan_2023": "23.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Tế Kỹ Thuật Công Nghiệp - DKK",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô (CS Nam Định)",
+              "to_hop_mon": "A00; A01; A02; A03; B00; C01; C02; D01; D07; X02; X03; X05; X06; X07; X10; X11; X14; X15; X26; X27; X56",
+              "diem_chuan_2024": "18.5",
+              "diem_chuan_2023": "18.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thủ Dầu Một - TDM",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; A02; C01; D01; X01; X02; X03; X05; X07",
+              "diem_chuan_2024": "20.3",
+              "diem_chuan_2023": "20"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Nông Nghiệp Việt Nam - HVN",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô và Cơ điện tử",
+              "to_hop_mon": "A00; A01; C01; C02; C03; C04; D01; X01; X07; X08",
+              "diem_chuan_2024": "18",
+              "diem_chuan_2023": "24"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật TPHCM - SPK",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ Kỹ thuật ô tô * (đào tạo bằng tiếng Anh)",
+              "to_hop_mon": "A00; A01; C01; D01",
+              "diem_chuan_2024": "24.75",
+              "diem_chuan_2023": "24.38"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Vinh - TDV",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; A02; C01",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quy Nhơn - DQN",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; C01; D01; D07; X06; X26",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "22"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Trà Vinh - DVT",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; A02; A03; X05; X06; X07",
+              "diem_chuan_2024": "18",
+              "diem_chuan_2023": "17.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nông Lâm TPHCM - NLS",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00, A01, A02, C01, X06, X07",
+              "diem_chuan_2024": "23.75",
+              "diem_chuan_2023": "23"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật Hưng Yên - SKH",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công nghệ Giao thông vận tải - GTA",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật điện tử - viễn thông",
+              "to_hop_mon": "A00; A01; C01; C02; D01; D07; X02; X03; X26; X27",
+              "diem_chuan_2024": "23.28",
+              "diem_chuan_2023": "22.7"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Điện Lực - DDL",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật Vĩnh Long - VLU",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; A03; A04; A07; C01; C03; D01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Doanh và Công Nghệ Hà Nội - DQK",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; X21; D01; X05; X06; X07; X11",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kỹ Thuật Công Nghiệp Thái Nguyên - DTK",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; C01; C02; D01; D07",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Sư phạm Kỹ thuật - Đại học Đà Nẵng - DSK",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; C01; D01; X07; X06",
+              "diem_chuan_2024": "23.4",
+              "diem_chuan_2023": "22.65"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công Nghệ Thông Tin và Truyền Thông Thái Nguyên - DTC",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ ô tô",
+              "to_hop_mon": "A00; A01; A02; A03; A04; A05; A06; A07; A08; A09; A10; A11; B00; B01; B02; B03; B04; B08; C01; C02; C03; C04; C14; D01; D07; D09; D10; D84; X01; X02; X03; X04; X05; X06; X07; X08; X09; X10; X11; X12; X13; X14; X15; X16; X17; X18; X19; X20; X21; X22; X23",
+              "diem_chuan_2024": "19.9",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Duy Tân - DDT",
+          "data_school": [
+            {
+              "ten_nganh": "Ngành Công nghệ Chế tạo Máy",
+              "to_hop_mon": "A00; A01; C01; C02; D01; X26 (Toán, Tin, Anh)",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Nam Cần Thơ - DNC",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; A02; A10; D01; D07; X02; X06; X08",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Lang - DVL",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; C01; D01; X26",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đại Nam - DDN",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; C01; D01; D07; X05",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Võ Trường Toản - VTT",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đông Á - DAD",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô (Cơ sở đào tạo Đà Nẵng)",
+              "to_hop_mon": "A00; A01; A02; A04; C01; X05; X06; X07; X26",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Sao Đỏ - SDU",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A09; C01; C04; C14; D01",
+              "diem_chuan_2024": "18",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công Nghệ TPHCM - DKC",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "D01; C01; C03; C04; (Toán, Văn, Tin); X01",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "20"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đông Đô - DDU",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; A12; A13; A14; D01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Lạc Hồng - DLH",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ôtô",
+              "to_hop_mon": "D01; X02; X04; X08; A03; A04",
+              "diem_chuan_2024": "15.15",
+              "diem_chuan_2023": "15.05"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thành Đông - DDB",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; C01; D01",
+              "diem_chuan_2024": "14",
+              "diem_chuan_2023": "14"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Yersin Đà Lạt - DYD",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; C01; X06 (Toán, Lí, Tin); X07 (Toán, Lý, Công nghệ); D01; K01 (Toán, Anh, Tin); X27 (Toán, Công nghệ, Anh); X56 (Toán, Tin, Công nghệ); X02 (Toán, Văn, Tin)",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thành Đô - TDD",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật Ô tô",
+              "to_hop_mon": "A00; A01; A0C; C03; D01; D07",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "16.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Bình Dương - DBD",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; C01; C03; C04; C14; D01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công nghệ Miền Đông - MIT",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; C01; M01; M02; D01; K01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật Vinh - SKV",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Lâm nghiệp - LNH",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; C01; C02; (Toán, Văn, Tin); (Toán, Văn, Công nghệ); D01; A01; (Toán, Lí, Tin); K01; (Toán, Tin, Công nghệ)",
+              "diem_chuan_2024": "15.2",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Trưng Vương - DVP",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; A05; A06; A10; C01; C02; C14; D01; D10",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ Đồng Nai - DCD",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; A04; A10; D01; D09; D10",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Khoa Kỹ thuật và Công nghệ - Đại học Huế - DHE",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; A10; C01; D01; X05; X07",
+              "diem_chuan_2024": "17.75",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp Việt Trì - VUI",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A01; A00; D01; (Toán, Tin, Công nghệ); (Toán, Lí, Công nghệ); (Toán, Hóa, Công nghệ); (Toán, Lí, Tin)",
+              "diem_chuan_2024": "18",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật Nam Định - SKN",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; D27; D29; D30; D28; Toán, Lí, Công nghệ); C01; D01; B00; D07; D24; D23; D21; D22; D25; (Toán, Văn, công nghệ); (Toán, Văn, Tin); C03",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ và Quản Lý Hữu Nghị - DCQ",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; X04; X07",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Phú Xuân - DPX",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; A02; C01; D01; D07; D10; X06; X25; X26",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp Việt - Hung - VHD",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; A03; A04; A07; A08; A09; A10; C01; C03; C04; C14; D01; D84",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp Quảng Ninh - DDM",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; D01; D04; X17; X21; X23",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Xây Dựng Miền Trung - XDT",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; C01; D01; D07; X02; X03; X26; X27; X56",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Phân hiệu Đại học Xây dựng miền Trung tại Đà Nẵng - XDN",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; C01; D01; D07; X02; X03; X26; X27; X56",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Nông Lâm Bắc Giang - DBG",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; X07; X08; Х06; C01; D01; C04; C03; X25; D30; D04; X37",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kiên Giang - TKG",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; A08; A09; D01; D09",
+              "diem_chuan_2024": "15.1",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ Đông Á - DDA",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; A02; A03; A05; A06; A07; A08; A09; A10; A11; C00; C01; C02; C03; C14; D01; D07",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Kỹ thuật ô tô",
+      "data": [
+        {
+          "ten_truong": "Đại Học Bách Khoa Hà Nội - BKA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật Ô tô (CT tiên tiến)",
+              "to_hop_mon": "A00; A01; B03; C01; C02; X02",
+              "diem_chuan_2024": "25.9",
+              "diem_chuan_2023": "25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Giao Thông Vận Tải - GHA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật ô tô (bao gồm lớp kỹ sư tài năng)",
+              "to_hop_mon": "A00; A01; D07",
+              "diem_chuan_2024": "25.35",
+              "diem_chuan_2023": "24.87"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Phenikaa - PKA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; A04; C01; D07; X06",
+              "diem_chuan_2024": "20.5",
+              "diem_chuan_2023": "20.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thủy Lợi - TLA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; D01; D07; C01; X02 (Toán, Văn, Tin); X06 (Toán, Lí, Tin); X26 (Toán, Anh, Tin)",
+              "diem_chuan_2024": "24.4",
+              "diem_chuan_2023": "24.3"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; X06; X07",
+              "diem_chuan_2024": "24.2",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Bách Khoa Đà Nẵng - DDK",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; X06; X07; X26",
+              "diem_chuan_2024": "25.36",
+              "diem_chuan_2023": "25.05"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Giao Thông Vận Tải (Cơ sở 2) - GSA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; D01; C01",
+              "diem_chuan_2024": "24.49",
+              "diem_chuan_2023": "23.47"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nha Trang - TSN",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật ô tô",
+              "to_hop_mon": "(Toán, Văn, Anh, Lí); C01; X02; X03; X04; D01",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "20"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hàng Hải Việt Nam - HHA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; C01; C02; D01; X02",
+              "diem_chuan_2024": "24.5",
+              "diem_chuan_2023": "24"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Và Công Nghệ Hà Nội - KCN",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; A02; X06; X07; X08",
+              "diem_chuan_2024": "22",
+              "diem_chuan_2023": "23.28"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Mỏ Địa Chất - MDA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật Ô tô",
+              "to_hop_mon": "A00; A01; D01; C01; A0T (Toán, Lí, Tin)",
+              "diem_chuan_2024": "24",
+              "diem_chuan_2023": "23.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật Vĩnh Long - VLU",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật ô tô (Chuyên ngành: Công nghệ kỹ thuật ô tô điện)",
+              "to_hop_mon": "A00; A01; A03; A04; A07; C01; C03; D01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hòa Bình - ETU",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; C01; D01; D07",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Phan Thiết - DPT",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật Ô tô",
+              "to_hop_mon": "A00; A01; A02; C01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Công nghệ kỹ thuật cơ khí",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp Hà Nội - DCN",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật cơ khí",
+              "to_hop_mon": "A00; A01; X06; X07",
+              "diem_chuan_2024": "24.35",
+              "diem_chuan_2023": "23.42"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp TPHCM - IUH",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật cơ khí",
+              "to_hop_mon": "A00; A01; C01; X05; X06; X07",
+              "diem_chuan_2024": "23.5",
+              "diem_chuan_2023": "22.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Tế Kỹ Thuật Công Nghiệp - DKK",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật cơ khí (CS Nam Định)",
+              "to_hop_mon": "A00; A01; A02; A03; B00; C01; C02; D01; D07; X02; X03; X05; X06; X07; X10; X11; X14; X15; X26; X27; X56",
+              "diem_chuan_2024": "17.5",
+              "diem_chuan_2023": "17.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật TPHCM - SPK",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ Kỹ thuật cơ khí * (đào tạo bằng tiếng Anh)",
+              "to_hop_mon": "A00; A01; C01; D01",
+              "diem_chuan_2024": "24.25",
+              "diem_chuan_2023": "23.2"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hùng Vương - THV",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ Kỹ thuật Cơ khí",
+              "to_hop_mon": "(Toán, Lí, Tin); A01; D01; D84",
+              "diem_chuan_2024": "18",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Phạm Văn Đồng - DPQ",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật cơ khí",
+              "to_hop_mon": "A00; A01; X05; D01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Trà Vinh - DVT",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật cơ khí",
+              "to_hop_mon": "A00; A01; A02; A03; X05; X06; X07",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nông Lâm TPHCM - NLS",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật cơ khí",
+              "to_hop_mon": "A00, A01, A02, C01, X06, X07",
+              "diem_chuan_2024": "22.5",
+              "diem_chuan_2023": "21.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật Hưng Yên - SKH",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật cơ khí",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "15.5",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công nghệ Giao thông vận tải - GTA",
+          "data_school": [
+            {
+              "ten_nganh": "Kế toán doanh nghiệp",
+              "to_hop_mon": "A00; A01; C01; C02; D01; D07; X01; X02; X03; X25; X26; X27",
+              "diem_chuan_2024": "23.09",
+              "diem_chuan_2023": "22.15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Điện Lực - DDL",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật cơ khí",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "23.25",
+              "diem_chuan_2023": "22.3"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật Vĩnh Long - VLU",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật cơ khí",
+              "to_hop_mon": "A00; A01; A03; A04; A07; C01; C03; D01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kỹ Thuật Công Nghiệp Thái Nguyên - DTK",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ sản xuất tự động",
+              "to_hop_mon": "A00; A01; C01; C02; D01; D07",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Sư phạm Kỹ thuật - Đại học Đà Nẵng - DSK",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật cơ khí (chuyên ngành Cơ khí chế tạo)",
+              "to_hop_mon": "A00; A01; C01; D01; X07; X06",
+              "diem_chuan_2024": "21.6",
+              "diem_chuan_2023": "19.7"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Sao Đỏ - SDU",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật cơ khí",
+              "to_hop_mon": "A00; A09; C01; C04; C14; D01",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Lạc Hồng - DLH",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật cơ khí",
+              "to_hop_mon": "D01; X02; X04; X08; A03; A04",
+              "diem_chuan_2024": "15.1",
+              "diem_chuan_2023": "15.1"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thành Đông - DDB",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật cơ khí",
+              "to_hop_mon": "A00; A01; D07; D08",
+              "diem_chuan_2024": "14",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tiền Giang - TTG",
+          "data_school": [
+            {
+              "ten_nganh": "ĐH Công nghệ kỹ thuật cơ khí",
+              "to_hop_mon": "C01; C02; D01; A00; A01; D07; (Toán, Văn, Công nghệ); (Toán, Văn, Tin); (Toán, Tin, Anh); (Toán, Lí, Công nghệ)",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật Vinh - SKV",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật cơ khí",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "18",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công nghiệp và Thương mại Hà Nội - CCM",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật cơ khí",
+              "to_hop_mon": "A00; A01; B00; C01; C03; C04; C14; D01; X23; X24; X03; X04",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp Việt Trì - VUI",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật cơ khí",
+              "to_hop_mon": "A01; A00; D01; (Toán, Tin, Công nghệ); (Toán, Lí, Công nghệ); (Toán, Hóa, Công nghệ); (Toán, Lí, Tin)",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nông Lâm Huế - DHL",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật cơ khí",
+              "to_hop_mon": "A00; A01; A08; C01; C04; C14; D01; X01; X17",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật Nam Định - SKN",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật cơ khí",
+              "to_hop_mon": "A00; A01; D27; D29; D30; D28; Toán, Lí, Công nghệ); C01; D01; B00; D07; D24; D23; D21; D22; D25; (Toán, Văn, công nghệ); (Toán, Văn, Tin); C03",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp Việt - Hung - VHD",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật cơ khí",
+              "to_hop_mon": "A00; A01; A03; A04; A07; A08; A09; A10; C01; C03; C04; C14; D01; D84",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp Quảng Ninh - DDM",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật cơ khí",
+              "to_hop_mon": "A00; A01; D01; D04; X17; X21; X23",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ Sài Gòn - DSG",
+          "data_school": [
+            {
+              "ten_nganh": "CNKT Cơ khí",
+              "to_hop_mon": "(Toán, 2 môn bất kì)",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Công nghệ chế tạo máy",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp TPHCM - IUH",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ chế tạo máy",
+              "to_hop_mon": "A00; A01; C01; X05; X06; X07",
+              "diem_chuan_2024": "22.75",
+              "diem_chuan_2023": "20.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Thương TPHCM - DCT",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ chế tạo máy",
+              "to_hop_mon": "A00; A01; C01; D01",
+              "diem_chuan_2024": "18",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật TPHCM - SPK",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ chế tạo máy * (đào tạo bằng tiếng Anh)",
+              "to_hop_mon": "A00; A01; C01; D01",
+              "diem_chuan_2024": "23",
+              "diem_chuan_2023": "23.2"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Bách Khoa Đà Nẵng - DDK",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ chế tạo máy",
+              "to_hop_mon": "A00; A01; D07; X06; X26",
+              "diem_chuan_2024": "23.85",
+              "diem_chuan_2023": "22.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nha Trang - TSN",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ chế tạo máy",
+              "to_hop_mon": "(Toán, Văn, Anh, Lí); C01; X02; X03; X04; D01",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật Hưng Yên - SKH",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ chế tạo máy",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "15.5",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kỹ Thuật Công Nghiệp Thái Nguyên - DTK",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ chế tạo máy",
+              "to_hop_mon": "A00; A01; C01; C02; D01; D07",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Duy Tân - DDT",
+          "data_school": [
+            {
+              "ten_nganh": "Ngành Công nghệ Chế tạo Máy",
+              "to_hop_mon": "A00; A01; C01; C02; D01; X26 (Toán, Tin, Anh)",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật Vinh - SKV",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ chế tạo máy",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "18.5",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ Đồng Nai - DCD",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ chế tạo máy",
+              "to_hop_mon": "A00; A01; A04; A10; D01; D09; D10",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật Nam Định - SKN",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ chế tạo máy",
+              "to_hop_mon": "A00; A01; D27; D29; D30; D28; Toán, Lí, Công nghệ); C01; D01; B00; D07; D24; D23; D21; D22; D25; (Toán, Văn, công nghệ); (Toán, Văn, Tin); C03",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ Đông Á - DDA",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ Chế tạo máy",
+              "to_hop_mon": "A00; A01; A02; A03; A05; A06; A07; A08; A09; A10; A11; C00; C01; C02; C03; C14; D01; D07",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "23"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Kỹ Thuật Quân Sự - Hệ Dân sự",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ chế tạo máy",
+              "to_hop_mon": "A00; A01; X06",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Công nghệ kỹ thuật",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp Hà Nội - DCN",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; X06; X07",
+              "diem_chuan_2024": "24.82",
+              "diem_chuan_2023": "24.26"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp TPHCM - IUH",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô gồm 02 chuyên ngành: Công nghệ kỹ thuật ô tô; Công nghệ kỹ thuật ô tô điện",
+              "to_hop_mon": "A00; A01; C01; X05; X06; X07",
+              "diem_chuan_2024": "24",
+              "diem_chuan_2023": "23.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thủ Dầu Một - TDM",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; A02; C01; D01; X01; X02; X03; X05; X07",
+              "diem_chuan_2024": "20.3",
+              "diem_chuan_2023": "20"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Vinh - TDV",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; A02; C01",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quy Nhơn - DQN",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; C01; D01; D07; X06; X26",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "22"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Trà Vinh - DVT",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; A02; A03; X05; X06; X07",
+              "diem_chuan_2024": "18",
+              "diem_chuan_2023": "17.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nông Lâm TPHCM - NLS",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00, A01, A02, C01, X06, X07",
+              "diem_chuan_2024": "23.75",
+              "diem_chuan_2023": "23"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật Hưng Yên - SKH",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Điện Lực - DDL",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật Vĩnh Long - VLU",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; A03; A04; A07; C01; C03; D01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Doanh và Công Nghệ Hà Nội - DQK",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; X21; D01; X05; X06; X07; X11",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kỹ Thuật Công Nghiệp Thái Nguyên - DTK",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; C01; C02; D01; D07",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Sư phạm Kỹ thuật - Đại học Đà Nẵng - DSK",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; C01; D01; X07; X06",
+              "diem_chuan_2024": "23.4",
+              "diem_chuan_2023": "22.65"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Duy Tân - DDT",
+          "data_school": [
+            {
+              "ten_nganh": "Ngành Công nghệ Chế tạo Máy",
+              "to_hop_mon": "A00; A01; C01; C02; D01; X26 (Toán, Tin, Anh)",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Nam Cần Thơ - DNC",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; A02; A10; D01; D07; X02; X06; X08",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Lang - DVL",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; C01; D01; X26",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đại Nam - DDN",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; C01; D01; D07; X05",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Võ Trường Toản - VTT",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đông Á - DAD",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô (Cơ sở đào tạo Đà Nẵng)",
+              "to_hop_mon": "A00; A01; A02; A04; C01; X05; X06; X07; X26",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Sao Đỏ - SDU",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A09; C01; C04; C14; D01",
+              "diem_chuan_2024": "18",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công Nghệ TPHCM - DKC",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "D01; C01; C03; C04; (Toán, Văn, Tin); X01",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "20"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đông Đô - DDU",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; A12; A13; A14; D01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Lạc Hồng - DLH",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ôtô",
+              "to_hop_mon": "D01; X02; X04; X08; A03; A04",
+              "diem_chuan_2024": "15.15",
+              "diem_chuan_2023": "15.05"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thành Đông - DDB",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; C01; D01",
+              "diem_chuan_2024": "14",
+              "diem_chuan_2023": "14"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Yersin Đà Lạt - DYD",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; C01; X06 (Toán, Lí, Tin); X07 (Toán, Lý, Công nghệ); D01; K01 (Toán, Anh, Tin); X27 (Toán, Công nghệ, Anh); X56 (Toán, Tin, Công nghệ); X02 (Toán, Văn, Tin)",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thành Đô - TDD",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật Ô tô",
+              "to_hop_mon": "A00; A01; A0C; C03; D01; D07",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "16.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Bình Dương - DBD",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; C01; C03; C04; C14; D01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công nghệ Miền Đông - MIT",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; C01; M01; M02; D01; K01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật Vinh - SKV",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Lâm nghiệp - LNH",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; C01; C02; (Toán, Văn, Tin); (Toán, Văn, Công nghệ); D01; A01; (Toán, Lí, Tin); K01; (Toán, Tin, Công nghệ)",
+              "diem_chuan_2024": "15.2",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Trưng Vương - DVP",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; A05; A06; A10; C01; C02; C14; D01; D10",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ Đồng Nai - DCD",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; A04; A10; D01; D09; D10",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Khoa Kỹ thuật và Công nghệ - Đại học Huế - DHE",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; A10; C01; D01; X05; X07",
+              "diem_chuan_2024": "17.75",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp Việt Trì - VUI",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A01; A00; D01; (Toán, Tin, Công nghệ); (Toán, Lí, Công nghệ); (Toán, Hóa, Công nghệ); (Toán, Lí, Tin)",
+              "diem_chuan_2024": "18",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật Nam Định - SKN",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; D27; D29; D30; D28; Toán, Lí, Công nghệ); C01; D01; B00; D07; D24; D23; D21; D22; D25; (Toán, Văn, công nghệ); (Toán, Văn, Tin); C03",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ và Quản Lý Hữu Nghị - DCQ",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; X04; X07",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Phú Xuân - DPX",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; A02; C01; D01; D07; D10; X06; X25; X26",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp Việt - Hung - VHD",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; A03; A04; A07; A08; A09; A10; C01; C03; C04; C14; D01; D84",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp Quảng Ninh - DDM",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; D01; D04; X17; X21; X23",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Xây Dựng Miền Trung - XDT",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; C01; D01; D07; X02; X03; X26; X27; X56",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Phân hiệu Đại học Xây dựng miền Trung tại Đà Nẵng - XDN",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; C01; D01; D07; X02; X03; X26; X27; X56",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Nông Lâm Bắc Giang - DBG",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; X07; X08; Х06; C01; D01; C04; C03; X25; D30; D04; X37",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kiên Giang - TKG",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; A08; A09; D01; D09",
+              "diem_chuan_2024": "15.1",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ Đông Á - DDA",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật ô tô",
+              "to_hop_mon": "A00; A01; A02; A03; A05; A06; A07; A08; A09; A10; A11; C00; C01; C02; C03; C14; D01; D07",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Kỹ thuật cơ điện tử",
+      "data": [
+        {
+          "ten_truong": "Đại Học Bách Khoa Hà Nội - BKA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật Cơ điện tử (CT tiên tiến)",
+              "to_hop_mon": "A00; A01; B03; C01; C02; X02",
+              "diem_chuan_2024": "26.38",
+              "diem_chuan_2023": "25.47"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Giao Thông Vận Tải - GHA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ điện tử",
+              "to_hop_mon": "A00; A01; D07; X06",
+              "diem_chuan_2024": "25.66",
+              "diem_chuan_2023": "24.87"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Phenikaa - PKA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ điện tử",
+              "to_hop_mon": "A00; A01; A02; C01; X06; X07",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "20"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thủ Dầu Một - TDM",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ điện tử",
+              "to_hop_mon": "A00; A01; A02; A03; A04; C01; D01; X02; X05; X07",
+              "diem_chuan_2024": "18.5",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thủy Lợi - TLA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ điện tử",
+              "to_hop_mon": "A00; A01; D01; D07; C01; X02 (Toán, Văn, Tin); X06 (Toán, Lí, Tin); X26 (Toán, Anh, Tin)",
+              "diem_chuan_2024": "24.83",
+              "diem_chuan_2023": "24.31"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tôn Đức Thắng - DTT",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ điện tử",
+              "to_hop_mon": "A00; A01; C01; D01; D07; X06; X26",
+              "diem_chuan_2024": "31.3",
+              "diem_chuan_2023": "29.9"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ điện tử",
+              "to_hop_mon": "A00; A01; D07; X06",
+              "diem_chuan_2024": "23.63",
+              "diem_chuan_2023": "23.1"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Bách Khoa Đà Nẵng - DDK",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật Cơ điện tử",
+              "to_hop_mon": "A00; A01; D07; X06; X26",
+              "diem_chuan_2024": "25.35",
+              "diem_chuan_2023": "24.55"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Giao Thông Vận Tải (Cơ sở 2) - GSA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ điện tử",
+              "to_hop_mon": "A00; A01; D01; C01; X06",
+              "diem_chuan_2024": "24.45",
+              "diem_chuan_2023": "22.9"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nha Trang - TSN",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ điện tử",
+              "to_hop_mon": "(Toán, Văn, Anh, Lí); C01; X02; X03; X04; D01",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hàng Hải Việt Nam - HHA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật Cơ điện tử",
+              "to_hop_mon": "A00; A01; C01; C02; D01; X02",
+              "diem_chuan_2024": "24",
+              "diem_chuan_2023": "23"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Phạm Văn Đồng - DPQ",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ điện tử",
+              "to_hop_mon": "A00; A01; X05; D01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Mỏ Địa Chất - MDA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ điện tử",
+              "to_hop_mon": "A00; A01; D01; C01; A0T (Toán, Lí, Tin)",
+              "diem_chuan_2024": "24",
+              "diem_chuan_2023": "22.95"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kỹ Thuật Công Nghiệp Thái Nguyên - DTK",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ điện tử",
+              "to_hop_mon": "A00; A01; C01; C02; D01; D07",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công Nghệ Thông Tin và Truyền Thông Thái Nguyên - DTC",
+          "data_school": [
+            {
+              "ten_nganh": "Cơ điện tử",
+              "to_hop_mon": "A00; A01; A02; A03; A04; A05; A06; A07; A08; A09; A10; A11; B00; B01; B02; B03; B04; B08; C01; C02; C03; C04; C14; D01; D07; D09; D10; D84; X01; X02; X03; X04; X05; X06; X07; X08; X09; X10; X11; X12; X13; X14; X15; X16; X17; X18; X19; X20; X21; X22; X23",
+              "diem_chuan_2024": "20.1",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quốc Tế Hồng Bàng - HIU",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ điện tử (mở mới)",
+              "to_hop_mon": "A00; A01; C02; D01; X06; X26",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Lang - DVL",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ điện tử",
+              "to_hop_mon": "A00; A01; C01; D01; X26",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đông Á - DAD",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ điện tử (Cơ sở đào tạo Đà Nẵng)",
+              "to_hop_mon": "A00; A01; A02; A04; C01; X05; X06; X07; X26",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Sao Đỏ - SDU",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ điện tử",
+              "to_hop_mon": "A00; A09; C01; C04; C14; D01",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công Nghệ TPHCM - DKC",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ điện tử",
+              "to_hop_mon": "D01; C01; C03; C04; (Toán, Văn, Tin); X01",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Yersin Đà Lạt - DYD",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ điện tử",
+              "to_hop_mon": "A00; A01; C01; X06 (Toán, Lí, Tin); X07 (Toán, Lý, Công nghệ); D01; K01 (Toán, Anh, Tin); X27 (Toán, Công nghệ, Anh); X56 (Toán, Tin, Công nghệ); X02 (Toán, Văn, Tin)",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Việt Nhật - ĐHQG Hà Nội - VJU",
+          "data_school": [
+            {
+              "ten_nganh": "Cơ điện tử thông minh và sản xuất theo phương thức Nhật Bản – EMJM",
+              "to_hop_mon": "A00; A01; D28; D01; D06; C01; X06; X02; D07; D23; C02; X26; X46",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "20"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quốc Tế Miền Đông - EIU",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ điện tử",
+              "to_hop_mon": "A00; A01; B00; C01; C02; D01; D07; X01; X05; X06; X07; X25; X26; X27",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nông Lâm Huế - DHL",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ điện tử",
+              "to_hop_mon": "A00; A01; A08; C01; C04; C14; D01; X01; X17",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh tế công nghệ Thái Nguyên - DVB",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ điện tử",
+              "to_hop_mon": "A00; A01; D01; X26",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Nông Lâm Bắc Giang - DBG",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ điện tử",
+              "to_hop_mon": "A00; A01; X07; X08; Х06; C01; D01; C04; C03; Х25; D30; D04; X37",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Kỹ Thuật Quân Sự - Hệ Dân sự",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ điện tử",
+              "to_hop_mon": "A00; A01; X06",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Kỹ thuật cơ khí",
+      "data": [
+        {
+          "ten_truong": "Đại Học Bách Khoa Hà Nội - BKA",
+          "data_school": [
+            {
+              "ten_nganh": "Cơ khí - Chế tạo máy - hợp tác với ĐH Griffith (Úc)",
+              "to_hop_mon": "A00; A01; B03; C01; C02; X02",
+              "diem_chuan_2024": "24.89",
+              "diem_chuan_2023": "23.32"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Giao Thông Vận Tải - GHA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ khí (chuyên ngành: Công nghệ chế tạo cơ khí, Tự động hóa thiết kế cơ khí)",
+              "to_hop_mon": "A00; A01; D01; D07; X06",
+              "diem_chuan_2024": "24.93",
+              "diem_chuan_2023": "23.79"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Phenikaa - PKA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ khí",
+              "to_hop_mon": "A00; A01; A02; C01; X06; X07",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thủy Lợi - TLA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ khí",
+              "to_hop_mon": "A00; A01; D01; D07; C01; C02; X02 (Toán, Văn, Tin); X06 (Toán, Lí, Tin)",
+              "diem_chuan_2024": "24.06",
+              "diem_chuan_2023": "23.04"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Nông Nghiệp Việt Nam - HVN",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ khí",
+              "to_hop_mon": "A00; A01; C01; C02; C03; C04; D01; X01; X07; X08",
+              "diem_chuan_2024": "18",
+              "diem_chuan_2023": "22"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ khí",
+              "to_hop_mon": "A00; A01; X06; X07",
+              "diem_chuan_2024": "23.53",
+              "diem_chuan_2023": "23.33"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Bách Khoa Đà Nẵng - DDK",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật Cơ khí, chuyên ngành Cơ khí động lực",
+              "to_hop_mon": "A00; A01; D07; X06; X26",
+              "diem_chuan_2024": "24.1",
+              "diem_chuan_2023": "22.4"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nha Trang - TSN",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ khí (02 chuyên ngành: Kỹ thuật cơ khí; Thiết kế và chế tạo số)",
+              "to_hop_mon": "(Toán, Văn, Anh, Lí); C01; X02; X03; X04; D01",
+              "diem_chuan_2024": "17.5",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hàng Hải Việt Nam - HHA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ khí",
+              "to_hop_mon": "A00; A01; C01; C02; D01; X02",
+              "diem_chuan_2024": "22.75",
+              "diem_chuan_2023": "21.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Xây Dựng Hà Nội - XDA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ khí",
+              "to_hop_mon": "A00; A01; C01; D01; X06 (Toán, Lí, Tin)",
+              "diem_chuan_2024": "24",
+              "diem_chuan_2023": "22.65"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Mỏ Địa Chất - MDA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ khí",
+              "to_hop_mon": "A00; A01; D01; C01; A0T (Toán, Lí, Tin)",
+              "diem_chuan_2024": "24",
+              "diem_chuan_2023": "23.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kỹ Thuật Công Nghiệp Thái Nguyên - DTK",
+          "data_school": [
+            {
+              "ten_nganh": "Cơ khí chế tạo máy",
+              "to_hop_mon": "A00; A01; C01; C02; D01; D07",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nguyễn Tất Thành - NTT",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ khí",
+              "to_hop_mon": "A00; A01; D01; A02; A03; A04; C01; D26; D27; D28; D29; D30; X05; X07; X08; X11; X12; X27; X28",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công Nghệ TPHCM - DKC",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ khí",
+              "to_hop_mon": "D01; C01; C03; C04; (Toán, Văn, Tin); X01",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Lâm nghiệp - LNH",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ khí(Công nghệ chế tạo máy)",
+              "to_hop_mon": "A00; C01; C02; (Toán, Văn, Tin); (Toán, Văn, Công nghệ); D01; A01; (Toán, Lí, Tin); K01; (Toán, Tin, Công nghệ)",
+              "diem_chuan_2024": "16.8",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Phan Thiết - DPT",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật Cơ khí",
+              "to_hop_mon": "A00; A01; A02; C01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quốc Tế Miền Đông - EIU",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ khí",
+              "to_hop_mon": "A00; A01; B00; C01; C02; D01; D07; X01; X05; X06; X07; X25; X26; X27",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đồng Nai - DNU",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ khí",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh tế công nghệ Thái Nguyên - DVB",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ khí",
+              "to_hop_mon": "A00; A01; D01; X07",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Kỹ thuật cơ khí động lực",
+      "data": [
+        {
+          "ten_truong": "Đại Học Bách Khoa Hà Nội - BKA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật Cơ khí động lực",
+              "to_hop_mon": "A00; A01; B03; C01; C02; X02",
+              "diem_chuan_2024": "26.12",
+              "diem_chuan_2023": "25.31"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Giao Thông Vận Tải - GHA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ khí động lực (chuyên ngành: Kỹ thuật phương tiện đường sắt, Máy xây dựng, Kỹ thuật máy động lực)",
+              "to_hop_mon": "A00; A01; D01; D07; X06",
+              "diem_chuan_2024": "23.86",
+              "diem_chuan_2023": "22.85"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp Hà Nội - DCN",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ khí động lực",
+              "to_hop_mon": "A00; A01; X06; X07",
+              "diem_chuan_2024": "23.93",
+              "diem_chuan_2023": "21.55"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Giao Thông Vận Tải (Cơ sở 2) - GSA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ khí động lực (chuyên ngành Máy xây dựng; Kỹ thuật máy động lực)",
+              "to_hop_mon": "A00; A01; D01; C01; X06",
+              "diem_chuan_2024": "23.81",
+              "diem_chuan_2023": "21.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nha Trang - TSN",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ khí động lực",
+              "to_hop_mon": "(Toán, Văn, Anh, Lí); C01; X02; X03; X04; D01",
+              "diem_chuan_2024": "16.5",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quy Nhơn - DQN",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ khí động lực",
+              "to_hop_mon": "A00; A01; C01; D01; D07; X06; X26",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Mỏ Địa Chất - MDA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ khí động lực",
+              "to_hop_mon": "A00; A01; D01; C01; A0T (Toán, Lí, Tin)",
+              "diem_chuan_2024": "24",
+              "diem_chuan_2023": "20.15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kỹ Thuật Công Nghiệp Thái Nguyên - DTK",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ khí động lực",
+              "to_hop_mon": "A00; A01; C01; C02; D01; D07",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Nam Cần Thơ - DNC",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật cơ khí động lực",
+              "to_hop_mon": "A00; A01; A02; A10; D01; D07; X02; X06; X08",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Kỹ thuật hệ thống công nghiệp",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp Hà Nội - DCN",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật hệ thống công nghiệp",
+              "to_hop_mon": "A00; A01; X06; X07",
+              "diem_chuan_2024": "23.61",
+              "diem_chuan_2023": "22.65"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Bách Khoa Đà Nẵng - DDK",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật hệ thống công nghiệp",
+              "to_hop_mon": "A00; A01; X06; X07; X26",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quốc Tế - ĐHQG TPHCM - QSQ",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật\r\n(Nhóm ngành: Logistics và Quản lý chuỗi cung ứng; Kỹ thuật hệ thống công nghiệp; Kỹ thuật điện tử – viễn thông; Kỹ thuật điều khiển và tự động hóa; Kỹ thuật y sinh; Kỹ thuật không gian (Phân tích và ứng dụng dữ liệu lớn); Kỹ thuật xây dựng; Quản",
+              "to_hop_mon": "A00; A01; B00; D07; B08; D01",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kỹ Thuật Công Nghệ Cần Thơ - KCC",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật hệ thống công nghiệp",
+              "to_hop_mon": "A00; A01; C01; C02; D01; X01; X05; X06",
+              "diem_chuan_2024": "20.35",
+              "diem_chuan_2023": "18.7"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Quốc Tế  - ĐHQG Hà Nội",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật hệ thống công nghiệp và Logistics",
+              "to_hop_mon": "A00; A01; A02; D07; C01; C02; X02; X06; X26",
+              "diem_chuan_2024": "23.35",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật Hưng Yên - SKH",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật hệ thống công nghiệp",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Lâm nghiệp - LNH",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật hệ thống công nghiệp",
+              "to_hop_mon": "A00; C01; C02; (Toán, Văn, Tin); (Toán, Văn, Công nghệ); D01; A01; (Toán, Lí, Tin); K01; (Toán, Tin, Công nghệ)",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Vật lý Kỹ thuật",
+      "data": [
+        {
+          "ten_truong": "Đại Học Bách Khoa Hà Nội - BKA",
+          "data_school": [
+            {
+              "ten_nganh": "Vật lý kỹ thuật",
+              "to_hop_mon": "A00; A01; B03; C01; C02; X02",
+              "diem_chuan_2024": "25.87",
+              "diem_chuan_2023": "24.28"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ – Đại Học Quốc Gia Hà Nội - QHI",
+          "data_school": [
+            {
+              "ten_nganh": "Vật lý kỹ thuật",
+              "to_hop_mon": "A00; A01; X06; X26; D01",
+              "diem_chuan_2024": "25.24",
+              "diem_chuan_2023": "24.2"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Vật lý kỹ thuật",
+              "to_hop_mon": "A00; A01; A02; C01",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm - Đại Học Đà Nẵng - DDS",
+          "data_school": [
+            {
+              "ten_nganh": "Vật lý kỹ thuật",
+              "to_hop_mon": "A00; A01; X06; C01; X07",
+              "diem_chuan_2024": "17.2",
+              "diem_chuan_2023": "15.35"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quy Nhơn - DQN",
+          "data_school": [
+            {
+              "ten_nganh": "Vật lý kỹ thuật",
+              "to_hop_mon": "A00; A01; A02; A04; C01",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Và Công Nghệ Hà Nội - KCN",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ vi mạch bán dẫn",
+              "to_hop_mon": "A00; A01; A02; X06; X07; X08; A04",
+              "diem_chuan_2024": "25.01",
+              "diem_chuan_2023": "23.14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Cơ Kỹ thuật",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ – Đại Học Quốc Gia Hà Nội - QHI",
+          "data_school": [
+            {
+              "ten_nganh": "Cơ kỹ thuật",
+              "to_hop_mon": "A00; A01; X06; X26; D01",
+              "diem_chuan_2024": "26.03",
+              "diem_chuan_2023": "25.65"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Kỹ thuật công nghiệp",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật TPHCM - SPK",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật công nghiệp (đào tạo bằng tiếng Việt)",
+              "to_hop_mon": "A00; A01; C01; D01",
+              "diem_chuan_2024": "23.88",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hàng Hải Việt Nam - HHA",
+          "data_school": [
+            {
+              "ten_nganh": "Máy và tự động hóa xếp dỡ",
+              "to_hop_mon": "A00; A01; C01; C02; D01; X02",
+              "diem_chuan_2024": "21.5",
+              "diem_chuan_2023": "21.5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Công nghệ kỹ thuật cơ điện tử",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ – Đại Học Quốc Gia Hà Nội - QHI",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật cơ điện tử",
+              "to_hop_mon": "A00; A01; X06; X26; D01",
+              "diem_chuan_2024": "26.27",
+              "diem_chuan_2023": "25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp Hà Nội - DCN",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật cơ điện tử",
+              "to_hop_mon": "A00; A01; X06; X07",
+              "diem_chuan_2024": "25.41",
+              "diem_chuan_2023": "24.63"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp TPHCM - IUH",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật cơ điện tử",
+              "to_hop_mon": "A00; A01; C01; X05; X06; X07",
+              "diem_chuan_2024": "24.25",
+              "diem_chuan_2023": "23.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Tế Kỹ Thuật Công Nghiệp - DKK",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật cơ điện tử (CS Nam Định)",
+              "to_hop_mon": "A00; A01; A02; A03; B00; C01; C02; D01; D07; X02; X03; X05; X06; X07; X10; X11; X14; X15; X26; X27; X56",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Thương TPHCM - DCT",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật cơ điện tử",
+              "to_hop_mon": "A00; A01; C01; D01",
+              "diem_chuan_2024": "18.5",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật TPHCM - SPK",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ Kỹ thuật cơ điện tử * (đào tạo bằng tiếng Anh)",
+              "to_hop_mon": "A00; A01; C01; D01",
+              "diem_chuan_2024": "25.1",
+              "diem_chuan_2023": "24.69"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hải Dương - DKT",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật cơ điện tử",
+              "to_hop_mon": "A00; A01; A02; A13; C01; C02; C04; D01",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kỹ Thuật Công Nghệ Cần Thơ - KCC",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật cơ - điện tử",
+              "to_hop_mon": "A00; A01; A02; A03; A04; C01; X05; X06",
+              "diem_chuan_2024": "22.1",
+              "diem_chuan_2023": "21.1"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Và Công Nghệ Hà Nội - KCN",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ Kỹ thuật Cơ điện tử",
+              "to_hop_mon": "A00; A01; X07; X08; X06; A02",
+              "diem_chuan_2024": "23.51",
+              "diem_chuan_2023": "24.63"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Trà Vinh - DVT",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật cơ điện tử",
+              "to_hop_mon": "A00; A01; A02; A03; X05; X06; X07",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nông Lâm TPHCM - NLS",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật cơ - điện tử",
+              "to_hop_mon": "A00, A01, A02, C01, X06, X07",
+              "diem_chuan_2024": "23.75",
+              "diem_chuan_2023": "22.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật Hưng Yên - SKH",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật cơ điện tử",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công nghệ Giao thông vận tải - GTA",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật cơ điện tử",
+              "to_hop_mon": "A00; A01; C01; C02; D01; D07; X02; X03; X26; X27",
+              "diem_chuan_2024": "23.37",
+              "diem_chuan_2023": "23.09"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Điện Lực - DDL",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật cơ điện tử",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "24",
+              "diem_chuan_2023": "23.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Phương Đông - DPD",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật Cơ điện tử",
+              "to_hop_mon": "A00; A01; D01; X06; X07",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật Vĩnh Long - VLU",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật cơ điện tử",
+              "to_hop_mon": "A00; A01; A03; A04; A07; C01; C03; D01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Doanh và Công Nghệ Hà Nội - DQK",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật cơ - điện tử",
+              "to_hop_mon": "A00; A01; X21; D01; X05; X06; X07; X11",
+              "diem_chuan_2024": "23",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Sư phạm Kỹ thuật - Đại học Đà Nẵng - DSK",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật cơ điện tử",
+              "to_hop_mon": "A00; A01; C01; D01; X07; X06",
+              "diem_chuan_2024": "22.05",
+              "diem_chuan_2023": "21.2"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nguyễn Tất Thành - NTT",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật cơ điện tử",
+              "to_hop_mon": "A00; A01; D01; A02; A03; A04; C01; D26; D27; D28; D29; D30; X05; X07; X08; X11; X12; X27; X28",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thành Đông - DDB",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật cơ - điện tử",
+              "to_hop_mon": "A00; A01; D07; D08",
+              "diem_chuan_2024": "14",
+              "diem_chuan_2023": "14"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tiền Giang - TTG",
+          "data_school": [
+            {
+              "ten_nganh": "ĐH Công nghệ kỹ thuật cơ điện tử",
+              "to_hop_mon": "C01; C02; D01; A00; A01; D07; (Toán, Văn, Công nghệ); (Toán, Văn, Tin); (Toán, Tin, Anh); (Toán, Lí, Công nghệ)",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật Vinh - SKV",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật cơ điện tử",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "18",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Lâm nghiệp - LNH",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật cơ điện tử",
+              "to_hop_mon": "A00; C01; C02; (Toán, Văn, Tin); (Toán, Văn, Công nghệ); D01; A01; (Toán, Lí, Tin); K01; (Toán, Tin, Công nghệ)",
+              "diem_chuan_2024": "15.4",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật Nam Định - SKN",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật cơ điện tử",
+              "to_hop_mon": "A00; A01; D27; D29; D30; D28; Toán, Lí, Công nghệ); C01; D01; B00; D07; D24; D23; D21; D22; D25; (Toán, Văn, công nghệ); (Toán, Văn, Tin); C03",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ Sài Gòn - DSG",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ kỹ thuật cơ điện tử",
+              "to_hop_mon": "(Toán, 2 môn bất kì)",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Thiết kế Công nghiệp",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ – Đại Học Quốc Gia Hà Nội - QHI",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế công nghiệp và Đồ họa",
+              "to_hop_mon": "A00; A01; X06; X26; D01",
+              "diem_chuan_2024": "24.64",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp Hà Nội - DCN",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế cơ khí và kiểu dáng công nghiệp",
+              "to_hop_mon": "A00; A01; X06; X07",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kiến Trúc TPHCM - KTS",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế công nghiệp",
+              "to_hop_mon": "H01; H02",
+              "diem_chuan_2024": "24.72",
+              "diem_chuan_2023": "24.57"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Xây Dựng Hà Nội - XDA",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế công nghiệp (mới)",
+              "to_hop_mon": "H00; H07; V00; V01; V02",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ Sài Gòn - DSG",
+          "data_school": [
+            {
+              "ten_nganh": "Thiết kế công nghiệp",
+              "to_hop_mon": "(Toán, 2 môn bất kì); (Văn, 2 môn bất kì)",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

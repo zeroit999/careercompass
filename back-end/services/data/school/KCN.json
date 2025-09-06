@@ -1,0 +1,117 @@
+{
+  "school_code": "KCN",
+  "school_name": "Trường Đại Học Khoa Học Và Công Nghệ Hà Nội",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Công nghệ Sinh học – Phát triển thuốc",
+          "Tổ hợp môn": "A00; A02; B00; D08",
+          "Điểm chuẩn": "21.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hóa học",
+          "Tổ hợp môn": "A00; A06; B00; D07",
+          "Điểm chuẩn": "21.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học Vật liệu tiên tiến và Công nghệ Nano",
+          "Tổ hợp môn": "A00; A02; B00; D07",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học Môi trường ứng dụng",
+          "Tổ hợp môn": "A00; A02; B00; D07",
+          "Điểm chuẩn": "18.65",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "A00; A01; A02; D08",
+          "Điểm chuẩn": "22.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Toán ứng dụng",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "21.15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin – Truyền thông",
+          "Tổ hợp môn": "A00; A01; A02; D07",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "An toàn thông tin",
+          "Tổ hợp môn": "A00; A01; A02; D07",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Kỹ thuật Cơ điện tử",
+          "Tổ hợp môn": "A00; A01; A02; D07",
+          "Điểm chuẩn": "23.51",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học Vũ trụ và Công nghệ Vệ tinh",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "21.65",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01; A02; D07",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện và Năng lượng tái tạo",
+          "Tổ hợp môn": "A00; A01; A02; D07",
+          "Điểm chuẩn": "20.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ vi mạch bán dẫn",
+          "Tổ hợp môn": "A00; A01; A02; D07",
+          "Điểm chuẩn": "25.01",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học và Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; A02; B00; D07",
+          "Điểm chuẩn": "20.35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "A00; A02; B00; D07",
+          "Điểm chuẩn": "23.57",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học và Công nghệ y khoa",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "21.1",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 16
+    }
+  ],
+  "table_count": 1,
+  "crawled_at": "2025-07-18T23:27:03.672139",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-khoa-hoc-va-cong-nghe-ha-noi-KCN.html"
+}

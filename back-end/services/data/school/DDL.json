@@ -1,0 +1,387 @@
+{
+  "school_code": "DDL",
+  "school_name": "Trường Đại Học Điện Lực",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "22.35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "22.35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "22.35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật công trình xây dựng",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "23.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ - điện tử",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "22.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hóa",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật năng lượng",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật môi trường",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý công nghiệp",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "22.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý năng lượng",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "23.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật nhiệt",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "21.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "21.8",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 19
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "25.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật công trình xây dựng",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "22.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ - điện tử",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hóa",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "25.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật năng lượng",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật môi trường",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý công nghiệp",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý năng lượng",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật nhiệt",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 19
+    },
+    {
+      "table_title": "Chứng chỉ quốc tế năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "25.75",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật công trình xây dựng",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "19",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "22.75",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ - điện tử",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hóa",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "25.75",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật năng lượng",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật môi trường",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Quản lý công nghiệp",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Quản lý năng lượng",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "19",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Kỹ thuật nhiệt",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "19",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "Học bạ và CCQT"
+        }
+      ],
+      "row_count": 19
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:27:31.708042",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-dien-luc-DDL.html"
+}

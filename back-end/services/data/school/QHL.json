@@ -1,0 +1,249 @@
+{
+  "school_code": "QHL",
+  "school_name": "Trường Đại học Luật – ĐHQG Hà Nội",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D82",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D03",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "26.52",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.36",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật chất lượng cao",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "26.52",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật chất lượng cao",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật chất lượng cao",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật Thương mại quốc tế",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật Thương mại quốc tế",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật Thương mại quốc tế",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật Thương mại quốc tế",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật Thương mại quốc tế",
+          "Tổ hợp môn": "D82",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật Kinh doanh",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "25.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật Kinh doanh",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "25.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật Kinh doanh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật Kinh doanh",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "25.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật Kinh doanh",
+          "Tổ hợp môn": "D82",
+          "Điểm chuẩn": "25.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật Kinh doanh",
+          "Tổ hợp môn": "D03",
+          "Điểm chuẩn": "25.8",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 20
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật chất lượng cao",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "6 HK môn TA tối thiểu 7.0 hoặc Sử dụng CCTAQT tương đương"
+        },
+        {
+          "Tên ngành": "Luật thương mại quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 4
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật chất lượng cao",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.7",
+          "Ghi chú": "6 HK môn TA tối thiểu 7.0 hoặc Sử dụng CCTAQT tương đương"
+        },
+        {
+          "Tên ngành": "Luật thương mại quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.7",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 4
+    },
+    {
+      "table_title": "Chứng chỉ quốc tế năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.38",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Luật chất lượng cao",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.75",
+          "Ghi chú": "SAT, 6 HK môn TA tối thiểu 7.0 hoặc Sử dụng CCTAQT tương đương"
+        },
+        {
+          "Tên ngành": "Luật thương mại quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.75",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Luật kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.63",
+          "Ghi chú": "SAT"
+        }
+      ],
+      "row_count": 4
+    }
+  ],
+  "table_count": 4,
+  "crawled_at": "2025-07-18T23:24:26.182759",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-luat-dai-hoc-quoc-gia-ha-noi-QHL.html"
+}

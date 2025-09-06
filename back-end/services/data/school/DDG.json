@@ -1,0 +1,27 @@
+{
+  "school_code": "DDG",
+  "school_name": "Khoa Giáo dục thể chất Đà Nẵng",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2018",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Giáo dục thể chất",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.93",
+          "Ghi chú": "NK3 >= 6.25; TTNV <= 4"
+        }
+      ],
+      "row_count": 1
+    }
+  ],
+  "table_count": 1,
+  "crawled_at": "2025-07-18T23:33:12.176550",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/khoa-giao-duc-the-chat-da-nang-DDG.html"
+}

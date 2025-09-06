@@ -1,0 +1,429 @@
+{
+  "school_code": "DKS",
+  "school_name": "Trường Đại học Kiểm Sát",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Luật, chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.58",
+          "Ghi chú": "Thí sinh Nam miền Bắc"
+        },
+        {
+          "Tên ngành": "Luật, chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": "Thí sinh Nam miền Bắc"
+        },
+        {
+          "Tên ngành": "Luật, chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "24.6",
+          "Ghi chú": "Thí sinh Nam miền Bắc"
+        },
+        {
+          "Tên ngành": "Luật, chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "24.3",
+          "Ghi chú": "Thí sinh Nam miền Bắc"
+        },
+        {
+          "Tên ngành": "Luật, chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "23.48",
+          "Ghi chú": "Thí sinh nữ miền Bắc"
+        },
+        {
+          "Tên ngành": "Luật, chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.51",
+          "Ghi chú": "Thí sinh nữ miền Bắc"
+        },
+        {
+          "Tên ngành": "Luật, chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "24.35",
+          "Ghi chú": "Thí sinh nữ miền Bắc"
+        },
+        {
+          "Tên ngành": "Luật, chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.42",
+          "Ghi chú": "Thí sinh nữ miền Bắc"
+        },
+        {
+          "Tên ngành": "Luật, chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "20.45",
+          "Ghi chú": "Thí sinh nam miền Nam"
+        },
+        {
+          "Tên ngành": "Luật, chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "23.15",
+          "Ghi chú": "Thí sinh nam miền Nam"
+        },
+        {
+          "Tên ngành": "Luật, chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "22.4",
+          "Ghi chú": "Thí sinh nam miền Nam"
+        },
+        {
+          "Tên ngành": "Luật, chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "24.2",
+          "Ghi chú": "Thí sinh nam miền Nam"
+        },
+        {
+          "Tên ngành": "Luật, chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "22.7",
+          "Ghi chú": "Thí sinh nữ miền Nam"
+        },
+        {
+          "Tên ngành": "Luật, chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "26.03",
+          "Ghi chú": "Thí sinh nữ miền Nam"
+        },
+        {
+          "Tên ngành": "Luật, chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "23.23",
+          "Ghi chú": "Thí sinh nữ miền Nam"
+        },
+        {
+          "Tên ngành": "Luật, chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "22.35",
+          "Ghi chú": "Thí sinh nữ miền Nam"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "26.86",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "27.62",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 18
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Luật - Chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "26.81",
+          "Ghi chú": "TS nam miền Bắc, kết hợp sơ tuyển và xét kết quả học tập THPT của thí sinh tại một số Trường chuyên và có hệ thống lớp chuyên"
+        },
+        {
+          "Tên ngành": "Luật - Chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": "TS nam miền Bắc, kết hợp sơ tuyển và kết quả học tập THPT của TS học Trường THPT không thuộc DS trường công bố"
+        },
+        {
+          "Tên ngành": "Luật - Chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "26.13",
+          "Ghi chú": "TS nam miền Bắc, kết hợp sơ tuyển và xét kết quả học tập THPT của thí sinh tại một số Trường chuyên và có hệ thống lớp chuyên"
+        },
+        {
+          "Tên ngành": "Luật - Chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "28.79",
+          "Ghi chú": "TS nam miền Bắc, kết hợp sơ tuyển và kết quả học tập THPT của TS học Trường THPT không thuộc DS trường công bố"
+        },
+        {
+          "Tên ngành": "Luật - Chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "26.81",
+          "Ghi chú": "TS nam miền Bắc, kết hợp sơ tuyển và xét kết quả học tập THPT của thí sinh tại một số Trường chuyên và có hệ thống lớp chuyên"
+        },
+        {
+          "Tên ngành": "Luật - Chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.16",
+          "Ghi chú": "TS nữ miền Nam, kết hợp sơ tuyển và kết quả học tập THPT của TS học Trường THPT không thuộc DS trường công bố"
+        },
+        {
+          "Tên ngành": "Luật - Chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.32",
+          "Ghi chú": "TS Nam - miền Bắc, Xét sơ tuyển + học bạ THPT và kết quả đoạt giải trong kỳ thi HSG."
+        },
+        {
+          "Tên ngành": "Luật - Chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.15",
+          "Ghi chú": "TS nam miền Bắc, kết hợp sơ tuyển và kết quả học tập THPT của TS học Trường THPT không thuộc DS trường công bố"
+        },
+        {
+          "Tên ngành": "Luật - Chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "27.63",
+          "Ghi chú": "TS nam miền Bắc, kết hợp sơ tuyển và kết quả học tập THPT của TS học Trường THPT không thuộc DS trường công bố"
+        },
+        {
+          "Tên ngành": "Luật - Chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "29.03",
+          "Ghi chú": "TS nữ miền Bắc, kết hợp sơ tuyển và kết quả học tập THPT của TS học Trường THPT không thuộc DS trường công bố"
+        },
+        {
+          "Tên ngành": "Luật - Chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "27.09",
+          "Ghi chú": "TS nữ miền Bắc, kết hợp sơ tuyển và xét kết quả học tập THPT của thí sinh tại một số Trường chuyên và có hệ thống lớp chuyên"
+        },
+        {
+          "Tên ngành": "Luật - Chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "28.21",
+          "Ghi chú": "TS nữ miền Bắc, kết hợp sơ tuyển và kết quả học tập THPT của TS học Trường THPT không thuộc DS trường công bố"
+        },
+        {
+          "Tên ngành": "Luật - Chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.46",
+          "Ghi chú": "TS Nữ - miền Bắc, Xét sơ tuyển + học bạ THPT và kết quả đoạt giải trong kỳ thi HSG."
+        },
+        {
+          "Tên ngành": "Luật - Chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": "TS nữ miền Bắc, kết hợp sơ tuyển và xét kết quả học tập THPT của thí sinh tại một số Trường chuyên và có hệ thống lớp chuyên"
+        },
+        {
+          "Tên ngành": "Luật - Chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "29.05",
+          "Ghi chú": "TS nữ miền Bắc, kết hợp sơ tuyển và kết quả học tập THPT của TS học Trường THPT không thuộc DS trường công bố"
+        },
+        {
+          "Tên ngành": "Luật - Chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "28.79",
+          "Ghi chú": "TS nam miền Bắc, kết hợp sơ tuyển và kết quả học tập THPT của TS học Trường THPT không thuộc DS trường công bố"
+        },
+        {
+          "Tên ngành": "Luật - Chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "27.2",
+          "Ghi chú": "S nữ miền Bắc, kết hợp sơ tuyển và xét kết quả học tập THPT của thí sinh tại một số Trường chuyên và có hệ thống lớp chuyên"
+        },
+        {
+          "Tên ngành": "Luật - Chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "28.26",
+          "Ghi chú": "TS nữ miền Bắc, kết hợp sơ tuyển và xét kết quả học tập THPT của thí sinh tại một số Trường chuyên và có hệ thống lớp chuyên"
+        },
+        {
+          "Tên ngành": "Luật - Chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.19",
+          "Ghi chú": "TS Nam - miền Nam, Xét sơ tuyển + học bạ THPT và kết quả đoạt giải trong kỳ thi HSG."
+        },
+        {
+          "Tên ngành": "Luật - Chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "25.75",
+          "Ghi chú": "TS nam miền Nam, kết hợp sơ tuyển và xét kết quả học tập THPT của thí sinh tại một số Trường chuyên và có hệ thống lớp chuyên"
+        },
+        {
+          "Tên ngành": "Luật - Chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.01",
+          "Ghi chú": "TS nam miền Nam, kết hợp sơ tuyển và kết quả học tập THPT của TS học Trường THPT không thuộc DS trường công bố"
+        },
+        {
+          "Tên ngành": "Luật - Chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.71",
+          "Ghi chú": "TS nam miền Nam, kết hợp sơ tuyển và kết quả học tập THPT của TS học Trường THPT không thuộc DS trường công bố"
+        },
+        {
+          "Tên ngành": "Luật - Chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "25.41",
+          "Ghi chú": "TS nam miền Nam, kết hợp sơ tuyển và xét kết quả học tập THPT của thí sinh tại một số Trường chuyên và có hệ thống lớp chuyên"
+        },
+        {
+          "Tên ngành": "Luật - Chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "25.22",
+          "Ghi chú": "TS nam miền Nam, kết hợp sơ tuyển và xét kết quả học tập THPT của thí sinh tại một số Trường chuyên và có hệ thống lớp chuyên"
+        },
+        {
+          "Tên ngành": "Luật - Chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "26.8",
+          "Ghi chú": "TS nam miền Nam, kết hợp sơ tuyển và kết quả học tập THPT của TS học Trường THPT không thuộc DS trường công bố"
+        },
+        {
+          "Tên ngành": "Luật - Chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "27.88",
+          "Ghi chú": "TS nam miền Nam, kết hợp sơ tuyển và kết quả học tập THPT của TS học Trường THPT không thuộc DS trường công bố"
+        },
+        {
+          "Tên ngành": "Luật - Chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "24.95",
+          "Ghi chú": "TS nam miền Nam, kết hợp sơ tuyển và xét kết quả học tập THPT của thí sinh tại một số Trường chuyên và có hệ thống lớp chuyên"
+        },
+        {
+          "Tên ngành": "Luật - Chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.03",
+          "Ghi chú": "TS Nam - miền Nam, Xét sơ tuyển + học bạ THPT và kết quả đoạt giải trong kỳ thi HSG."
+        },
+        {
+          "Tên ngành": "Luật - Chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "26.09",
+          "Ghi chú": "TS nữ miền Nam, kết hợp sơ tuyển và xét kết quả học tập THPT của thí sinh tại một số Trường chuyên và có hệ thống lớp chuyên"
+        },
+        {
+          "Tên ngành": "Luật - Chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "28.23",
+          "Ghi chú": "TS nữ miền Nam, kết hợp sơ tuyển và kết quả học tập THPT của TS học Trường THPT không thuộc DS trường công bố"
+        },
+        {
+          "Tên ngành": "Luật - Chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.16",
+          "Ghi chú": "TS nữ miền Nam, kết hợp sơ tuyển và kết quả học tập THPT của TS học Trường THPT không thuộc DS trường công bố"
+        },
+        {
+          "Tên ngành": "Luật - Chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "25.7",
+          "Ghi chú": "TS nữ miền Nam, kết hợp sơ tuyển và xét kết quả học tập THPT của thí sinh tại một số Trường chuyên và có hệ thống lớp chuyên"
+        },
+        {
+          "Tên ngành": "Luật - Chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "23.72",
+          "Ghi chú": "TS nữ miền Nam, kết hợp sơ tuyển và xét kết quả học tập THPT của thí sinh tại một số Trường chuyên và có hệ thống lớp chuyên"
+        },
+        {
+          "Tên ngành": "Luật - Chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "27.01",
+          "Ghi chú": "TS nữ miền Nam, kết hợp sơ tuyển và kết quả học tập THPT của TS học Trường THPT không thuộc DS trường công bố"
+        },
+        {
+          "Tên ngành": "Luật - Chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "25.17",
+          "Ghi chú": "TS nữ miền Nam, kết hợp sơ tuyển và xét kết quả học tập THPT của thí sinh tại một số Trường chuyên và có hệ thống lớp chuyên"
+        },
+        {
+          "Tên ngành": "Luật - Chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "27.67",
+          "Ghi chú": "TS nữ miền Nam, kết hợp sơ tuyển và kết quả học tập THPT của TS học Trường THPT không thuộc DS trường công bố"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "23.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "24.05",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 38
+    },
+    {
+      "table_title": "Điểm xét tuyển kết hợp năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Luật - Chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.25",
+          "Ghi chú": "TS Nam - miền Bắc, ĐTB lớp 11+ ĐTB kỳ I lớp 12 + điểm lELTS/Tiếng Nga TPKH-2"
+        },
+        {
+          "Tên ngành": "Luật - Chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "25.1",
+          "Ghi chú": "TS Nữ- miền Bắc, ĐTB lớp 11+ ĐTB kỳ I lớp 12 + điểm lELTS/Tiếng Nga TPKH-2"
+        },
+        {
+          "Tên ngành": "Luật - Chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.26",
+          "Ghi chú": "TS Nam - miền Nam, ĐTB lớp 11+ ĐTB kỳ I lớp 12 + điểm lELTS/Tiếng Nga TPKH-2"
+        },
+        {
+          "Tên ngành": "Luật - Chuyên ngành Kiểm sát",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.9",
+          "Ghi chú": "TS Nữ- miền Nam, ĐTB lớp 11+ ĐTB kỳ I lớp 12 + điểm lELTS/Tiếng Nga TPKH-2"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.15",
+          "Ghi chú": "Học bạ + kết quả giải khuyến khích thi HSG QG hoặc giải nhất, nhì, ba thi HSG tỉnh)"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.45",
+          "Ghi chú": "Học bạ + điểm CCTA IELTS/Tiếng Nga TPKH-2"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.4",
+          "Ghi chú": "Xét tuyển kết quả học tập THPT và kết quả đoạt giải khuyến khích trong kỳ thi HSG Quốc gia hoặc đoạt giải nhất, nhì, ba trong kì thi HSG cấp tỉnh"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.6",
+          "Ghi chú": "Xét tuyển kết quả học tập THPT với điểm chứng chỉ tiếng Anh IELTS/Tiếng Nga TP KH-2"
+        }
+      ],
+      "row_count": 8
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:24:22.315850",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-kiem-sat-DKS.html"
+}

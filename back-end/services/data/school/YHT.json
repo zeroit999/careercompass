@@ -1,0 +1,33 @@
+{
+  "school_code": "YHT",
+  "school_name": "Phân hiệu Đại học Y Hà Nội tại Thanh Hóa",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2020",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "27.65",
+          "Ghi chú": "TTNV<=4"
+        },
+        {
+          "Tên ngành": "Điều Dưỡng",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "22.4",
+          "Ghi chú": "TTNV<=1"
+        }
+      ],
+      "row_count": 2
+    }
+  ],
+  "table_count": 1,
+  "crawled_at": "2025-07-18T23:32:42.539659",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/phan-hieu-dai-hoc-y-ha-noi-tai-thanh-hoa-YHT.html"
+}

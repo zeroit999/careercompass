@@ -1,0 +1,585 @@
+{
+  "school_code": "BVH",
+  "school_name": "Học Viện Công Nghệ Bưu Chính Viễn Thông",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Báo chí",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "25.29",
+          "Ghi chú": "TTNV=1"
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "25.94",
+          "Ghi chú": "TTNV<=6"
+        },
+        {
+          "Tên ngành": "Công nghệ đa phương tiện",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "25.75",
+          "Ghi chú": "TTNV<=2"
+        },
+        {
+          "Tên ngành": "Thiết kế và phát triển Game (ngành Công nghệ đa phương tiện)",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "24.97",
+          "Ghi chú": "TTNV<=2"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "25.17",
+          "Ghi chú": "TTNV<=13"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "25.85",
+          "Ghi chú": "TTNV<=3"
+        },
+        {
+          "Tên ngành": "Marketing chất lượng cao",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "24.25",
+          "Ghi chú": "TTNV=1"
+        },
+        {
+          "Tên ngành": "Quan hệ công chúng (ngành Marketing)",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "25.15",
+          "Ghi chú": "TTNV<=4"
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "26.09",
+          "Ghi chú": "TTNV<=2"
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính (Fintech)",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "25.61",
+          "Ghi chú": "TTNV<=10"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "25.29",
+          "Ghi chú": "TTNV<=16"
+        },
+        {
+          "Tên ngành": "Kế toán chất lượng cao (chuẩn quốc tế ACCA)",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "TTNV=1"
+        },
+        {
+          "Tên ngành": "Khoa học máy tính (định hướng Khoa học dữ liệu)",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "26.31",
+          "Ghi chú": "TTNV=1"
+        },
+        {
+          "Tên ngành": "Kỹ thuật dữ liệu (ngành Mạng máy tính và truyền thông dữ liệu)",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "25.59",
+          "Ghi chú": "TTNV<=11"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "26.4",
+          "Ghi chú": "TTNV<=5"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin chất lượng cao",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "25.43",
+          "Ghi chú": "TTNV=1"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Cử nhân định hướng ứng dụng)",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "24.87",
+          "Ghi chú": "TTNV<=4"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin Việt - Nhật",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "24.25",
+          "Ghi chú": "TTNV=1"
+        },
+        {
+          "Tên ngành": "An toàn thông tin",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "25.85",
+          "Ghi chú": "TTNV<=2"
+        },
+        {
+          "Tên ngành": "Công nghệ Kỹ thuật Điện, điện tử",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "25.46",
+          "Ghi chú": "TTNV<=2"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điện tử viễn thông",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "25.75",
+          "Ghi chú": "TTNV= 1"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điều khiển và tự động hóa",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "26.08",
+          "Ghi chú": "TTNV<=3"
+        }
+      ],
+      "row_count": 22
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Báo chí",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ đa phương tiện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ đa phương tiện (Liên kết với Đại học Canberra, Australia)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.6",
+          "Ghi chú": "CT liên kết quốc tế"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.45",
+          "Ghi chú": "CT chất lượng cao"
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính (Fintech)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính (Liên kết với Đại học Huddersfield, Vương quốc Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CT liên kết quốc tế"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán (chuẩn quốc tế ACCA)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CT chất lượng cao"
+        },
+        {
+          "Tên ngành": "Khoa học máy tính (định hướng Khoa học dữ liệu)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật dữ liệu (ngành Mạng máy tính và truyền thông dữ liệu)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.55",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.4",
+          "Ghi chú": "CT chất lượng cao"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Liên kết với Đại học La Trobe, Australia)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CT liên kết quốc tế"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Cử nhân, định hướng ứng dụng)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "An toàn thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Điện, điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.84",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điện tử viễn thông",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.65",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điều khiển và Tự động hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.05",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 22
+    },
+    {
+      "table_title": "Điểm Đánh giá Tư duy năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Báo chí",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ đa phương tiện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ đa phương tiện (Liên kết với Đại học Canberra, Australia)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.6",
+          "Ghi chú": "CT liên kết quốc tế"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.45",
+          "Ghi chú": "CT chất lượng cao"
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính (Fintech)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính (Liên kết với Đại học Huddersfield, Vương quốc Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CT liên kết quốc tế"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán (chuẩn quốc tế ACCA)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CT chất lượng cao"
+        },
+        {
+          "Tên ngành": "Khoa học máy tính (định hướng Khoa học dữ liệu)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật dữ liệu (ngành Mạng máy tính và truyền thông dữ liệu)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.55",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.4",
+          "Ghi chú": "CT chất lượng cao"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Liên kết với Đại học La Trobe, Australia)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CT liên kết quốc tế"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Cử nhân, định hướng ứng dụng)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "An toàn thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Điện, điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.84",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điện tử viễn thông",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.65",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điều khiển và Tự động hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.05",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 22
+    },
+    {
+      "table_title": "Điểm xét tuyển kết hợp năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Báo chí",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "26.73",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Công nghệ đa phương tiện",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Công nghệ đa phương tiện (Liên kết với Đại học Canberra, Australia)",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "24.3",
+          "Ghi chú": "Học bạ và CCQT, CT Liên kết quốc tế"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "25.37",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "26.97",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "25.51",
+          "Ghi chú": "Học bạ và CCQT, CT chất lượng cao"
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "27.26",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính (Fintech)",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "26.7",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính (Liên kết với Đại học Huddersfield, Vương quốc Anh)",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "22.83",
+          "Ghi chú": "Học bạ và CCQT, CT Liên kết quốc tế"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "25.77",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Kế toán (chuẩn quốc tế ACCA)",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "23.36",
+          "Ghi chú": "Học bạ và CCQT, CT chất lượng cao"
+        },
+        {
+          "Tên ngành": "Khoa học máy tính (định hướng Khoa học dữ liệu)",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Kỹ thuật dữ liệu (ngành Mạng máy tính và truyền thông dữ liệu)",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "23.74",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "27.01",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "25.64",
+          "Ghi chú": "Học bạ và CCQT, CT chất lượng cao"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Liên kết với Đại học La Trobe, Australia)",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "23.67",
+          "Ghi chú": "Học bạ và CCQT, CT Liên kết quốc tế"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Cử nhân, định hướng ứng dụng)",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "An toàn thông tin",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "26.8",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Điện, điện tử",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "25.07",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điện tử viễn thông",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "26.42",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điều khiển và Tự động hóa",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "27.71",
+          "Ghi chú": "Học bạ và CCQT"
+        }
+      ],
+      "row_count": 22
+    }
+  ],
+  "table_count": 4,
+  "crawled_at": "2025-07-18T23:22:26.379786",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-cong-nghe-buu-chinh-vien-thong-phia-bac-BVH.html"
+}

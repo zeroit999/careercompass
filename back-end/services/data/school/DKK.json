@@ -1,0 +1,1209 @@
+{
+  "school_code": "DKK",
+  "school_name": "Trường Đại Học Kinh Tế Kỹ Thuật Công Nghiệp",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D09; D14",
+          "Điểm chuẩn": "19",
+          "Ghi chú": "Tiếng Anh hệ số 2, Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D09; D14",
+          "Điểm chuẩn": "23.2",
+          "Ghi chú": "Tiếng Anh hệ số 2, Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "23.2",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "24.2",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Kinh doanh thương mại",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Kinh doanh thương mại",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "23.8",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "17.5",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "23.2",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Bảo hiểm",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "17.5",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Bảo hiểm",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "17.5",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "17.5",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "17.5",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "22.2",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Mạng máy tính và truyền thông dữ liệu",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "17.5",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Mạng máy tính và truyền thông dữ liệu",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật máy tính",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "17.5",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật máy tính",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "22.8",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "19",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "17.5",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "22.8",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "19",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "23.2",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Ô tô",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Ô tô",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "23.8",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "17.5",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "CNKT điều khiển và tự động hoá",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "CNKT điều khiển và tự động hoá",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Logistic và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Logistic và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "24.2",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "17.5",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Công nghệ sợi, dệt",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "17.5",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Công nghệ sợi, dệt",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "19",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Công nghệ dệt, may",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "17.5",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Công nghệ dệt, may",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "19",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "19",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": "Cơ sở Hà Nội"
+        }
+      ],
+      "row_count": 48
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D09; D14",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D09; D14",
+          "Điểm chuẩn": "25.2",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "25.2",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "26.2",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Kinh doanh thương mại",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Kinh doanh thương mại",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "25.8",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "25.2",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Bảo hiểm",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Bảo hiểm",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "24.2",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Mạng máy tính và truyền thông dữ liệu",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Mạng máy tính và truyền thông dữ liệu",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật máy tính",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật máy tính",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "24.8",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "24.8",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "25.2",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Ô tô",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Ô tô",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "25.8",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "CNKT điều khiển và tự động hoá",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "CNKT điều khiển và tự động hoá",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Logistic và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Logistic và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "26.2",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Công nghệ sợi, dệt",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Công nghệ sợi, dệt",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Công nghệ dệt, may",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Công nghệ dệt, may",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Cơ sở Hà Nội"
+        }
+      ],
+      "row_count": 48
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "76",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "76",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "77",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Kinh doanh thương mại",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Kinh doanh thương mại",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "77",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "76",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Bảo hiểm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Bảo hiểm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "76",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "76",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "76",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "76",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Mạng máy tính và truyền thông dữ liệu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Mạng máy tính và truyền thông dữ liệu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "76",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "76",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "77",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "76",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "76",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Ô tô",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Ô tô",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "76",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "76",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "76",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "CNKT điều khiển và tự động hoá",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "CNKT điều khiển và tự động hoá",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "77",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Logistic và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Logistic và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "77",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Công nghệ sợi, dệt",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Công nghệ sợi, dệt",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Công nghệ dệt, may",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Công nghệ dệt, may",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "77",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "77",
+          "Ghi chú": "Cơ sở Hà Nội"
+        }
+      ],
+      "row_count": 48
+    },
+    {
+      "table_title": "Điểm Đánh giá Tư duy năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "51",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "51",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "51",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Kinh doanh thương mại",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Kinh doanh thương mại",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "51",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50.5",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Bảo hiểm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Bảo hiểm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50.5",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50.5",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50.5",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50.5",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Mạng máy tính và truyền thông dữ liệu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Mạng máy tính và truyền thông dữ liệu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50.5",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50.5",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50.5",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50.5",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50.5",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Ô tô",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Ô tô",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50.5",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50.5",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50.5",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "CNKT điều khiển và tự động hoá",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "CNKT điều khiển và tự động hoá",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50.5",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Logistic và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Logistic và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "51",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Công nghệ sợi, dệt",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Công nghệ sợi, dệt",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Công nghệ dệt, may",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Công nghệ dệt, may",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "51",
+          "Ghi chú": "Cơ sở Hà Nội"
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Cơ sở Nam Định"
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "51",
+          "Ghi chú": "Cơ sở Hà Nội"
+        }
+      ],
+      "row_count": 48
+    }
+  ],
+  "table_count": 4,
+  "crawled_at": "2025-07-18T23:23:08.589487",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-kinh-te-ky-thuat-cong-nghiep-DKK.html"
+}

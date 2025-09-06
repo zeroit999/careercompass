@@ -1,0 +1,819 @@
+{
+  "school_code": "SPD",
+  "school_name": "Trường Đại Học Đồng Tháp",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Giáo dục Mầm non",
+          "Tổ hợp môn": "M00; M05; C19; C20",
+          "Điểm chuẩn": "26.41",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Mầm non (Cao đẳng)",
+          "Tổ hợp môn": "M00; M05; C19; C20",
+          "Điểm chuẩn": "25.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Tiểu học",
+          "Tổ hợp môn": "C01; C03; C04; D01",
+          "Điểm chuẩn": "25.27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Công dân",
+          "Tổ hợp môn": "C00; C19; D01; D14",
+          "Điểm chuẩn": "26.98",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Chính trị",
+          "Tổ hợp môn": "C00; C19; D01; D14",
+          "Điểm chuẩn": "26.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Thể chất",
+          "Tổ hợp môn": "T00; T05; T06; T07",
+          "Điểm chuẩn": "25.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Toán học - Chương trình đại trà - Chương trình Toán Tiếng Anh",
+          "Tổ hợp môn": "A00; A01; A02; D90",
+          "Điểm chuẩn": "26.33",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tin học",
+          "Tổ hợp môn": "A00; A01; A02; D90",
+          "Điểm chuẩn": "23.76",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Vật lý",
+          "Tổ hợp môn": "A00; A01; A02; D90",
+          "Điểm chuẩn": "25.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Hóa học",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "25.94",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Sinh học",
+          "Tổ hợp môn": "A02; B00; D08; D90",
+          "Điểm chuẩn": "24.86",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Ngữ văn",
+          "Tổ hợp môn": "C00; C19; D14; D15",
+          "Điểm chuẩn": "27.31",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Lịch sử",
+          "Tổ hợp môn": "C00; C19; D14; D09",
+          "Điểm chuẩn": "27.84",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Địa lý",
+          "Tổ hợp môn": "C00; C04; D10; A07",
+          "Điểm chuẩn": "27.43",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Âm nhạc",
+          "Tổ hợp môn": "N00; N01",
+          "Điểm chuẩn": "25.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Mỹ thuật",
+          "Tổ hợp môn": "H00; H07",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tiếng Anh",
+          "Tổ hợp môn": "D01; D14; D15; D13",
+          "Điểm chuẩn": "25.43",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Công nghệ",
+          "Tổ hợp môn": "A00; A01; A02; D90",
+          "Điểm chuẩn": "24.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Khoa học tự nhiên",
+          "Tổ hợp môn": "A00; A02; B00",
+          "Điểm chuẩn": "24.63",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Lịch sử và Địa lý",
+          "Tổ hợp môn": "C00; D14; D15; A07",
+          "Điểm chuẩn": "26.98",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh - Biên - phiên dịch - Tiếng Anh kinh doanh - Tiếng Anh du lịch",
+          "Tổ hợp môn": "D01; D14; D15; D13",
+          "Điểm chuẩn": "22.51",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc - Ngôn ngữ Trung - Anh",
+          "Tổ hợp môn": "C00; D01; D14; D15",
+          "Điểm chuẩn": "23.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý văn hóa (Sự kiện và truyền thông)",
+          "Tổ hợp môn": "C00; C19; C20; D14",
+          "Điểm chuẩn": "23.48",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học giáo dục",
+          "Tổ hợp môn": "A00; C00; C19; D01",
+          "Điểm chuẩn": "24.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Địa lý học (Địa lý du lịch)",
+          "Tổ hợp môn": "A07; C00; D14; D15",
+          "Điểm chuẩn": "25.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Việt Nam học (Hướng dẫn viên du lịch; Quản lý Nhà hàng và Khách sạn)",
+          "Tổ hợp môn": "C00; C19; C20; D01",
+          "Điểm chuẩn": "23.93",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D10",
+          "Điểm chuẩn": "16.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D10",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; D10",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D10",
+          "Điểm chuẩn": "19.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý công",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "19.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; C00; C14; D01",
+          "Điểm chuẩn": "24.21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "A00; A02; B00; D08",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học môi trường (Môi trường; An toàn sức khỏe môi trường)",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học Máy tính (Công nghệ phần mềm; Mạng máy tính và an ninh)",
+          "Tổ hợp môn": "A00; A01; A02; D90",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; A02; D90",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01; D10",
+          "Điểm chuẩn": "19.21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "18.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nông học (Bảo vệ thực vật; Trồng trọt; Chăn nuôi thú y và thủy sản)",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nuôi trồng thủy sản",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "C00; C19; C20; D14",
+          "Điểm chuẩn": "23.23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý đất đai",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 44
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Giáo dục Mầm non (Cao đẳng)",
+          "Tổ hợp môn": "M00; M05; C19; C20",
+          "Điểm chuẩn": "26.37",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Mầm non",
+          "Tổ hợp môn": "M00; M05; C19; C20",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Tiểu học",
+          "Tổ hợp môn": "C01; C03; C04; D01",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục công dân",
+          "Tổ hợp môn": "C00; C19; D01; D14",
+          "Điểm chuẩn": "27.96",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Chính trị",
+          "Tổ hợp môn": "C00; C19; D01; D14",
+          "Điểm chuẩn": "27.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Thể chất",
+          "Tổ hợp môn": "T00; T05; T06; T07",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Toán học Có 02 chuyên ngành: - Chương trình đại trà - Chương trình Toán tiếng Anh",
+          "Tổ hợp môn": "A00; A01; A02; A04",
+          "Điểm chuẩn": "29.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tin học",
+          "Tổ hợp môn": "A00; A01; A02; A04",
+          "Điểm chuẩn": "27.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Vật lý",
+          "Tổ hợp môn": "A00; A01; A02; A04",
+          "Điểm chuẩn": "29.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Hóa học",
+          "Tổ hợp môn": "A00; B00; D07; A06",
+          "Điểm chuẩn": "29.36",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Sinh học",
+          "Tổ hợp môn": "A02; B00; D08; B02",
+          "Điểm chuẩn": "28.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Ngữ văn",
+          "Tổ hợp môn": "C00; C19; D14; D15",
+          "Điểm chuẩn": "28.61",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Lịch sử",
+          "Tổ hợp môn": "C00; C19; D14; D09",
+          "Điểm chuẩn": "28.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Địa lý",
+          "Tổ hợp môn": "C00; C04; D10; A07",
+          "Điểm chuẩn": "28.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Âm nhạc",
+          "Tổ hợp môn": "N00; N01",
+          "Điểm chuẩn": "25.65",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Mỹ thuật",
+          "Tổ hợp môn": "H00; H07",
+          "Điểm chuẩn": "23.65",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tiếng Anh",
+          "Tổ hợp môn": "D01; D14; D15; D13",
+          "Điểm chuẩn": "28.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Công nghệ",
+          "Tổ hợp môn": "A00; A01; A02; A04",
+          "Điểm chuẩn": "27.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Khoa học tự nhiên",
+          "Tổ hợp môn": "A00; A02; B00; D90",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Lịch sử và Địa lý",
+          "Tổ hợp môn": "C00; D14; D15; A07",
+          "Điểm chuẩn": "27.85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh - Biên - phiên dịch - Tiếng Anh kinh doanh - Tiếng Anh du lịch",
+          "Tổ hợp môn": "D01; D14; D15; D13",
+          "Điểm chuẩn": "26.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc - Ngôn ngữ Trung Quốc - Ngôn ngữ Trung - Anh",
+          "Tổ hợp môn": "C00; D01; D14; D15",
+          "Điểm chuẩn": "25.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý văn hóa (Sự kiện và truyền thông)",
+          "Tổ hợp môn": "C00; C19; C20; D14",
+          "Điểm chuẩn": "23.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học giáo dục",
+          "Tổ hợp môn": "A00; C00; C19; D01",
+          "Điểm chuẩn": "25.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Địa lý học (Địa lý du lịch)",
+          "Tổ hợp môn": "A07; C00; D14; D15",
+          "Điểm chuẩn": "23.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Việt Nam học (Hướng dẫn viên du lịch; Quản lý Nhà hàng và Khách sạn)",
+          "Tổ hợp môn": "C00; C19; C20; D01",
+          "Điểm chuẩn": "25.53",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D10",
+          "Điểm chuẩn": "24.13",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D10",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; D10",
+          "Điểm chuẩn": "25.52",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D10",
+          "Điểm chuẩn": "24.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý công",
+          "Tổ hợp môn": "A00; A01; C15; D01",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; C00; C14; D01",
+          "Điểm chuẩn": "26.37",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "A00; A02; B00; D08",
+          "Điểm chuẩn": "24.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học môi trường (Môi trường; An toàn sức khỏe môi trường)",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học Máy tính (Công nghệ phần mềm; Mạng máy tính và an ninh)",
+          "Tổ hợp môn": "A00; A01; A02; A04; D90",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; A02; A04; D90",
+          "Điểm chuẩn": "24.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01; D10",
+          "Điểm chuẩn": "25.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "25.85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "23.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nông học (Bảo vệ thực vật; Trồng trọt; Chăn nuôi thú y và thủy sản)",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "24.11",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nuôi trồng thủy sản",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "C00; C19; C20; D14",
+          "Điểm chuẩn": "23.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "A00; B00; D07; D08",
+          "Điểm chuẩn": "22.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý đất đai",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "24.1",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 44
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Giáo dục Mầm non (Cao đẳng)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "615",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Mầm non",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "701",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Tiểu học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "701",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục công dân",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "701",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Chính trị",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "701",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Toán học Có 02 chuyên ngành: - Chương trình đại trà - Chuông trình toán tiêng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "920",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tin học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "701",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Vật lý",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "850",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Hóa học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "830",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Sinh học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "701",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Ngữ văn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "701",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Lịch sử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "701",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Địa lý",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "701",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "780",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Công nghệ",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "701",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Khoa học tự nhiên",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "701",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Lịch sử và Địa lý",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "701",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh - Biên - phiên dịch - Tiếng Anh kinh doanh - Tiếng Anh du lịch",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "615",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc - Ngôn ngữ Trung Quốc - Ngôn ngữ Trung - Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "615",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý văn hóa (Sự kiện và truyền thông)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "615",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học giáo dục",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "615",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Địa lý học (Địa lý du lịch)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "615",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Việt Nam học (Hướng dẫn viên du lịch; Quản lý Nhà hàng và Khách sạn)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "615",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "615",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "615",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "615",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "615",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý công",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "615",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "615",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "615",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học môi trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "615",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học Máy tính (Công nghệ phần mềm; Mạng máy tính và an ninh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "615",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "615",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "615",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "615",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "615",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nông học (Bảo vệ thực vật; Trồng trọt; Chăn nuôi thú y và thủy sản)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "615",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nuôi trồng thủy sản",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "615",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "615",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "615",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý đất đai",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "615",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 41
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:26:10.314809",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-dong-thap-SPD.html"
+}

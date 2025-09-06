@@ -1,0 +1,105 @@
+{
+  "school_code": "QHY",
+  "school_name": "Trường Đại học Y Dược - ĐHQG Hà Nội",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "27.15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "25.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "24.49",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Răng Hàm Mặt",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kĩ thuật Xét nghiệm y học",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "24.83",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kĩ thuật Hình ảnh y học",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "24.49",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 6
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.65",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Răng- Hàm- Mặt",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kĩ thuật xét nghiệm y học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.65",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kĩ thuật hình ảnh y học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 6
+    }
+  ],
+  "table_count": 2,
+  "crawled_at": "2025-07-18T23:25:06.535397",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-y-duoc-dai-hoc-quoc-gia-ha-noi-QHY.html"
+}

@@ -1,0 +1,945 @@
+{
+  "school_code": "BVU",
+  "school_name": "Trường Đại Học Bà Rịa – Vũng Tàu",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D15; D66",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC, NN Anh/Hàn/Nhật/Trung"
+        },
+        {
+          "Tên ngành": "Tiêng Anh biên - phiên dịch (ngành Ngôn ngữ Anh)",
+          "Tổ hợp môn": "A01; D01; D15; D66",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC, NN Anh/Hàn/Nhật/Trung"
+        },
+        {
+          "Tên ngành": "Tiếng Anh du lịch - thương mại (ngành Ngôn ngữ Anh)",
+          "Tổ hợp môn": "A01; D01; D15; D66",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC, NN Anh/Hàn/Nhật/Trung"
+        },
+        {
+          "Tên ngành": "Phương pháp giảng dạy tiếng Anh (ngành Ngôn ngữ Anh)",
+          "Tổ hợp môn": "A01; D01; D15; D66",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC, NN Anh/Hàn/Nhật/Trung"
+        },
+        {
+          "Tên ngành": "Lý luận và PP dạy học bộ môn tiếng Anh (nhận bằng Cử nhân ngành Ngôn ngữ Anh)",
+          "Tổ hợp môn": "A01; D01; D15; D66",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC nhận 2 bằng cử nhân và thạc sĩ"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "A01; C00; D01; D14",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC, NN Anh/Hàn/Nhật/Trung"
+        },
+        {
+          "Tên ngành": "Tiếng Trung biên - phiên dịch (ngành Ngôn ngữ Trung Quốc)",
+          "Tổ hợp môn": "A01; C00; D01; D14",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC, NN Anh/Hàn/Nhật/Trung"
+        },
+        {
+          "Tên ngành": "Tiếng Trung du lịch - thương mại (ngành Ngôn ngữ Trung Quốc)",
+          "Tổ hợp môn": "A01; C00; D01; D14",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC, NN Anh/Hàn/Nhật/Trung"
+        },
+        {
+          "Tên ngành": "Phương pháp giảng dạy tiếng Trung (ngành Ngôn ngữ Trung Quốc)",
+          "Tổ hợp môn": "A01; C00; D01; D14",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC, NN Anh/Hàn/Nhật/Trung"
+        },
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "A01; C00; C20; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Tham vấn và trị liệu tâm lý (ngành Tâm lý học)",
+          "Tổ hợp môn": "A01; C00; C20; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ và văn hóa Hàn Quốc (ngành Đông phương học)",
+          "Tổ hợp môn": "A01; C00; D01; D14",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC, NN Anh/Hàn/Nhật/Trung"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ và văn hóa Nhật Bản (ngành Đông phương học)",
+          "Tổ hợp môn": "A01; C00; D01; D14",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC, NN Anh/Hàn/Nhật/Trung"
+        },
+        {
+          "Tên ngành": "Đông phương học (Ngôn ngữ và văn hóa Nhật Bản)",
+          "Tổ hợp môn": "A01; D01; D15; D66",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC nhận 2 bằng cử nhân và thạc sĩ"
+        },
+        {
+          "Tên ngành": "Đông phương học (Ngôn ngữ và văn hóa Hàn Quốc)",
+          "Tổ hợp môn": "A01; D01; D15; D66",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC nhận 2 bằng cử nhân và thạc sĩ"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ và văn hóa Nhật Bản (ngành Đông phương học)",
+          "Tổ hợp môn": "C00; C19; D01; D06",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC học Tiếng Việt, NN Tiếng Nhật"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Quản trị doanh nghiệp (ngành Quản trị kinh doanh)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh bất động sản (ngành Quản trị kinh doanh)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Quản trị nguồn nhân lực (ngành Quản trị kinh doanh)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Quản trị truyền thông đa phương tiện (ngành Quản trị kinh doanh)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A01; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC nhận 2 bằng cử nhân và thạc sĩ"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh & Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D15; D66",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC nhận cùng lúc 2 bằng cử nhân"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh & Luật",
+          "Tổ hợp môn": "A00; A01; C19; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC nhận cùng lúc 2 bằng cử nhân"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Marketing và tổ chức sự kiện (ngành Marketing)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Digital marketing (ngành Marketing)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Thương mại quốc tế & Kinh doanh trực tuyến (ngành Kinh doanh quốc tế)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế & Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D15; D66",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC nhận cùng lúc 2 bằng cử nhân"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế & Luật",
+          "Tổ hợp môn": "A00; A01; C19; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC nhận cùng lúc 2 bằng cử nhân"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Tài chính doanh nghiệp (ngành Tài chính - Ngân hàng)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Tài chính ngân hàng & Luật",
+          "Tổ hợp môn": "A00; A01; C19; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC nhận cùng lúc 2 bằng cử nhân"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Kế toán tài chính (ngành Kế toán)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Kế toán kiểm toán (ngành Kế toán)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Kế toán & Luật",
+          "Tổ hợp môn": "A00; A01; C19; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC nhận cùng lúc 2 bằng cử nhân"
+        },
+        {
+          "Tên ngành": "Kế toán (ACCA cấp Chứng chỉ Lập báo cáo tài chính quốc tế)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "CT Cử nhân tài năng, học song ngữ Việt - Anh"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A01; C00; C20; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Luật & Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; C00; C20; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC nhận cùng lúc 2 bằng cử nhân"
+        },
+        {
+          "Tên ngành": "Luật kinh tế và dân sự (ngành Luật)",
+          "Tổ hợp môn": "A01; C00; C20; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Luật (dự kiến)",
+          "Tổ hợp môn": "A00; C00; C20; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC nhận 2 bằng cử nhân và thạc sĩ"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm (ngành Công nghệ thông tin)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Lập trình ứng dụng di động và game (ngành Công nghệ thông tin)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Quản trị mạng và an toàn thông tin (ngành Công nghệ thông tin)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC nhận 2 bằng cử nhân và thạc sĩ"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật công trình xây dựng",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật công trình xây dựng",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC học Tiếng Việt, NN Tiếng Nhật"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC học Tiếng Việt, NN Tiếng Nhật"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC học Tiếng Việt, NN Tiếng Nhật"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện (ngành Công nghệ kỹ thuật điện, điện tử)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Điều khiển và tự động hóa (ngành Công nghệ kỹ thuật điện, điện tử)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC học Tiếng Việt, NN Tiếng Nhật"
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Logistics cảng biển - Xuất nhập khẩu - Giao nhận vận tải quốc tế (ngành Logistics và Quản lý chuỗi cung ứng)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Logistics cảng hàng không - Xuất nhập khẩu - Giao nhận vận tải quốc tế (ngành Logistics và Quản lý chuỗi cung ứng)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A01; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC nhận 2 bằng cử nhân và thạc sĩ"
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng (Quản lý Logistics cảng biển - XNK -Giao nhận vận tài quốc tế)",
+          "Tổ hợp môn": "A01; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC nhận 2 bằng cử nhân và thạc sĩ"
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng (Quản lý Logistics cảng hàng không -XNK - Giao nhận vận tải quốc tế)",
+          "Tổ hợp môn": "A01; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC nhận 2 bằng cử nhân và thạc sĩ"
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng & Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D15; D66",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC nhận cùng lúc 2 bằng cử nhân"
+        },
+        {
+          "Tên ngành": "Logistics và Ọuản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC học Tiếng Việt, NN Tiếng Nhật"
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng (FIATA cấp Chứng chỉ Giao nhận vận tải quốc tế)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "CT Cử nhân tài năng, học song ngữ Việt - Anh"
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "A00; B00; B08; C08",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "CTC học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "A00; B00; B08; C08",
+          "Điểm chuẩn": "19",
+          "Ghi chú": "CTC học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "A00; B00; B08; C08",
+          "Điểm chuẩn": "19",
+          "Ghi chú": "CTC học Tiếng Việt, NN Tiếng Nhật"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành & Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D15; D66",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC nhận cùng lúc 2 bằng cử nhân"
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Quản trị nhà hàng - khách sạn và dịch vụ ăn uống (ngành Quản trị khách sạn)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Quản trị du lịch - nhà hàng - khách sạn (ngành Quản trị khách sạn)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn & Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D15; D66",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CTC nhận cùng lúc 2 bằng cử nhân"
+        }
+      ],
+      "row_count": 76
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D15; D66",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC, NN Anh/Hàn/Nhật/Trung"
+        },
+        {
+          "Tên ngành": "Tiêng Anh biên - phiên dịch (ngành Ngôn ngữ Anh)",
+          "Tổ hợp môn": "A01; D01; D15; D66",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC, NN Anh/Hàn/Nhật/Trung"
+        },
+        {
+          "Tên ngành": "Tiếng Anh du lịch - thương mại (ngành Ngôn ngữ Anh)",
+          "Tổ hợp môn": "A01; D01; D15; D66",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC, NN Anh/Hàn/Nhật/Trung"
+        },
+        {
+          "Tên ngành": "Phương pháp giảng dạy tiếng Anh (ngành Ngôn ngữ Anh)",
+          "Tổ hợp môn": "A01; D01; D15; D66",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC, NN Anh/Hàn/Nhật/Trung"
+        },
+        {
+          "Tên ngành": "Lý luận và PP dạy học bộ môn tiếng Anh (nhận bằng Cử nhân ngành Ngôn ngữ Anh)",
+          "Tổ hợp môn": "A01; D01; D15; D66",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC nhận 2 bằng cử nhân và thạc sĩ"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "A01; C00; D01; D14",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC, NN Anh/Hàn/Nhật/Trung"
+        },
+        {
+          "Tên ngành": "Tiếng Trung biên - phiên dịch (ngành Ngôn ngữ Trung Quốc)",
+          "Tổ hợp môn": "A01; C00; D01; D14",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC, NN Anh/Hàn/Nhật/Trung"
+        },
+        {
+          "Tên ngành": "Tiếng Trung du lịch - thương mại (ngành Ngôn ngữ Trung Quốc)",
+          "Tổ hợp môn": "A01; C00; D01; D14",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC, NN Anh/Hàn/Nhật/Trung"
+        },
+        {
+          "Tên ngành": "Phương pháp giảng dạy tiếng Trung (ngành Ngôn ngữ Trung Quốc)",
+          "Tổ hợp môn": "A01; C00; D01; D14",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC, NN Anh/Hàn/Nhật/Trung"
+        },
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "A01; C00; C20; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC Học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Tham vấn và trị liệu tâm lý (ngành Tâm lý học)",
+          "Tổ hợp môn": "A01; C00; C20; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC Học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ và văn hóa Hàn Quốc (ngành Đông phương học)",
+          "Tổ hợp môn": "A01; C00; D01; D14",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC, NN Anh/Hàn/Nhật/Trung"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ và văn hóa Nhật Bản (ngành Đông phương học)",
+          "Tổ hợp môn": "A01; C00; D01; D14",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC, NN Anh/Hàn/Nhật/Trung"
+        },
+        {
+          "Tên ngành": "Đông phương học (Ngôn ngữ và văn hóa Nhật Bản)",
+          "Tổ hợp môn": "A01; D01; D15; D66",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC nhận 2 bằng cử nhân và thạc sĩ"
+        },
+        {
+          "Tên ngành": "Đông phương học (Ngôn ngữ và văn hóa Hàn Quốc)",
+          "Tổ hợp môn": "A01; D01; D15; D66",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC nhận 2 bằng cử nhân và thạc sĩ"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ và văn hóa Nhật Bản (ngành Đông phương học)",
+          "Tổ hợp môn": "C00; C19; D01; D06",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC Học Tiếng Việt, NN Tiếng Nhật"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC Học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Quản trị doanh nghiệp (ngành Quản trị kinh doanh)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC Học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh bất động sản (ngành Quản trị kinh doanh)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC Học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Quản trị nguồn nhân lực (ngành Quản trị kinh doanh)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC Học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Quản trị truyền thông đa phương tiện (ngành Quản trị kinh doanh)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC Học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A01; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC nhận 2 bằng cử nhân và thạc sĩ"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh & Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D15; D66",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC nhận cùng lúc 2 bằng cử nhân"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh & Luật",
+          "Tổ hợp môn": "A00; A01; C19; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC nhận cùng lúc 2 bằng cử nhân"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC Học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Marketing và tổ chức sự kiện (ngành Marketing)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC Học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Digital marketing (ngành Marketing)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC Học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC Học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Thương mại quốc tế & Kinh doanh trực tuyến (ngành Kinh doanh quốc tế)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC Học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế & Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D15; D66",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC nhận cùng lúc 2 bằng cử nhân"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế & Luật",
+          "Tổ hợp môn": "A00; A01; C19; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC nhận cùng lúc 2 bằng cử nhân"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC Học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Tài chính doanh nghiệp (ngành Tài chính - Ngân hàng)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC Học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Tài chính ngân hàng & Luật",
+          "Tổ hợp môn": "A00; A01; C19; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC nhận cùng lúc 2 bằng cử nhân"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC Học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Kế toán tài chính (ngành Kế toán)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC Học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Kế toán kiểm toán (ngành Kế toán)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC Học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Kế toán & Luật",
+          "Tổ hợp môn": "A00; A01; C19; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC nhận cùng lúc 2 bằng cử nhân"
+        },
+        {
+          "Tên ngành": "Kế toán (ACCA cấp Chứng chỉ Lập báo cáo tài chính quốc tế)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "CT Cử nhân tài năng, học song ngữ Việt - Anh"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A01; C00; C20; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC Học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Luật & Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; C00; C20; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC nhận cùng lúc 2 bằng cử nhân"
+        },
+        {
+          "Tên ngành": "Luật kinh tế và dân sự (ngành Luật)",
+          "Tổ hợp môn": "A01; C00; C20; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC Học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Luật (dự kiến)",
+          "Tổ hợp môn": "A00; C00; C20; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC nhận 2 bằng cử nhân và thạc sĩ"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC Học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm (ngành Công nghệ thông tin)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC Học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Lập trình ứng dụng di động và game (ngành Công nghệ thông tin)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC Học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Quản trị mạng và an toàn thông tin (ngành Công nghệ thông tin)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC Học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC nhận 2 bằng cử nhân và thạc sĩ"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật công trình xây dựng",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC Học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật công trình xây dựng",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC Học Tiếng Việt, NN Tiếng Nhật"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC Học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC Học Tiếng Việt, NN Tiếng Nhật"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC Học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC Học Tiếng Việt, NN Tiếng Nhật"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC Học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện (ngành Công nghệ kỹ thuật điện, điện tử)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC Học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Điều khiển và tự động hóa (ngành Công nghệ kỹ thuật điện, điện tử)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC Học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC Học Tiếng Việt, NN Tiếng Nhật"
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC Học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Logistics cảng biển - Xuất nhập khẩu - Giao nhận vận tải quốc tế (ngành Logistics và Quản lý chuỗi cung ứng)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC Học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Logistics cảng hàng không - Xuất nhập khẩu - Giao nhận vận tải quốc tế (ngành Logistics và Quản lý chuỗi cung ứng)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC Học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A01; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC nhận 2 bằng cử nhân và thạc sĩ"
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng (Quản lý Logistics cảng biển - XNK -Giao nhận vận tài quốc tế)",
+          "Tổ hợp môn": "A01; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC nhận 2 bằng cử nhân và thạc sĩ"
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng (Quản lý Logistics cảng hàng không -XNK - Giao nhận vận tải quốc tế)",
+          "Tổ hợp môn": "A01; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC nhận 2 bằng cử nhân và thạc sĩ"
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng & Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D15; D66",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC nhận cùng lúc 2 bằng cử nhân"
+        },
+        {
+          "Tên ngành": "Logistics và Ọuản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC Học Tiếng Việt, NN Tiếng Nhật"
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng (FIATA cấp Chứng chỉ Giao nhận vận tải quốc tế)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "CT Cử nhân tài năng, học song ngữ Việt - Anh"
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "A00; B00; B08; C08",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "CTC Học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "A00; B00; B08; C08",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": "CTC Học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "A00; B00; B08; C08",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": "CTC Học Tiếng Việt, NN Tiếng Nhật"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC Học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành & Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D15; D66",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC nhận cùng lúc 2 bằng cử nhân"
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC Học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Quản trị nhà hàng - khách sạn và dịch vụ ăn uống (ngành Quản trị khách sạn)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC Học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Quản trị du lịch - nhà hàng - khách sạn (ngành Quản trị khách sạn)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC Học Tiếng Việt, NN Tiếng Anh"
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn & Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D15; D66",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CTC nhận cùng lúc 2 bằng cử nhân"
+        }
+      ],
+      "row_count": 76
+    }
+  ],
+  "table_count": 2,
+  "crawled_at": "2025-07-18T23:29:39.082699",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-ba-ria-vung-tau-BVU.html"
+}

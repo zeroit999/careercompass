@@ -1,0 +1,291 @@
+{
+  "school_code": "VJU",
+  "school_name": "Trường Đại học Việt Nhật - ĐHQG Hà Nội",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Nhật Bản học",
+          "Tổ hợp môn": "A01; D28; D01; D06; D14; D63; D78; D81",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học và Kỹ thuật máy tính",
+          "Tổ hợp môn": "A00; A01; D28; D07; D23; D08; D33",
+          "Điểm chuẩn": "20.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỳ thuật cơ điện tử (Cơ điện tử thông minh và sản xuất theo phuơng thức Nhật Bản)",
+          "Tổ hợp môn": "A00; A01; D28; D07; D23; D01; D06",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm và sức khỏe",
+          "Tổ hợp môn": "A00; B00; A01; D28; D01; D06",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "A00; A01; D28; D07; D23; D01; D06",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nông nghiệp thông minh và bền vững",
+          "Tổ hợp môn": "A00; B00; A01; D28; D01; D06",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 6
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Nhật Bản học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "102",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học và Kỹ thuật máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "102",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Cơ điện tử thông minh và sản xuất theo phương thức Nhật Bản",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "100",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm & sức khỏe",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "102",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "100",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nông nghiệp thông minh và bền vững",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "100",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 6
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Nhật Bản học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "760",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học và Kỹ thuật máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "760",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Cơ điện tử thông minh và sản xuất theo phương thức Nhật Bản",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "760",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm & sức khỏe",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "760",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "760",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nông nghiệp thông minh và bền vững",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "760",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 6
+    },
+    {
+      "table_title": "Chứng chỉ quốc tế năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Nhật Bản học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1200",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Nhật Bản học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "CCQT ACT"
+        },
+        {
+          "Tên ngành": "Khoa học và Kỹ thuật máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1200",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Khoa học và Kỹ thuật máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "CCQT ACT"
+        },
+        {
+          "Tên ngành": "Cơ điện tử thông minh và sản xuất theo phương thức Nhật Bản",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "CCQT ACT"
+        },
+        {
+          "Tên ngành": "Cơ điện tử thông minh và sản xuất theo phương thức Nhật Bản",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1200",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm & sức khỏe",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1200",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm & sức khỏe",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "CCQT ACT"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "CCQT ACT"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1200",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Nông nghiệp thông minh và bền vững",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1200",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Nông nghiệp thông minh và bền vững",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "CCQT ACT"
+        }
+      ],
+      "row_count": 12
+    },
+    {
+      "table_title": "Điểm thi riêng năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Nhật Bản học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "60",
+          "Ghi chú": "Hồ sơ năng lực"
+        },
+        {
+          "Tên ngành": "Khoa học và Kỹ thuật máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "60",
+          "Ghi chú": "Hồ sơ năng lực"
+        },
+        {
+          "Tên ngành": "Cơ điện tử thông minh và sản xuất theo phương thức Nhật Bản",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "60",
+          "Ghi chú": "Hồ sơ năng lực"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm & sức khỏe",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "60",
+          "Ghi chú": "Hồ sơ năng lực"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "60",
+          "Ghi chú": "Hồ sơ năng lực"
+        },
+        {
+          "Tên ngành": "Nông nghiệp thông minh và bền vững",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "60",
+          "Ghi chú": "Hồ sơ năng lực"
+        },
+        {
+          "Tên ngành": "Nông nghiệp thông minh và bền vững",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "60",
+          "Ghi chú": "Hồ sơ năng lực"
+        }
+      ],
+      "row_count": 7
+    }
+  ],
+  "table_count": 5,
+  "crawled_at": "2025-07-18T23:29:36.104824",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-viet-nhat-ha-noi-VJU.html"
+}

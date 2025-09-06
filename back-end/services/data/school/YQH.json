@@ -1,0 +1,225 @@
+{
+  "school_code": "YQH",
+  "school_name": "Học Viện Quân Y - Hệ Quân sự",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Bác sĩ đa khoa",
+          "Tổ hợp môn": "A00; B00",
+          "Điểm chuẩn": "26.13",
+          "Ghi chú": "TS nam, miền Bắc; Tiêu chí phụ 1: Toán >= 8.6; Tiêu chí phụ 2: Hóa >= 8.5"
+        },
+        {
+          "Tên ngành": "Bác sĩ đa khoa",
+          "Tổ hợp môn": "A00; B00",
+          "Điểm chuẩn": "25.75",
+          "Ghi chú": "TS nam, miền Nam; Tiêu chí phụ 1: Toán >= 9.00"
+        },
+        {
+          "Tên ngành": "Bác sĩ đa khoa",
+          "Tổ hợp môn": "A00; B00",
+          "Điểm chuẩn": "27.49",
+          "Ghi chú": "TS nữ, miền Bắc"
+        },
+        {
+          "Tên ngành": "Bác sĩ đa khoa",
+          "Tổ hợp môn": "A00; B00",
+          "Điểm chuẩn": "27.34",
+          "Ghi chú": "TS nữ, miền Nam"
+        },
+        {
+          "Tên ngành": "Y học dự phòng",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "24.35",
+          "Ghi chú": "TS nam, miền Bắc"
+        },
+        {
+          "Tên ngành": "Y học dự phòng",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "24.12",
+          "Ghi chú": "TS nam, miền Nam"
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "25.19",
+          "Ghi chú": "TS nam, miền Bắc; Tiêu chí phụ 1: Toán >= 8.6"
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "24.56",
+          "Ghi chú": "TS nam, miền Nam"
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "27.28",
+          "Ghi chú": "TS nữ, miền Bắc"
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "26.26",
+          "Ghi chú": "TS nữ, miền Nam"
+        }
+      ],
+      "row_count": 10
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngành Y khoa (Bác sỹ đa khoa)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.9",
+          "Ghi chú": "TS Nam miền Bắc"
+        },
+        {
+          "Tên ngành": "Ngành Y khoa (Bác sỹ đa khoa)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.175",
+          "Ghi chú": "TS Nam miền Nam"
+        },
+        {
+          "Tên ngành": "Ngành Y khoa (Bác sỹ đa khoa)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "TS Nữ miền Bắc"
+        },
+        {
+          "Tên ngành": "Ngành Y khoa (Bác sỹ đa khoa)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.63",
+          "Ghi chú": "TS Nữ miền Nam"
+        },
+        {
+          "Tên ngành": "Y học dự phòng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.9",
+          "Ghi chú": "TS Nam miền Bắc"
+        },
+        {
+          "Tên ngành": "Y học dự phòng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.175",
+          "Ghi chú": "TS Nam miền Nam"
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.9",
+          "Ghi chú": "TS Nam miền Bắc"
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.175",
+          "Ghi chú": "TS Nam miền Nam"
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "TS Nữ miền Bắc"
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.63",
+          "Ghi chú": "TS Nữ miền Nam"
+        }
+      ],
+      "row_count": 10
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngành Y khoa (Bác sỹ đa khoa)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.9",
+          "Ghi chú": "TS Nam miền Bắc"
+        },
+        {
+          "Tên ngành": "Ngành Y khoa (Bác sỹ đa khoa)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.175",
+          "Ghi chú": "TS Nam miền Nam"
+        },
+        {
+          "Tên ngành": "Ngành Y khoa (Bác sỹ đa khoa)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "TS Nữ miền Bắc"
+        },
+        {
+          "Tên ngành": "Ngành Y khoa (Bác sỹ đa khoa)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.63",
+          "Ghi chú": "TS Nữ miền Nam"
+        },
+        {
+          "Tên ngành": "Y học dự phòng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.9",
+          "Ghi chú": "TS Nam miền Bắc"
+        },
+        {
+          "Tên ngành": "Y học dự phòng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.175",
+          "Ghi chú": "TS Nam miền Nam"
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.9",
+          "Ghi chú": "TS Nam miền Bắc"
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.175",
+          "Ghi chú": "TS Nam miền Nam"
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "TS Nữ miền Bắc"
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.63",
+          "Ghi chú": "TS Nữ miền Nam"
+        }
+      ],
+      "row_count": 10
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:24:55.107690",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-quan-y-he-quan-su-YQH.html"
+}

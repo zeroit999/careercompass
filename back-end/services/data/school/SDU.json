@@ -1,0 +1,477 @@
+{
+  "school_code": "SDU",
+  "school_name": "Trường Đại học Sao Đỏ",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Sư phạm Tiếng Trung Quốc",
+          "Tổ hợp môn": "D01; D15; D78; D83",
+          "Điểm chuẩn": "21.74",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm công nghệ",
+          "Tổ hợp môn": "A00; A16; C01; D01",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "D01; D15; D66; D71",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A09; C04; D01",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A09; C04; D01",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A09; C04; D01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí",
+          "Tổ hợp môn": "A00; A09; C04; D01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A09; C04; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử",
+          "Tổ hợp môn": "A00; A09; C04; D01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "A00; A09; C04; D01",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và Tự động hóa",
+          "Tổ hợp môn": "A00; A09; C04; D01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; A09; B00; D01",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ dệt, may",
+          "Tổ hợp môn": "A00; A09; C04; D01",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "C00; C20; D01; D15",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 14
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Sư phạm Tiếng Trung Quốc",
+          "Tổ hợp môn": "D01; D15; D78; D83",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Tổng ĐTB các môn lớp 12 theo tổ hợp XT"
+        },
+        {
+          "Tên ngành": "Sư phạm Tiếng Trung Quốc",
+          "Tổ hợp môn": "D01; D15; D78; D83",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Tổng ĐTB lớp 10,11 HK I lớp 12"
+        },
+        {
+          "Tên ngành": "Sư phạm công nghệ",
+          "Tổ hợp môn": "A00; A16; C01; D01",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Tổng ĐTB các môn lớp 12 theo tổ hợp XT"
+        },
+        {
+          "Tên ngành": "Sư phạm công nghệ",
+          "Tổ hợp môn": "A00; A16; C01; D01",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Tổng ĐTB lớp 10,11 HK I lớp 12"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "D01; D15; D66; D71",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "Tổng ĐTB các môn lớp 12 theo tổ hợp XT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "D01; D15; D66; D71",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Tổng ĐTB lớp 10,11 HK I lớp 12"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A09; C04; D01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "Tổng ĐTB các môn lớp 12 theo tổ hợp XT"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A09; C04; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Tổng ĐTB lớp 10,11 HK I lớp 12"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A09; C04; D01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "Tổng ĐTB các môn lớp 12 theo tổ hợp XT"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A09; C04; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Tổng ĐTB lớp 10,11 HK I lớp 12"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A09; C04; D01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "Tổng ĐTB các môn lớp 12 theo tổ hợp XT"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A09; C04; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Tổng ĐTB lớp 10,11 HK I lớp 12"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí",
+          "Tổ hợp môn": "A00; A09; C04; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Tổng ĐTB lớp 10,11 HK I lớp 12"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí",
+          "Tổ hợp môn": "A00; A09; C04; D01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "Tổng ĐTB các môn lớp 12 theo tổ hợp XT"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A09; C04; D01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "Tổng ĐTB các môn lớp 12 theo tổ hợp XT"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A09; C04; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Tổng ĐTB lớp 10,11 HK I lớp 12"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử",
+          "Tổ hợp môn": "A00; A09; C04; D01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "Tổng ĐTB các môn lớp 12 theo tổ hợp XT"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử",
+          "Tổ hợp môn": "A00; A09; C04; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Tổng ĐTB lớp 10,11 HK I lớp 12"
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "A00; A09; C04; D01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "Tổng ĐTB các môn lớp 12 theo tổ hợp XT"
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "A00; A09; C04; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Tổng ĐTB lớp 10,11 HK I lớp 12"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và tự động hóa",
+          "Tổ hợp môn": "A00; A09; C04; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Tổng ĐTB lớp 10,11 HK I lớp 12"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và tự động hóa",
+          "Tổ hợp môn": "A00; A09; C04; D01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "Tổng ĐTB các môn lớp 12 theo tổ hợp XT"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; A09; C04; D01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "Tổng ĐTB các môn lớp 12 theo tổ hợp XT"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; A09; C04; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Tổng ĐTB lớp 10,11 HK I lớp 12"
+        },
+        {
+          "Tên ngành": "Công nghệ dệt, may",
+          "Tổ hợp môn": "A00; A09; C04; D01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "Tổng ĐTB các môn lớp 12 theo tổ hợp XT"
+        },
+        {
+          "Tên ngành": "Công nghệ dệt, may",
+          "Tổ hợp môn": "A00; A09; C04; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Tổng ĐTB lớp 10,11 HK I lớp 12"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "C00; C20; D01; D15",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "Tổng ĐTB các môn lớp 12 theo tổ hợp XT"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "C00; C20; D01; D15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Tổng ĐTB lớp 10,11 HK I lớp 12"
+        }
+      ],
+      "row_count": 28
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Sư phạm Tiếng Trung Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm công nghệ",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "60",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "60",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "60",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "60",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "60",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "60",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "60",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "60",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và Tự động hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "60",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "60",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ dệt, may",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "60",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "60",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 14
+    },
+    {
+      "table_title": "Điểm Đánh giá Tư duy năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Sư phạm Tiếng Trung Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "65",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm công nghệ",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "60",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và Tự động hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ dệt, may",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 14
+    }
+  ],
+  "table_count": 4,
+  "crawled_at": "2025-07-18T23:29:03.438121",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-sao-do-SDU.html"
+}

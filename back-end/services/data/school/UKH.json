@@ -1,0 +1,315 @@
+{
+  "school_code": "UKH",
+  "school_name": "Trường Đại học Khánh Hòa",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; A01; D14; D15",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (Tiếng Anh du lịch)",
+          "Tổ hợp môn": "D01; A01; D14; D15",
+          "Điểm chuẩn": "16.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ học (Tiếng Trung Quốc)",
+          "Tổ hợp môn": "D01; D04; D14; D15",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Văn học (Báo chí - Truyền thông)",
+          "Tổ hợp môn": "C00; C19; C20; D01",
+          "Điểm chuẩn": "23.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Văn hóa học (Văn hóa - Truyền thông)",
+          "Tổ hợp môn": "C00; C19; C20; D01",
+          "Điểm chuẩn": "20.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Việt Nam học (Văn hoá Du lịch)",
+          "Tổ hợp môn": "C00; C19; C20; D01",
+          "Điểm chuẩn": "20.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "D01; A01; D14; D15",
+          "Điểm chuẩn": "16.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Quản lí Bán lẻ)",
+          "Tổ hợp môn": "D01; A01; D14; D15",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Marketing)",
+          "Tổ hợp môn": "D01; A01; D14; D15",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Nhà hàng và dịch vụ ăn uống)",
+          "Tổ hợp môn": "D01; A01; D14; D15",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sinh học ứng dụng (Dược liệu)",
+          "Tổ hợp môn": "A00; B00; A01; D07",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hóa học (Hóa dược - Sản phẩm thiên nhiên)",
+          "Tổ hợp môn": "A00; B00; A01; D07",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch",
+          "Tổ hợp môn": "C00; D01; D14; D15",
+          "Điểm chuẩn": "15.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "D01; A01; D14; D15",
+          "Điểm chuẩn": "17.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "D01; A01; D14; D15",
+          "Điểm chuẩn": "17.4",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 15
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; A01; D14; D15",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (Tiếng Anh du lịch)",
+          "Tổ hợp môn": "D01; A01; D14; D15",
+          "Điểm chuẩn": "19.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ học (Tiếng Trung Quốc)",
+          "Tổ hợp môn": "D01; D04; D14; D15",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Văn học (Báo chí - Truyền thông)",
+          "Tổ hợp môn": "C00; C19; C20; D01",
+          "Điểm chuẩn": "24.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Văn hóa học (Văn hóa - Truyền thông)",
+          "Tổ hợp môn": "C00; C19; C20; D01",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Việt Nam học (Văn hoá Du lịch)",
+          "Tổ hợp môn": "C00; C19; C20; D01",
+          "Điểm chuẩn": "21.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "D01; A01; D14; D15",
+          "Điểm chuẩn": "18.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Quản lí Bán lẻ)",
+          "Tổ hợp môn": "D01; A01; D14; D15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Marketing)",
+          "Tổ hợp môn": "D01; A01; D14; D15",
+          "Điểm chuẩn": "19.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Nhà hàng và dịch vụ ăn uống)",
+          "Tổ hợp môn": "D01; A01; D14; D15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sinh học ứng dụng (Dược liệu)",
+          "Tổ hợp môn": "A00; B00; A01; D07",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hóa học (Hóa dược - Sản phẩm thiên nhiên)",
+          "Tổ hợp môn": "A00; B00; A01; D07",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch",
+          "Tổ hợp môn": "C00; D01; D14; D15",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "D01; A01; D14; D15",
+          "Điểm chuẩn": "18.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "D01; A01; D14; D15",
+          "Điểm chuẩn": "18.6",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 15
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "680",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (Tiếng Anh du lịch)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "620",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ học (Tiếng Trung Quốc)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "680",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Văn học (Báo chí -Truyền thông)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "720",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Văn hóa học (Văn hóa - Truyền thông)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "680",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Việt Nam học (Văn hoá Du lịch)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "680",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "580",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Quản lí Bán lẻ)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Marketing)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "680",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Nhà hàng và dịch vụ ăn uống)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "580",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sinh học ứng dụng (Dược liệu)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hóa học (Hóa dược -Sản phẩm thiên nhiên)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "580",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "580",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 15
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:27:49.421663",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-khanh-hoa-UKH.html"
+}

@@ -1,0 +1,1125 @@
+{
+  "school_code": "NHF",
+  "school_name": "Trường Đại Học Hà Nội",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "35.43",
+          "Ghi chú": "Môn ngoại ngữ nhân hệ số 2, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh - chương trình tiên tiến (TT)",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "33",
+          "Ghi chú": "Môn ngoại ngữ nhân hệ số 2, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nga",
+          "Tổ hợp môn": "D01; D02",
+          "Điểm chuẩn": "32",
+          "Ghi chú": "Môn ngoại ngữ nhân hệ số 2, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Pháp",
+          "Tổ hợp môn": "D01; D03",
+          "Điểm chuẩn": "32.99",
+          "Ghi chú": "Môn ngoại ngữ nhân hệ số 2, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "D01; D04",
+          "Điểm chuẩn": "35.8",
+          "Ghi chú": "Môn ngoại ngữ nhân hệ số 2, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc - TT",
+          "Tổ hợp môn": "D01; D04",
+          "Điểm chuẩn": "34.95",
+          "Ghi chú": "Môn ngoại ngữ nhân hệ số 2, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Đức",
+          "Tổ hợp môn": "D01; D05",
+          "Điểm chuẩn": "34.2",
+          "Ghi chú": "Môn ngoại ngữ nhân hệ số 2, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Tây Ban Nha",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "33.14",
+          "Ghi chú": "Môn ngoại ngữ nhân hệ số 2, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Bồ Đào Nha",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "31.4",
+          "Ghi chú": "Môn ngoại ngữ nhân hệ số 2, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Italia",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "32.41",
+          "Ghi chú": "Môn ngoại ngữ nhân hệ số 2, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Italia - TT",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "30.48",
+          "Ghi chú": "Môn ngoại ngữ nhân hệ số 2, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật",
+          "Tổ hợp môn": "D01; D06",
+          "Điểm chuẩn": "34.45",
+          "Ghi chú": "Môn ngoại ngữ nhân hệ số 2, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "D01; DD2",
+          "Điểm chuẩn": "34.59",
+          "Ghi chú": "Môn ngoại ngữ nhân hệ số 2, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Nghiên cứu phát triển (dạy bằng tiếng Anh)",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.78",
+          "Ghi chú": "Môn ngoại ngữ nhân hệ số 2, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Quốc tế học (dạy bằng tiếng Anh)",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.27",
+          "Ghi chú": "Môn ngoại ngữ nhân hệ số 2, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện (dạy bằng tiếng Anh)",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.65",
+          "Ghi chú": "Thang điểm 30"
+        },
+        {
+          "Tên ngành": "Truyền thông doanh nghiệp (dạy bằng Tiếng Pháp)",
+          "Tổ hợp môn": "D01; D03",
+          "Điểm chuẩn": "31.05",
+          "Ghi chú": "Môn ngoại ngữ nhân hệ số 2, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (dạy bằng tiếng Anh)",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "30.72",
+          "Ghi chú": "Môn ngoại ngữ nhân hệ số 2, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Marketing (dạy bằng tiếng Anh)",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "33.93",
+          "Ghi chú": "Môn ngoại ngữ nhân hệ số 2, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng (dạy bằng tiêng Anh)",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "32.53",
+          "Ghi chú": "Môn ngoại ngữ nhân hệ số 2, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính (dạy bằng tiếng Anh)",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "18.85",
+          "Ghi chú": "Thang điểm 30"
+        },
+        {
+          "Tên ngành": "Kế toán (dạy bằng tiếng Anh)",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.08",
+          "Ghi chú": "Môn ngoại ngữ nhân hệ số 2, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (dạy bằng tiếng Anh)",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "24.17",
+          "Ghi chú": "Thang điểm 30"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (dạy bằng tiếng Anh) - TT",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "16.7",
+          "Ghi chú": "Thang điểm 30"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành (dạy bằng tiếng Anh)",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "33.04",
+          "Ghi chú": "Môn ngoại ngữ nhân hệ số 2, thang điểm 40"
+        },
+        {
+          "Tên ngành": "Quản tri dịch vụ du lịch và lữ hành (dạy bằng tiếng Anh) - TT",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "32.11",
+          "Ghi chú": "Môn ngoại ngữ nhân hệ số 2, thang điểm 40"
+        }
+      ],
+      "row_count": 26
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "30.38",
+          "Ghi chú": "Giải Nhất-Nhì-Ba cấp tỉnh/TP"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "18.07",
+          "Ghi chú": "Học bạ và HS Chuyên"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "31.3",
+          "Ghi chú": "TD thi tháng cuộc thi Đường lên đỉnh Olympia"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "32.18",
+          "Ghi chú": "TV đội tuyển HSG cấp Quốc gia"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh TT",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "18.49",
+          "Ghi chú": "Học bạ và HS Chuyên"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh TT",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "30.88",
+          "Ghi chú": "Giải Nhất-Nhì-Ba cấp tỉnh/TP"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nga",
+          "Tổ hợp môn": "D01; D02",
+          "Điểm chuẩn": "32.62",
+          "Ghi chú": "Giải Nhất-Nhì-Ba cấp tỉnh/TP"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nga",
+          "Tổ hợp môn": "D01; D02",
+          "Điểm chuẩn": "17.04",
+          "Ghi chú": "Học bạ và HS Chuyên"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Pháp",
+          "Tổ hợp môn": "D01; D03",
+          "Điểm chuẩn": "33.47",
+          "Ghi chú": "TV đội tuyển HSG cấp Quốc gia"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Pháp",
+          "Tổ hợp môn": "D01; D03",
+          "Điểm chuẩn": "31.04",
+          "Ghi chú": "Giải Nhất-Nhì-Ba cấp tỉnh/TP"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Pháp",
+          "Tổ hợp môn": "D01; D03",
+          "Điểm chuẩn": "16.58",
+          "Ghi chú": "Học bạ và HS Chuyên"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "D01; D04",
+          "Điểm chuẩn": "29.92",
+          "Ghi chú": "Giải Nhất-Nhì-Ba cấp tỉnh/TP"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "D01; D04",
+          "Điểm chuẩn": "18.38",
+          "Ghi chú": "Học bạ và HS Chuyên"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "D01; D04",
+          "Điểm chuẩn": "32.22",
+          "Ghi chú": "TV đội tuyển HSG cấp Quốc gia"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc TT",
+          "Tổ hợp môn": "D01; D04",
+          "Điểm chuẩn": "30.3",
+          "Ghi chú": "Giải Nhất-Nhì-Ba cấp tỉnh/TP"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc TT",
+          "Tổ hợp môn": "D01; D04",
+          "Điểm chuẩn": "32.87",
+          "Ghi chú": "TV đội tuyển HSG cấp Quốc gia"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc TT",
+          "Tổ hợp môn": "D01; D04",
+          "Điểm chuẩn": "18.24",
+          "Ghi chú": "Học bạ và HS Chuyên"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Đức",
+          "Tổ hợp môn": "D01; D05",
+          "Điểm chuẩn": "16.97",
+          "Ghi chú": "Học bạ và HS Chuyên"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Đức",
+          "Tổ hợp môn": "D01; D05",
+          "Điểm chuẩn": "31.57",
+          "Ghi chú": "Giải Nhất-Nhì-Ba cấp tỉnh/TP"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Tây Ban Nha",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "17.31",
+          "Ghi chú": "Học bạ và HS Chuyên"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Tây Ban Nha",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "30.74",
+          "Ghi chú": "Giải Nhất-Nhì-Ba cấp tỉnh/TP"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Bồ Đào Nha",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "16.95",
+          "Ghi chú": "Học bạ và HS Chuyên"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Italia",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "16.46",
+          "Ghi chú": "Học bạ và HS Chuyên"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật",
+          "Tổ hợp môn": "D01; D06",
+          "Điểm chuẩn": "16.95",
+          "Ghi chú": "Học bạ và HS Chuyên"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật",
+          "Tổ hợp môn": "D01; D06",
+          "Điểm chuẩn": "30.79",
+          "Ghi chú": "Giải Nhất-Nhì-Ba cấp tỉnh/TP"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "D01; DD2",
+          "Điểm chuẩn": "30.03",
+          "Ghi chú": "Giải Nhất-Nhì-Ba cấp tỉnh/TP"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "D01; DD2",
+          "Điểm chuẩn": "17.51",
+          "Ghi chú": "Học bạ và HS Chuyên"
+        },
+        {
+          "Tên ngành": "Quốc tế học",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "32.62",
+          "Ghi chú": "TV đội tuyển HSG cấp Quốc gia"
+        },
+        {
+          "Tên ngành": "Quốc tế học",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "17.18",
+          "Ghi chú": "Học bạ và HS Chuyên"
+        },
+        {
+          "Tên ngành": "Quốc tế học",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "30.38",
+          "Ghi chú": "Giải Nhất-Nhì-Ba cấp tỉnh/TP"
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "33.18",
+          "Ghi chú": "TV đội tuyển HSG cấp Quốc gia"
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "18.11",
+          "Ghi chú": "Học bạ và HS Chuyên"
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "19.08",
+          "Ghi chú": "Giải Nhất-Nhì-Ba cấp tỉnh/TP"
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "31.08",
+          "Ghi chú": "TG cuộc thi KHKT cấp Quốc gia của Bộ GD&ĐT"
+        },
+        {
+          "Tên ngành": "Truyền thông doanh nghiệp",
+          "Tổ hợp môn": "D01; D03",
+          "Điểm chuẩn": "17.12",
+          "Ghi chú": "Học bạ và HS Chuyên"
+        },
+        {
+          "Tên ngành": "Truyền thông doanh nghiệp",
+          "Tổ hợp môn": "D01; D03",
+          "Điểm chuẩn": "31.17",
+          "Ghi chú": "Giải Nhất-Nhì-Ba cấp tỉnh/TP"
+        },
+        {
+          "Tên ngành": "Truyền thông doanh nghiệp",
+          "Tổ hợp môn": "D01; D03",
+          "Điểm chuẩn": "33.61",
+          "Ghi chú": "TV đội tuyển HSG cấp Quốc gia"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "34.5",
+          "Ghi chú": "TV đội tuyển HSG cấp Quốc gia"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "16.98",
+          "Ghi chú": "Học bạ và HS Chuyên"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "31.72",
+          "Ghi chú": "Giải Nhất-Nhì-Ba cấp tỉnh/TP"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "29.16",
+          "Ghi chú": "Giải Nhất-Nhì-Ba cấp tỉnh/TP"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "31.9",
+          "Ghi chú": "TV đội tuyển HSG cấp Quốc gia"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "17.74",
+          "Ghi chú": "Học bạ và HS Chuyên"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "16.56",
+          "Ghi chú": "Học bạ và HS Chuyên"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "29.66",
+          "Ghi chú": "Giải Nhất-Nhì-Ba cấp tỉnh/TP"
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "33.31",
+          "Ghi chú": "TV đội tuyển HSG cấp Quốc gia"
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "16.31",
+          "Ghi chú": "Học bạ và HS Chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "29.18",
+          "Ghi chú": "Giải Nhất-Nhì-Ba cấp tỉnh/TP"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "17.47",
+          "Ghi chú": "Học bạ và HS Chuyên"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "30.53",
+          "Ghi chú": "Giải Nhất-Nhì-Ba cấp tỉnh/TP"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "17.24",
+          "Ghi chú": "Học bạ và HS Chuyên"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "31.86",
+          "Ghi chú": "Giải Nhất-Nhì-Ba cấp tỉnh/TP"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "29.93",
+          "Ghi chú": "TD thi tháng cuộc thi Đường lên đỉnh Olympia"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin TT",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "17.27",
+          "Ghi chú": "Học bạ và HS Chuyên"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "16.13",
+          "Ghi chú": "Học bạ và HS Chuyên"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "30.86",
+          "Ghi chú": "Giải Nhất-Nhì-Ba cấp tỉnh/TP"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành TT",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "30.65",
+          "Ghi chú": "Giải Nhất-Nhì-Ba cấp tỉnh/TP"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành TT",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "17.06",
+          "Ghi chú": "Học bạ và HS Chuyên"
+        }
+      ],
+      "row_count": 58
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.33",
+          "Ghi chú": "ĐTBC 5 HK môn NN THPT từ 7.0 và ĐTBC 5 HK THPT từ 7.0"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh TT",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.29",
+          "Ghi chú": "ĐTBC 5 HK môn NN THPT từ 7.0 và ĐTBC 5 HK THPT từ 7.0"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Pháp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.16",
+          "Ghi chú": "ĐTBC 5 HK môn NN THPT từ 7.0 và ĐTBC 5 HK THPT từ 7.0"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.55",
+          "Ghi chú": "ĐTBC 5 HK môn NN THPT từ 7.0 và ĐTBC 5 HK THPT từ 7.0"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc TT",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.92",
+          "Ghi chú": "ĐTBC 5 HK môn NN THPT từ 7.0 và ĐTBC 5 HK THPT từ 7.0"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Đức",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.26",
+          "Ghi chú": "ĐTBC 5 HK môn NN THPT từ 7.0 và ĐTBC 5 HK THPT từ 7.0"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.52",
+          "Ghi chú": "ĐTBC 5 HK môn NN THPT từ 7.0 và ĐTBC 5 HK THPT từ 7.0"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.32",
+          "Ghi chú": "ĐTBC 5 HK môn NN THPT từ 7.0 và ĐTBC 5 HK THPT từ 7.0"
+        },
+        {
+          "Tên ngành": "Nghiên cứu phát triển",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17",
+          "Ghi chú": "ĐTBC 5 HK môn NN THPT từ 7.0 và ĐTBC 5 HK THPT từ 7.0"
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.29",
+          "Ghi chú": "ĐTBC 5 HK môn NN THPT từ 7.0 và ĐTBC 5 HK THPT từ 7.0"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.7",
+          "Ghi chú": "ĐTBC 5 HK môn NN THPT từ 7.0 và ĐTBC 5 HK THPT từ 7.0"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.14",
+          "Ghi chú": "ĐTBC 5 HK môn NN THPT từ 7.0 và ĐTBC 5 HK THPT từ 7.0"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.99",
+          "Ghi chú": "ĐTBC 5 HK môn NN THPT từ 7.0 và ĐTBC 5 HK THPT từ 7.0"
+        }
+      ],
+      "row_count": 13
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.33",
+          "Ghi chú": "ĐTBC 5 HK môn NN THPT từ 7.0 và ĐTBC 5 HK THPT từ 7.0"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh TT",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.29",
+          "Ghi chú": "ĐTBC 5 HK môn NN THPT từ 7.0 và ĐTBC 5 HK THPT từ 7.0"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Pháp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.16",
+          "Ghi chú": "ĐTBC 5 HK môn NN THPT từ 7.0 và ĐTBC 5 HK THPT từ 7.0"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.55",
+          "Ghi chú": "ĐTBC 5 HK môn NN THPT từ 7.0 và ĐTBC 5 HK THPT từ 7.0"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc TT",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.92",
+          "Ghi chú": "ĐTBC 5 HK môn NN THPT từ 7.0 và ĐTBC 5 HK THPT từ 7.0"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Đức",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.26",
+          "Ghi chú": "ĐTBC 5 HK môn NN THPT từ 7.0 và ĐTBC 5 HK THPT từ 7.0"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.52",
+          "Ghi chú": "ĐTBC 5 HK môn NN THPT từ 7.0 và ĐTBC 5 HK THPT từ 7.0"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.32",
+          "Ghi chú": "ĐTBC 5 HK môn NN THPT từ 7.0 và ĐTBC 5 HK THPT từ 7.0"
+        },
+        {
+          "Tên ngành": "Nghiên cứu phát triển",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17",
+          "Ghi chú": "ĐTBC 5 HK môn NN THPT từ 7.0 và ĐTBC 5 HK THPT từ 7.0"
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.29",
+          "Ghi chú": "ĐTBC 5 HK môn NN THPT từ 7.0 và ĐTBC 5 HK THPT từ 7.0"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.7",
+          "Ghi chú": "ĐTBC 5 HK môn NN THPT từ 7.0 và ĐTBC 5 HK THPT từ 7.0"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.14",
+          "Ghi chú": "ĐTBC 5 HK môn NN THPT từ 7.0 và ĐTBC 5 HK THPT từ 7.0"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.99",
+          "Ghi chú": "ĐTBC 5 HK môn NN THPT từ 7.0 và ĐTBC 5 HK THPT từ 7.0"
+        }
+      ],
+      "row_count": 13
+    },
+    {
+      "table_title": "Điểm Đánh giá Tư duy năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.33",
+          "Ghi chú": "ĐTBC 5 HK môn NN THPT từ 7.0 và ĐTBC 5 HK THPT từ 7.0"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh TT",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.29",
+          "Ghi chú": "ĐTBC 5 HK môn NN THPT từ 7.0 và ĐTBC 5 HK THPT từ 7.0"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Pháp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.16",
+          "Ghi chú": "ĐTBC 5 HK môn NN THPT từ 7.0 và ĐTBC 5 HK THPT từ 7.0"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.55",
+          "Ghi chú": "ĐTBC 5 HK môn NN THPT từ 7.0 và ĐTBC 5 HK THPT từ 7.0"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc TT",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.92",
+          "Ghi chú": "ĐTBC 5 HK môn NN THPT từ 7.0 và ĐTBC 5 HK THPT từ 7.0"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Đức",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.26",
+          "Ghi chú": "ĐTBC 5 HK môn NN THPT từ 7.0 và ĐTBC 5 HK THPT từ 7.0"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.52",
+          "Ghi chú": "ĐTBC 5 HK môn NN THPT từ 7.0 và ĐTBC 5 HK THPT từ 7.0"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.32",
+          "Ghi chú": "ĐTBC 5 HK môn NN THPT từ 7.0 và ĐTBC 5 HK THPT từ 7.0"
+        },
+        {
+          "Tên ngành": "Nghiên cứu phát triển",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17",
+          "Ghi chú": "ĐTBC 5 HK môn NN THPT từ 7.0 và ĐTBC 5 HK THPT từ 7.0"
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.29",
+          "Ghi chú": "ĐTBC 5 HK môn NN THPT từ 7.0 và ĐTBC 5 HK THPT từ 7.0"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.7",
+          "Ghi chú": "ĐTBC 5 HK môn NN THPT từ 7.0 và ĐTBC 5 HK THPT từ 7.0"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.14",
+          "Ghi chú": "ĐTBC 5 HK môn NN THPT từ 7.0 và ĐTBC 5 HK THPT từ 7.0"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.99",
+          "Ghi chú": "ĐTBC 5 HK môn NN THPT từ 7.0 và ĐTBC 5 HK THPT từ 7.0"
+        }
+      ],
+      "row_count": 13
+    },
+    {
+      "table_title": "Điểm xét tuyển kết hợp năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "21.28",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh TT",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "22.58",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nga",
+          "Tổ hợp môn": "D01; D02",
+          "Điểm chuẩn": "19",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Pháp",
+          "Tổ hợp môn": "D01; D03",
+          "Điểm chuẩn": "20.7",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "D01; D04",
+          "Điểm chuẩn": "23.54",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc TT",
+          "Tổ hợp môn": "D01; D04",
+          "Điểm chuẩn": "21.56",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Đức",
+          "Tổ hợp môn": "D01; D05",
+          "Điểm chuẩn": "20.94",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Tây Ban Nha",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "20.38",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Bồ Đào Nha",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "18.83",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Italia",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "20.2",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Italia TT",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "18.12",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật",
+          "Tổ hợp môn": "D01; D06",
+          "Điểm chuẩn": "21.08",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "D01; DD2",
+          "Điểm chuẩn": "21.1",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Nghiên cứu phát triển",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "18.58",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Quốc tế học",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "20.55",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "21.48",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Truyền thông doanh nghiệp",
+          "Tổ hợp môn": "D01; D03",
+          "Điểm chuẩn": "21.14",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "20.66",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "21.24",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "19.83",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "19.11",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "18.86",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "18.32",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin TT",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "18.06",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "20.62",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành TT",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "18.96",
+          "Ghi chú": "Học bạ và CCQT"
+        }
+      ],
+      "row_count": 26
+    },
+    {
+      "table_title": "Chứng chỉ quốc tế năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "26.32",
+          "Ghi chú": "SAT, ACT, A - Level"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh TT",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "27.56",
+          "Ghi chú": "SAT, ACT, A - Level"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Pháp",
+          "Tổ hợp môn": "D01; D03",
+          "Điểm chuẩn": "20.63",
+          "Ghi chú": "SAT, ACT, A - Level"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "D01; D04",
+          "Điểm chuẩn": "24.19",
+          "Ghi chú": "SAT, ACT, A - Level"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc TT",
+          "Tổ hợp môn": "D01; D04",
+          "Điểm chuẩn": "22.13",
+          "Ghi chú": "SAT, ACT, A - Level"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Đức",
+          "Tổ hợp môn": "D01; D05",
+          "Điểm chuẩn": "21.25",
+          "Ghi chú": "SAT, ACT, A - Level"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Tây Ban Nha",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "SAT, ACT, A - Level"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Bồ Đào Nha",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "23.25",
+          "Ghi chú": "SAT, ACT, A - Level"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật",
+          "Tổ hợp môn": "D01; D06",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": "SAT, ACT, A - Level"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "D01; DD2",
+          "Điểm chuẩn": "23.81",
+          "Ghi chú": "SAT, ACT, A - Level"
+        },
+        {
+          "Tên ngành": "Nghiên cứu phát triển",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "22.88",
+          "Ghi chú": "SAT, ACT, A - Level"
+        },
+        {
+          "Tên ngành": "Quốc tế học",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "22.19",
+          "Ghi chú": "SAT, ACT, A - Level"
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": "SAT, ACT, A - Level"
+        },
+        {
+          "Tên ngành": "Truyền thông doanh nghiệp",
+          "Tổ hợp môn": "D01; D03",
+          "Điểm chuẩn": "24.92",
+          "Ghi chú": "SAT, ACT, A - Level"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "21.38",
+          "Ghi chú": "SAT, ACT, A - Level"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "26.38",
+          "Ghi chú": "SAT, ACT, A - Level"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "22.13",
+          "Ghi chú": "SAT, ACT, A - Level"
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "25.29",
+          "Ghi chú": "SAT, ACT, A - Level"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.29",
+          "Ghi chú": "SAT, ACT, A - Level"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "22.31",
+          "Ghi chú": "SAT, ACT, A - Level"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin TT",
+          "Tổ hợp môn": "A01; D01",
+          "Điểm chuẩn": "21.38",
+          "Ghi chú": "SAT, ACT, A - Level"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "23.44",
+          "Ghi chú": "SAT, ACT, A - Level"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành TT",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "SAT, ACT, A - Level"
+        }
+      ],
+      "row_count": 23
+    }
+  ],
+  "table_count": 7,
+  "crawled_at": "2025-07-18T23:23:28.960442",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-ha-noi-NHF.html"
+}

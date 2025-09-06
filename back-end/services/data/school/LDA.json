@@ -1,0 +1,135 @@
+{
+  "school_code": "LDA",
+  "school_name": "Trường Đại Học Công Đoàn",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D14; D15",
+          "Điểm chuẩn": "33",
+          "Ghi chú": "Tiếng Anh nhân hệ số 2"
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "23.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xã hội học",
+          "Tổ hợp môn": "A01; C00; D01",
+          "Điểm chuẩn": "22.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Việt Nam học",
+          "Tổ hợp môn": "C00; D01; D14; D15",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "22.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "23.61",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "23.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "23.19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ lao động",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "19.95",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A01; C00; D01",
+          "Điểm chuẩn": "26.38",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "A01; C00; D01",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch",
+          "Tổ hợp môn": "C00; D01; D14; D15",
+          "Điểm chuẩn": "24.63",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Bảo hộ lao động",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "15.2",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 13
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D14; D15",
+          "Điểm chuẩn": "25.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "D01; A00; A01",
+          "Điểm chuẩn": "25.07",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Việt Nam học",
+          "Tổ hợp môn": "D01; D14; D15; C00",
+          "Điểm chuẩn": "22.27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch",
+          "Tổ hợp môn": "D01; D14; D15; C00",
+          "Điểm chuẩn": "24.13",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 4
+    }
+  ],
+  "table_count": 2,
+  "crawled_at": "2025-07-18T23:25:55.593687",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-cong-doan-LDA.html"
+}

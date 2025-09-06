@@ -1,0 +1,843 @@
+{
+  "school_code": "SPS",
+  "school_name": "Trường Đại Học Sư Phạm TPHCM",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Giáo dục Mầm non (trình độ CĐ)",
+          "Tổ hợp môn": "M02; M03",
+          "Điểm chuẩn": "18.7",
+          "Ghi chú": "Phân hiệu Long An"
+        },
+        {
+          "Tên ngành": "Giáo dục học",
+          "Tổ hợp môn": "D01; A00; A01; C14",
+          "Điểm chuẩn": "24.82",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý giáo dục",
+          "Tổ hợp môn": "D01; A00; A01; C14",
+          "Điểm chuẩn": "25.22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Mầm non",
+          "Tổ hợp môn": "M02; M03",
+          "Điểm chuẩn": "24.24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Mầm non",
+          "Tổ hợp môn": "M02; M03",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Phân hiệu Long An"
+        },
+        {
+          "Tên ngành": "Giáo dục Tiểu học",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "26.13",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Tiểu học",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "24.73",
+          "Ghi chú": "Phân hiệu Long An"
+        },
+        {
+          "Tên ngành": "Giáo dục Đặc biệt",
+          "Tổ hợp môn": "C00; C15; D01",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục công dân",
+          "Tổ hợp môn": "C00; C19; D01",
+          "Điểm chuẩn": "27.34",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Chính trị",
+          "Tổ hợp môn": "C00; C19; D01",
+          "Điểm chuẩn": "27.58",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Thể chất",
+          "Tổ hợp môn": "M08; T01",
+          "Điểm chuẩn": "26.71",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Thể chất",
+          "Tổ hợp môn": "M08; T01",
+          "Điểm chuẩn": "24.77",
+          "Ghi chú": "Phân hiệu Long An"
+        },
+        {
+          "Tên ngành": "Giáo dục Quốc phòng - An ninh",
+          "Tổ hợp môn": "A08; C00; C19",
+          "Điểm chuẩn": "27.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Toán học",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "27.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Toán học",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "26.18",
+          "Ghi chú": "Phân hiệu Long An"
+        },
+        {
+          "Tên ngành": "Sư phạm Tin học",
+          "Tổ hợp môn": "A00; A01; B08",
+          "Điểm chuẩn": "24.73",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Vật lý",
+          "Tổ hợp môn": "A00; A01; C01",
+          "Điểm chuẩn": "27.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Hoá học",
+          "Tổ hợp môn": "A00; B00; D07",
+          "Điểm chuẩn": "27.67",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Sinh học",
+          "Tổ hợp môn": "B00; D08",
+          "Điểm chuẩn": "26.22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Ngữ văn",
+          "Tổ hợp môn": "C00; D01; D78",
+          "Điểm chuẩn": "28.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Ngữ văn",
+          "Tổ hợp môn": "C00; D01; D78",
+          "Điểm chuẩn": "27.2",
+          "Ghi chú": "Phân hiệu Long An"
+        },
+        {
+          "Tên ngành": "Sư phạm Lịch sử",
+          "Tổ hợp môn": "C00; D14",
+          "Điểm chuẩn": "28.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Địa lý",
+          "Tổ hợp môn": "C00; C04; D15; D78",
+          "Điểm chuẩn": "28.37",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tiếng Anh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "27.01",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tiếng Anh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.47",
+          "Ghi chú": "Phân hiệu Long An"
+        },
+        {
+          "Tên ngành": "Sư phạm Tiếng Nga",
+          "Tổ hợp môn": "D01; D02; D78; D80",
+          "Điểm chuẩn": "23.69",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tiếng Pháp",
+          "Tổ hợp môn": "D01; D03",
+          "Điểm chuẩn": "24.93",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tiếng Trung Quốc",
+          "Tổ hợp môn": "D01; D04",
+          "Điểm chuẩn": "26.44",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm công nghệ",
+          "Tổ hợp môn": "A00; A01; A02; D90",
+          "Điểm chuẩn": "24.31",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm khoa học tự nhiên",
+          "Tổ hợp môn": "A00; A02; B00; D90",
+          "Điểm chuẩn": "25.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Lịch sử - Địa lý",
+          "Tổ hợp môn": "C00; C19; C20; D78",
+          "Điểm chuẩn": "27.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.86",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nga",
+          "Tổ hợp môn": "D01; D02; D78; D80",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Pháp",
+          "Tổ hợp môn": "D01; D03",
+          "Điểm chuẩn": "22.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "D01; D04",
+          "Điểm chuẩn": "25.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật",
+          "Tổ hợp môn": "D01; D06",
+          "Điểm chuẩn": "23.77",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn quốc",
+          "Tổ hợp môn": "D01; D78; D96; DD2",
+          "Điểm chuẩn": "25.02",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Văn học",
+          "Tổ hợp môn": "C00; D01; D78",
+          "Điểm chuẩn": "26.62",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "B00; C00; D01",
+          "Điểm chuẩn": "27.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học giáo dục",
+          "Tổ hợp môn": "A00; C00; D01",
+          "Điểm chuẩn": "26.03",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Địa lý học",
+          "Tổ hợp môn": "C00; D10; D15; D78",
+          "Điểm chuẩn": "25.17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quốc tế học",
+          "Tổ hợp môn": "D01; D14; D78",
+          "Điểm chuẩn": "24.42",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Việt Nam học",
+          "Tổ hợp môn": "C00; D01; D78",
+          "Điểm chuẩn": "25.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sinh học ứng dụng",
+          "Tổ hợp môn": "B00; D08",
+          "Điểm chuẩn": "21.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Vật lý học",
+          "Tổ hợp môn": "A00; A01; D90",
+          "Điểm chuẩn": "24.44",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hoá học",
+          "Tổ hợp môn": "A00; B00; D07",
+          "Điểm chuẩn": "24.65",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; B08",
+          "Điểm chuẩn": "23.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "A00; C00; D01",
+          "Điểm chuẩn": "24.44",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch",
+          "Tổ hợp môn": "C00; C04; D01; D78",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 49
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Giáo dục Mầm non (trình độ CĐ)",
+          "Tổ hợp môn": "M02; M03",
+          "Điểm chuẩn": "21.43",
+          "Ghi chú": "Phân hiệu Long An"
+        },
+        {
+          "Tên ngành": "Giáo dục học",
+          "Tổ hợp môn": "D01; A00; A01; C14",
+          "Điểm chuẩn": "27.55",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý giáo dục",
+          "Tổ hợp môn": "D01; A00; A01; C14",
+          "Điểm chuẩn": "27.81",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Mầm non",
+          "Tổ hợp môn": "M02; M03",
+          "Điểm chuẩn": "26.09",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Mầm non",
+          "Tổ hợp môn": "M02; M03",
+          "Điểm chuẩn": "24.04",
+          "Ghi chú": "Phân hiệu Long An"
+        },
+        {
+          "Tên ngành": "Giáo dục Tiểu học",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "28.66",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Tiểu học",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "28.01",
+          "Ghi chú": "Phân hiệu Long An"
+        },
+        {
+          "Tên ngành": "Giáo dục Đặc biệt",
+          "Tổ hợp môn": "C00; C15; D01",
+          "Điểm chuẩn": "27.72",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục công dân",
+          "Tổ hợp môn": "C00; C19; D01",
+          "Điểm chuẩn": "28.03",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Chính trị",
+          "Tổ hợp môn": "C00; C19; D01",
+          "Điểm chuẩn": "28.22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Thể chất",
+          "Tổ hợp môn": "M08; T01",
+          "Điểm chuẩn": "27.07",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Thể chất",
+          "Tổ hợp môn": "M08; T01",
+          "Điểm chuẩn": "26.05",
+          "Ghi chú": "Phân hiệu Long An"
+        },
+        {
+          "Tên ngành": "Giáo dục Quốc phòng - An ninh",
+          "Tổ hợp môn": "A08; C00; C19",
+          "Điểm chuẩn": "28.01",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Toán học",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "29.55",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Toán học",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "29.19",
+          "Ghi chú": "Phân hiệu Long An"
+        },
+        {
+          "Tên ngành": "Sư phạm Tin học",
+          "Tổ hợp môn": "A00; A01; B08",
+          "Điểm chuẩn": "27.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Vật lý",
+          "Tổ hợp môn": "A00; A01; C01",
+          "Điểm chuẩn": "29.48",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Hoá học",
+          "Tổ hợp môn": "A00; B00; D07",
+          "Điểm chuẩn": "29.81",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Sinh học",
+          "Tổ hợp môn": "B00; D08",
+          "Điểm chuẩn": "29.46",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Ngữ văn",
+          "Tổ hợp môn": "C00; D01; D78",
+          "Điểm chuẩn": "28.92",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Ngữ văn",
+          "Tổ hợp môn": "C00; D01; D78",
+          "Điểm chuẩn": "28.43",
+          "Ghi chú": "Phân hiệu Long An"
+        },
+        {
+          "Tên ngành": "Sư phạm Lịch sử",
+          "Tổ hợp môn": "C00; D14",
+          "Điểm chuẩn": "29.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Địa lý",
+          "Tổ hợp môn": "C00; C04; D15; D78",
+          "Điểm chuẩn": "28.57",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tiếng Anh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "28.81",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tiếng Anh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "28.07",
+          "Ghi chú": "Phân hiệu Long An"
+        },
+        {
+          "Tên ngành": "Sư phạm Tiếng Nga",
+          "Tổ hợp môn": "D01; D02; D78; D80",
+          "Điểm chuẩn": "26.57",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tiếng Pháp",
+          "Tổ hợp môn": "D01; D03",
+          "Điểm chuẩn": "25.99",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tiếng Trung Quốc",
+          "Tổ hợp môn": "D01; D04",
+          "Điểm chuẩn": "28.16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm công nghệ",
+          "Tổ hợp môn": "A00; A01; A02; D90",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm khoa học tự nhiên",
+          "Tổ hợp môn": "A00; A02; B00; D90",
+          "Điểm chuẩn": "28.68",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Lịch sử - Địa lý",
+          "Tổ hợp môn": "C00; C19; C20; D78",
+          "Điểm chuẩn": "28.23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "28.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nga",
+          "Tổ hợp môn": "D01; D02; D78; D80",
+          "Điểm chuẩn": "26.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Pháp",
+          "Tổ hợp môn": "D01; D03",
+          "Điểm chuẩn": "25.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "D01; D04",
+          "Điểm chuẩn": "27.53",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật",
+          "Tổ hợp môn": "D01; D06",
+          "Điểm chuẩn": "26.65",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn quốc",
+          "Tổ hợp môn": "D01; D78; D96; DD2",
+          "Điểm chuẩn": "27.57",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Văn học",
+          "Tổ hợp môn": "C00; D01; D78",
+          "Điểm chuẩn": "28.17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "B00; C00; D01",
+          "Điểm chuẩn": "28.57",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học giáo dục",
+          "Tổ hợp môn": "A00; C00; D01",
+          "Điểm chuẩn": "27.74",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Địa lý học",
+          "Tổ hợp môn": "C00; D10; D15; D78",
+          "Điểm chuẩn": "27.03",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quốc tế học",
+          "Tổ hợp môn": "D01; D14; D78",
+          "Điểm chuẩn": "26.37",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Việt Nam học",
+          "Tổ hợp môn": "C00; D01; D78",
+          "Điểm chuẩn": "27.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sinh học ứng dụng",
+          "Tổ hợp môn": "B00; D08",
+          "Điểm chuẩn": "27.95",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Vật lý học",
+          "Tổ hợp môn": "A00; A01; D90",
+          "Điểm chuẩn": "28.32",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hoá học",
+          "Tổ hợp môn": "A00; B00; D07",
+          "Điểm chuẩn": "28.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; B08",
+          "Điểm chuẩn": "27.96",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "A00; C00; D01",
+          "Điểm chuẩn": "26.83",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch",
+          "Tổ hợp môn": "C00; C04; D01; D78",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 49
+    },
+    {
+      "table_title": "Điểm thi riêng năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Giáo dục học",
+          "Tổ hợp môn": "D01; A00; A01; C14",
+          "Điểm chuẩn": "20.54",
+          "Ghi chú": "Học bạ THPT + ĐGNL chuyên biệt"
+        },
+        {
+          "Tên ngành": "Quản lý giáo dục",
+          "Tổ hợp môn": "D01; A00; A01; C14",
+          "Điểm chuẩn": "22.01",
+          "Ghi chú": "Học bạ THPT + ĐGNL chuyên biệt"
+        },
+        {
+          "Tên ngành": "Giáo dục Tiểu học",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "24.59",
+          "Ghi chú": "Học bạ THPT + ĐGNL chuyên biệt"
+        },
+        {
+          "Tên ngành": "Giáo dục Tiểu học",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "22.99",
+          "Ghi chú": "Phân hiệu Long An, Học bạ THPT + ĐGNL chuyên biệt"
+        },
+        {
+          "Tên ngành": "Giáo dục Đặc biệt",
+          "Tổ hợp môn": "C00; C15; D01",
+          "Điểm chuẩn": "22.94",
+          "Ghi chú": "Học bạ THPT + ĐGNL chuyên biệt"
+        },
+        {
+          "Tên ngành": "Giáo dục công dân",
+          "Tổ hợp môn": "C00; C19; D01",
+          "Điểm chuẩn": "24.2",
+          "Ghi chú": "Học bạ THPT + ĐGNL chuyên biệt"
+        },
+        {
+          "Tên ngành": "Giáo dục Chính trị",
+          "Tổ hợp môn": "C00; C19; D01",
+          "Điểm chuẩn": "23.92",
+          "Ghi chú": "Học bạ THPT + ĐGNL chuyên biệt"
+        },
+        {
+          "Tên ngành": "Giáo dục Quốc phòng - An ninh",
+          "Tổ hợp môn": "A08; C00; C19",
+          "Điểm chuẩn": "22.36",
+          "Ghi chú": "Học bạ THPT + ĐGNL chuyên biệt"
+        },
+        {
+          "Tên ngành": "Sư phạm Toán học",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "27.96",
+          "Ghi chú": "Học bạ THPT + ĐGNL chuyên biệt"
+        },
+        {
+          "Tên ngành": "Sư phạm Toán học",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "27.18",
+          "Ghi chú": "Phân hiệu Long An, Học bạ THPT + ĐGNL chuyên biệt"
+        },
+        {
+          "Tên ngành": "Sư phạm Tin học",
+          "Tổ hợp môn": "A00; A01; B08",
+          "Điểm chuẩn": "23.18",
+          "Ghi chú": "Học bạ THPT + ĐGNL chuyên biệt"
+        },
+        {
+          "Tên ngành": "Sư phạm Vật lý",
+          "Tổ hợp môn": "A00; A01; C01",
+          "Điểm chuẩn": "26.3",
+          "Ghi chú": "Học bạ THPT + ĐGNL chuyên biệt"
+        },
+        {
+          "Tên ngành": "Sư phạm Hoá học",
+          "Tổ hợp môn": "A00; B00; D07",
+          "Điểm chuẩn": "28.25",
+          "Ghi chú": "Học bạ THPT + ĐGNL chuyên biệt"
+        },
+        {
+          "Tên ngành": "Sư phạm Sinh học",
+          "Tổ hợp môn": "B00; D08",
+          "Điểm chuẩn": "26.05",
+          "Ghi chú": "Học bạ THPT + ĐGNL chuyên biệt"
+        },
+        {
+          "Tên ngành": "Sư phạm Ngữ văn",
+          "Tổ hợp môn": "C00; D01; D78",
+          "Điểm chuẩn": "25.6",
+          "Ghi chú": "Học bạ THPT + ĐGNL chuyên biệt"
+        },
+        {
+          "Tên ngành": "Sư phạm Ngữ văn",
+          "Tổ hợp môn": "C00; D01; D78",
+          "Điểm chuẩn": "24.56",
+          "Ghi chú": "Phân hiệu Long An, Học bạ THPT + ĐGNL chuyên biệt"
+        },
+        {
+          "Tên ngành": "Sư phạm Tiếng Anh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "26.12",
+          "Ghi chú": "Học bạ THPT + ĐGNL chuyên biệt"
+        },
+        {
+          "Tên ngành": "Sư phạm Tiếng Anh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "24.76",
+          "Ghi chú": "Phân hiệu Long An, Học bạ THPT + ĐGNL chuyên biệt"
+        },
+        {
+          "Tên ngành": "Sư phạm Tiếng Nga",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "21.36",
+          "Ghi chú": "Học bạ THPT + ĐGNL chuyên biệt"
+        },
+        {
+          "Tên ngành": "Sư phạm Tiếng Pháp",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "24.06",
+          "Ghi chú": "Học bạ THPT + ĐGNL chuyên biệt"
+        },
+        {
+          "Tên ngành": "Sư phạm Tiếng Trung Quốc",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.51",
+          "Ghi chú": "Học bạ THPT + ĐGNL chuyên biệt"
+        },
+        {
+          "Tên ngành": "Sư phạm công nghệ",
+          "Tổ hợp môn": "A00; A01; A02; D90",
+          "Điểm chuẩn": "22.31",
+          "Ghi chú": "Học bạ THPT + ĐGNL chuyên biệt"
+        },
+        {
+          "Tên ngành": "Sư phạm khoa học tự nhiên",
+          "Tổ hợp môn": "A00; A02; B00; D90",
+          "Điểm chuẩn": "25.13",
+          "Ghi chú": "Học bạ THPT + ĐGNL chuyên biệt"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "24.82",
+          "Ghi chú": "Học bạ THPT + ĐGNL chuyên biệt"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nga",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "21.35",
+          "Ghi chú": "Học bạ THPT + ĐGNL chuyên biệt"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Pháp",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "20.7",
+          "Ghi chú": "Học bạ THPT + ĐGNL chuyên biệt"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "21.95",
+          "Ghi chú": "Học bạ THPT + ĐGNL chuyên biệt"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "20.2",
+          "Ghi chú": "Học bạ THPT + ĐGNL chuyên biệt"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn quốc",
+          "Tổ hợp môn": "D01; D78; D96",
+          "Điểm chuẩn": "22.29",
+          "Ghi chú": "Học bạ THPT + ĐGNL chuyên biệt"
+        },
+        {
+          "Tên ngành": "Văn học",
+          "Tổ hợp môn": "C00; D01; D78",
+          "Điểm chuẩn": "24.29",
+          "Ghi chú": "Học bạ THPT + ĐGNL chuyên biệt"
+        },
+        {
+          "Tên ngành": "Việt Nam học",
+          "Tổ hợp môn": "C00; D01; D78",
+          "Điểm chuẩn": "22.21",
+          "Ghi chú": "Học bạ THPT + ĐGNL chuyên biệt"
+        },
+        {
+          "Tên ngành": "Sinh học ứng dụng",
+          "Tổ hợp môn": "B00; D08",
+          "Điểm chuẩn": "19.51",
+          "Ghi chú": "Học bạ THPT + ĐGNL chuyên biệt"
+        },
+        {
+          "Tên ngành": "Vật lý học",
+          "Tổ hợp môn": "A00; A01; D90",
+          "Điểm chuẩn": "21.29",
+          "Ghi chú": "Học bạ THPT + ĐGNL chuyên biệt"
+        },
+        {
+          "Tên ngành": "Hoá học",
+          "Tổ hợp môn": "A00; B00; D07",
+          "Điểm chuẩn": "23.23",
+          "Ghi chú": "Học bạ THPT + ĐGNL chuyên biệt"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; B08",
+          "Điểm chuẩn": "20.51",
+          "Ghi chú": "Học bạ THPT + ĐGNL chuyên biệt"
+        }
+      ],
+      "row_count": 35
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:22:32.938646",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-su-pham-tphcm-SPS.html"
+}

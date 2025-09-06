@@ -1,0 +1,1353 @@
+{
+  "school_code": "HBT",
+  "school_name": "Học viện Báo chí và Tuyên truyền",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kinh tế, chuyên ngành Quản lý kinh tế",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "26.26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế, chuyên ngành Quản lý kinh tế",
+          "Tổ hợp môn": "C15",
+          "Điểm chuẩn": "26.76",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế, chuyên ngành Quản lý kinh tế",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "25.76",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế, chuyên ngành Quản lý kinh tế",
+          "Tổ hợp môn": "A16",
+          "Điểm chuẩn": "25.51",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chính trị học, chuyên ngành Công tác tư tưởng - văn hóa",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "25.52",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chính trị học, chuyên ngành Công tác tư tưởng - văn hóa",
+          "Tổ hợp môn": "A16",
+          "Điểm chuẩn": "25.52",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chính trị học, chuyên ngành Công tác tư tưởng - văn hóa",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.52",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chính trị học, chuyên ngành Công tác tư tưởng - văn hóa",
+          "Tổ hợp môn": "C15",
+          "Điểm chuẩn": "25.52",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chính tri học, chuyên ngành Chính trị phát triển",
+          "Tổ hợp môn": "A16",
+          "Điểm chuẩn": "25.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chính tri học, chuyên ngành Chính trị phát triển",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chính tri học, chuyên ngành Chính trị phát triển",
+          "Tổ hợp môn": "C15",
+          "Điểm chuẩn": "25.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chính tri học, chuyên ngành Chính trị phát triển",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "25.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.88",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "C15",
+          "Điểm chuẩn": "25.88",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "AO1",
+          "Điểm chuẩn": "25.88",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "A16",
+          "Điểm chuẩn": "25.88",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chính trị học, chuyên ngành Tư tưởng Hồ Chí Minh",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "25.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chính trị học, chuyên ngành Tư tưởng Hồ Chí Minh",
+          "Tổ hợp môn": "A16",
+          "Điểm chuẩn": "25.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chính trị học, chuyên ngành Tư tưởng Hồ Chí Minh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chính trị học, chuyên ngành Tư tưởng Hồ Chí Minh",
+          "Tổ hợp môn": "C15",
+          "Điểm chuẩn": "25.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chính tri học, chuyên ngành Truyền thông chính sách",
+          "Tổ hợp môn": "A16",
+          "Điểm chuẩn": "25.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chính tri học, chuyên ngành Truyền thông chính sách",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chính tri học, chuyên ngành Truyền thông chính sách",
+          "Tổ hợp môn": "C15",
+          "Điểm chuẩn": "26.35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chính tri học, chuyên ngành Truyền thông chính sách",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "25.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Báo chí, chuyên ngành Báo in",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "35.48",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Báo chí, chuyên ngành Báo in",
+          "Tổ hợp môn": "D72",
+          "Điểm chuẩn": "34.98",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Báo chí, chuyên ngành Báo in",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "36.48",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Báo chí, chuyên ngành Ảnh báo chí",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "36.13",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Báo chí, chuyên ngành Ảnh báo chí",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "35.63",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Báo chí, chuyên ngành Ảnh báo chí",
+          "Tổ hợp môn": "D72",
+          "Điểm chuẩn": "35.13",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Báo chí, chuyên ngành Báo phát thanh",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "36.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Báo chí, chuyên ngành Báo phát thanh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "35.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Báo chí, chuyên ngành Báo phát thanh",
+          "Tổ hợp môn": "D72",
+          "Điểm chuẩn": "35.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Báo chí, chuyên ngành Báo truyền hình",
+          "Tổ hợp môn": "D72",
+          "Điểm chuẩn": "35.46",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Báo chí, chuyên ngành Báo truyền hình",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "37.21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Báo chí, chuyên ngành Báo truyền hình",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "35.96",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Báo chí, chuyên ngành Quay phim truyền hình",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "35.73",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Báo chí, chuyên ngành Quay phim truyền hình",
+          "Tổ hợp môn": "D72",
+          "Điểm chuẩn": "35.48",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Báo chí, chuyên ngành Quay phim truyền hình",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "35.73",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Báo chí, chuyên ngành Báo mạng điện tử",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "36.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Báo chí, chuyên ngành Báo mạng điện tử",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "35.65",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Báo chí, chuyên ngành Báo mạng điện tử",
+          "Tổ hợp môn": "D72",
+          "Điểm chuẩn": "35.15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế, chuyên ngành Thông tin đối ngoại",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế, chuyên ngành Thông tin đối ngoại",
+          "Tổ hợp môn": "D72",
+          "Điểm chuẩn": "34.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế, chuyên ngành Thông tin đối ngoại",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế, chuyên ngành Thông tin đối ngoại",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "36",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế, chuyên ngành Quan hệ chính trị và Truyền thông quốc tế",
+          "Tổ hợp môn": "D72",
+          "Điểm chuẩn": "34.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế, chuyên ngành Quan hệ chính trị và Truyền thông quốc tế",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "35.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế, chuyên ngành Quan hệ chính trị và Truyền thông quốc tế",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "36.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế, chuyên ngành Quan hệ chính trị và Truyền thông quốc tế",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "35.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế, chuyên ngành Quan hệ quốc tế và Truyền thông toàn cầu",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "36.57",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế, chuyên ngành Quan hệ quốc tế và Truyền thông toàn cầu",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "35.57",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế, chuyên ngành Quan hệ quốc tế và Truyền thông toàn cầu",
+          "Tổ hợp môn": "D72",
+          "Điểm chuẩn": "35.07",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế, chuyên ngành Quan hệ quốc tế và Truyền thông toàn cầu",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "35.57",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ công chúng, chuyên ngành Quan hệ công chúng chuyên nghiệp",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "36.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ công chúng, chuyên ngành Quan hệ công chúng chuyên nghiệp",
+          "Tổ hợp môn": "D72",
+          "Điểm chuẩn": "35.95",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ công chúng, chuyên ngành Quan hệ công chúng chuyên nghiệp",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "36.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ công chúng, chuyên ngành Quan hệ công chúng chuyên nghiệp",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "37.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ công chúng, chuyên ngành Truyền thông marketing",
+          "Tổ hợp môn": "D72",
+          "Điểm chuẩn": "35.63",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ công chúng, chuyên ngành Truyền thông marketing",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "36.13",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ công chúng, chuyên ngành Truyền thông marketing",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "37.38",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ công chúng, chuyên ngành Truyền thông marketing",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "36.13",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "35.95",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "35.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D72",
+          "Điểm chuẩn": "34.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "35.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Triết học",
+          "Tổ hợp môn": "A16",
+          "Điểm chuẩn": "25.38",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Triết học",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.38",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Triết học",
+          "Tổ hợp môn": "C15",
+          "Điểm chuẩn": "25.38",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Triết học",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "25.38",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chủ nghĩa xã hội khoa học",
+          "Tổ hợp môn": "A16",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chủ nghĩa xã hội khoa học",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chủ nghĩa xã hội khoa học",
+          "Tổ hợp môn": "C15",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chủ nghĩa xã hội khoa học",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Lịch sử",
+          "Tổ hợp môn": "D14",
+          "Điểm chuẩn": "36.12",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Lịch sử",
+          "Tổ hợp môn": "C03",
+          "Điểm chuẩn": "36.12",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Lịch sử",
+          "Tổ hợp môn": "C19",
+          "Điểm chuẩn": "38.12",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Lịch sử",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "38.12",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế chính trị",
+          "Tổ hợp môn": "A16",
+          "Điểm chuẩn": "25.39",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế chính trị",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.89",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế chính trị",
+          "Tổ hợp môn": "C15",
+          "Điểm chuẩn": "26.39",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế chính trị",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "25.89",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền nhà nước",
+          "Tổ hợp môn": "A16",
+          "Điểm chuẩn": "24.68",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền nhà nước",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền nhà nước",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "25.18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và Chính quyền nhà nước",
+          "Tổ hợp môn": "C15",
+          "Điểm chuẩn": "25.43",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xã hội học",
+          "Tổ hợp môn": "A16",
+          "Điểm chuẩn": "25.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xã hội học",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xã hội học",
+          "Tổ hợp môn": "C15",
+          "Điểm chuẩn": "26.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xã hội học",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "25.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "C15",
+          "Điểm chuẩn": "28.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "A16",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông đại chúng",
+          "Tổ hợp môn": "C15",
+          "Điểm chuẩn": "28.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông đại chúng",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "26.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông đại chúng",
+          "Tổ hợp môn": "A16",
+          "Điểm chuẩn": "26.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông đại chúng",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "26.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông quốc tế",
+          "Tổ hợp môn": "D72",
+          "Điểm chuẩn": "35.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông quốc tế",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "35.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông quốc tế",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "37.15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông quốc tế",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "35.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quảng cáo",
+          "Tổ hợp môn": "D72",
+          "Điểm chuẩn": "35.08",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quảng cáo",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "35.58",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quảng cáo",
+          "Tổ hợp môn": "D78",
+          "Điểm chuẩn": "36.08",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quảng cáo",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "35.58",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý công",
+          "Tổ hợp môn": "C15",
+          "Điểm chuẩn": "25.61",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý công",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "25.61",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý công",
+          "Tổ hợp môn": "A16",
+          "Điểm chuẩn": "25.61",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý công",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.61",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "A16",
+          "Điểm chuẩn": "25.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "C15",
+          "Điểm chuẩn": "26.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "25.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xuất bản, chuyên ngành Biên tập xuất bản",
+          "Tổ hợp môn": "A16",
+          "Điểm chuẩn": "25.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xuất bản, chuyên ngành Biên tập xuất bản",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "26.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xuất bản, chuyên ngành Biên tập xuất bản",
+          "Tổ hợp môn": "C15",
+          "Điểm chuẩn": "26.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xuất bản, chuyên ngành Biên tập xuất bản",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "26.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xuất bản, chuyên ngành Xuất bản điện tử",
+          "Tổ hợp môn": "C15",
+          "Điểm chuẩn": "26.77",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xuất bản, chuyên ngành Xuất bản điện tử",
+          "Tổ hợp môn": "A01",
+          "Điểm chuẩn": "26.27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xuất bản, chuyên ngành Xuất bản điện tử",
+          "Tổ hợp môn": "A16",
+          "Điểm chuẩn": "25.77",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xuất bản, chuyên ngành Xuất bản điện tử",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "26.27",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 122
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kinh tế, chuyên ngành Quản lý kinh tế",
+          "Tổ hợp môn": "D01; A01; A16; C15",
+          "Điểm chuẩn": "8.88",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chính trị học, chuyên ngành Công tác tư tưởng - văn hóa",
+          "Tổ hợp môn": "D01; A01; A16; C15",
+          "Điểm chuẩn": "8.26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chính tri học, chuyên ngành Chính trị phát triển",
+          "Tổ hợp môn": "D01; A01; A16; C15",
+          "Điểm chuẩn": "8.59",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "D01; A01; A16; C15",
+          "Điểm chuẩn": "8.51",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chính trị học, chuyên ngành Tư tưởng Hồ Chí Minh",
+          "Tổ hợp môn": "D01; A01; A16; C15",
+          "Điểm chuẩn": "8.52",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chính tri học, chuyên ngành Truyền thông chính sách",
+          "Tổ hợp môn": "D01; A01; A16; C15",
+          "Điểm chuẩn": "8.72",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Báo chí, chuyên ngành Báo in",
+          "Tổ hợp môn": "D01; D72; D78",
+          "Điểm chuẩn": "9.15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Báo chí, chuyên ngành Ảnh báo chí",
+          "Tổ hợp môn": "D01; D72; D78",
+          "Điểm chuẩn": "9.15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Báo chí, chuyên ngành Báo phát thanh",
+          "Tổ hợp môn": "D01; D72; D78",
+          "Điểm chuẩn": "9.29",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Báo chí, chuyên ngành Báo truyền hình",
+          "Tổ hợp môn": "D01; D72; D78",
+          "Điểm chuẩn": "9.38",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Báo chí, chuyên ngành Quay phim truyền hình",
+          "Tổ hợp môn": "D01; D72; D78",
+          "Điểm chuẩn": "9.02",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Báo chí, chuyên ngành Báo mạng điện tử",
+          "Tổ hợp môn": "D01; D72; D78",
+          "Điểm chuẩn": "9.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế, chuyên ngành Thông tin đối ngoại",
+          "Tổ hợp môn": "D01; A01; D72; D78",
+          "Điểm chuẩn": "9.24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế, chuyên ngành Quan hệ chính trị và Truyền thông quốc tế",
+          "Tổ hợp môn": "D01; A01; D72; D78",
+          "Điểm chuẩn": "9.37",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế, chuyên ngành Quan hệ quốc tế và Truyền thông toàn cầu",
+          "Tổ hợp môn": "D01; A01; D72; D78",
+          "Điểm chuẩn": "9.46",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ công chúng, chuyên ngành Quan hệ công chúng chuyên nghiệp",
+          "Tổ hợp môn": "D01; A01; D72; D78",
+          "Điểm chuẩn": "9.52",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ công chúng, chuyên ngành Truyền thông marketing",
+          "Tổ hợp môn": "D01; A01; D72; D78",
+          "Điểm chuẩn": "9.55",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; A01; D72; D78",
+          "Điểm chuẩn": "9.42",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Triết học",
+          "Tổ hợp môn": "D01; A01; A16; C15",
+          "Điểm chuẩn": "8.44",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chủ nghĩa xã hội khoa học",
+          "Tổ hợp môn": "D01; A01; A16; C15",
+          "Điểm chuẩn": "8.48",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Lịch sử",
+          "Tổ hợp môn": "C00; C03; C19; D14",
+          "Điểm chuẩn": "9.09",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế chính trị",
+          "Tổ hợp môn": "D01; A01; A16; C15",
+          "Điểm chuẩn": "8.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền nhà nước",
+          "Tổ hợp môn": "D01; A01; A16; C15",
+          "Điểm chuẩn": "8.52",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xã hội học",
+          "Tổ hợp môn": "D01; A01; A16; C15",
+          "Điểm chuẩn": "8.84",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "D01; A01; A16; C15",
+          "Điểm chuẩn": "9.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông đại chúng",
+          "Tổ hợp môn": "D01; A01; A16; C15",
+          "Điểm chuẩn": "9.41",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông quốc tế",
+          "Tổ hợp môn": "D01; A01; D72; D78",
+          "Điểm chuẩn": "9.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quảng cáo",
+          "Tổ hợp môn": "D01; A01; D72; D78",
+          "Điểm chuẩn": "9.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý công",
+          "Tổ hợp môn": "D01; A01; A16; C15",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "D01; A01; A16; C15",
+          "Điểm chuẩn": "8.79",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xuất bản, chuyên ngành Biên tập xuất bản",
+          "Tổ hợp môn": "D01; A01; A16; C15",
+          "Điểm chuẩn": "9.04",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xuất bản, chuyên ngành Xuất bản điện tử",
+          "Tổ hợp môn": "D01; A01; A16; C15",
+          "Điểm chuẩn": "9.02",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 32
+    },
+    {
+      "table_title": "Chứng chỉ quốc tế năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kinh tế, chuyên ngành Quản lý kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6.5",
+          "Ghi chú": "IELTS"
+        },
+        {
+          "Tên ngành": "Kinh tế, chuyên ngành Quản lý kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1200",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Chính trị học, chuyên ngành Công tác tư tưởng - văn hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6.5",
+          "Ghi chú": "IELTS"
+        },
+        {
+          "Tên ngành": "Chính trị học, chuyên ngành Công tác tư tưởng - văn hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1200",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Chính tri học, chuyên ngành Chính trị phát triển",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6.5",
+          "Ghi chú": "IELTS"
+        },
+        {
+          "Tên ngành": "Chính tri học, chuyên ngành Chính trị phát triển",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1200",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1200",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6.5",
+          "Ghi chú": "IELTS"
+        },
+        {
+          "Tên ngành": "Chính trị học, chuyên ngành Tư tưởng Hồ Chí Minh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6.5",
+          "Ghi chú": "IELTS"
+        },
+        {
+          "Tên ngành": "Chính trị học, chuyên ngành Tư tưởng Hồ Chí Minh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1200",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Chính tri học, chuyên ngành Truyền thông chính sách",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1200",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Chính tri học, chuyên ngành Truyền thông chính sách",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6.5",
+          "Ghi chú": "IELTS"
+        },
+        {
+          "Tên ngành": "Báo chí, chuyên ngành Báo in",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6.5",
+          "Ghi chú": "IELTS"
+        },
+        {
+          "Tên ngành": "Báo chí, chuyên ngành Báo in",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1200",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Báo chí, chuyên ngành Ảnh báo chí",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6.5",
+          "Ghi chú": "IELTS"
+        },
+        {
+          "Tên ngành": "Báo chí, chuyên ngành Ảnh báo chí",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1200",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Báo chí, chuyên ngành Báo phát thanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6.5",
+          "Ghi chú": "IELTS"
+        },
+        {
+          "Tên ngành": "Báo chí, chuyên ngành Báo phát thanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1200",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Báo chí, chuyên ngành Báo truyền hình",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6.5",
+          "Ghi chú": "IELTS"
+        },
+        {
+          "Tên ngành": "Báo chí, chuyên ngành Báo truyền hình",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1200",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Báo chí, chuyên ngành Quay phim truyền hình",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1200",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Báo chí, chuyên ngành Quay phim truyền hình",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6.5",
+          "Ghi chú": "IELTS"
+        },
+        {
+          "Tên ngành": "Báo chí, chuyên ngành Báo mạng điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1200",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Báo chí, chuyên ngành Báo mạng điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6.5",
+          "Ghi chú": "IELTS"
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế, chuyên ngành Thông tin đối ngoại",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6.5",
+          "Ghi chú": "IELTS"
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế, chuyên ngành Thông tin đối ngoại",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1200",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế, chuyên ngành Quan hệ chính trị và Truyền thông quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6.5",
+          "Ghi chú": "IELTS"
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế, chuyên ngành Quan hệ chính trị và Truyền thông quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1200",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế, chuyên ngành Quan hệ quốc tế và Truyền thông toàn cầu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "7",
+          "Ghi chú": "IELTS"
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế, chuyên ngành Quan hệ quốc tế và Truyền thông toàn cầu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1280",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Quan hệ công chúng, chuyên ngành Quan hệ công chúng chuyên nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "7",
+          "Ghi chú": "IELTS"
+        },
+        {
+          "Tên ngành": "Quan hệ công chúng, chuyên ngành Quan hệ công chúng chuyên nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1280",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Quan hệ công chúng, chuyên ngành Truyền thông marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1280",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Quan hệ công chúng, chuyên ngành Truyền thông marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "7",
+          "Ghi chú": "IELTS"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "7",
+          "Ghi chú": "IELTS"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1280",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Triết học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6.5",
+          "Ghi chú": "IELTS"
+        },
+        {
+          "Tên ngành": "Triết học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1200",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Chủ nghĩa xã hội khoa học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6.5",
+          "Ghi chú": "IELTS"
+        },
+        {
+          "Tên ngành": "Chủ nghĩa xã hội khoa học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1200",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Lịch sử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6.5",
+          "Ghi chú": "IELTS"
+        },
+        {
+          "Tên ngành": "Lịch sử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1200",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Kinh tế chính trị",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1200",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Kinh tế chính trị",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6.5",
+          "Ghi chú": "IELTS"
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền nhà nước",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6.5",
+          "Ghi chú": "IELTS"
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền nhà nước",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1200",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Xã hội học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1200",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Xã hội học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6.5",
+          "Ghi chú": "IELTS"
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "7.5",
+          "Ghi chú": "IELTS"
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1360",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Truyền thông đại chúng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6.5",
+          "Ghi chú": "IELTS"
+        },
+        {
+          "Tên ngành": "Truyền thông đại chúng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1200",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Truyền thông quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "7",
+          "Ghi chú": "IELTS"
+        },
+        {
+          "Tên ngành": "Truyền thông quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1280",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Quảng cáo",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6.5",
+          "Ghi chú": "IELTS"
+        },
+        {
+          "Tên ngành": "Quảng cáo",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1200",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Quản lý công",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1200",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Quản lý công",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6.5",
+          "Ghi chú": "IELTS"
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6.5",
+          "Ghi chú": "IELTS"
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1200",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Xuất bản, chuyên ngành Biên tập xuất bản",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6.5",
+          "Ghi chú": "IELTS"
+        },
+        {
+          "Tên ngành": "Xuất bản, chuyên ngành Biên tập xuất bản",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1200",
+          "Ghi chú": "SAT"
+        },
+        {
+          "Tên ngành": "Xuất bản, chuyên ngành Xuất bản điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "6.5",
+          "Ghi chú": "IELTS"
+        },
+        {
+          "Tên ngành": "Xuất bản, chuyên ngành Xuất bản điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1200",
+          "Ghi chú": "SAT"
+        }
+      ],
+      "row_count": 64
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:24:08.166812",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-bao-chi-va-tuyen-truyen-HBT.html"
+}

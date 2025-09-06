@@ -1,0 +1,129 @@
+{
+  "school_code": "DTG",
+  "school_name": "Phân hiệu Đại học Thái Nguyên tại Hà Giang",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "SP Giáo dục Mầm non",
+          "Tổ hợp môn": "C00; C19; C20; M01",
+          "Điểm chuẩn": "26.25",
+          "Ghi chú": "Trình độ cao đẳng"
+        },
+        {
+          "Tên ngành": "SP Giáo dục Mầm non",
+          "Tổ hợp môn": "C00; C19; C20; M01",
+          "Điểm chuẩn": "26.36",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "SP Giáo dục Tiểu học",
+          "Tổ hợp môn": "C00; C19; C20; M01",
+          "Điểm chuẩn": "27.31",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "SP tiếng H'mong",
+          "Tổ hợp môn": "M01; C00; C20; C19",
+          "Điểm chuẩn": "25.09",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "D45; D15; D14; D66",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 5
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "SP Giáo dục Mầm non",
+          "Tổ hợp môn": "C00; C19; C20; M01",
+          "Điểm chuẩn": "26.2",
+          "Ghi chú": "Trình độ cao đẳng"
+        },
+        {
+          "Tên ngành": "SP Giáo dục Mầm non",
+          "Tổ hợp môn": "C00; C19; C20; M01",
+          "Điểm chuẩn": "26.96",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "SP Giáo dục Tiểu học",
+          "Tổ hợp môn": "C00; C19; C20; M01",
+          "Điểm chuẩn": "27.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "SP tiếng H'mong",
+          "Tổ hợp môn": "M01; C00; C20; C19",
+          "Điểm chuẩn": "24.43",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "D45; D15; D14; D66",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 5
+    },
+    {
+      "table_title": "Điểm xét tuyển kết hợp năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "SP Giáo dục Mầm non",
+          "Tổ hợp môn": "C00; C19; C20; M01",
+          "Điểm chuẩn": "25.73",
+          "Ghi chú": "Trình độ cao đẳng. Điểm thi tốt nghiệp THPT + năng khiếu"
+        },
+        {
+          "Tên ngành": "SP Giáo dục Mầm non",
+          "Tổ hợp môn": "C00; C19; C20; M01",
+          "Điểm chuẩn": "25.97",
+          "Ghi chú": "Điểm thi tốt nghiệp THPT + năng khiếu"
+        },
+        {
+          "Tên ngành": "SP Giáo dục Tiểu học",
+          "Tổ hợp môn": "C00; C19; C20; M01",
+          "Điểm chuẩn": "26.95",
+          "Ghi chú": "Điểm thi tốt nghiệp THPT + năng khiếu"
+        },
+        {
+          "Tên ngành": "SP tiếng H'mong",
+          "Tổ hợp môn": "M01; C00; C20; C19",
+          "Điểm chuẩn": "22.75",
+          "Ghi chú": "Điểm thi tốt nghiệp THPT + năng khiếu"
+        }
+      ],
+      "row_count": 4
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:32:19.073477",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/phan-hieu-dai-hoc-thai-nguyen-tai-ha-giang-DTG.html"
+}

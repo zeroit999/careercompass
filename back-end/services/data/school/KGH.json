@@ -1,0 +1,141 @@
+{
+  "school_code": "KGH",
+  "school_name": "Trường Sĩ Quan Không Quân - Hệ Đại học",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kỹ thuật hàng không",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "19.05",
+          "Ghi chú": "Hệ cao đẳng, miền Bắc"
+        },
+        {
+          "Tên ngành": "Kỹ thuật hàng không",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "22.85",
+          "Ghi chú": "Hệ cao đẳng, miền Nam"
+        },
+        {
+          "Tên ngành": "Chỉ huy tham mưu không quân (Sĩ quan Dù - Tìm kiếm cứu nạn ĐK)",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "21.05",
+          "Ghi chú": "Hệ đại học"
+        },
+        {
+          "Tên ngành": "Chỉ huy tham mưu không quân (Phi công quân sự)",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "22.35",
+          "Ghi chú": "Hệ đại học - Thí sinh miền Bắc"
+        },
+        {
+          "Tên ngành": "Chỉ huy tham mưu không quân (Phi công quân sự)",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "22.35",
+          "Ghi chú": "Hệ đại học - Thí sinh miền Nam"
+        }
+      ],
+      "row_count": 5
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngành Kỹ thuật hàng không",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "26.547",
+          "Ghi chú": "Hệ ĐT Cao đẳng, miền Bắc"
+        },
+        {
+          "Tên ngành": "Ngành Kỹ thuật hàng không",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "26.391",
+          "Ghi chú": "Hệ ĐT Cao đẳng, miền Nam"
+        },
+        {
+          "Tên ngành": "Ngành Sĩ quan CHTM Không quân (Phi công quân sự)",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "25.392",
+          "Ghi chú": "Hệ ĐT Đại học"
+        }
+      ],
+      "row_count": 3
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngành Kỹ thuật hàng không",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.9",
+          "Ghi chú": "Hệ ĐT Cao đẳng, miền Bắc"
+        },
+        {
+          "Tên ngành": "Ngành Kỹ thuật hàng không",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.125",
+          "Ghi chú": "Hệ ĐT Cao đẳng, miền Nam"
+        },
+        {
+          "Tên ngành": "Ngành Sĩ quan CHTM Không quân (Phi công quân sự)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.65",
+          "Ghi chú": "Hệ ĐT Đại học"
+        }
+      ],
+      "row_count": 3
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngành Kỹ thuật hàng không",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.9",
+          "Ghi chú": "Hệ ĐT Cao đẳng, miền Bắc"
+        },
+        {
+          "Tên ngành": "Ngành Kỹ thuật hàng không",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.125",
+          "Ghi chú": "Hệ ĐT Cao đẳng, miền Nam"
+        },
+        {
+          "Tên ngành": "Ngành Sĩ quan CHTM Không quân (Phi công quân sự)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.65",
+          "Ghi chú": "Hệ ĐT Đại học"
+        }
+      ],
+      "row_count": 3
+    }
+  ],
+  "table_count": 4,
+  "crawled_at": "2025-07-18T23:28:06.067653",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/truong-si-quan-khong-quan-he-dai-hoc-KGH.html"
+}

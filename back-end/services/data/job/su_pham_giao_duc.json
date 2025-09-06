@@ -1,0 +1,4642 @@
+{
+  "nhom_nganh": "Sư phạm - Giáo dục",
+  "danh_sach_nganh": [
+    {
+      "ten_nganh": "Công nghệ giáo dục",
+      "data": [
+        {
+          "ten_truong": "Đại Học Bách Khoa Hà Nội - BKA",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ giáo dục",
+              "to_hop_mon": "A00; A01; B03; C01; C02; D01; X02",
+              "diem_chuan_2024": "25.3",
+              "diem_chuan_2023": "24.55"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm TPHCM - SPS",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ giáo dục",
+              "to_hop_mon": "A01; B08; D07; X26",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Tự Nhiên TPHCM - QST",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ giáo dục",
+              "to_hop_mon": "A00; A01; D07; D01; B08; X26; C01; C02; B03; X02; X06; X10; X14",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đồng Tháp - SPD",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ Giáo dục",
+              "to_hop_mon": "A00; C01; D01; X03; X26; X27",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật Hưng Yên - SKH",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ giáo dục",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nguyễn Tất Thành - NTT",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ Giáo dục",
+              "to_hop_mon": "A00; A01; D01; B03; C01; C02; X02; X06; X07; X08; X26; X27; X28",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Tư thục Quốc Tế Sài Gòn - SIU",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ giáo dục",
+              "to_hop_mon": "A00; A01; X06; X10; X02; D07",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Sư phạm Toán",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội - SPH",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Toán học",
+              "to_hop_mon": "A00; A01",
+              "diem_chuan_2024": "27.48",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm TPHCM - SPS",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Toán học",
+              "to_hop_mon": "A00; A01; X06",
+              "diem_chuan_2024": "27.6",
+              "diem_chuan_2023": "26.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Sư Phạm Thái Nguyên",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Toán học",
+              "to_hop_mon": "A00; A01; B00; D01",
+              "diem_chuan_2024": "26.37",
+              "diem_chuan_2023": "25.43"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Toán học",
+              "to_hop_mon": "A00; A01; B08; D07",
+              "diem_chuan_2024": "26.79",
+              "diem_chuan_2023": "26.18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Huế - DHS",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Toán học",
+              "to_hop_mon": "A00; A01",
+              "diem_chuan_2024": "26.2",
+              "diem_chuan_2023": "25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sài Gòn - SGD",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Toán học",
+              "to_hop_mon": "A00; A01; A02; A03; A04; A05; A06; A07; B00; B01; B02; B03; B08; C01; C02; C03; C04; D01; D07; D09; D10; X01; X02; X03; X04; X05; X06; X07; X08; X09; X10; X11; X12; X13; X14; X15; X16; X17; X18; X19; X20; X21; X22; X23; X24; X25; X26; X27; X28; X53; X54",
+              "diem_chuan_2024": "27",
+              "diem_chuan_2023": "26.31"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm - Đại Học Đà Nẵng - DDS",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Toán học",
+              "to_hop_mon": "A00; A01; X06",
+              "diem_chuan_2024": "26.18",
+              "diem_chuan_2023": "24.96"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội 2 - SP2",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Toán học",
+              "to_hop_mon": "A00; A01; D07; X26",
+              "diem_chuan_2024": "26.83",
+              "diem_chuan_2023": "26.28"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hùng Vương - THV",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Toán học",
+              "to_hop_mon": "D01; A00; D84; (Toán, Lí, Tin)",
+              "diem_chuan_2024": "26.5",
+              "diem_chuan_2023": "24.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Vinh - TDV",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Toán học",
+              "to_hop_mon": "A00; A01; A02; B00",
+              "diem_chuan_2024": "26.2",
+              "diem_chuan_2023": "25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học An Giang - QSA",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Toán học",
+              "to_hop_mon": "A00; A01; C01; D01; D07",
+              "diem_chuan_2024": "26.18",
+              "diem_chuan_2023": "25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đồng Tháp - SPD",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Toán học",
+              "to_hop_mon": "A00; A01; A02; C01; C02; D01",
+              "diem_chuan_2024": "26.33",
+              "diem_chuan_2023": "24.17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Nguyên - TTN",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Toán học",
+              "to_hop_mon": "A00; A01; A02; C01",
+              "diem_chuan_2024": "25.91",
+              "diem_chuan_2023": "24.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quy Nhơn - DQN",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Toán học",
+              "to_hop_mon": "A00; A01; D07; X26",
+              "diem_chuan_2024": "26.5",
+              "diem_chuan_2023": "25.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hạ Long - HLU",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Toán học",
+              "to_hop_mon": "A00; B00; A01; A04; D07; D01; C01; C02",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hải Dương - DKT",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Toán học",
+              "to_hop_mon": "A00; A01; A02; B00; C01; C02; D01; D07",
+              "diem_chuan_2024": "25.11",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quảng Bình - DQB",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Toán học",
+              "to_hop_mon": "A00; A01; A02; X05; X09; D07; X26; X27",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Phạm Văn Đồng - DPQ",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Toán học",
+              "to_hop_mon": "A00; A01; X05; D01",
+              "diem_chuan_2024": "24.4",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quảng Nam - DQU",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tiếng Anh",
+              "to_hop_mon": "A01; D01; D14; D15",
+              "diem_chuan_2024": "24.25",
+              "diem_chuan_2023": "23.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Phú Yên - DPY",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Toán học",
+              "to_hop_mon": "A00; A01; A04; B00; D01; D14",
+              "diem_chuan_2024": "25.7",
+              "diem_chuan_2023": "24"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Khánh Hòa - UKH",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Toán học",
+              "to_hop_mon": "A00; A01; B00; D01; D07; X26",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hồng Đức - HDT",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Toán học",
+              "to_hop_mon": "A00; A01; A04; C01; (Toán, Lí, Tin)",
+              "diem_chuan_2024": "26.28",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đồng Nai - DNU",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Toán học",
+              "to_hop_mon": "A00; A01; C01; D07; D01",
+              "diem_chuan_2024": "25.25",
+              "diem_chuan_2023": "24.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Bắc - TTB",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Toán học",
+              "to_hop_mon": "A00; A01; B00; C01; C02; D01; D07; X06",
+              "diem_chuan_2024": "25.34",
+              "diem_chuan_2023": "24.2"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đà Lạt - TDL",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Toán học",
+              "to_hop_mon": "Môn Toán*2 (bắt buộc) + 1 trong các môn: Vật lý, Hóa học, Sinh học, Tiếng Anh, Tin học, Công nghệ",
+              "diem_chuan_2024": "25.8",
+              "diem_chuan_2023": "26.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kiên Giang - TKG",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Toán học",
+              "to_hop_mon": "A00; A01; A08; X17; A09; X21; D01; D09",
+              "diem_chuan_2024": "25.88",
+              "diem_chuan_2023": "24.44"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Sư phạm Vật lý",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội - SPH",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Vật lí",
+              "to_hop_mon": "A00; A01",
+              "diem_chuan_2024": "27.71",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm TPHCM - SPS",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Vật lý",
+              "to_hop_mon": "A00; A01; C01",
+              "diem_chuan_2024": "27.25",
+              "diem_chuan_2023": "26.1"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thủ Đô Hà Nội - HNM",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Vật lí",
+              "to_hop_mon": "A00; A01; A02; C01; D30",
+              "diem_chuan_2024": "25.65",
+              "diem_chuan_2023": "24.2"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Sư Phạm Thái Nguyên",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Vật lý",
+              "to_hop_mon": "A00; A01; C01; X07",
+              "diem_chuan_2024": "26.02",
+              "diem_chuan_2023": "24.47"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Vật lý",
+              "to_hop_mon": "A00; A01; A02; D29",
+              "diem_chuan_2024": "26.22",
+              "diem_chuan_2023": "25.65"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Huế - DHS",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Vật lý",
+              "to_hop_mon": "A00; A01; A02; X07",
+              "diem_chuan_2024": "25.7",
+              "diem_chuan_2023": "24"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sài Gòn - SGD",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Vật lý",
+              "to_hop_mon": "A00; A01; A02; A03; A04; C01; X05; X06; X07; X08",
+              "diem_chuan_2024": "26.43",
+              "diem_chuan_2023": "24.61"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm - Đại Học Đà Nẵng - DDS",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Vật lý",
+              "to_hop_mon": "A01; A00; X06; C01",
+              "diem_chuan_2024": "26",
+              "diem_chuan_2023": "24.7"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội 2 - SP2",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Vật lý",
+              "to_hop_mon": "A00; A01; C01; D11",
+              "diem_chuan_2024": "26.81",
+              "diem_chuan_2023": "25.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Vinh - TDV",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Vật lý",
+              "to_hop_mon": "A00; A01; A02; C01",
+              "diem_chuan_2024": "25.9",
+              "diem_chuan_2023": "24.4"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học An Giang - QSA",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Vật Lí",
+              "to_hop_mon": "A00; A01; A02; A03; A04; C01; X05; X06",
+              "diem_chuan_2024": "25.57",
+              "diem_chuan_2023": "24.15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đồng Tháp - SPD",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Vật lý",
+              "to_hop_mon": "A00; A01; A02; C01; X06; X07",
+              "diem_chuan_2024": "25.8",
+              "diem_chuan_2023": "23.98"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Nguyên - TTN",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Vật lý",
+              "to_hop_mon": "A00; A01; A02; C01",
+              "diem_chuan_2024": "25.45",
+              "diem_chuan_2023": "23.39"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quy Nhơn - DQN",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Vật lý",
+              "to_hop_mon": "A00; A01; A02; X05",
+              "diem_chuan_2024": "25.75",
+              "diem_chuan_2023": "23.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hải Dương - DKT",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Vật lý",
+              "to_hop_mon": "A00; A01; A02; A10; C01; D11",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Phạm Văn Đồng - DPQ",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Vật lý",
+              "to_hop_mon": "A00; X05; A01; C01",
+              "diem_chuan_2024": "23.6",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quảng Nam - DQU",
+          "data_school": [
+            {
+              "ten_nganh": "Lịch sử",
+              "to_hop_mon": "C00; D14; X17; X70",
+              "diem_chuan_2024": "23.5",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Khánh Hòa - UKH",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Vật lý",
+              "to_hop_mon": "A00; A01; A02; C01; X06",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hồng Đức - HDT",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Vật Lý",
+              "to_hop_mon": "A00; A01; A02; A04; C01",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Bắc - TTB",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Vật lí",
+              "to_hop_mon": "A00; A01; A02; A04; C01; X05; X06; X07",
+              "diem_chuan_2024": "23.96",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đà Lạt - TDL",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Vật lý",
+              "to_hop_mon": "A00; A02; A01; X06; X07; X08",
+              "diem_chuan_2024": "25.25",
+              "diem_chuan_2023": "24"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Sư phạm Ngữ văn",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội - SPH",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Ngữ văn",
+              "to_hop_mon": "C00; D01",
+              "diem_chuan_2024": "29.3",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm TPHCM - SPS",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Ngữ văn",
+              "to_hop_mon": "C00; D01; D14",
+              "diem_chuan_2024": "28.6",
+              "diem_chuan_2023": "27"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thủ Đô Hà Nội - HNM",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Ngữ văn",
+              "to_hop_mon": "D01; D04; D14; D15; D45; D65; D66; D71; X78; X90",
+              "diem_chuan_2024": "26.58",
+              "diem_chuan_2023": "25.8"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thủ Dầu Một - TDM",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Ngữ văn",
+              "to_hop_mon": "C00; C03; C04; C07; C10; D01; D14; D15; X70; X74",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": "23.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Sư Phạm Thái Nguyên",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Ngữ văn",
+              "to_hop_mon": "C00; C19; C20; D01; D14; D15; X70; X74",
+              "diem_chuan_2024": "28.56",
+              "diem_chuan_2023": "26.85"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Ngữ văn",
+              "to_hop_mon": "C00; D01; D14; D15",
+              "diem_chuan_2024": "27.83",
+              "diem_chuan_2023": "26.63"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Huế - DHS",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Ngữ văn",
+              "to_hop_mon": "C00; D01; X70; X78",
+              "diem_chuan_2024": "28.1",
+              "diem_chuan_2023": "27.35"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sài Gòn - SGD",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Ngữ văn",
+              "to_hop_mon": "B03; C01; C02; C03; C04; D01; X01; X02; X03; X04",
+              "diem_chuan_2024": "28.11",
+              "diem_chuan_2023": "25.81"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm - Đại Học Đà Nẵng - DDS",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Ngữ văn",
+              "to_hop_mon": "C00; D14; C03",
+              "diem_chuan_2024": "27.83",
+              "diem_chuan_2023": "25.92"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội 2 - SP2",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Ngữ văn",
+              "to_hop_mon": "C00; D01; X70; X74",
+              "diem_chuan_2024": "28.83",
+              "diem_chuan_2023": "27.47"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hùng Vương - THV",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Ngữ văn",
+              "to_hop_mon": "C00; C19; C20; D14",
+              "diem_chuan_2024": "28.44",
+              "diem_chuan_2023": "27.45"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Vinh - TDV",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Ngữ văn",
+              "to_hop_mon": "C00; C19; D14",
+              "diem_chuan_2024": "28.46",
+              "diem_chuan_2023": "26.7"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học An Giang - QSA",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Ngữ văn",
+              "to_hop_mon": "C00; C03; D14; D15; X70; X74",
+              "diem_chuan_2024": "27.44",
+              "diem_chuan_2023": "24.96"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đồng Tháp - SPD",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Ngữ văn",
+              "to_hop_mon": "C00; C03; C04; C19; C20; D14; D15; X70; X74",
+              "diem_chuan_2024": "27.31",
+              "diem_chuan_2023": "26.4"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Nguyên - TTN",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Ngữ văn",
+              "to_hop_mon": "C00; D14; X70; X74",
+              "diem_chuan_2024": "27.58",
+              "diem_chuan_2023": "26"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quy Nhơn - DQN",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Ngữ văn",
+              "to_hop_mon": "C00; D01; D14; D15",
+              "diem_chuan_2024": "27.35",
+              "diem_chuan_2023": "25.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hạ Long - HLU",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Ngữ văn",
+              "to_hop_mon": "C00; C04; D01; D14; D15; X70; X74; X78",
+              "diem_chuan_2024": "26.9",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hải Dương - DKT",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Ngữ Văn",
+              "to_hop_mon": "C00; C03; C04; C09; C14; C19; C20; D01",
+              "diem_chuan_2024": "26.62",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quảng Bình - DQB",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Ngữ văn",
+              "to_hop_mon": "X70; X74; D14; D15; C00; C12; C13; X75; X71; X78",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": "23"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Phạm Văn Đồng - DPQ",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Ngữ văn",
+              "to_hop_mon": "C00; X74; X70; X01",
+              "diem_chuan_2024": "26.6",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quảng Nam - DQU",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Tiểu học",
+              "to_hop_mon": "",
+              "diem_chuan_2024": "25.74",
+              "diem_chuan_2023": "23.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Phú Yên - DPY",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Ngữ văn",
+              "to_hop_mon": "C00; C03; C04; D01; D14",
+              "diem_chuan_2024": "25.73",
+              "diem_chuan_2023": "23.2"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Trà Vinh - DVT",
+          "data_school": [
+            {
+              "ten_nganh": "Sư Phạm Ngữ Văn",
+              "to_hop_mon": "C00; C20; D14; D15; X70; X71; Y07",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Khánh Hòa - UKH",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Ngữ văn",
+              "to_hop_mon": "C00; C03; C04; D01; D14; D15",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hồng Đức - HDT",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Ngữ văn",
+              "to_hop_mon": "C00; C03; C12; C19; D14",
+              "diem_chuan_2024": "28.83",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đồng Nai - DNU",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Ngữ văn",
+              "to_hop_mon": "D01; D14; D15; C00",
+              "diem_chuan_2024": "25.5",
+              "diem_chuan_2023": "23.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Bắc - TTB",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Ngữ văn",
+              "to_hop_mon": "C00; D01; D14; D15; D66; X70; X74; X78",
+              "diem_chuan_2024": "28.11",
+              "diem_chuan_2023": "27"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đà Lạt - TDL",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Ngữ văn",
+              "to_hop_mon": "Môn Ngữ văn*2 + 1 trong các môn: Lịch sử, Địa lý, Giáo dục kinh tế và pháp luật, Tiếng Anh, Công nghệ, Tin học",
+              "diem_chuan_2024": "27.75",
+              "diem_chuan_2023": "26"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Sư phạm Tiếng Anh",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội - SPH",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tiếng Anh",
+              "to_hop_mon": "D01",
+              "diem_chuan_2024": "27.75",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm TPHCM - SPS",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tiếng Anh",
+              "to_hop_mon": "D01; X79",
+              "diem_chuan_2024": "27.01",
+              "diem_chuan_2023": "26.62"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thủ Đô Hà Nội - HNM",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tiếng Anh",
+              "to_hop_mon": "A00; A01; A02; C01; D30",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Ngoại Ngữ - ĐH Quốc gia Hà Nội - QHF",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm tiếng Anh",
+              "to_hop_mon": "D15; D14; D07; D01; D08; A01",
+              "diem_chuan_2024": "38.45",
+              "diem_chuan_2023": "37.21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Sư Phạm Thái Nguyên",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tiếng Anh",
+              "to_hop_mon": "D01; D09; D15",
+              "diem_chuan_2024": "26.87",
+              "diem_chuan_2023": "25.88"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tiếng Anh",
+              "to_hop_mon": "D01; D14; D15; D66; X78",
+              "diem_chuan_2024": "26.93",
+              "diem_chuan_2023": "26.1"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sài Gòn - SGD",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tiếng Anh",
+              "to_hop_mon": "A01; B08; D01; D07; D09; D10; D11; D12; D13; D14; D15; X25; X26; X27; X28; X78; X79; X80; X81",
+              "diem_chuan_2024": "27",
+              "diem_chuan_2023": "26.15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội 2 - SP2",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tiếng Anh",
+              "to_hop_mon": "A01; D01; D12; D14",
+              "diem_chuan_2024": "27.2",
+              "diem_chuan_2023": "26.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật TPHCM - SPK",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm tiếng Anh (đào tạo bằng tiếng Việt)",
+              "to_hop_mon": "D01; D09; D10; X26",
+              "diem_chuan_2024": "27.5",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Ngoại Ngữ Đà Nẵng - DDF",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm tiếng Anh",
+              "to_hop_mon": "D01; A01; D09; D14",
+              "diem_chuan_2024": "27.24",
+              "diem_chuan_2023": "27.17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Ngoại Ngữ Huế - DHF",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tiếng Anh",
+              "to_hop_mon": "D01; D14; D15",
+              "diem_chuan_2024": "27.1",
+              "diem_chuan_2023": "25.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hùng Vương - THV",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tiếng Anh",
+              "to_hop_mon": "D01; D15; D14; D66",
+              "diem_chuan_2024": "26.6",
+              "diem_chuan_2023": "25.3"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Vinh - TDV",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tiếng Anh",
+              "to_hop_mon": "D01; D14; D15",
+              "diem_chuan_2024": "26.46",
+              "diem_chuan_2023": "25.3"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học An Giang - QSA",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tiếng Anh",
+              "to_hop_mon": "A01; D01; D09; D10; X26; X27; X28",
+              "diem_chuan_2024": "25.61",
+              "diem_chuan_2023": "24.18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đồng Tháp - SPD",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tiếng Anh",
+              "to_hop_mon": "D01; D13; D14; D15",
+              "diem_chuan_2024": "25.43",
+              "diem_chuan_2023": "23.79"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Nguyên - TTN",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tiếng Anh",
+              "to_hop_mon": "D01; D14; D15; X78",
+              "diem_chuan_2024": "26.62",
+              "diem_chuan_2023": "25.55"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quy Nhơn - DQN",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tiếng Anh",
+              "to_hop_mon": "D01",
+              "diem_chuan_2024": "25.92",
+              "diem_chuan_2023": "24.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Ngoại Ngữ Thái Nguyên - DTF",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tiếng Anh",
+              "to_hop_mon": "D01; D14; D15; D66; X78",
+              "diem_chuan_2024": "26.95",
+              "diem_chuan_2023": "25.9"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hạ Long - HLU",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tiếng Anh",
+              "to_hop_mon": "D01; D10; D09; D15; D14",
+              "diem_chuan_2024": "25.2",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hải Dương - DKT",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm tiếng Anh",
+              "to_hop_mon": "A01; D01; D11; D12; D14; D07; D15",
+              "diem_chuan_2024": "25.25",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quảng Bình - DQB",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tiếng Anh",
+              "to_hop_mon": "D01; A01; D09; D10; D14; D15",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Phạm Văn Đồng - DPQ",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tiếng Anh",
+              "to_hop_mon": "D01; X25; X78; D15",
+              "diem_chuan_2024": "24.5",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quảng Nam - DQU",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Sinh",
+              "to_hop_mon": "",
+              "diem_chuan_2024": "23.94",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Phú Yên - DPY",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tiếng Anh",
+              "to_hop_mon": "A01; D01; D10; D14",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật Hưng Yên - SKH",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tiếng Anh",
+              "to_hop_mon": "A01; D01; D09; D10",
+              "diem_chuan_2024": "24.75",
+              "diem_chuan_2023": "22"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Khánh Hòa - UKH",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tiếng Anh",
+              "to_hop_mon": "D01; D09; D10; D14; D15",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": "24.15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hồng Đức - HDT",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tiếng Anh",
+              "to_hop_mon": "A01; D01; D09; D10; D84",
+              "diem_chuan_2024": "26.85",
+              "diem_chuan_2023": "25.98"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đồng Nai - DNU",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tiếng Anh",
+              "to_hop_mon": "D01; D14; D15; A01",
+              "diem_chuan_2024": "24.75",
+              "diem_chuan_2023": "24.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Bắc - TTB",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tiếng Anh",
+              "to_hop_mon": "A01; D01; D14; D15; D66; X26; X78; X79",
+              "diem_chuan_2024": "25.57",
+              "diem_chuan_2023": "23.9"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đà Lạt - TDL",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tiếng Anh",
+              "to_hop_mon": "D01; D09; D10; X25; X26; X27; X28",
+              "diem_chuan_2024": "25.5",
+              "diem_chuan_2023": "27"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kiên Giang - TKG",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm tiếng Anh (dự kiến 2025)",
+              "to_hop_mon": "D01; D09; D11; D14; D15; D66",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Sư phạm Hóa học",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội - SPH",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Hoá học",
+              "to_hop_mon": "A00; B00",
+              "diem_chuan_2024": "27.62",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm TPHCM - SPS",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Hoá học",
+              "to_hop_mon": "A00; B00; D07",
+              "diem_chuan_2024": "27.67",
+              "diem_chuan_2023": "26.55"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Sư Phạm Thái Nguyên",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Hoá học",
+              "to_hop_mon": "A00; B00; D07",
+              "diem_chuan_2024": "26.17",
+              "diem_chuan_2023": "24.8"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Hóa học",
+              "to_hop_mon": "A00; B00; D07; D24",
+              "diem_chuan_2024": "26.6",
+              "diem_chuan_2023": "25.76"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Huế - DHS",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Hóa học",
+              "to_hop_mon": "A00; B00; D07",
+              "diem_chuan_2024": "25.8",
+              "diem_chuan_2023": "24.6"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sài Gòn - SGD",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Hoá học",
+              "to_hop_mon": "A00; A05; A06; B00; C02; D07; X09; X10; X11; X12",
+              "diem_chuan_2024": "26.96",
+              "diem_chuan_2023": "25.28"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm - Đại Học Đà Nẵng - DDS",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Hóa học",
+              "to_hop_mon": "A00; B00; D07; C02",
+              "diem_chuan_2024": "25.99",
+              "diem_chuan_2023": "25.02"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội 2 - SP2",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Hóa học",
+              "to_hop_mon": "A00; B00; D07; X10",
+              "diem_chuan_2024": "26.54",
+              "diem_chuan_2023": "25.29"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Vinh - TDV",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Hóa học",
+              "to_hop_mon": "A00; B00; D07",
+              "diem_chuan_2024": "26.4",
+              "diem_chuan_2023": "24.8"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học An Giang - QSA",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Hóa học",
+              "to_hop_mon": "A00; A06; B00; C02; D07; X10",
+              "diem_chuan_2024": "25.81",
+              "diem_chuan_2023": "24.15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đồng Tháp - SPD",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Hóa học",
+              "to_hop_mon": "A00; B00; C02; D07; X10; X11",
+              "diem_chuan_2024": "25.94",
+              "diem_chuan_2023": "24.45"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Nguyên - TTN",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Hóa học",
+              "to_hop_mon": "A00; B00; C02; D07",
+              "diem_chuan_2024": "25.32",
+              "diem_chuan_2023": "23.65"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quy Nhơn - DQN",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Hóa học",
+              "to_hop_mon": "A00; B00; C02; D07",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hải Dương - DKT",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Hóa học",
+              "to_hop_mon": "A00; B00; C02; D07; D12",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Phạm Văn Đồng - DPQ",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Hóa học",
+              "to_hop_mon": "A00; C02; B00; D07",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hồng Đức - HDT",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Hóa học",
+              "to_hop_mon": "A00; B00; C02; D07; (Toán, Hóa, Công nghệ)",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Bắc - TTB",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Hóa học",
+              "to_hop_mon": "A00; A11; B00; C02; D07; X09; X10; X11",
+              "diem_chuan_2024": "24.52",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đà Lạt - TDL",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Hóa học",
+              "to_hop_mon": "A00; B00; D07; X10; X11; X12",
+              "diem_chuan_2024": "25.25",
+              "diem_chuan_2023": "24"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Sư phạm Sinh học",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội - SPH",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Sinh học",
+              "to_hop_mon": "B00; D08",
+              "diem_chuan_2024": "26.74",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm TPHCM - SPS",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Sinh học",
+              "to_hop_mon": "B00; D08",
+              "diem_chuan_2024": "26.22",
+              "diem_chuan_2023": "24.9"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Sư Phạm Thái Nguyên",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Sinh học",
+              "to_hop_mon": "A02; B00; B08; X16",
+              "diem_chuan_2024": "25.51",
+              "diem_chuan_2023": "23.3"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Sinh học",
+              "to_hop_mon": "A02; B00; B03; B08",
+              "diem_chuan_2024": "25.38",
+              "diem_chuan_2023": "24.45"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Huế - DHS",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Sinh học",
+              "to_hop_mon": "A02; B00; B01; B02; B03; B08",
+              "diem_chuan_2024": "24.6",
+              "diem_chuan_2023": "22.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sài Gòn - SGD",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Sinh học",
+              "to_hop_mon": "A02; B00; B01; B02; B03; B08; X13; X14; X15; X16",
+              "diem_chuan_2024": "25.16",
+              "diem_chuan_2023": "23.82"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm - Đại Học Đà Nẵng - DDS",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Sinh học",
+              "to_hop_mon": "B00; B03; B08; X16; X14",
+              "diem_chuan_2024": "25.12",
+              "diem_chuan_2023": "22.35"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội 2 - SP2",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Sinh học",
+              "to_hop_mon": "A02; B00; B03; B08",
+              "diem_chuan_2024": "26.33",
+              "diem_chuan_2023": "24.49"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Vinh - TDV",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Sinh học",
+              "to_hop_mon": "A02; B00; B03; B08",
+              "diem_chuan_2024": "25.25",
+              "diem_chuan_2023": "23.55"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học An Giang - QSA",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Sinh học",
+              "to_hop_mon": "A02; B00; B02; B03; B08; X14",
+              "diem_chuan_2024": "24.98",
+              "diem_chuan_2023": "22.24"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đồng Tháp - SPD",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Sinh học",
+              "to_hop_mon": "A02; B00; B03; D08; X14; X16",
+              "diem_chuan_2024": "24.86",
+              "diem_chuan_2023": "23.2"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Nguyên - TTN",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Sinh học",
+              "to_hop_mon": "A02; B00; B03; B08",
+              "diem_chuan_2024": "24.05",
+              "diem_chuan_2023": "20.45"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quy Nhơn - DQN",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Sinh học",
+              "to_hop_mon": "A02; B00; B08",
+              "diem_chuan_2024": "23.9",
+              "diem_chuan_2023": "20"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hải Dương - DKT",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Sinh học",
+              "to_hop_mon": "A02; B00; B01; B02; B03; D08",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quảng Nam - DQU",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ Thông tin",
+              "to_hop_mon": "A00; A01; D01; X01; X02",
+              "diem_chuan_2024": "21.75",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hồng Đức - HDT",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Sinh học",
+              "to_hop_mon": "A02; B00; B03; B04; B08",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Bắc - TTB",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Sinh học",
+              "to_hop_mon": "A02; B00; B03; B04; B08; X13; X14; X16",
+              "diem_chuan_2024": "23.95",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đà Lạt - TDL",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Sinh học",
+              "to_hop_mon": "A00; D07; X10; X11; X12; A05; A02; B00; B08; X14; X15; X16; B01",
+              "diem_chuan_2024": "24.25",
+              "diem_chuan_2023": "20.25"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Sư phạm Lịch sử",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội - SPH",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Lịch sử",
+              "to_hop_mon": "C00; D14",
+              "diem_chuan_2024": "29.3",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm TPHCM - SPS",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Lịch sử",
+              "to_hop_mon": "C00; C19; D14; X70",
+              "diem_chuan_2024": "28.6",
+              "diem_chuan_2023": "26.85"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thủ Đô Hà Nội - HNM",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Lịch sử",
+              "to_hop_mon": "C00; C03; C19; D14; D40; X70",
+              "diem_chuan_2024": "26.18",
+              "diem_chuan_2023": "25.15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Sư Phạm Thái Nguyên",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Lịch sử",
+              "to_hop_mon": "C00; C19; D14; X70",
+              "diem_chuan_2024": "28.6",
+              "diem_chuan_2023": "28"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Lịch sử",
+              "to_hop_mon": "C00; C19; D14; D64; X70",
+              "diem_chuan_2024": "28.43",
+              "diem_chuan_2023": "26.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Huế - DHS",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Lịch sử",
+              "to_hop_mon": "A07; A08; C00; C03; C19; D14; X17; X70",
+              "diem_chuan_2024": "28.3",
+              "diem_chuan_2023": "27.6"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sài Gòn - SGD",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Lịch sử",
+              "to_hop_mon": "C00; C03; C07; C10; C12; D14; X70; X71; X72; X73",
+              "diem_chuan_2024": "28.25",
+              "diem_chuan_2023": "25.66"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm - Đại Học Đà Nẵng - DDS",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Lịch sử",
+              "to_hop_mon": "C00; D14; C19; X70",
+              "diem_chuan_2024": "28.13",
+              "diem_chuan_2023": "27.58"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội 2 - SP2",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Lịch sử",
+              "to_hop_mon": "A07; C00; C03; D14",
+              "diem_chuan_2024": "28.83",
+              "diem_chuan_2023": "28.58"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Vinh - TDV",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Lịch sử",
+              "to_hop_mon": "C00; C19; D14; A07",
+              "diem_chuan_2024": "28.71",
+              "diem_chuan_2023": "28.12"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học An Giang - QSA",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Lịch sử",
+              "to_hop_mon": "A07; C00; C03; D09; D14; X17; X70",
+              "diem_chuan_2024": "27.91",
+              "diem_chuan_2023": "27.21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đồng Tháp - SPD",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Lịch sử",
+              "to_hop_mon": "A07; C00; C03; C19; D09; D14; X70",
+              "diem_chuan_2024": "27.84",
+              "diem_chuan_2023": "27.4"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quy Nhơn - DQN",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Lịch sử",
+              "to_hop_mon": "C03; D09; D14; X17; X70",
+              "diem_chuan_2024": "27.45",
+              "diem_chuan_2023": "25.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hải Dương - DKT",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Lịch Sử",
+              "to_hop_mon": "A07; A08; C00; C03; C19; D09",
+              "diem_chuan_2024": "26.35",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hồng Đức - HDT",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Lịch sử",
+              "to_hop_mon": "C00; C03; C12; C19; D14",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Bắc - TTB",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Lịch sử",
+              "to_hop_mon": "A07; C00; C03; D09; D14; X70; X71",
+              "diem_chuan_2024": "28",
+              "diem_chuan_2023": "27.4"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đà Lạt - TDL",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Lịch sử",
+              "to_hop_mon": "C00; X70; D14; X71; X72; X73",
+              "diem_chuan_2024": "27.25",
+              "diem_chuan_2023": "26.75"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Sư phạm Địa lý",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội - SPH",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Địa lí",
+              "to_hop_mon": "C00; C04",
+              "diem_chuan_2024": "29.05",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm TPHCM - SPS",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Địa lý",
+              "to_hop_mon": "C00; C04; C20; D15; X74",
+              "diem_chuan_2024": "28.37",
+              "diem_chuan_2023": "26.15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Sư Phạm Thái Nguyên",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Địa lý",
+              "to_hop_mon": "C00; C04; C09; C20; D15; X74",
+              "diem_chuan_2024": "28.43",
+              "diem_chuan_2023": "26.73"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Địa lý",
+              "to_hop_mon": "C00; C04; D15; D44",
+              "diem_chuan_2024": "27.9",
+              "diem_chuan_2023": "26.23"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Huế - DHS",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Địa lý",
+              "to_hop_mon": "C00; C20; D15; X21; X74; X75; X77",
+              "diem_chuan_2024": "28.05",
+              "diem_chuan_2023": "26.3"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sài Gòn - SGD",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Địa lý",
+              "to_hop_mon": "C00; C04; C09; C11; C13; D15; X74; X75; X76; X77",
+              "diem_chuan_2024": "27.91",
+              "diem_chuan_2023": "23.45"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm - Đại Học Đà Nẵng - DDS",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Địa lý",
+              "to_hop_mon": "C00; D15; C04",
+              "diem_chuan_2024": "27.9",
+              "diem_chuan_2023": "24.63"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội 2 - SP2",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Địa lí (dự kiến)",
+              "to_hop_mon": "C00; C04; D15; A07",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Vinh - TDV",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Địa lý",
+              "to_hop_mon": "C00; C04; D15",
+              "diem_chuan_2024": "28.5",
+              "diem_chuan_2023": "26.55"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học An Giang - QSA",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Địa Lí",
+              "to_hop_mon": "A07; C00; C04; D10; D15; X74",
+              "diem_chuan_2024": "27.91",
+              "diem_chuan_2023": "25.05"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đồng Tháp - SPD",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Địa lý",
+              "to_hop_mon": "A07; C00; C04; C20; D10; D15; X74",
+              "diem_chuan_2024": "27.43",
+              "diem_chuan_2023": "25.57"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quy Nhơn - DQN",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Địa lý",
+              "to_hop_mon": "C04; D10; D15; X21; X74",
+              "diem_chuan_2024": "27.3",
+              "diem_chuan_2023": "23.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hải Dương - DKT",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Địa lí",
+              "to_hop_mon": "A09; C00; C04; C20; D10; D15",
+              "diem_chuan_2024": "26.85",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hồng Đức - HDT",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Địa lý",
+              "to_hop_mon": "C00; C04; C13; C20; D15",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Bắc - TTB",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Địa lí",
+              "to_hop_mon": "A07; C00; C04; D10; D15; X21; X74; X75",
+              "diem_chuan_2024": "27.96",
+              "diem_chuan_2023": "26.3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Sư phạm Lịch sử - Địa lý",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội - SPH",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Lịch sử - Địa lí",
+              "to_hop_mon": "C00",
+              "diem_chuan_2024": "28.83",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm TPHCM - SPS",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Lịch sử - Địa lý",
+              "to_hop_mon": "A07; C00; C19; C20; X70; X74",
+              "diem_chuan_2024": "27.75",
+              "diem_chuan_2023": "26.03"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Sư Phạm Thái Nguyên",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Lịch sử - Địa lý",
+              "to_hop_mon": "A07; C00; C19; C20; X70; X74",
+              "diem_chuan_2024": "28.27",
+              "diem_chuan_2023": "26.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Lịch sử - Địa lý",
+              "to_hop_mon": "C00; C19; C20; D14; X70; X74",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Huế - DHS",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Lịch sử - Địa lý",
+              "to_hop_mon": "A07; C00; C19; C20; D14; D15; X70; X74",
+              "diem_chuan_2024": "27.37",
+              "diem_chuan_2023": "26"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sài Gòn - SGD",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Lịch sử - Địa lý",
+              "to_hop_mon": "C00; C03; C04; C07; C09; C10; C11; C12; C13; D14; D15; X70; X71; X72; X73; X74; X75; X76; X77",
+              "diem_chuan_2024": "27.35",
+              "diem_chuan_2023": "24.21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm - Đại Học Đà Nẵng - DDS",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Lịch sử - Địa lý",
+              "to_hop_mon": "C00; D14; C19; X70",
+              "diem_chuan_2024": "27.43",
+              "diem_chuan_2023": "25.8"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội 2 - SP2",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Lịch sử - Địa lý",
+              "to_hop_mon": "A07; C00; C03; D14",
+              "diem_chuan_2024": "28.42",
+              "diem_chuan_2023": "27.43"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hùng Vương - THV",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Lịch sử - Địa lí",
+              "to_hop_mon": "C00; C19; C20; D14",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Vinh - TDV",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Lịch sử - Địa lý",
+              "to_hop_mon": "C00; C19; C20; A07",
+              "diem_chuan_2024": "28.25",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học An Giang - QSA",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Lịch sử - Địa Lí (dự kiện mở)",
+              "to_hop_mon": "A07; C00; C03; D14; X70; X74",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đồng Tháp - SPD",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Lịch sử và Địa lý",
+              "to_hop_mon": "A07; C00; C19; C20; D14; D15; X70; X74",
+              "diem_chuan_2024": "26.98",
+              "diem_chuan_2023": "20.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quy Nhơn - DQN",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Lịch sử Địa lý",
+              "to_hop_mon": "C00; D14; D15; X70; X74",
+              "diem_chuan_2024": "27.15",
+              "diem_chuan_2023": "24.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quảng Bình - DQB",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Lịch sử – Địa lý",
+              "to_hop_mon": "C00; C03; C04; A09; C19; C20; X70; X74; D14; D15",
+              "diem_chuan_2024": "26.5",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Khánh Hòa - UKH",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Lịch sử - Địa lí",
+              "to_hop_mon": "C00; A07; D14; D15; C03; C04",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hồng Đức - HDT",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Lịch sử - Địa lý",
+              "to_hop_mon": "C00; C03; C13; C19; D14",
+              "diem_chuan_2024": "28.58",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Sư phạm Khoa học tự nhiên",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội - SPH",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Khoa học tự nhiên",
+              "to_hop_mon": "A00; B00",
+              "diem_chuan_2024": "26.45",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm TPHCM - SPS",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm khoa học tự nhiên",
+              "to_hop_mon": "A00; A02; B00",
+              "diem_chuan_2024": "25.6",
+              "diem_chuan_2023": "24.56"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Sư Phạm Thái Nguyên",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Khoa học tự nhiên",
+              "to_hop_mon": "A00; A01; A02; B00; B08; D07",
+              "diem_chuan_2024": "25.19",
+              "diem_chuan_2023": "22.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Khoa học tự nhiên",
+              "to_hop_mon": "A00; A01; A02; B00",
+              "diem_chuan_2024": "25.81",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Huế - DHS",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm khoa học tự nhiên",
+              "to_hop_mon": "A00; A01; A02; B00; B08; D07",
+              "diem_chuan_2024": "24.6",
+              "diem_chuan_2023": "23"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sài Gòn - SGD",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Khoa học tự nhiên",
+              "to_hop_mon": "A00; A01; A02; A03; A04; A05; A06; B00; B01; B02; B03; B08; C01; C02; D07; X05; X06; X07; X08; X09; X10; X11; X12; X13; X14; X15; X16",
+              "diem_chuan_2024": "25.52",
+              "diem_chuan_2023": "24.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm - Đại Học Đà Nẵng - DDS",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Khoa học tự nhiên",
+              "to_hop_mon": "A00; B00; D07; C02",
+              "diem_chuan_2024": "25.24",
+              "diem_chuan_2023": "23.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội 2 - SP2",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Khoa học tự nhiên",
+              "to_hop_mon": "A00; A02; B00; B03",
+              "diem_chuan_2024": "25.57",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hùng Vương - THV",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Khoa học tự nhiên",
+              "to_hop_mon": "A00; B00; A01; (Toán, Sinh, Tin)",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Vinh - TDV",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Khoa học tự nhiên",
+              "to_hop_mon": "A00; B00; D07",
+              "diem_chuan_2024": "25.3",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học An Giang - QSA",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Khoa học tự nhiên",
+              "to_hop_mon": "A00; A01; A02; A03; B00; C01",
+              "diem_chuan_2024": "24.66",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đồng Tháp - SPD",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm khoa học tự nhiên",
+              "to_hop_mon": "A00; A01; A02; B00; B08; D07",
+              "diem_chuan_2024": "24.63",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Nguyên - TTN",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Khoa học tự nhiên",
+              "to_hop_mon": "A00; A02; B00; C05",
+              "diem_chuan_2024": "24.34",
+              "diem_chuan_2023": "19.43"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quy Nhơn - DQN",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Khoa học tự nhiên",
+              "to_hop_mon": "A00; A01; A02; B00; B08",
+              "diem_chuan_2024": "25.65",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hạ Long - HLU",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Khoa học tự nhiên",
+              "to_hop_mon": "A00; B00; A02; A01; D07; C01; C02",
+              "diem_chuan_2024": "19.5",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hải Dương - DKT",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Khoa học tự nhiên",
+              "to_hop_mon": "A00; A01; A02; B00; C01; C02; D01; D07",
+              "diem_chuan_2024": "23.7",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quảng Bình - DQB",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Khoa học tự nhiên",
+              "to_hop_mon": "A00; A01; A02; B00; B08; D07; X08; X11; X12; X15",
+              "diem_chuan_2024": "23.24",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Phạm Văn Đồng - DPQ",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Khoa học Tự nhiên",
+              "to_hop_mon": "A00; C02; B00; C01",
+              "diem_chuan_2024": "23.5",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quảng Nam - DQU",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Khoa học Tự nhiên",
+              "to_hop_mon": "",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Phú Yên - DPY",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Khoa học tự nhiên",
+              "to_hop_mon": "A00; A02; B00; C05; C06; C08",
+              "diem_chuan_2024": "24.02",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hồng Đức - HDT",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm KH Tự nhiên",
+              "to_hop_mon": "A00; A01; A02; C01; (Toán, Lí, Công nghệ)",
+              "diem_chuan_2024": "25.75",
+              "diem_chuan_2023": "24.78"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Sư phạm Âm nhạc",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội - SPH",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Âm nhạc",
+              "to_hop_mon": "N01; N02",
+              "diem_chuan_2024": "24.05",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sài Gòn - SGD",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Âm nhạc",
+              "to_hop_mon": "N01",
+              "diem_chuan_2024": "23.93",
+              "diem_chuan_2023": "23.01"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm - Đại Học Đà Nẵng - DDS",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Âm nhạc",
+              "to_hop_mon": "N00; N01",
+              "diem_chuan_2024": "19.05",
+              "diem_chuan_2023": "22.2"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hùng Vương - THV",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Âm nhạc",
+              "to_hop_mon": "N00; (Toán, Năng khiếu AN1, Năng khiếu AN2)",
+              "diem_chuan_2024": "33",
+              "diem_chuan_2023": "29"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đồng Tháp - SPD",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Âm nhạc",
+              "to_hop_mon": "N00; N01",
+              "diem_chuan_2024": "25.3",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hạ Long - HLU",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Âm nhạc",
+              "to_hop_mon": "(Văn - Hát - Thẩm âm Tiết tấu)",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Hóa, Thể Thao Và Du Lịch Thanh Hóa - DVD",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Âm nhạc",
+              "to_hop_mon": "N00",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": "26.1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Sư phạm Công nghệ",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội - SPH",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Công nghệ",
+              "to_hop_mon": "A00; A01; X07; X08",
+              "diem_chuan_2024": "24.55",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm TPHCM - SPS",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm công nghệ",
+              "to_hop_mon": "X08; A02; A01; X07",
+              "diem_chuan_2024": "24.31",
+              "diem_chuan_2023": "22.4"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Nông Nghiệp Việt Nam - HVN",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Công nghệ",
+              "to_hop_mon": "A00; A01; B00; C01; C02; C03; D01; X03; X04; X07; X08",
+              "diem_chuan_2024": "22.25",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Huế - DHS",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm công nghệ",
+              "to_hop_mon": "A00; A01; A02; X07; X08; X11; X12; X27; X28",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật TPHCM - SPK",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm công nghệ (đào tạo bằng tiếng Việt)",
+              "to_hop_mon": "A00; A01; C01; D01",
+              "diem_chuan_2024": "24.15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đồng Tháp - SPD",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm công nghệ",
+              "to_hop_mon": "A00; A01; A02; X03; X04; X07; X08; X27; X28",
+              "diem_chuan_2024": "24.1",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hải Dương - DKT",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Công nghệ",
+              "to_hop_mon": "A00; A01; A02; A12; D01; B00; C01; D07",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật Hưng Yên - SKH",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm công nghệ",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "26"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật Vĩnh Long - VLU",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm công nghệ",
+              "to_hop_mon": "A09; C03; C04; C14; D01; X01; X02; X03; X04; X21",
+              "diem_chuan_2024": "24",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Sao Đỏ - SDU",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm công nghệ",
+              "to_hop_mon": "A00; C01; C03; C04; C14; D01",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật Vinh - SKV",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm công nghệ",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Sư phạm Mỹ thuật",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội - SPH",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Mỹ thuật",
+              "to_hop_mon": "H01; H02",
+              "diem_chuan_2024": "22.69",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sài Gòn - SGD",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Mỹ thuật",
+              "to_hop_mon": "H00",
+              "diem_chuan_2024": "21.59",
+              "diem_chuan_2023": "21.26"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm - Đại Học Đà Nẵng - DDS",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Mỹ thuật",
+              "to_hop_mon": "H00; H07",
+              "diem_chuan_2024": "24.3",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đồng Tháp - SPD",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Mỹ thuật",
+              "to_hop_mon": "H00; H07",
+              "diem_chuan_2024": "22.5",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Hóa, Thể Thao Và Du Lịch Thanh Hóa - DVD",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Mỹ thuật",
+              "to_hop_mon": "H00",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": "25.3"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Mỹ Thuật TPHCM - MTS",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Mỹ thuật\r\n(Trường sẽ nhận hồ sơ vào tháng 7 sau khi có đơn đặt hàng của địa phương)",
+              "to_hop_mon": "",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Sư phạm Tiếng H'mong",
+      "data": [
+        {
+          "ten_truong": "Phân hiệu Đại học Thái Nguyên tại Hà Giang - DTG",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm tiếng H’mong",
+              "to_hop_mon": "C00, C19, C20, D01",
+              "diem_chuan_2024": "25.09",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Sư phạm Tiếng Hàn Quốc",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Ngoại Ngữ - ĐH Quốc gia Hà Nội - QHF",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm tiếng Hàn Quốc",
+              "to_hop_mon": "D15; D14; D07; D01; D08; A01; DH1; DH5; AH2; DD2; AH4; AH3",
+              "diem_chuan_2024": "37.31",
+              "diem_chuan_2023": "36.23"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Sư phạm Tiếng Nga",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm TPHCM - SPS",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tiếng Nga",
+              "to_hop_mon": "D01; D02; D14; D66; X78",
+              "diem_chuan_2024": "23.69",
+              "diem_chuan_2023": "19.4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Sư phạm Tiếng Nhật",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Ngoại Ngữ - ĐH Quốc gia Hà Nội - QHF",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm tiếng Nhật",
+              "to_hop_mon": "D15; D14; D07; D01; D08; A01; D43; D63; D23; D06; D33; D28",
+              "diem_chuan_2024": "37.21",
+              "diem_chuan_2023": "35.61"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Sư phạm Tiếng Pháp",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội - SPH",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tiếng Pháp",
+              "to_hop_mon": "D01; D03",
+              "diem_chuan_2024": "26.59",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm TPHCM - SPS",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tiếng Pháp",
+              "to_hop_mon": "D01; D03",
+              "diem_chuan_2024": "24.93",
+              "diem_chuan_2023": "22.7"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tiếng Pháp",
+              "to_hop_mon": "D01; D03; D14; D64",
+              "diem_chuan_2024": "23.7",
+              "diem_chuan_2023": "23.1"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Ngoại Ngữ Đà Nẵng - DDF",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm tiếng Pháp",
+              "to_hop_mon": "D01; D03; D09; D14; D10; D15",
+              "diem_chuan_2024": "23.07",
+              "diem_chuan_2023": "21.79"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Ngoại Ngữ Huế - DHF",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tiếng Pháp",
+              "to_hop_mon": "D01; D03; D15; D44",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Sư phạm Tiếng Trung",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm TPHCM - SPS",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tiếng Trung Quốc",
+              "to_hop_mon": "D01; D04",
+              "diem_chuan_2024": "26.44",
+              "diem_chuan_2023": "25.83"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Ngoại Ngữ - ĐH Quốc gia Hà Nội - QHF",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm tiếng Trung Quốc",
+              "to_hop_mon": "D15; D14; D07; D01; D08; A01; D45; D65; D25; D04; D35; D30",
+              "diem_chuan_2024": "37.85",
+              "diem_chuan_2023": "35.9"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Ngoại Ngữ Đà Nẵng - DDF",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm tiếng Trung Quốc",
+              "to_hop_mon": "D01; D04; D09; D14; D10; D15",
+              "diem_chuan_2024": "26.09",
+              "diem_chuan_2023": "24.48"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Ngoại Ngữ Huế - DHF",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tiếng Trung Quốc",
+              "to_hop_mon": "D01; D04; D15; D45",
+              "diem_chuan_2024": "26.5",
+              "diem_chuan_2023": "24.85"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đồng Tháp - SPD",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tiếng Trung Quốc",
+              "to_hop_mon": "D01; D04; D14; D15; D45; D65",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Ngoại Ngữ Thái Nguyên - DTF",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tiếng Trung Quốc",
+              "to_hop_mon": "D01; D04; D14; D15; D45; D65; D66; X78; X90",
+              "diem_chuan_2024": "26.65",
+              "diem_chuan_2023": "25.15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Sao Đỏ - SDU",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm tiếng Trung Quốc",
+              "to_hop_mon": "D01; D11; D14; D15; D45; D65",
+              "diem_chuan_2024": "21.74",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Sư phạm Tin học",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội - SPH",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tin học",
+              "to_hop_mon": "A00; A01; X06",
+              "diem_chuan_2024": "25.1",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm TPHCM - SPS",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tin học",
+              "to_hop_mon": "D07; A01; B08; X26",
+              "diem_chuan_2024": "24.73",
+              "diem_chuan_2023": "22.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thủ Đô Hà Nội - HNM",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tin học",
+              "to_hop_mon": "A00; A01; A02; C01; D30",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Sư Phạm Thái Nguyên",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tin học",
+              "to_hop_mon": "A00; A01; D01; X06",
+              "diem_chuan_2024": "24.22",
+              "diem_chuan_2023": "21.7"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tin học",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "24.56",
+              "diem_chuan_2023": "23.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Huế - DHS",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tin học",
+              "to_hop_mon": "A00; C01; D01; X02; X26",
+              "diem_chuan_2024": "23.3",
+              "diem_chuan_2023": "19.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm - Đại Học Đà Nẵng - DDS",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tin học",
+              "to_hop_mon": "A00; X06; A01",
+              "diem_chuan_2024": "24.1",
+              "diem_chuan_2023": "21.4"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội 2 - SP2",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tin học",
+              "to_hop_mon": "A00; A01; D01; X06",
+              "diem_chuan_2024": "24.85",
+              "diem_chuan_2023": "22.7"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Vinh - TDV",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tin học",
+              "to_hop_mon": "K01; A01; D01; D07",
+              "diem_chuan_2024": "24.45",
+              "diem_chuan_2023": "22.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đồng Tháp - SPD",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tin học",
+              "to_hop_mon": "A00; A01; C01; D01; X02; X06",
+              "diem_chuan_2024": "23.76",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quy Nhơn - DQN",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tin học",
+              "to_hop_mon": "A00; A01; D01; D07; X02",
+              "diem_chuan_2024": "22.85",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hạ Long - HLU",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tin học",
+              "to_hop_mon": "A00; A01; D01; D07; C01; C02; X02; X06",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hải Dương - DKT",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tin học",
+              "to_hop_mon": "A00; A01; A02; A12; B00; C01; C02; D01",
+              "diem_chuan_2024": "20.7",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Phạm Văn Đồng - DPQ",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tin học",
+              "to_hop_mon": "A00; X05; X06; D01",
+              "diem_chuan_2024": "22.4",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hồng Đức - HDT",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tin học",
+              "to_hop_mon": "A00; A01; A02; A04; C01",
+              "diem_chuan_2024": "24.87",
+              "diem_chuan_2023": "22.15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Bắc - TTB",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tin học",
+              "to_hop_mon": "A00; A01; B00; D01; X02; X06; X26; X56",
+              "diem_chuan_2024": "23.16",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đà Lạt - TDL",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tin học",
+              "to_hop_mon": "Môn Toán*2 (bắt buộc) + 1 trong các môn: Vật lý, Hóa học, Sinh học, Tiếng Anh, Tin học, Công nghệ",
+              "diem_chuan_2024": "23.8",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Hóa, Thể Thao Và Du Lịch Thanh Hóa - DVD",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Tin học",
+              "to_hop_mon": "A00; C01; C04; D01",
+              "diem_chuan_2024": "24",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Sư phạm Kỹ thuật công nghiệp",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Nông Lâm TPHCM - NLS",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Kỹ thuật nông nghiệp",
+              "to_hop_mon": "B00, D08, A01, X12, X28, X16",
+              "diem_chuan_2024": "22.5",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Sư phạm Kỹ thuật - Đại học Đà Nẵng - DSK",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm kỹ thuật công nghiệp (chuyên ngành Công nghệ thông tin)",
+              "to_hop_mon": "A00; A01; C01; X10; X06; X26",
+              "diem_chuan_2024": "21.95",
+              "diem_chuan_2023": "21.7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Giáo dục Chính trị",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội - SPH",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục đặc biệt",
+              "to_hop_mon": "C00; D01",
+              "diem_chuan_2024": "28.37",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm TPHCM - SPS",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Đặc biệt",
+              "to_hop_mon": "C00; C03; C19; D01; X70",
+              "diem_chuan_2024": "26.5",
+              "diem_chuan_2023": "25.01"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thủ Đô Hà Nội - HNM",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục đặc biệt",
+              "to_hop_mon": "D01; D04; D14; D15; D45; D65; D66; D71; X78; X90",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": "25.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Sư Phạm Thái Nguyên",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Chính trị",
+              "to_hop_mon": "A08; A09; C19; C20; X17; X21; X70; X74",
+              "diem_chuan_2024": "28.31",
+              "diem_chuan_2023": "26.68"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Huế - DHS",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Chính trị",
+              "to_hop_mon": "C00; C19; C20; D66; X01; X25; X70; X74; X78",
+              "diem_chuan_2024": "27.05",
+              "diem_chuan_2023": "25.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sài Gòn - SGD",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục chính trị",
+              "to_hop_mon": "B03; C01; C02; C03; C04; D01; X01; X02; X03; X04",
+              "diem_chuan_2024": "26.86",
+              "diem_chuan_2023": "25.33"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm - Đại Học Đà Nẵng - DDS",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Chính trị",
+              "to_hop_mon": "C00; C19; X70; C03",
+              "diem_chuan_2024": "27.2",
+              "diem_chuan_2023": "25.8"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Vinh - TDV",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Chính trị",
+              "to_hop_mon": "C19; C20; D66; C14",
+              "diem_chuan_2024": "27.8",
+              "diem_chuan_2023": "26.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học An Giang - QSA",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Chính trị",
+              "to_hop_mon": "A00; A01; C00; C01; D01; X70; X78",
+              "diem_chuan_2024": "26.99",
+              "diem_chuan_2023": "25.81"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đồng Tháp - SPD",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Chính trị",
+              "to_hop_mon": "C00; C14; C19; C20; D01; D14; X01; X70; X74",
+              "diem_chuan_2024": "26.8",
+              "diem_chuan_2023": "25.8"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Nguyên - TTN",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Chính trị",
+              "to_hop_mon": "C00; C03; D01; D14; X70",
+              "diem_chuan_2024": "26.36",
+              "diem_chuan_2023": "25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quy Nhơn - DQN",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục chính trị",
+              "to_hop_mon": "C00; D01; D14; X01; X25; X70; X74",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": "24.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hải Dương - DKT",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Giáo dục Chính trị",
+              "to_hop_mon": "A00; C00; C02; C03; C04; C19; C20; D01",
+              "diem_chuan_2024": "24.15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Bắc - TTB",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Chính trị",
+              "to_hop_mon": "C00; D01; C14; C19; C20; X01; X70; X74",
+              "diem_chuan_2024": "27.78",
+              "diem_chuan_2023": "26.6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Giáo dục Công dân",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội - SPH",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục công dân",
+              "to_hop_mon": "X70; X74; X78",
+              "diem_chuan_2024": "28.6",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm TPHCM - SPS",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Công dân",
+              "to_hop_mon": "C14; C19; D66; X01; X70; X78",
+              "diem_chuan_2024": "27.34",
+              "diem_chuan_2023": "26.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thủ Đô Hà Nội - HNM",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục công dân",
+              "to_hop_mon": "C00; C14; C16; C19; C20; X01; X58; X70; X74",
+              "diem_chuan_2024": "25.99",
+              "diem_chuan_2023": "25.19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Sư Phạm Thái Nguyên",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Công dân",
+              "to_hop_mon": "A08; A09; C19; C20; X17; X21; X70; X74",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Công dân",
+              "to_hop_mon": "C00; C19; D14; D15; X70",
+              "diem_chuan_2024": "27.31",
+              "diem_chuan_2023": "26.86"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Huế - DHS",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Công dân",
+              "to_hop_mon": "C00; C19; C20; D66; X01; X25; X70; X74; X78",
+              "diem_chuan_2024": "27.3",
+              "diem_chuan_2023": "25.6"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm - Đại Học Đà Nẵng - DDS",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Công dân",
+              "to_hop_mon": "C00; C19; X70; C03",
+              "diem_chuan_2024": "27.34",
+              "diem_chuan_2023": "25.33"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội 2 - SP2",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Công dân",
+              "to_hop_mon": "X01; X70; X74; X78",
+              "diem_chuan_2024": "27.94",
+              "diem_chuan_2023": "26.68"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đồng Tháp - SPD",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Công dân",
+              "to_hop_mon": "C00; C14; C19; C20; D01; D14; X01; X70; X74",
+              "diem_chuan_2024": "26.98",
+              "diem_chuan_2023": "26.51"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Giáo dục học",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm TPHCM - SPS",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục học",
+              "to_hop_mon": "A00; C03; C14; D01; X01",
+              "diem_chuan_2024": "24.82",
+              "diem_chuan_2023": "23.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thủ Dầu Một - TDM",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục học",
+              "to_hop_mon": "C00; C03; C04; C07; D01; D14; D15; X01; X70; X74",
+              "diem_chuan_2024": "23",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Xã Hội và Nhân Văn TPHCM - QSX",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục học",
+              "to_hop_mon": "B00; C00; C01; D01",
+              "diem_chuan_2024": "24",
+              "diem_chuan_2023": "23"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Sư Phạm Thái Nguyên",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục học",
+              "to_hop_mon": "C00; C19; C20; D01; X70; X74",
+              "diem_chuan_2024": "26.62",
+              "diem_chuan_2023": "23"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật Vĩnh Long - VLU",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục học",
+              "to_hop_mon": "C00; C03; C04; C14; C19; D01; D15; X01; X02; X70",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Quản Lý Giáo Dục - HVQ",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục học",
+              "to_hop_mon": "A00; B00; C00; D01; X70; X74",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thành Đô - TDD",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục học",
+              "to_hop_mon": "A00; A01; C0G; C00; D01; D09",
+              "diem_chuan_2024": "16.5",
+              "diem_chuan_2023": "16.5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Giáo dục Mầm non",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội - SPH",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Mầm non",
+              "to_hop_mon": "M00",
+              "diem_chuan_2024": "23.43",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm TPHCM - SPS",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục mầm non (cao đẳng)",
+              "to_hop_mon": "M02; M03",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thủ Đô Hà Nội - HNM",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Mầm non",
+              "to_hop_mon": "C03; C04; C14; D01; D04; X01",
+              "diem_chuan_2024": "24.45",
+              "diem_chuan_2023": "23"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thủ Dầu Một - TDM",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Mầm non",
+              "to_hop_mon": "M00; M01; M02; M03; M04; M05; M06",
+              "diem_chuan_2024": "23.04",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Sư Phạm Thái Nguyên",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Mầm non",
+              "to_hop_mon": "C14; C19; D01; D66; X01; X17; X78",
+              "diem_chuan_2024": "23.95",
+              "diem_chuan_2023": "26.62"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục mầm non",
+              "to_hop_mon": "M01; M05; M06; M11",
+              "diem_chuan_2024": "25.95",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sài Gòn - SGD",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Mầm non",
+              "to_hop_mon": "M01; M02",
+              "diem_chuan_2024": "23.51",
+              "diem_chuan_2023": "20.8"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm - Đại Học Đà Nẵng - DDS",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Mầm non",
+              "to_hop_mon": "M09; M01",
+              "diem_chuan_2024": "24.25",
+              "diem_chuan_2023": "20"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội 2 - SP2",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Mầm non",
+              "to_hop_mon": "M05; M11; M27; M28",
+              "diem_chuan_2024": "25.73",
+              "diem_chuan_2023": "23.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hùng Vương - THV",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Mầm non",
+              "to_hop_mon": "M00; (Văn, Địa, Năng khiếu); (Văn, Sử, Năng khiếu); (Văn, GDKTPL; NK)",
+              "diem_chuan_2024": "33.47",
+              "diem_chuan_2023": "31.9"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học An Giang - QSA",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Mầm non",
+              "to_hop_mon": "M00; M01; M26; M27; M28; M29; M30",
+              "diem_chuan_2024": "22.79",
+              "diem_chuan_2023": "19.6"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đồng Tháp - SPD",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Mầm non",
+              "to_hop_mon": "C14; C19; C20; M00; M05; X01; X70; X74",
+              "diem_chuan_2024": "25.8",
+              "diem_chuan_2023": "23.23"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quy Nhơn - DQN",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục mầm non",
+              "to_hop_mon": "M00",
+              "diem_chuan_2024": "23.1",
+              "diem_chuan_2023": "20.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hạ Long - HLU",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Mầm non",
+              "to_hop_mon": "C00; C03; C04; X04; X70; X73; X74; X77",
+              "diem_chuan_2024": "26.6",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hải Dương - DKT",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Mầm non (trình độ đại học)",
+              "to_hop_mon": "C00; C03; C04; C14; C19; C20; D01; D14",
+              "diem_chuan_2024": "26.4",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quảng Bình - DQB",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Mầm non",
+              "to_hop_mon": "M05; M06; M07; M10; M11; M13; M14",
+              "diem_chuan_2024": "23.05",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quảng Nam - DQU",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Mầm non",
+              "to_hop_mon": "M00; M02; M01; M04",
+              "diem_chuan_2024": "24.26",
+              "diem_chuan_2023": "21.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Phân Hiệu Đại Học Đà Nẵng tại Kon Tum - DDP",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục mầm non",
+              "to_hop_mon": "M09; M01",
+              "diem_chuan_2024": "25.25",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Trà Vinh - DVT",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Mầm non",
+              "to_hop_mon": "C00; C14; M00; M05; X01; X71; Y07",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nông Lâm TPHCM - NLS",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục mầm non",
+              "to_hop_mon": "M00",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đông Á - DAD",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Mầm non (Cơ sở đào tạo Đà Nẵng)",
+              "to_hop_mon": "B03; C00; C03; C04; D01; D15; M06; X02; X70",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hồng Đức - HDT",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Mầm non",
+              "to_hop_mon": "M00; M05; M07; M11; (Văn, Sinh, Năng khiếu)",
+              "diem_chuan_2024": "26.2",
+              "diem_chuan_2023": "25.67"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đồng Nai - DNU",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục mầm non",
+              "to_hop_mon": "M05; M07; M08; M13",
+              "diem_chuan_2024": "22.25",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Bắc - TTB",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Mầm non",
+              "to_hop_mon": "C00; C19; D14; D15; X01; X70; X74; X21",
+              "diem_chuan_2024": "23.3",
+              "diem_chuan_2023": "22.1"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Phân Hiệu Đại Học Thái Nguyên Tại Lào Cai - DTP",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Mầm non",
+              "to_hop_mon": "B03; C01; C02; C03; C04; C14; D01",
+              "diem_chuan_2024": "26.95",
+              "diem_chuan_2023": "20.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kiên Giang - TKG",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Mầm non",
+              "to_hop_mon": "A00; A01; A09; C03; C14; D01",
+              "diem_chuan_2024": "27.53",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Hóa, Thể Thao Và Du Lịch Thanh Hóa - DVD",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Mầm non",
+              "to_hop_mon": "M01; M07; M10; M11",
+              "diem_chuan_2024": "27.43",
+              "diem_chuan_2023": "26.99"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Phân hiệu Đại học Thái Nguyên tại Hà Giang - DTG",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Mầm non",
+              "to_hop_mon": "C00, C19, C20, D01",
+              "diem_chuan_2024": "26.36",
+              "diem_chuan_2023": "20.5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Giáo dục pháp luật",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Huế - DHS",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục pháp luật",
+              "to_hop_mon": "C00; C19; C20; D66; X01; X25; X70; X74; X78",
+              "diem_chuan_2024": "26",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm - Đại Học Đà Nẵng - DDS",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục pháp luật",
+              "to_hop_mon": "C03; C14; X01; C04",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Giáo dục Quốc phòng - An ninh",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội - SPH",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Quốc phòng và An ninh",
+              "to_hop_mon": "C00; D01",
+              "diem_chuan_2024": "28.26",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm TPHCM - SPS",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Quốc phòng - An ninh",
+              "to_hop_mon": "Q01; Q02",
+              "diem_chuan_2024": "27.28",
+              "diem_chuan_2023": "25.71"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Huế - DHS",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Quốc phòng - An ninh",
+              "to_hop_mon": "C00; C19; C20; D66; X01; X25; X70; X74; X78",
+              "diem_chuan_2024": "26.95",
+              "diem_chuan_2023": "24.6"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội 2 - SP2",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Quốc phòng - An ninh",
+              "to_hop_mon": "C00; D01; D14; X70",
+              "diem_chuan_2024": "27.63",
+              "diem_chuan_2023": "25.57"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Vinh - TDV",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Quốc phòng -An ninh",
+              "to_hop_mon": "C00; C03; C19; C12",
+              "diem_chuan_2024": "26.5",
+              "diem_chuan_2023": "25.7"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Thể Dục Thể Thao Hà Nội - TDH",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Quốc phòng và An ninh",
+              "to_hop_mon": "C00; C19; C20; D66",
+              "diem_chuan_2024": "36.03",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Giáo dục Thể chất",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội - SPH",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục thể chất",
+              "to_hop_mon": "T01; T02",
+              "diem_chuan_2024": "25.66",
+              "diem_chuan_2023": "22.85"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm TPHCM - SPS",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Thể chất",
+              "to_hop_mon": "M08; T01",
+              "diem_chuan_2024": "26.71",
+              "diem_chuan_2023": "26.1"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thủ Đô Hà Nội - HNM",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục thể chất",
+              "to_hop_mon": "T00; T01; T02; T08; T11",
+              "diem_chuan_2024": "24",
+              "diem_chuan_2023": "23.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Thể chất",
+              "to_hop_mon": "T00; T01; T06; T10",
+              "diem_chuan_2024": "25.6",
+              "diem_chuan_2023": "23.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm - Đại Học Đà Nẵng - DDS",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Thể chất",
+              "to_hop_mon": "T01; T08",
+              "diem_chuan_2024": "23.25",
+              "diem_chuan_2023": "20.63"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội 2 - SP2",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Thể chất",
+              "to_hop_mon": "T00; T01; T02; T07",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hùng Vương - THV",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Thể chất",
+              "to_hop_mon": "M03; M02",
+              "diem_chuan_2024": "34",
+              "diem_chuan_2023": "31.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đồng Tháp - SPD",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Thể chất",
+              "to_hop_mon": "T00; T01; T02; T03; T05; T06; T15",
+              "diem_chuan_2024": "25.7",
+              "diem_chuan_2023": "25.66"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quy Nhơn - DQN",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục thể chất",
+              "to_hop_mon": "T00; T01; T02; T04; T06",
+              "diem_chuan_2024": "26.5",
+              "diem_chuan_2023": "22.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hải Dương - DKT",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục thể chất",
+              "to_hop_mon": "T00; T01; T02; T03",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thể Dục Thể Thao TPHCM - TDS",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục thể chất",
+              "to_hop_mon": "T00; T01; T04; T06",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": "35"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Thể Dục Thể Thao TPHCM - STS",
+          "data_school": [
+            {
+              "ten_nganh": "Ngành Giáo dục thể chất",
+              "to_hop_mon": "T00; T02; T05; T08; T09; T10",
+              "diem_chuan_2024": "23.75",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hồng Đức - HDT",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục thể chất",
+              "to_hop_mon": "T01; T02; T05; T07; (Văn, Sử, Năng khiếu)",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Hóa, Thể Thao Và Du Lịch Thanh Hóa - DVD",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Thể chất",
+              "to_hop_mon": "T00; T03; T05; T08",
+              "diem_chuan_2024": "26.5",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Giáo dục Tiểu học",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội - SPH",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Tiểu học",
+              "to_hop_mon": "D01",
+              "diem_chuan_2024": "27.2",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm TPHCM - SPS",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Tiểu học",
+              "to_hop_mon": "A00; A01; D01",
+              "diem_chuan_2024": "26.13",
+              "diem_chuan_2023": "24.9"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thủ Đô Hà Nội - HNM",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Tiểu học",
+              "to_hop_mon": "C03; C04; C14; D01; D04; X01",
+              "diem_chuan_2024": "26.26",
+              "diem_chuan_2023": "25.15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thủ Dầu Một - TDM",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Tiểu học",
+              "to_hop_mon": "A00; A01; C01; C02; C03; C04; D01; D09; D10; X01",
+              "diem_chuan_2024": "26.47",
+              "diem_chuan_2023": "23.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Sư Phạm Thái Nguyên",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Tiểu học",
+              "to_hop_mon": "C01; C03; D01",
+              "diem_chuan_2024": "25.9",
+              "diem_chuan_2023": "24.55"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Tiểu học",
+              "to_hop_mon": "A00; C01; D01; D03",
+              "diem_chuan_2024": "25.65",
+              "diem_chuan_2023": "24.41"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Huế - DHS",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Tiểu học",
+              "to_hop_mon": "B03; C00; C03; C04; C14; D01; X01",
+              "diem_chuan_2024": "27.75",
+              "diem_chuan_2023": "25.3"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sài Gòn - SGD",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Tiểu học",
+              "to_hop_mon": "B03; C01; C02; C03; C04; D01; X01; X02; X03; X04",
+              "diem_chuan_2024": "25.39",
+              "diem_chuan_2023": "24.11"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm - Đại Học Đà Nẵng - DDS",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Tiểu học",
+              "to_hop_mon": "D01; C03; C04; X02; X03",
+              "diem_chuan_2024": "27.5",
+              "diem_chuan_2023": "25.02"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội 2 - SP2",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Tiểu học",
+              "to_hop_mon": "C01; C03; C04; D01",
+              "diem_chuan_2024": "27.39",
+              "diem_chuan_2023": "26.03"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hùng Vương - THV",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Tiểu học",
+              "to_hop_mon": "C01; C14; C03; D01",
+              "diem_chuan_2024": "28.13",
+              "diem_chuan_2023": "26.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Vinh - TDV",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Tiểu học",
+              "to_hop_mon": "D01; C01; C03; C04",
+              "diem_chuan_2024": "28.12",
+              "diem_chuan_2023": "25.65"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học An Giang - QSA",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Tiểu học",
+              "to_hop_mon": "B03; C04; C03; D01; C01; C02",
+              "diem_chuan_2024": "26.63",
+              "diem_chuan_2023": "23.26"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đồng Tháp - SPD",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Tiểu học",
+              "to_hop_mon": "B03; C01; C03; C04; D01",
+              "diem_chuan_2024": "25.27",
+              "diem_chuan_2023": "23.28"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Nguyên - TTN",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Tiểu học",
+              "to_hop_mon": "A00; C00; C03; D01",
+              "diem_chuan_2024": "26.4",
+              "diem_chuan_2023": "24.7"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quy Nhơn - DQN",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Tiểu học",
+              "to_hop_mon": "A00; C00; D01",
+              "diem_chuan_2024": "26.95",
+              "diem_chuan_2023": "24.45"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hạ Long - HLU",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Tiểu học",
+              "to_hop_mon": "B03; C01; C02; C03; C04; D01; D04; X01",
+              "diem_chuan_2024": "25.95",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hải Dương - DKT",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Tiểu học",
+              "to_hop_mon": "A00; A01; C01; C02; C03; C04; C14; D01",
+              "diem_chuan_2024": "26.5",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quảng Bình - DQB",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Tiểu học",
+              "to_hop_mon": "A00; C00; C14; D01; A01; C01; C04; C20; X01",
+              "diem_chuan_2024": "26.61",
+              "diem_chuan_2023": "24"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Phạm Văn Đồng - DPQ",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Tiểu học",
+              "to_hop_mon": "A00; A01; C00; D01",
+              "diem_chuan_2024": "25.7",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hà Tĩnh - HHT",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Tiểu học",
+              "to_hop_mon": "B03; C04; C14; D01; X01",
+              "diem_chuan_2024": "26.59",
+              "diem_chuan_2023": "26.04"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Bạc Liêu - DBL",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Tiểu học",
+              "to_hop_mon": "C00; C01; C02; C03; C04; D01",
+              "diem_chuan_2024": "26.2",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quảng Nam - DQU",
+          "data_school": [
+            {
+              "ten_nganh": "Sư phạm Vật lý",
+              "to_hop_mon": "A00; A01; A02; D11",
+              "diem_chuan_2024": "25.8",
+              "diem_chuan_2023": "24.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Phú Yên - DPY",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Tiểu học",
+              "to_hop_mon": "A00; C00; C03; C04; D01",
+              "diem_chuan_2024": "25.75",
+              "diem_chuan_2023": "23.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Phân Hiệu Đại Học Đà Nẵng tại Kon Tum - DDP",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục tiểu học",
+              "to_hop_mon": "C04; C03; D01; X01",
+              "diem_chuan_2024": "25.73",
+              "diem_chuan_2023": "23"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Trà Vinh - DVT",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo Dục Tiểu Học",
+              "to_hop_mon": "A00; A01; D84; X06; X13; X17; X26",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Khánh Hòa - UKH",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Tiểu học",
+              "to_hop_mon": "B03; C01; C02; C03; C04; D01",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": "24.44"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đông Á - DAD",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Tiểu học (Cơ sở đào tạo Đà Nẵng)",
+              "to_hop_mon": "B03; C00; C03; C04; D01; D15; M06; X02; X70",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tiền Giang - TTG",
+          "data_school": [
+            {
+              "ten_nganh": "ĐH Giáo dục tiểu học",
+              "to_hop_mon": "A00; A01; D01; A07; C03; C04; C01; C02; B03; C14",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hồng Đức - HDT",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Tiểu học",
+              "to_hop_mon": "B03; C02; C04; D01; M00",
+              "diem_chuan_2024": "28.42",
+              "diem_chuan_2023": "27.63"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đồng Nai - DNU",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Tiểu học",
+              "to_hop_mon": "A00; A01; C03; C04; D01",
+              "diem_chuan_2024": "24.25",
+              "diem_chuan_2023": "22.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Bắc - TTB",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Tiểu học",
+              "to_hop_mon": "A00; A01; A02; A04; C00; C03; D01; X70",
+              "diem_chuan_2024": "27.5",
+              "diem_chuan_2023": "25.9"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đà Lạt - TDL",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục tiểu học",
+              "to_hop_mon": "Môn Ngữ văn*2 + 1 trong các môn: Toán, Lịch sử, Địa lý, Tiếng Anh, Tin học, Công nghệ",
+              "diem_chuan_2024": "26",
+              "diem_chuan_2023": "25.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Phân Hiệu Đại Học Thái Nguyên Tại Lào Cai - DTP",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Tiểu học (CT đại trà)",
+              "to_hop_mon": "B03; C01; C02; C03; C04; C14; D01",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kiên Giang - TKG",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục tiểu học",
+              "to_hop_mon": "A00; A01; A09; C03; C14; D01",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": "26.04"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Hóa, Thể Thao Và Du Lịch Thanh Hóa - DVD",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Tiểu học",
+              "to_hop_mon": "M00; A01; D01; C04",
+              "diem_chuan_2024": "27",
+              "diem_chuan_2023": "27.4"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Phân hiệu Đại học Thái Nguyên tại Hà Giang - DTG",
+          "data_school": [
+            {
+              "ten_nganh": "Giáo dục Tiểu học",
+              "to_hop_mon": "C00, C19, C20, M01",
+              "diem_chuan_2024": "27.31",
+              "diem_chuan_2023": "22.75"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Hỗ trợ giáo dục người khuyết tật",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội - SPH",
+          "data_school": [
+            {
+              "ten_nganh": "Hỗ trợ giáo dục người khuyết tật",
+              "to_hop_mon": "C00; D01",
+              "diem_chuan_2024": "25.17",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hải Dương - DKT",
+          "data_school": [
+            {
+              "ten_nganh": "Hỗ trợ giáo dục người khuyết tật",
+              "to_hop_mon": "A00; B00; B08; C00; C03; C14; D01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Quản lý giáo dục",
+      "data": [
+        {
+          "ten_truong": "Đại Học Bách Khoa Hà Nội - BKA",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý giáo dục",
+              "to_hop_mon": "A00; A01; B03; C01; C02; D01; X02",
+              "diem_chuan_2024": "24.78",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội - SPH",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lí giáo dục",
+              "to_hop_mon": "C03; D01; X01",
+              "diem_chuan_2024": "27.9",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm TPHCM - SPS",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý giáo dục",
+              "to_hop_mon": "A00; C03; C14; D01; X01",
+              "diem_chuan_2024": "25.22",
+              "diem_chuan_2023": "23.1"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thủ Đô Hà Nội - HNM",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lí Giáo dục",
+              "to_hop_mon": "D01; D04; D14; D15; D45; D65; D66; D71; X78; X90",
+              "diem_chuan_2024": "26.03",
+              "diem_chuan_2023": "23.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Xã Hội và Nhân Văn TPHCM - QSX",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý giáo dục",
+              "to_hop_mon": "A01; C00; D01; D14",
+              "diem_chuan_2024": "24",
+              "diem_chuan_2023": "23.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sài Gòn - SGD",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý giáo dục",
+              "to_hop_mon": "B03; C01; C02; C03; C04; D01; X01; X02; X03; X04",
+              "diem_chuan_2024": "23.89",
+              "diem_chuan_2023": "22.39"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Vinh - TDV",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý giáo dục",
+              "to_hop_mon": "C00; C19; C20; D15",
+              "diem_chuan_2024": "24",
+              "diem_chuan_2023": "23.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quy Nhơn - DQN",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý Giáo dục",
+              "to_hop_mon": "A00; A01; C00; C03; C04; D01; X70; X74",
+              "diem_chuan_2024": "22.5",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Quản Lý Giáo Dục - HVQ",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý giáo dục",
+              "to_hop_mon": "A00; A01; C00; D01; X70; X74",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quốc Tế Hồng Bàng - HIU",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý Giáo dục",
+              "to_hop_mon": "A00; A01; C00; D01; D14; D15",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

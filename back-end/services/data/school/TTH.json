@@ -1,0 +1,105 @@
+{
+  "school_code": "TTH",
+  "school_name": "Trường Sĩ Quan Thông Tin - Hệ Quân sự - Đại Học Thông Tin Liên Lạc",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngành Chỉ huy tham mưu thông tin",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "22.8",
+          "Ghi chú": "TS nam miền Bắc"
+        },
+        {
+          "Tên ngành": "Ngành Chỉ huy tham mưu thông tin",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "23.42",
+          "Ghi chú": "TS nam miền Nam, Tiêu chí phụ 1: Toán >= 8,40"
+        }
+      ],
+      "row_count": 2
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Chỉ huy Tham mưu - thông tin",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "24.909",
+          "Ghi chú": "TS Miền Bắc"
+        },
+        {
+          "Tên ngành": "Chỉ huy Tham mưu - thông tin",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "26.22",
+          "Ghi chú": "TS Miền Nam"
+        }
+      ],
+      "row_count": 2
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Chỉ huy Tham mưu - thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.5",
+          "Ghi chú": "TS Miền Bắc"
+        },
+        {
+          "Tên ngành": "Chỉ huy Tham mưu - thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.5",
+          "Ghi chú": "TS Miền Nam"
+        }
+      ],
+      "row_count": 2
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Chỉ huy Tham mưu - thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.5",
+          "Ghi chú": "TS Miền Bắc"
+        },
+        {
+          "Tên ngành": "Chỉ huy Tham mưu - thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.5",
+          "Ghi chú": "TS Miền Nam"
+        }
+      ],
+      "row_count": 2
+    }
+  ],
+  "table_count": 4,
+  "crawled_at": "2025-07-18T23:23:26.578813",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/truong-si-quan-thong-tin-he-quan-su-dai-hoc-thong-tin-lien-lac-TTH.html"
+}

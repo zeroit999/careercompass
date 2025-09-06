@@ -1,0 +1,369 @@
+{
+  "school_code": "HQT",
+  "school_name": "Học Viện Ngoại Giao",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quan hệ quốc tế",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.76",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "26.76",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế",
+          "Tổ hợp môn": "D03; D04; D06",
+          "Điểm chuẩn": "25.76",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "35.38",
+          "Ghi chú": "Tiếng Anh hệ số 2"
+        },
+        {
+          "Tên ngành": "Kinh tế quốc tế",
+          "Tổ hợp môn": "D03; D04; D06",
+          "Điểm chuẩn": "25.47",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế quốc tế",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "25.47",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế quốc tế",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "26.47",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật quốc tế",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.55",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật quốc tế",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "26.55",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật quốc tế",
+          "Tổ hợp môn": "D03; D04; D06",
+          "Điểm chuẩn": "25.55",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông quốc tế",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "29.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông quốc tế",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "27.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông quốc tế",
+          "Tổ hợp môn": "D03; D04; D06",
+          "Điểm chuẩn": "26.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "D03; D04; D06",
+          "Điểm chuẩn": "25.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "25.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "26.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật thương mại quốc tế",
+          "Tổ hợp môn": "D03; D04; D06",
+          "Điểm chuẩn": "25.37",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật thương mại quốc tế",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.37",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật thương mại quốc tế",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "26.37",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hàn Quốc học",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "26.83",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hàn Quốc học",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.83",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hoa Kỳ học",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.55",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hoa Kỳ học",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "26.55",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nhật Bản học",
+          "Tổ hợp môn": "D06",
+          "Điểm chuẩn": "25.73",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nhật Bản học",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.73",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nhật Bản học",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "26.73",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Trung Quốc học",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "27.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Trung Quốc học",
+          "Tổ hợp môn": "D04",
+          "Điểm chuẩn": "26.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Trung Quốc học",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "29.2",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 29
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quan hệ quốc tế",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "24.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "23.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế",
+          "Tổ hợp môn": "D03; D04; D06",
+          "Điểm chuẩn": "22.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "22.93",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế quốc tế",
+          "Tổ hợp môn": "A00; D03; D04; D06",
+          "Điểm chuẩn": "22.55",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế quốc tế",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "23.55",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật quốc tế",
+          "Tổ hợp môn": "D03; D04; D06",
+          "Điểm chuẩn": "21.36",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật quốc tế",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "23.36",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật quốc tế",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "22.36",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông quốc tế",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "23.74",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông quốc tế",
+          "Tổ hợp môn": "D03; D04; D06",
+          "Điểm chuẩn": "22.74",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông quốc tế",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "24.74",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "23.82",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; D03; D04; D06",
+          "Điểm chuẩn": "22.82",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật thương mại quốc tế",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "23.31",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật thương mại quốc tế",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "22.31",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật thương mại quốc tế",
+          "Tổ hợp môn": "D03; D04; D06",
+          "Điểm chuẩn": "21.31",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hàn Quốc học",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "22.12",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hàn Quốc học",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "23.12",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hoa Kỳ học",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "21.93",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hoa Kỳ học",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "22.93",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nhật Bản học",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "21.93",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nhật Bản học",
+          "Tổ hợp môn": "D06",
+          "Điểm chuẩn": "20.93",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nhật Bản học",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "22.93",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Trung Quốc học",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "23.66",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Trung Quốc học",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "22.66",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Trung Quốc học",
+          "Tổ hợp môn": "D04",
+          "Điểm chuẩn": "21.66",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 27
+    }
+  ],
+  "table_count": 2,
+  "crawled_at": "2025-07-18T23:23:35.510059",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-ngoai-giao-HQT.html"
+}

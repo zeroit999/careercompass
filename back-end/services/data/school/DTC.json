@@ -1,0 +1,321 @@
+{
+  "school_code": "DTC",
+  "school_name": "Trường Đại học Công Nghệ Thông Tin và Truyền Thông Thái Nguyên",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Thiết kế đồ họa",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "20.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh số",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "20.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "21.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ truyền thông",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "19.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "21.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing số",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý logistics và chuỗi cung ứng",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "21.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính (AI & Big Data)",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "22.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Mạng máy tính và truyền thông dữ liệu",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "22.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm liên kết quốc tế - KNU",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "21.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "20.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "21.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật máy tính",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "21.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "20.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin trọng điểm (CLC)",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "20.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin quốc tế",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "18.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "An toàn thông tin",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "19.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ ô tô",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "19.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện, điện tử",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "19.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điện tử - viễn thông",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "21.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Vi mạch bán dẫn",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "21.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tự động hóa",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "18.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Cơ điện tử",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "20.1",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 24
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Thiết kế đồ họa",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "19.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh số",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "19.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ truyền thông",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "19.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "19.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing số",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "18.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý logistics và chuỗi cung ứng",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "20.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "19.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính (AI & Big Data)",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "20.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Mạng máy tính và truyền thông dữ liệu",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "22.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm liên kết quốc tế - KNU",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "20.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "19.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "21.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật máy tính",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "19.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "18.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin trọng điểm (CLC)",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "20.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin quốc tế",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "20.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "An toàn thông tin",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ ô tô",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "18.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện, điện tử",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "19.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điện tử - viễn thông",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "18.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Vi mạch bán dẫn",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "20.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tự động hóa",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "18.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Cơ điện tử",
+          "Tổ hợp môn": "A00; C01; C14; D01",
+          "Điểm chuẩn": "19.1",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 24
+    }
+  ],
+  "table_count": 2,
+  "crawled_at": "2025-07-18T23:28:08.647796",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-cong-nghe-thong-tin-va-truyen-thong-thai-nguyen-DTC.html"
+}

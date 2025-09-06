@@ -1,0 +1,135 @@
+{
+  "school_code": "YPB",
+  "school_name": "Trường Đại Học Y Dược Hải Phòng",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Y khoa (A)",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "25.75",
+          "Ghi chú": "Tổng điểm 3 môn: 25.25, môn 1: 9.25, môn 2: 8.00, môn 3: 8.00"
+        },
+        {
+          "Tên ngành": "Y khoa (B)",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y học dự phòng",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y học cổ truyền",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Tổng điểm 3 môn: 22, môn 1: 7.00, môn 2: 7.00, môn 3: 8.00"
+        },
+        {
+          "Tên ngành": "Dược học (A)",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "24.35",
+          "Ghi chú": "Tổng điểm 3 môn: 24.15, môn 1: 8.00, môn 2: 8.40, môn 3: 7.75"
+        },
+        {
+          "Tên ngành": "Dược học (B)",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "24.59",
+          "Ghi chú": "Tổng điểm 3 môn: 24.4, môn 1: 9.00, môn 2: 8.00, môn 3: 7.40"
+        },
+        {
+          "Tên ngành": "Dược học (D)",
+          "Tổ hợp môn": "D07",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Tổng điểm 3 môn: 23, môn 1: 6.00, môn 2: 8.60, môn 3: 8.40"
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "20.55",
+          "Ghi chú": "Tổng điểm 3 môn: 20.05, môn 1: 7.75, môn 2: 5.50, môn 3: 6.80"
+        },
+        {
+          "Tên ngành": "Răng hàm mặt",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "25.85",
+          "Ghi chú": "Tổng điểm 3 môn: 25.55, môn 1: 8.75, môn 2: 8.00, môn 3: 8.80"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xét nghiệm y học",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "Tổng điểm 3 môn: 20, môn 1: 6.75, môn 2: 6.25, môn 3: 7.00"
+        }
+      ],
+      "row_count": 10
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Y khoa (HB) - kết hợp sơ tuyển chứng chỉ ngoại ngữ",
+          "Tổ hợp môn": "A00; B00",
+          "Điểm chuẩn": "26.36",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y học dự phòng (HB)",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "20.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y học cổ truyền (HB)",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "26.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dược học (HB) - kết hợp sơ tuyển chứng chỉ ngoại ngữ",
+          "Tổ hợp môn": "A00; B00",
+          "Điểm chuẩn": "25.26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều dưỡng (HB)",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "24.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Răng hàm mặt (HB) - kết hợp sơ tuyển chứng chỉ ngoại ngữ",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "26.95",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xét nghiệm y học (HB)",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 7
+    }
+  ],
+  "table_count": 2,
+  "crawled_at": "2025-07-18T23:22:50.468689",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-y-duoc-hai-phong-YPB.html"
+}

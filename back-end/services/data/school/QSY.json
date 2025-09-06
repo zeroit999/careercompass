@@ -1,0 +1,279 @@
+{
+  "school_code": "QSY",
+  "school_name": "Trường Đại học Khoa học sức khỏe TPHCM",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "26.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y học cổ truyền",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "24.24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "A00; B00",
+          "Điểm chuẩn": "25.31",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "22.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Răng - Hàm - Mặt",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "26.33",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 5
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "943",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y học cổ truyền",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "835",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "925",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "746",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Răng - Hàm - Mặt",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "937",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 5
+    },
+    {
+      "table_title": "Điểm xét tuyển kết hợp năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "991.2",
+          "Ghi chú": "Học bạ và ĐGNL"
+        },
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "26.18",
+          "Ghi chú": "Kết hợp điểm thi TN THPT và CCTA QT"
+        },
+        {
+          "Tên ngành": "Y học cổ truyền",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "78.1",
+          "Ghi chú": "Học bạ và văn bằng chứng nhận chuyên môn"
+        },
+        {
+          "Tên ngành": "Y học cổ truyền",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "920",
+          "Ghi chú": "Học bạ và ĐGNL"
+        },
+        {
+          "Tên ngành": "Y học cổ truyền",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "23.35",
+          "Ghi chú": "Kết hợp điểm thi TN THPT và CCTA QT"
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "A00; B00",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Kết hợp điểm thi TN THPT và CCTA QT"
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "980.6",
+          "Ghi chú": "Học bạ và ĐGNL"
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "785.8",
+          "Ghi chú": "Học bạ và ĐGNL"
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Kết hợp điểm thi TN THPT và CCTA QT"
+        },
+        {
+          "Tên ngành": "Răng - Hàm - Mặt",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "987.8",
+          "Ghi chú": "Học bạ và ĐGNL"
+        },
+        {
+          "Tên ngành": "Răng - Hàm - Mặt",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "Kết hợp điểm thi TN THPT và CCTA QT"
+        }
+      ],
+      "row_count": 11
+    },
+    {
+      "table_title": "ƯTXT, XT thẳng năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "88.1",
+          "Ghi chú": "UTXT HS Giỏi nhất THPT"
+        },
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "87",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y học cổ truyền",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "82.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y học cổ truyền",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "84.2",
+          "Ghi chú": "UTXT HS Giỏi nhất THPT"
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "85.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "86.5",
+          "Ghi chú": "UTXT HS Giỏi nhất THPT"
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "82.7",
+          "Ghi chú": "UTXT HS Giỏi nhất THPT"
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "73",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Răng - Hàm - Mặt",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "87",
+          "Ghi chú": "UTXT HS Giỏi nhất THPT"
+        },
+        {
+          "Tên ngành": "Răng - Hàm - Mặt",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "86.7",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 10
+    },
+    {
+      "table_title": "Chứng chỉ quốc tế năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "91.25",
+          "Ghi chú": "SAT, ACT, IB, OSSD, A-level hoặc tương đương"
+        },
+        {
+          "Tên ngành": "Y học cổ truyền",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "88.75",
+          "Ghi chú": "SAT, ACT, IB, OSSD, A-level hoặc tương đương"
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "84.38",
+          "Ghi chú": "SAT, ACT, IB, OSSD, A-level hoặc tương đương"
+        },
+        {
+          "Tên ngành": "Răng - Hàm - Mặt",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "90",
+          "Ghi chú": "SAT, ACT, IB, OSSD, A-level hoặc tương đương"
+        }
+      ],
+      "row_count": 4
+    }
+  ],
+  "table_count": 5,
+  "crawled_at": "2025-07-18T23:25:41.120879",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-khoa-hoc-suc-khoe-tphcm-QSY.html"
+}

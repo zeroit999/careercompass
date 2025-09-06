@@ -1,0 +1,1083 @@
+{
+  "school_code": "MBS",
+  "school_name": "Trường Đại Học Mở TPHCM",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D14; D78",
+          "Điểm chuẩn": "24.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh Chất lượng cao",
+          "Tổ hợp môn": "A01; D01; D14; D78",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "D01; D06; DD2; D78; D83; DH8",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc Chất lượng cao",
+          "Tổ hợp môn": "D01; D06; DD2; D78; D83; DH8",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật",
+          "Tổ hợp môn": "D01; D06; DD2; D78; D83; DH8",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật Chất lượng cao",
+          "Tổ hợp môn": "D01; D06; DD2; D78; D83; DH8",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "D01; D06; DD2; D78; D83; DH8",
+          "Điểm chuẩn": "22.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế Chất lượng cao",
+          "Tổ hợp môn": "D07; A01; D01; D96",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xã hội học",
+          "Tổ hợp môn": "A01; C00; D01; D06; DD2; D78; D83; DH8",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "A01; C00; D01; D06; DD2; D78; D83; DH8",
+          "Điểm chuẩn": "23.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đông Nam Á học",
+          "Tổ hợp môn": "A01; C00; D01; D06; DD2; D78; D83; DH8",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh Chất lượng cao",
+          "Tổ hợp môn": "D07; A01; D01; D96",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "23.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính – Ngân hàng Chất lượng cao",
+          "Tổ hợp môn": "D07; A01; D01; D96",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Bảo hiểm",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán Chất lượng cao",
+          "Tổ hợp môn": "D07; A01; D01; D96",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán Chất lượng cao",
+          "Tổ hợp môn": "D07; A01; D01; D96",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý công",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "A00; C03; D01; A01",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; A01; C00; D01; D03; D05; D06",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; A01; C00; D01; D03; D05; D06",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế Chất lượng cao",
+          "Tổ hợp môn": "D07; A01; D01; D14",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "A00; D07; A02; B00",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học Chất lượng cao",
+          "Tổ hợp môn": "D08; A01; B00; D07",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính Chất lượng cao",
+          "Tổ hợp môn": "A00; D01; D07; A01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật công trình xây dựng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật công trình xây dựng Chất lượng cao",
+          "Tổ hợp môn": "A00; D01; D07; A01",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; D07; A01; B00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "A01; C00; D01; D06; DD2; D78; D83; DH8",
+          "Điểm chuẩn": "21.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch",
+          "Tổ hợp môn": "A00; C03; D01; A01",
+          "Điểm chuẩn": "23.4",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 44
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D14; D78",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Nhận hết HSG Nhóm 1 + HSG Nhóm 2: 28.00"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (CT chất lượng cao)",
+          "Tổ hợp môn": "A01; D01; D14; D78",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Nhận hết HSG Nhóm 1, Nhóm 2 và Ưu tiên CCNN + Học bạ: 24.00"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "D01; D06; DD2",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": "Nhận hết HSG Nhóm 1 + HSG Nhóm 2: 27.50"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc (Chất lượng cao)",
+          "Tổ hợp môn": "D01; D06; DD2; D78; D83; DH8",
+          "Điểm chuẩn": "25.6",
+          "Ghi chú": "Nhận hết HSG Nhóm 1 + HSG Nhóm 2: 25.60"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật",
+          "Tổ hợp môn": "D78; D83; DH8",
+          "Điểm chuẩn": "22.75",
+          "Ghi chú": "Nhận hết HSG Nhóm 1, Nhóm 2 và Ưu tiên CCNN + Học bạ: 22.75"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật (Chất lượng cao)",
+          "Tổ hợp môn": "D01; D06; DD2; D78; D83; DH8",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "Nhận hết HSG Nhóm 1, Nhóm 2 + Ưu tiên CCNN và Học bạ: 20.00"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "D78; D83; DH8",
+          "Điểm chuẩn": "25.6",
+          "Ghi chú": "Nhận hết HSG Nhóm 1 + HSG Nhóm 2: 25.60"
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Nhận hết HSG Nhóm 1 + HSG Nhóm 2: 26.50"
+        },
+        {
+          "Tên ngành": "Kinh tế (CT chất lượng cao)",
+          "Tổ hợp môn": "D07; A01; D01; D96",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": "Nhận hết HSG Nhóm 1, Nhóm 2 và Ưu tiên CCNN + Học bạ: 24.50"
+        },
+        {
+          "Tên ngành": "Xã hội học",
+          "Tổ hợp môn": "A01; C00; D01; D06; DD2; D78; D83; DH8",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Nhận hết HSG Nhóm 1, Nhóm 2 + Ưu tiên CCNN: 25.00"
+        },
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "A01; C00; D01; D06; DD2; D78; D83; DH8",
+          "Điểm chuẩn": "26.9",
+          "Ghi chú": "Nhận hết HSG Nhóm 1 + HSG Nhóm 2: 26.90"
+        },
+        {
+          "Tên ngành": "Đông Nam á học",
+          "Tổ hợp môn": "A01; C00; D01; D06; DD2; D78; D83; DH8",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Nhận hết HSG Nhóm 1, Nhóm 2 và Ưu tiên CCNN + Học bạ: 21.00"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "26.25",
+          "Ghi chú": "Nhận hết HSG Nhóm 1 + HSG Nhóm 2: 26.25"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (CT chất lượng cao)",
+          "Tổ hợp môn": "D07; A01; D01; D96",
+          "Điểm chuẩn": "21.1",
+          "Ghi chú": "Nhận hết HSG Nhóm 1, Nhóm 2 và Ưu tiên CCNN + Học bạ: 21.10"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Chỉ nhận HSG Nhóm 1: 27.00"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "26.6",
+          "Ghi chú": "Chỉ nhận HSG Nhóm 1: 26.60"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "27.4",
+          "Ghi chú": "Nhận hết HSG Nhóm 1 + HSG Nhóm 2: 27.40"
+        },
+        {
+          "Tên ngành": "Tài chính-Ngân hàng (CT chất lượng cao)",
+          "Tổ hợp môn": "D07; A01; D01; D96",
+          "Điểm chuẩn": "23.6",
+          "Ghi chú": "Nhận hết HSG Nhóm 1, Nhóm 2 và Ưu tiên CCNN + Học bạ: 23.60"
+        },
+        {
+          "Tên ngành": "Bảo hiểm",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "Nhận hết HSG Nhóm 1, Nhóm 2 + Ưu tiên CCNN và Học bạ: 20.00"
+        },
+        {
+          "Tên ngành": "Công nghệ Tài chính",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": "Nhận hết HSG Nhóm 1 + HSG Nhóm 2: 25.25"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "26.25",
+          "Ghi chú": "Nhận hết HSG Nhóm 1 + HSG Nhóm 2: 26.25"
+        },
+        {
+          "Tên ngành": "Kế toán (CT chất lượng cao)",
+          "Tổ hợp môn": "D07; A01; D01; D96",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "Nhận hết HSG Nhóm 1, Nhóm 2 + Ưu tiên CCNN và Học bạ: 20.00"
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Nhận hết HSG Nhóm 1 + HSG Nhóm 2: 27.00"
+        },
+        {
+          "Tên ngành": "Kiểm toán (CT chất lượng cao)",
+          "Tổ hợp môn": "D07; A01; D01; D96",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "Nhận hết HSG Nhóm 1, Nhóm 2 + Ưu tiên CCNN và Học bạ: 20.00"
+        },
+        {
+          "Tên ngành": "Quản lý công",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "Nhận hết HSG Nhóm 1, Nhóm 2 và Ưu tiên CCNN + Học bạ: 23.50"
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "Nhận hết HSG Nhóm 1, Nhóm 2 + Ưu tiên CCNN và Học bạ: 20.00"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; A01; C00; D01; D03; D05; D06",
+          "Điểm chuẩn": "26.75",
+          "Ghi chú": "Nhận hết HSG Nhóm 1 + HSG Nhóm 2: 26.75"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; A01; C00; D01; D03; D05; D06",
+          "Điểm chuẩn": "27.25",
+          "Ghi chú": "Nhận hết HSG Nhóm 1 + HSG Nhóm 2: 27.25"
+        },
+        {
+          "Tên ngành": "Luật kinh tế (CT chất lượng cao)",
+          "Tổ hợp môn": "D07; A01; D01; D14",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "Nhận hết HSG Nhóm 1, Nhóm 2 + Ưu tiên CCNN: 23.5"
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "A00; D07; A02; B00",
+          "Điểm chuẩn": "23.9",
+          "Ghi chú": "Nhận hết HSG Nhóm 1, Nhóm 2 và Ưu tiên CCNN + Học bạ: 23.90"
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học CLC",
+          "Tổ hợp môn": "D08; A01; B00; D07",
+          "Điểm chuẩn": "22.6",
+          "Ghi chú": "Nhận hết HSG Nhóm 1, Nhóm 2 và Ưu tiên CCNN + Học bạ: 22.60"
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": "Nhận hết HSG Nhóm 1, Nhóm 2 và Ưu tiên CCNN + Học bạ: 24.50"
+        },
+        {
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "24.3",
+          "Ghi chú": "Nhận hết HSG Nhóm 1, Nhóm 2 và Ưu tiên CCNN + Học bạ: 24.30"
+        },
+        {
+          "Tên ngành": "Khoa học máy tính CLC",
+          "Tổ hợp môn": "A00; D01; D07; A01",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": "Nhận hết HSG Nhóm 1, Nhóm 2 và Ưu tiên CCNN + Học bạ: 21.50"
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": "Nhận hết HSG Nhóm 1, Nhóm 2 và Ưu tiên CCNN + Học bạ: 24.50"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "25.75",
+          "Ghi chú": "Nhận hết HSG Nhóm 1 + HSG Nhóm 2: 25.75"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật công trình xây dựng",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "Nhận hết HSG Nhóm 1, Nhóm 2 + Ưu tiên CCNN và Học bạ: 20.00"
+        },
+        {
+          "Tên ngành": "CNKT công trình xây dựng CLC",
+          "Tổ hợp môn": "A00; D01; D07; A01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "Nhận hết HSG Nhóm 1, Nhóm 2 + Ưu tiên CCNN và Học bạ: 20.00"
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; C03; D01; A01",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Chỉ nhận HSG Nhóm 1: 26.50"
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "A00; C03; D01; A01",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Nhận hết HSG Nhóm 1 + HSG Nhóm 2: 28.00"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; A01; D07; B00",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": "Nhận hết HSG Nhóm 1 + HSG Nhóm 2: 25.50"
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng",
+          "Tổ hợp môn": "A00; A01; D07; D01",
+          "Điểm chuẩn": "20.75",
+          "Ghi chú": "Nhận hết HSG Nhóm 1, Nhóm 2 và Ưu tiên CCNN + Học bạ: 20.75"
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "A01; C00; D01; D06; DD2; D83; DH8",
+          "Điểm chuẩn": "24.6",
+          "Ghi chú": "Nhận hết HSG Nhóm 1, Nhóm 2 và Ưu tiên CCNN + Học bạ: 24.60"
+        },
+        {
+          "Tên ngành": "Du lịch",
+          "Tổ hợp môn": "A00; C03; D01; A01",
+          "Điểm chuẩn": "26.6",
+          "Ghi chú": "Nhận hết HSG Nhóm 1 + HSG Nhóm 2: 26.60"
+        }
+      ],
+      "row_count": 44
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "770",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (CT chất lượng cao)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "770",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc (Chất lượng cao)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật (Chất lượng cao)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "730",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "740",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế (CT chất lượng cao)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xã hội học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "750",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đông Nam á học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "745",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (CT chất lượng cao)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "825",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "835",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "780",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính-Ngân hàng (CT chất lượng cao)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Bảo hiểm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Tài chính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "800",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "730",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán (CT chất lượng cao)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "770",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán (CT chất lượng cao)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "710",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý công",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "770",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "710",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "760",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế (CT chất lượng cao)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học CLC",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "760",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "730",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính CLC",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "740",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "730",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "750",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật công trình xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "CNKT công trình xây dựng CLC",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "830",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "720",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 44
+    },
+    {
+      "table_title": "Điểm Đánh giá đầu vào V-SAT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "280",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (CT chất lượng cao)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "255",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "280",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế (CT chất lượng cao)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "255",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xã hội học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "255",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "280",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đông Nam á học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "255",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "270",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (CT chất lượng cao)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "255",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "300",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "320",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "280",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính-Ngân hàng (CT chất lượng cao)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "255",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Bảo hiểm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "255",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Tài chính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "300",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "270",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán (CT chất lượng cao)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "255",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "280",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán (CT chất lượng cao)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "255",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý công",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "255",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "280",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "255",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "260",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "280",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế (CT chất lượng cao)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "255",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "255",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học CLC",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "255",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "280",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "260",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính CLC",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "270",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "270",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "280",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật công trình xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "255",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "CNKT công trình xây dựng CLC",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "255",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "310",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "255",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "255",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "255",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "260",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 39
+    }
+  ],
+  "table_count": 4,
+  "crawled_at": "2025-07-18T23:27:22.033575",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-mo-tphcm-MBS.html"
+}

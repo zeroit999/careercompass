@@ -1,0 +1,153 @@
+{
+  "school_code": "HTN",
+  "school_name": "Học Viện Thanh Thiếu Niên Việt Nam",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Xây dựng Đảng và Chính quyền Nhà nước",
+          "Tổ hợp môn": "C00; C20; D01; A09",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và Chính quyền Nhà nước",
+          "Tổ hợp môn": "C00; C20; D01; A09",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": "CS TPHCM"
+        },
+        {
+          "Tên ngành": "Quản lý Nhà nước",
+          "Tổ hợp môn": "C00; C20; D01; A09",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "C00; C20; D01; A09",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ Công chúng",
+          "Tổ hợp môn": "C00; C20; D01; D15",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "C00; C20; A00; A09",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "C00; C20; A00; A09",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "CS TPHCM"
+        },
+        {
+          "Tên ngành": "Công tác Xã hội",
+          "Tổ hợp môn": "C00; C20; D01; A09",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác Thanh thiếu niên",
+          "Tổ hợp môn": "C00; C20; D01; A09",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác Thanh thiếu niên",
+          "Tổ hợp môn": "C00; C20; D01; A09",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "CS TPHCM"
+        }
+      ],
+      "row_count": 10
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Xây dựng Đảng và Chính quyền Nhà nước",
+          "Tổ hợp môn": "C00; C20; D01; A09",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và Chính quyền Nhà nước",
+          "Tổ hợp môn": "C00; C20; D01; A09",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "CS TPHCM"
+        },
+        {
+          "Tên ngành": "Quản lý Nhà nước",
+          "Tổ hợp môn": "C00; C20; D01; A09",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "C00; C20; D01; A09",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ Công chúng",
+          "Tổ hợp môn": "C00; C20; D01; D15",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "C00; C20; A00; A09",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "CS TPHCM"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "C00; C20; A00; A09",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác Xã hội",
+          "Tổ hợp môn": "C00; C20; D01; A09",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác Thanh thiếu niên",
+          "Tổ hợp môn": "C00; C20; D01; A09",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "CS TPHCM"
+        },
+        {
+          "Tên ngành": "Công tác Thanh thiếu niên",
+          "Tổ hợp môn": "C00; C20; D01; A09",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 10
+    }
+  ],
+  "table_count": 2,
+  "crawled_at": "2025-07-18T23:24:52.791488",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-thanh-thieu-nien-viet-nam-HTN.html"
+}

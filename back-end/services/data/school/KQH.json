@@ -1,0 +1,117 @@
+{
+  "school_code": "KQH",
+  "school_name": "Học Viện Kỹ Thuật Quân Sự - Hệ Quân sự",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Đào tạo kỹ sư quân sự",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "26.13",
+          "Ghi chú": "TS nam, miền Bắc; Tiêu chí phụ 1: Toán >= 8.6; Tiêu chí phụ 2: Lý >= 9.25"
+        },
+        {
+          "Tên ngành": "Đào tạo kỹ sư quân sự",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "25.46",
+          "Ghi chú": "TS nam, miền Nam"
+        },
+        {
+          "Tên ngành": "Đào tạo kỹ sư quân sự",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "27.71",
+          "Ghi chú": "TS nữ, miền Bắc"
+        },
+        {
+          "Tên ngành": "Đào tạo kỹ sư quân sự",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "26.52",
+          "Ghi chú": "TS nữ, miền Nam"
+        }
+      ],
+      "row_count": 4
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Đào tạo kỹ sư quân sự",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.35",
+          "Ghi chú": "TS Nam miền Bắc mức 20.350 điểm có tổng điểm TK 3 năm lớp 10,11,12 > 25.4"
+        },
+        {
+          "Tên ngành": "Đào tạo kỹ sư quân sự",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.875",
+          "Ghi chú": "TS Nam miền Nam"
+        },
+        {
+          "Tên ngành": "Đào tạo kỹ sư quân sự",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.55",
+          "Ghi chú": "TS Nữ miền Bắc"
+        },
+        {
+          "Tên ngành": "Đào tạo kỹ sư quân sự",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.466",
+          "Ghi chú": "TS Nữ miền Nam"
+        }
+      ],
+      "row_count": 4
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Đào tạo kỹ sư quân sự",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.35",
+          "Ghi chú": "TS Nam miền Bắc mức 20.350 điểm có tổng điểm TK 3 năm lớp 10,11,12 > 25.4"
+        },
+        {
+          "Tên ngành": "Đào tạo kỹ sư quân sự",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.875",
+          "Ghi chú": "TS Nam miền Nam"
+        },
+        {
+          "Tên ngành": "Đào tạo kỹ sư quân sự",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.55",
+          "Ghi chú": "TS Nữ miền Bắc"
+        },
+        {
+          "Tên ngành": "Đào tạo kỹ sư quân sự",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.466",
+          "Ghi chú": "TS Nữ miền Nam"
+        }
+      ],
+      "row_count": 4
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:23:31.269167",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-ky-thuat-quan-su-he-quan-su-KQH.html"
+}

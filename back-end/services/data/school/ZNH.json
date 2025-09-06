@@ -1,0 +1,69 @@
+{
+  "school_code": "ZNH",
+  "school_name": "Trường Đại học Văn hóa Nghệ thuật Quân đội",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2018",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Đại học Dân Sự",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "0",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Âm nhạc",
+          "Tổ hợp môn": "N01",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Tổng điểm thi 2 môn năng khiếu 11,10, điểm chuyên môn >=7"
+        },
+        {
+          "Tên ngành": "Sáng tác âm nhạc",
+          "Tổ hợp môn": "N05",
+          "Điểm chuẩn": "17.25",
+          "Ghi chú": "Tổng điểm thi 2 môn năng khiếu 14, điểm chuyên môn >=7"
+        },
+        {
+          "Tên ngành": "Thanh nhạc",
+          "Tổ hợp môn": "N02",
+          "Điểm chuẩn": "17.55",
+          "Ghi chú": "Tổng điểm thi 2 môn năng khiếu 14,05, điểm chuyên môn >=9"
+        },
+        {
+          "Tên ngành": "Biểu diễn nhạc cụ phương tây",
+          "Tổ hợp môn": "N04",
+          "Điểm chuẩn": "15.25",
+          "Ghi chú": "Tổng điểm thi 2 môn năng khiếu 13,25, điểm chuyên môn >=8,5"
+        },
+        {
+          "Tên ngành": "Biên đạo múa",
+          "Tổ hợp môn": "N03",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Tổng điểm thi 2 môn năng khiếu 17,5, điểm chuyên môn >=9"
+        },
+        {
+          "Tên ngành": "Quản lý văn hoá",
+          "Tổ hợp môn": "N01",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Tổng điểm thi 2 môn năng khiếu 12,6, điểm chuyên môn >=7"
+        },
+        {
+          "Tên ngành": "Báo chí",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 8
+    }
+  ],
+  "table_count": 1,
+  "crawled_at": "2025-07-18T23:32:53.568691",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-van-hoa-nghe-thuat-quan-doi-ZNH.html"
+}

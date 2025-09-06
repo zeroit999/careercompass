@@ -1,0 +1,129 @@
+{
+  "school_code": "NHB",
+  "school_name": "Học Viện Ngân Hàng (Phân Viện Bắc Ninh)",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "23.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "22.85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "23.2",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 3
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.35",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 3
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 3
+    },
+    {
+      "table_title": "Điểm Đánh giá đầu vào V-SAT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "200",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "200",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "200",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 3
+    }
+  ],
+  "table_count": 4,
+  "crawled_at": "2025-07-18T23:27:52.686661",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-ngan-hang-phan-vien-bac-ninh-NHB.html"
+}

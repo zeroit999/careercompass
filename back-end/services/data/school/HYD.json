@@ -1,0 +1,69 @@
+{
+  "school_code": "HYD",
+  "school_name": "Học Viện Y Dược Học Cổ Truyền Việt Nam",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "25.57",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y học cổ truyền",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "22.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "23.52",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 3
+    },
+    {
+      "table_title": "Điểm xét tuyển kết hợp năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "24.1",
+          "Ghi chú": "Kết hợp điểm thi tốt nghiệp THPT với CCNN"
+        },
+        {
+          "Tên ngành": "Y học cổ truyền",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "21.4",
+          "Ghi chú": "Kết hợp điểm thi tốt nghiệp THPT với CCNN"
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "22.15",
+          "Ghi chú": "Kết hợp điểm thi tốt nghiệp THPT với CCNN"
+        }
+      ],
+      "row_count": 3
+    }
+  ],
+  "table_count": 2,
+  "crawled_at": "2025-07-18T23:23:05.492198",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-y-duoc-hoc-co-truyen-viet-nam-HYD.html"
+}

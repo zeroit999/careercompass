@@ -1,0 +1,243 @@
+{
+  "school_code": "KTA",
+  "school_name": "Trường Đại Học Kiến Trúc Hà Nội",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Điêu khắc",
+          "Tổ hợp môn": "H00; H02",
+          "Điểm chuẩn": "23.23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế đồ họa",
+          "Tổ hợp môn": "H00; H02",
+          "Điểm chuẩn": "24.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế thời trang",
+          "Tổ hợp môn": "H00; H02",
+          "Điểm chuẩn": "23.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "23.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Chuyên ngành Công nghệ đa phương tiện)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24.73",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật vật liệu xây dựng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "22.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "V00; V01; V02",
+          "Điểm chuẩn": "30.2",
+          "Ghi chú": "Điểm Vẽ mỹ thuật nhân hệ số 2"
+        },
+        {
+          "Tên ngành": "Chương trình tiên tiến ngành Kiến trúc",
+          "Tổ hợp môn": "V00; V01; V02",
+          "Điểm chuẩn": "27.8",
+          "Ghi chú": "Điểm Vẽ mỹ thuật nhân hệ số 2"
+        },
+        {
+          "Tên ngành": "Kiến trúc cảnh quan",
+          "Tổ hợp môn": "V00; V01; V02",
+          "Điểm chuẩn": "28.78",
+          "Ghi chú": "Điểm Vẽ mỹ thuật nhân hệ số 2"
+        },
+        {
+          "Tên ngành": "Quy hoạch vùng và đô thị",
+          "Tổ hợp môn": "V00; V01; V02",
+          "Điểm chuẩn": "29.5",
+          "Ghi chú": "Điểm Vẽ mỹ thuật nhân hệ số 2"
+        },
+        {
+          "Tên ngành": "Quy hoạch vùng và đô thị (Chuyên ngành Thiết kế đô thị)",
+          "Tổ hợp môn": "V00; V01; V02",
+          "Điểm chuẩn": "29.23",
+          "Ghi chú": "Điểm Vẽ mỹ thuật nhân hệ số 2"
+        },
+        {
+          "Tên ngành": "Thiết kế nội thất",
+          "Tổ hợp môn": "H00; H02",
+          "Điểm chuẩn": "23.48",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng (Chuyên ngành Xây dựng dán dụng và công nghiệp)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "21.85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng (Chuyên ngành Xây dựng công trình ngầm đô thị)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "22.55",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng (Chuyên ngành Quản lý dự án xây dựng)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "22.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỳ thuật xây dựng công trình giao thông",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "21.15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ sở hạ tầng (Chuyên ngành Kỹ thuật hạ tầng đô thị)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "21.15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ sở hạ tầng (Chuyên ngành Kỹ thuật môi trường đô thị)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "21.15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ sở hạ tầng (Chuyên ngành Công nghệ cơ điện công trình)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "21.15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cấp thoát nước",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "21.15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế Xây dựng",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "23.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế Xây dựng (Chuyên ngành Kinh tế đầu tư)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "23.56",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "22.15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng (Chuyên ngành Quản lý bất động sản)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "23.14",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng (Chuyên ngành Quản lý vận tải và Logistics)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "24.63",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng (Chuyên ngành Kinh tề phát triển)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "23.4",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 26
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Công nghệ kỹ thuật vật liệu xây dựng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xây dựng dân dụng và công nghiệp",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xây dựng công trình ngầm đô thị",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý dự án xây dựng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình giao thông",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật hạ tầng đô thị",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật môi trường đô thị",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ cơ điện công trình",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cấp thoát nước",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 9
+    }
+  ],
+  "table_count": 2,
+  "crawled_at": "2025-07-18T23:26:00.245500",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-kien-truc-ha-noi-KTA.html"
+}

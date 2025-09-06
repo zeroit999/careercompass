@@ -1,0 +1,159 @@
+{
+  "school_code": "QHE",
+  "school_name": "Trường Đại Học Kinh Tế - ĐHQG Hà Nội",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A01; D01; D09; D10",
+          "Điểm chuẩn": "33.23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế phát triển",
+          "Tổ hợp môn": "A01; D01; D09; D10",
+          "Điểm chuẩn": "33.35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế quốc tế",
+          "Tổ hợp môn": "A01; D01; D09; D10",
+          "Điểm chuẩn": "33.43",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A01; D01; D09; D10",
+          "Điểm chuẩn": "33.33",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A01; D01; D09; D10",
+          "Điểm chuẩn": "33.62",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A01; D01; D09; D10",
+          "Điểm chuẩn": "33.1",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 6
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "98",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế Phát triển",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "95",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "110",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị Kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "98",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "105",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "95",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 6
+    },
+    {
+      "table_title": "Chứng chỉ quốc tế năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1460",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Kinh tế Phát triển",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1460",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Kinh tế quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1540",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Kinh tế quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "CCQT ACT"
+        },
+        {
+          "Tên ngành": "Quản trị Kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1540",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Tài chính Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1540",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1460",
+          "Ghi chú": "CCQT SAT"
+        }
+      ],
+      "row_count": 7
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:24:11.515834",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-kinh-te-ha-noi-QHE.html"
+}

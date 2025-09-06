@@ -1,0 +1,1161 @@
+{
+  "school_code": "QSK",
+  "school_name": "Trường Đại học Kinh Tế Luật TPHCM",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kinh tế (Chuyên ngành Kinh tế học)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.89",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế (Chuyên ngành Kinh tế và Quản lý công)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.64",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế quốc tế (Chuyên ngành Kinh tế đối ngoại)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.55",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Toán Kinh tế (Chuyên ngành Toán ứng dụng trong Kinh tế, Quản trị và Tài chính)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Toán Kinh tế (Chuyên ngành Toán ứng dụng trong Kinh tế, Quản trị và Tài chính) (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.61",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Toán Kinh tế (Chuyên ngành Phân tích dữ liệu)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chuyên ngành Quản trị kinh doanh )",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.33",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chuyên ngành Quản trị kinh doanh )(Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chuyên ngành Quản trị du lịch và lữ hành)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.33",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing (Chuyên ngành Marketing)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.87",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing (Chuyên ngành Marketing)(Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing (Chuyên ngành Digital Marketing)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.71",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.44",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.89",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.54",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính (CT Co-operative Education)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán (Tích hợp CCQT ICAEW - Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.38",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý công",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24.39",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý (Chuyên ngành Hệ thông thông tin quản lý)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý (CT Co - operative Education)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý (Chuyên ngành Kinh doanh số và Trí tuệ nhân tạo)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật( Chuyên ngành Luật Dân sự)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật (Chuyên ngành Luật Tài chính - Ngân hàng)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.41",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật (Chuyên ngành Luật và Chính sách công)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế (Chuyên ngành Luật Kinh doanh)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.07",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật Kinh tế (Chuyên ngành Luật thương mại quốc tế)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.09",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật Kinh tế (Chuyên ngành Luật thương mại quốc tế)(Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 33
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kinh tế (Kinh tế học)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "847",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế ( Kinh tế và quản lý công)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "809",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế quốc tế (kinh tế đối ngoại)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "906",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Toán kinh tế (Toán ứng dụng trong kinh tế, quản trị và tài chính)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "841",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Toán kinh tế (Toán ứng dụng trong kinh tế, quản trị và tài chính) Chất lượng cao bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "766",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Toán kinh tế (phân tích dữ liệu)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "811",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "878",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Tiếng Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "823",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Quản trị du lịch và lữ hành)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "807",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "916",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing Chất lượng cao bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "857",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing (Digital Marketing)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "938",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "933",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế (Tiếng Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "893",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "945",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử (tiếng Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "876",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "871",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng (Tiếng Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "839",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "867",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính (Chưong trình Co-operative Education)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "847",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "851",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán (Tích hợp chứng chi quốc tế ICAEW- Tiếng Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "767",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "900",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý công",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "702",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "896",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý (Chưong trình Co-operatìveEducation)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "846",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý (kinh doanh số và Trí tuệ nhân tạo)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "873",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật (Luật dân sự)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "804",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật (Luật Tài chính - Ngân hàng)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "800",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật (Luật và chính sách công)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "786",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế (Luật kinh doanh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "858",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế (Luật thương mại quốc tế)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "861",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế (Luật thương mại quốc tế) Chất lượng cao bằng Tiếng Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "831",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 33
+    },
+    {
+      "table_title": "Điểm xét tuyển kết hợp năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kinh tế (Kinh tế học)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.47",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và học bạ THPT"
+        },
+        {
+          "Tên ngành": "Kinh tế ( Kinh tế và quản lý công)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.77",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và học bạ THPT"
+        },
+        {
+          "Tên ngành": "Kinh tế quốc tế (kinh tế đối ngoại)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26.4",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và học bạ THPT"
+        },
+        {
+          "Tên ngành": "Toán kinh tế (Toán ứng dụng trong kinh tế, quản trị và tài chính)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.57",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và học bạ THPT"
+        },
+        {
+          "Tên ngành": "Toán kinh tế (Toán ứng dụng trong kinh tế, quản trị và tài chính) Chất lượng cao bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.57",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và học bạ THPT"
+        },
+        {
+          "Tên ngành": "Toán kinh tế (phân tích dữ liệu)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.77",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và học bạ THPT"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "25.07",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và học bạ THPT"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Tiếng Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.53",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và học bạ THPT"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Quản trị du lịch và lữ hành)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.3",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và học bạ THPT"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "25.93",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và học bạ THPT"
+        },
+        {
+          "Tên ngành": "Marketing Chất lượng cao bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26.17",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và học bạ THPT"
+        },
+        {
+          "Tên ngành": "Marketing (Digital Marketing)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26.27",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và học bạ THPT"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26.97",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và học bạ THPT"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế (Tiếng Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và học bạ THPT"
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "25.7",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và học bạ THPT"
+        },
+        {
+          "Tên ngành": "Thương mại điện tử (tiếng Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "25.93",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và học bạ THPT"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.77",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và học bạ THPT"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng (Tiếng Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.07",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và học bạ THPT"
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.47",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và học bạ THPT"
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính (Chưong trình Co-operatìveEducation)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.7",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và học bạ THPT"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.6",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và học bạ THPT"
+        },
+        {
+          "Tên ngành": "Kế toán (Tích hợp chứng chi quốc tế ICAEW- Tiếng Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.23",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và học bạ THPT"
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.47",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và học bạ THPT"
+        },
+        {
+          "Tên ngành": "Quản lý công",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.3",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và học bạ THPT"
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.33",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và học bạ THPT"
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý (Chưong trình Co-operative Education)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.03",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và học bạ THPT"
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý (kinh doanh số và Trí tuệ nhân tạo)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.37",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và học bạ THPT"
+        },
+        {
+          "Tên ngành": "Luật (Luật dân sự)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.37",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và học bạ THPT"
+        },
+        {
+          "Tên ngành": "Luật (Luật Tài chính - Ngân hàng)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.63",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và học bạ THPT"
+        },
+        {
+          "Tên ngành": "Luật (Luật và chính sách công)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.1",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và học bạ THPT"
+        },
+        {
+          "Tên ngành": "Luật kinh tế (Luật kinh doanh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "25.6",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và học bạ THPT"
+        },
+        {
+          "Tên ngành": "Luật kinh tế (Luật thương mại quốc tế)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26.03",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và học bạ THPT"
+        },
+        {
+          "Tên ngành": "Luật kinh tế (Luật thương mại quốc tế) Chất lượng cao bằng Tiếng Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26.07",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và học bạ THPT"
+        }
+      ],
+      "row_count": 33
+    },
+    {
+      "table_title": "ƯTXT, XT thẳng năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kinh tế (Kinh tế học)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.6",
+          "Ghi chú": "Xét tuyển thẳng HSG, tài năng"
+        },
+        {
+          "Tên ngành": "Kinh tế (Kinh tế học)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "80.96",
+          "Ghi chú": "Xét tuyển thẳng theo ĐHQGHCM"
+        },
+        {
+          "Tên ngành": "Kinh tế ( Kinh tế và quản lý công)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.3",
+          "Ghi chú": "Xét tuyển thẳng HSG, tài năng"
+        },
+        {
+          "Tên ngành": "Kinh tế ( Kinh tế và quản lý công)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "80.22",
+          "Ghi chú": "Xét tuyển thẳng theo ĐHQGHCM"
+        },
+        {
+          "Tên ngành": "Kinh tế quốc tế (kinh tế đối ngoại)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.9",
+          "Ghi chú": "Xét tuyển thẳng HSG, tài năng"
+        },
+        {
+          "Tên ngành": "Kinh tế quốc tế (kinh tế đối ngoại)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "87.2",
+          "Ghi chú": "Xét tuyển thẳng theo ĐHQGHCM"
+        },
+        {
+          "Tên ngành": "Toán kinh tế (Toán ứng dụng trong kinh tế, quản trị và tài chính)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.4",
+          "Ghi chú": "Xét tuyển thẳng HSG, tài năng"
+        },
+        {
+          "Tên ngành": "Toán kinh tế (Toán ứng dụng trong kinh tế, quản trị và tài chính)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "81.2",
+          "Ghi chú": "Xét tuyển thẳng theo ĐHQGHCM"
+        },
+        {
+          "Tên ngành": "Toán kinh tế (Toán ứng dụng trong kinh tế, quản trị và tài chính) Chất lượng cao bằng tiếng Anh",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "79.4",
+          "Ghi chú": "Xét tuyển thẳng theo ĐHQGHCM"
+        },
+        {
+          "Tên ngành": "Toán kinh tế (phân tích dữ liệu)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "74.8",
+          "Ghi chú": "Xét tuyển thẳng theo ĐHQGHCM"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.4",
+          "Ghi chú": "Xét tuyển thẳng HSG, tài năng"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "84.74",
+          "Ghi chú": "Xét tuyển thẳng theo ĐHQGHCM"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Tiếng Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26.9",
+          "Ghi chú": "Xét tuyển thẳng HSG, tài năng"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "81.2",
+          "Ghi chú": "Xét tuyển thẳng theo ĐHQGHCM"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Quản trị du lịch và lữ hành)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Xét tuyển thẳng HSG, tài năng"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Quản trị du lịch và lữ hành)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "81.8",
+          "Ghi chú": "Xét tuyển thẳng theo ĐHQGHCM"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "86.84",
+          "Ghi chú": "Xét tuyển thẳng theo ĐHQGHCM"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28.6",
+          "Ghi chú": "Xét tuyển thẳng HSG, tài năng"
+        },
+        {
+          "Tên ngành": "Marketing Chất lượng cao bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "25.3",
+          "Ghi chú": "Xét tuyển thẳng HSG, tài năng"
+        },
+        {
+          "Tên ngành": "Marketing Chất lượng cao bằng tiếng Anh",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "83.9",
+          "Ghi chú": "Xét tuyển thẳng theo ĐHQGHCM"
+        },
+        {
+          "Tên ngành": "Marketing (Digital Marketing)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "87.1",
+          "Ghi chú": "Xét tuyển thẳng theo ĐHQGHCM"
+        },
+        {
+          "Tên ngành": "Marketing (Digital Marketing)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.9",
+          "Ghi chú": "Xét tuyển thẳng HSG, tài năng"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28.3",
+          "Ghi chú": "Xét tuyển thẳng HSG, tài năng"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "87.57",
+          "Ghi chú": "Xét tuyển thẳng theo ĐHQGHCM"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế (Tiếng Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": "Xét tuyển thẳng HSG, tài năng"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "86.31",
+          "Ghi chú": "Xét tuyển thẳng theo ĐHQGHCM"
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": "Xét tuyển thẳng HSG, tài năng"
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "87.36",
+          "Ghi chú": "Xét tuyển thẳng theo ĐHQGHCM"
+        },
+        {
+          "Tên ngành": "Thương mại điện tử (tiếng Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.1",
+          "Ghi chú": "Xét tuyển thẳng HSG, tài năng"
+        },
+        {
+          "Tên ngành": "Thương mại điện tử (tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "84.95",
+          "Ghi chú": "Xét tuyển thẳng theo ĐHQGHCM"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26.8",
+          "Ghi chú": "Xét tuyển thẳng HSG, tài năng"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "84.53",
+          "Ghi chú": "Xét tuyển thẳng theo ĐHQGHCM"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng (Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "80.8",
+          "Ghi chú": "Xét tuyển thẳng theo ĐHQGHCM"
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "82.95",
+          "Ghi chú": "Xét tuyển thẳng theo ĐHQGHCM"
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "25.8",
+          "Ghi chú": "Xét tuyển thẳng HSG, tài năng"
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính (Chưong trình Co-operative Education)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28.4",
+          "Ghi chú": "Xét tuyển thẳng HSG, tài năng"
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính (Chưong trình Co-operative Education)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "76.23",
+          "Ghi chú": "Xét tuyển thẳng theo ĐHQGHCM"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "80.5",
+          "Ghi chú": "Xét tuyển thẳng theo ĐHQGHCM"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26.1",
+          "Ghi chú": "Xét tuyển thẳng HSG, tài năng"
+        },
+        {
+          "Tên ngành": "Kế toán (Tích hợp chứng chi quốc tế ICAEW- Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "79.1",
+          "Ghi chú": "Xét tuyển thẳng theo ĐHQGHCM"
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "85.05",
+          "Ghi chú": "Xét tuyển thẳng theo ĐHQGHCM"
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26.2",
+          "Ghi chú": "Xét tuyển thẳng HSG, tài năng"
+        },
+        {
+          "Tên ngành": "Quản lý công",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "72.1",
+          "Ghi chú": "Xét tuyển thẳng theo ĐHQGHCM"
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26.9",
+          "Ghi chú": "Xét tuyển thẳng HSG, tài năng"
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "83.69",
+          "Ghi chú": "Xét tuyển thẳng theo ĐHQGHCM"
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý (Chưong trình Co-operative Education)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26.6",
+          "Ghi chú": "Xét tuyển thẳng HSG, tài năng"
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý (Chưong trình Co-operativeEducation)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "75.71",
+          "Ghi chú": "Xét tuyển thẳng theo ĐHQGHCM"
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý (kinh doanh số và Trí tuệ nhân tạo)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "79.07",
+          "Ghi chú": "Xét tuyển thẳng theo ĐHQGHCM"
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý (kinh doanh số và Trí tuệ nhân tạo)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "25.8",
+          "Ghi chú": "Xét tuyển thẳng HSG, tài năng"
+        },
+        {
+          "Tên ngành": "Luật (Luật dân sự)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "25.4",
+          "Ghi chú": "Xét tuyển thẳng HSG, tài năng"
+        },
+        {
+          "Tên ngành": "Luật (Luật dân sự)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "79.2",
+          "Ghi chú": "Xét tuyển thẳng theo ĐHQGHCM"
+        },
+        {
+          "Tên ngành": "Luật (Luật Tài chính - Ngân hàng)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "78.7",
+          "Ghi chú": "Xét tuyển thẳng theo ĐHQGHCM"
+        },
+        {
+          "Tên ngành": "Luật (Luật Tài chính - Ngân hàng)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26.4",
+          "Ghi chú": "Xét tuyển thẳng HSG, tài năng"
+        },
+        {
+          "Tên ngành": "Luật (Luật và chính sách công)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "73.19",
+          "Ghi chú": "Xét tuyển thẳng theo ĐHQGHCM"
+        },
+        {
+          "Tên ngành": "Luật kinh tế (Luật kinh doanh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Xét tuyển thẳng HSG, tài năng"
+        },
+        {
+          "Tên ngành": "Luật kinh tế (Luật kinh doanh)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "82.4",
+          "Ghi chú": "Xét tuyển thẳng theo ĐHQGHCM"
+        },
+        {
+          "Tên ngành": "Luật kinh tế (Luật thương mại quốc tế)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "84.32",
+          "Ghi chú": "Xét tuyển thẳng theo ĐHQGHCM"
+        },
+        {
+          "Tên ngành": "Luật kinh tế (Luật thương mại quốc tế)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26.9",
+          "Ghi chú": "Xét tuyển thẳng HSG, tài năng"
+        },
+        {
+          "Tên ngành": "Luật kinh tế (Luật thương mại quốc tế) Chất lượng cao bằng Tiếng Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Xét tuyển thẳng HSG, tài năng"
+        },
+        {
+          "Tên ngành": "Luật kinh tế (Luật thương mại quốc tế) Chất lượng cao bằng Tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "81.6",
+          "Ghi chú": "Xét tuyển thẳng theo ĐHQGHCM"
+        }
+      ],
+      "row_count": 60
+    },
+    {
+      "table_title": "Chứng chỉ quốc tế năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kinh tế quốc tế (kinh tế đối ngoại)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "89",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và CC SAT, ACT/bằng tú tài quốc tế (IB)/A-level"
+        },
+        {
+          "Tên ngành": "Toán kinh tế (Toán ứng dụng trong kinh tế, quản trị và tài chính) Chất lượng cao bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "76",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và CC SAT, ACT/bằng tú tài quốc tế (IB)/A-level"
+        },
+        {
+          "Tên ngành": "Toán kinh tế (phân tích dữ liệu)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "78",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và CC SAT, ACT/bằng tú tài quốc tế (IB)/A-level"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và CC SAT, ACT/bằng tú tài quốc tế (IB)/A-level"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Tiếng Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "85",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và CC SAT, ACT/bằng tú tài quốc tế (IB)/A-level"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "78",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và CC SAT, ACT/bằng tú tài quốc tế (IB)/A-level"
+        },
+        {
+          "Tên ngành": "Marketing Chất lượng cao bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "81",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và CC SAT, ACT/bằng tú tài quốc tế (IB)/A-level"
+        },
+        {
+          "Tên ngành": "Marketing (Digital Marketing)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "86",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và CC SAT, ACT/bằng tú tài quốc tế (IB)/A-level"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "87",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và CC SAT, ACT/bằng tú tài quốc tế (IB)/A-level"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế (Tiếng Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "77",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và CC SAT, ACT/bằng tú tài quốc tế (IB)/A-level"
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "82",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và CC SAT, ACT/bằng tú tài quốc tế (IB)/A-level"
+        },
+        {
+          "Tên ngành": "Thương mại điện tử (tiếng Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "76",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và CC SAT, ACT/bằng tú tài quốc tế (IB)/A-level"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "85",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và CC SAT, ACT/bằng tú tài quốc tế (IB)/A-level"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng (Tiếng Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "81",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và CC SAT, ACT/bằng tú tài quốc tế (IB)/A-level"
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính (Chưong trình Co-operative Education)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "85",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và CC SAT, ACT/bằng tú tài quốc tế (IB)/A-level"
+        },
+        {
+          "Tên ngành": "Kế toán (Tích hợp chứng chi quốc tế ICAEW- Tiếng Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "98",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và CC SAT, ACT/bằng tú tài quốc tế (IB)/A-level"
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "81",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và CC SAT, ACT/bằng tú tài quốc tế (IB)/A-level"
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "75",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và CC SAT, ACT/bằng tú tài quốc tế (IB)/A-level"
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý (kinh doanh số và Trí tuệ nhân tạo)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "82",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và CC SAT, ACT/bằng tú tài quốc tế (IB)/A-level"
+        },
+        {
+          "Tên ngành": "Luật (Luật Tài chính - Ngân hàng)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "85",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và CC SAT, ACT/bằng tú tài quốc tế (IB)/A-level"
+        },
+        {
+          "Tên ngành": "Luật kinh tế (Luật kinh doanh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "87",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và CC SAT, ACT/bằng tú tài quốc tế (IB)/A-level"
+        },
+        {
+          "Tên ngành": "Luật kinh tế (Luật thương mại quốc tế)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "79",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và CC SAT, ACT/bằng tú tài quốc tế (IB)/A-level"
+        },
+        {
+          "Tên ngành": "Luật kinh tế (Luật thương mại quốc tế) Chất lượng cao bằng Tiếng Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "76",
+          "Ghi chú": "CCQT (IELTS, TOEFL, ...) và CC SAT, ACT/bằng tú tài quốc tế (IB)/A-level"
+        }
+      ],
+      "row_count": 23
+    }
+  ],
+  "table_count": 5,
+  "crawled_at": "2025-07-18T23:24:57.559793",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-kinh-te-luat-tphcm-QSK.html"
+}

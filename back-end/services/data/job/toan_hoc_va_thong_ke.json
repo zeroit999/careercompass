@@ -1,0 +1,425 @@
+{
+  "nhom_nganh": "Toán học và thống kê",
+  "danh_sach_nganh": [
+    {
+      "ten_nganh": "Toán học",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội - SPH",
+          "data_school": [
+            {
+              "ten_nganh": "Toán học",
+              "to_hop_mon": "A00; A01",
+              "diem_chuan_2024": "26.04",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thủ Dầu Một - TDM",
+          "data_school": [
+            {
+              "ten_nganh": "Toán học",
+              "to_hop_mon": "A00; A01; A02; C01; D01; D07; X02; X03; X05; X16",
+              "diem_chuan_2024": "23",
+              "diem_chuan_2023": "15.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Tự Nhiên TPHCM - QST",
+          "data_school": [
+            {
+              "ten_nganh": "Nhóm ngành Toán học, Toán ứng dụng, Toán tin",
+              "to_hop_mon": "A00; A01; X06; B00; D07; X26; B08; D01",
+              "diem_chuan_2024": "25.55",
+              "diem_chuan_2023": "25.3"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Tự Nhiên Hà Nội - QHT",
+          "data_school": [
+            {
+              "ten_nganh": "Toán học",
+              "to_hop_mon": "A00; A01; D07; D08; C01; X26",
+              "diem_chuan_2024": "34",
+              "diem_chuan_2023": "33.4"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hải Dương - DKT",
+          "data_school": [
+            {
+              "ten_nganh": "Toán học",
+              "to_hop_mon": "A00; A01; A02; B00; C01; C02; D01; D07",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hồng Đức - HDT",
+          "data_school": [
+            {
+              "ten_nganh": "Toán học",
+              "to_hop_mon": "C01; C02; C04; D01; (Toán, Văn, Tin)",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đà Lạt - TDL",
+          "data_school": [
+            {
+              "ten_nganh": "Toán học (Toán – Tin học)",
+              "to_hop_mon": "Môn Toán*2 + 1 trong các môn: Vật lý, Hóa học, Sinh học, Tiếng Anh, Tin học, Công nghệ",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Toán Kinh tế",
+      "data": [
+        {
+          "ten_truong": "Đại Học Kinh Tế Quốc Dân - KHA",
+          "data_school": [
+            {
+              "ten_nganh": "Toán kinh tế",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "36.2",
+              "diem_chuan_2023": "35.95"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Tài chính - HTC",
+          "data_school": [
+            {
+              "ten_nganh": "Toán tài chính",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kinh Tế Luật TPHCM - QSK",
+          "data_school": [
+            {
+              "ten_nganh": "Toán kinh tế (Chuyên ngành Toán ứng dụng trong Kinh tế, Quản trị và Tài chính)",
+              "to_hop_mon": "A00; A01; D01; D07; X25; X26",
+              "diem_chuan_2024": "26.22",
+              "diem_chuan_2023": "25.47"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tài Chính Marketing - DMS",
+          "data_school": [
+            {
+              "ten_nganh": "Toán kinh tế",
+              "to_hop_mon": "C01; C02; C03; C04; X01; D01; A00; A03; A04; X05; A01; A05; A06; X09; D07; A07; X17; D09; X21; D10; X25",
+              "diem_chuan_2024": "24.2",
+              "diem_chuan_2023": "23.6"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đại Nam - DDN",
+          "data_school": [
+            {
+              "ten_nganh": "Kinh tế đầu tư\r\n– Chuyên ngành Kinh tế đầu tư tài chính",
+              "to_hop_mon": "A00; A01; C01; C03; C04; D01; D07; X26",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Toán ứng dụng",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm TPHCM - SPS",
+          "data_school": [
+            {
+              "ten_nganh": "Toán ứng dụng",
+              "to_hop_mon": "A00; A01; X06; X07",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thủ Đô Hà Nội - HNM",
+          "data_school": [
+            {
+              "ten_nganh": "Toán ứng dụng",
+              "to_hop_mon": "A00; A01; A02; C01; D30",
+              "diem_chuan_2024": "24.68",
+              "diem_chuan_2023": "23.55"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Giao Thông Vận Tải - GHA",
+          "data_school": [
+            {
+              "ten_nganh": "Toán ứng dụng (chuyên ngành toán tin ứng dụng)",
+              "to_hop_mon": "A00; A01; D01; D07; X06",
+              "diem_chuan_2024": "23.91",
+              "diem_chuan_2023": "22.55"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Tự Nhiên TPHCM - QST",
+          "data_school": [
+            {
+              "ten_nganh": "Nhóm ngành Toán học, Toán ứng dụng, Toán tin",
+              "to_hop_mon": "A00; A01; X06; B00; D07; X26; B08; D01",
+              "diem_chuan_2024": "25.55",
+              "diem_chuan_2023": "25.3"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tôn Đức Thắng - DTT",
+          "data_school": [
+            {
+              "ten_nganh": "Toán ứng dụng",
+              "to_hop_mon": "A00; A01; C01; D01; D07; X06; X26",
+              "diem_chuan_2024": "31",
+              "diem_chuan_2023": "31.3"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Toán ứng dụng",
+              "to_hop_mon": "A00; A01; A02; B00",
+              "diem_chuan_2024": "23.23",
+              "diem_chuan_2023": "22.85"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sài Gòn - SGD",
+          "data_school": [
+            {
+              "ten_nganh": "Toán ứng dụng",
+              "to_hop_mon": "A00; A01; A02; A03; A04; A05; A06; A07; B00; B01; B02; B03; B08; C01; C02; C03; C04; D01; D07; D09; D10; X01; X02; X03; X04; X05; X06; X07; X08; X09; X10; X11; X12; X13; X14; X15; X16; X17; X18; X19; X20; X21; X22; X23; X24; X25; X26; X27; X28; X53; X54",
+              "diem_chuan_2024": "24.94",
+              "diem_chuan_2023": "23.3"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội 2 - SP2",
+          "data_school": [
+            {
+              "ten_nganh": "Toán ứng dụng",
+              "to_hop_mon": "A00; A01; D07; X26",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quốc Tế - ĐHQG TPHCM - QSQ",
+          "data_school": [
+            {
+              "ten_nganh": "Toán – Tin học\r\n(Nhóm ngành: Công nghệ thông tin; Khoa học máy tính; Khoa học dữ liệu; Toán ứng dụng (Kỹ thuật Tài chính và Quản trị rủi ro); Thống kê (Thống kê ứng dụng))",
+              "to_hop_mon": "A00; A01; X26; X06; X10",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quy Nhơn - DQN",
+          "data_school": [
+            {
+              "ten_nganh": "Toán ứng dụng",
+              "to_hop_mon": "A00; A01; D01; D07; X26",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Và Công Nghệ Hà Nội - KCN",
+          "data_school": [
+            {
+              "ten_nganh": "Toán ứng dụng",
+              "to_hop_mon": "A00; A01; X07; X08; X06; A04; B00; D07; X10; A06; X11; X12; D08; X14; X15; X16; X26; X27; X28; X56; X57; X22; X23; X24; D01",
+              "diem_chuan_2024": "21.15",
+              "diem_chuan_2023": "22.55"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Thống kê kinh doanh",
+      "data": [
+        {
+          "ten_truong": "Đại Học Kinh Tế Quốc Dân - KHA",
+          "data_school": [
+            {
+              "ten_nganh": "Thống kê kinh tế",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "36.23",
+              "diem_chuan_2023": "36.2"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Kinh Tế TPHCM - KSA",
+          "data_school": [
+            {
+              "ten_nganh": "Thống kê kinh doanh (Business Statistics)(*)",
+              "to_hop_mon": "A00; A01; D01; D07; D09",
+              "diem_chuan_2024": "26.01",
+              "diem_chuan_2023": "25.56"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Tế - Đại Học Huế - DHK",
+          "data_school": [
+            {
+              "ten_nganh": "Thống kê kinh tế",
+              "to_hop_mon": "A00; A01; C03; D01; D03; D07; D09; D10; X01; X26",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Toán tin",
+      "data": [
+        {
+          "ten_truong": "Đại Học Bách Khoa Hà Nội - BKA",
+          "data_school": [
+            {
+              "ten_nganh": "Toán - Tin",
+              "to_hop_mon": "A00; A01; B03; C01; C02; X02",
+              "diem_chuan_2024": "27.35",
+              "diem_chuan_2023": "27.21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Tự Nhiên TPHCM - QST",
+          "data_school": [
+            {
+              "ten_nganh": "Nhóm ngành Toán học, Toán ứng dụng, Toán tin",
+              "to_hop_mon": "A00; A01; X06; B00; D07; X26; B08; D01",
+              "diem_chuan_2024": "25.55",
+              "diem_chuan_2023": "25.3"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Tự Nhiên Hà Nội - QHT",
+          "data_school": [
+            {
+              "ten_nganh": "Toán tin",
+              "to_hop_mon": "A00; A01; D07; D08; C01; X26",
+              "diem_chuan_2024": "34",
+              "diem_chuan_2023": "34.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Điện Lực - DDL",
+          "data_school": [
+            {
+              "ten_nganh": "Toán tin",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Thái Nguyên - DTZ",
+          "data_school": [
+            {
+              "ten_nganh": "Toán tin (CTĐT Giáo viên)",
+              "to_hop_mon": "A00; A05; A06; A08; A11; B00; D01; D07; D08; D84",
+              "diem_chuan_2024": "16.5",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Thống kê",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Tôn Đức Thắng - DTT",
+          "data_school": [
+            {
+              "ten_nganh": "Thống kê",
+              "to_hop_mon": "A00; A01; C01; D01; D07; X06; X26",
+              "diem_chuan_2024": "28.5",
+              "diem_chuan_2023": "27.7"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Thống kê",
+              "to_hop_mon": "A00; A01; A02; B00",
+              "diem_chuan_2024": "21.6",
+              "diem_chuan_2023": "22.4"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quốc Tế - ĐHQG TPHCM - QSQ",
+          "data_school": [
+            {
+              "ten_nganh": "Toán – Tin học\r\n(Nhóm ngành: Công nghệ thông tin; Khoa học máy tính; Khoa học dữ liệu; Toán ứng dụng (Kỹ thuật Tài chính và Quản trị rủi ro); Thống kê (Thống kê ứng dụng))",
+              "to_hop_mon": "A00; A01; X26; X06; X10",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Toán tài chính",
+      "data": [
+        {
+          "ten_truong": "Đại Học Kinh Tế TPHCM - KSA",
+          "data_school": [
+            {
+              "ten_nganh": "Toán tài chính (Financial Mathematics) (S)(*)",
+              "to_hop_mon": "A00; A01; D01; D07; D09",
+              "diem_chuan_2024": "25.72",
+              "diem_chuan_2023": "25.32"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

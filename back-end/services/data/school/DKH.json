@@ -1,0 +1,135 @@
+{
+  "school_code": "DKH",
+  "school_name": "Trường Đại Học Dược Hà Nội",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "24.26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hóa học",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "24.55",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "25.51",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hóa dược",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "25.31",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 4
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "28.53",
+          "Ghi chú": "Học sinh chuyên"
+        },
+        {
+          "Tên ngành": "Hóa học",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "25.88",
+          "Ghi chú": "Học sinh chuyên"
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "28.09",
+          "Ghi chú": "Học sinh chuyên"
+        },
+        {
+          "Tên ngành": "Hóa dược",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "27.87",
+          "Ghi chú": "Học sinh chuyên"
+        }
+      ],
+      "row_count": 4
+    },
+    {
+      "table_title": "Điểm Đánh giá Tư duy năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "65.86",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 1
+    },
+    {
+      "table_title": "Điểm xét tuyển kết hợp năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "88.95",
+          "Ghi chú": "Học bạ THPT với chứng chỉ SAT/ACT"
+        },
+        {
+          "Tên ngành": "Hóa học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "83.9",
+          "Ghi chú": "Học bạ THPT với chứng chỉ SAT/ACT"
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "92.04",
+          "Ghi chú": "Học bạ THPT với chứng chỉ SAT/ACT"
+        },
+        {
+          "Tên ngành": "Hóa dược",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "90.04",
+          "Ghi chú": "Học bạ THPT với chứng chỉ SAT/ACT"
+        }
+      ],
+      "row_count": 4
+    }
+  ],
+  "table_count": 4,
+  "crawled_at": "2025-07-18T23:22:56.177587",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-duoc-ha-noi-DKH.html"
+}

@@ -1,0 +1,45 @@
+{
+  "school_code": "THU",
+  "school_name": "Trường Đại học Y khoa Tokyo Việt Nam",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "A00; A01; B00; B08",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Xét nghiệm y học",
+          "Tổ hợp môn": "A00; A01; B00; B08",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Hình ảnh y học",
+          "Tổ hợp môn": "A00; A01; B00; B08",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Phục hồi chức năng",
+          "Tổ hợp môn": "A00; A01; B00; B08",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 4
+    }
+  ],
+  "table_count": 1,
+  "crawled_at": "2025-07-18T23:30:24.623717",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-y-khoa-tokyo-viet-nam-THU.html"
+}

@@ -1,0 +1,417 @@
+{
+  "school_code": "KSV",
+  "school_name": "Đại học Kinh Tế TPHCM - Phân hiệu Vĩnh Long",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Tiếng Anh thương mại",
+          "Tổ hợp môn": "D01; D96",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thuế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán doanh nghiệp",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Robot và Trí tuệ nhân tạo (hệ kỹ sư)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ và đổi mới sáng tạo",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh nông nghiệp",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 15
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Tiếng Anh thương mại",
+          "Tổ hợp môn": "D01; D02; D03; D04; D05; D06; DD2",
+          "Điểm chuẩn": "40",
+          "Ghi chú": "Thang điểm 100"
+        },
+        {
+          "Tên ngành": "Quản trị",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "40",
+          "Ghi chú": "Thang điểm 100"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "42",
+          "Ghi chú": "Thang điểm 100"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "42",
+          "Ghi chú": "Thang điểm 100"
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "42",
+          "Ghi chú": "Thang điểm 100"
+        },
+        {
+          "Tên ngành": "Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "40",
+          "Ghi chú": "Thang điểm 100"
+        },
+        {
+          "Tên ngành": "Tài chính",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "40",
+          "Ghi chú": "Thang điểm 100"
+        },
+        {
+          "Tên ngành": "Thuế",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "40",
+          "Ghi chú": "Thang điểm 100"
+        },
+        {
+          "Tên ngành": "Kế toán doanh nghiệp",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "40",
+          "Ghi chú": "Thang điểm 100"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2",
+          "Điểm chuẩn": "42",
+          "Ghi chú": "Thang điểm 100"
+        },
+        {
+          "Tên ngành": "Robot và Trí tuệ nhân tạo (hệ kỹ sư)",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "40",
+          "Ghi chú": "Thang điểm 100"
+        },
+        {
+          "Tên ngành": "Công nghệ và đối mới sáng tạo",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "40",
+          "Ghi chú": "Thang điểm 100"
+        },
+        {
+          "Tên ngành": "Logistics và Quân lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "48",
+          "Ghi chú": "Thang điểm 100"
+        },
+        {
+          "Tên ngành": "Kinh doanh nông nghiệp",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "40",
+          "Ghi chú": "Thang điểm 100"
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "40",
+          "Ghi chú": "Thang điểm 100"
+        }
+      ],
+      "row_count": 15
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Tiếng Anh thương mại",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thuế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán doanh nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Robot và Trí tuệ nhân tạo (hệ kỹ sư)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ và đối mới sáng tạo",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh nông nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 15
+    },
+    {
+      "table_title": "ƯTXT, XT thẳng năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Tiếng Anh thương mại",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "49",
+          "Ghi chú": "Xét tuyển học sinh giỏi; thang điểm 100"
+        },
+        {
+          "Tên ngành": "Quản trị",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "49",
+          "Ghi chú": "Xét tuyển học sinh giỏi; thang điểm 100"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "49",
+          "Ghi chú": "Xét tuyển học sinh giỏi; thang điểm 100"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "49",
+          "Ghi chú": "Xét tuyển học sinh giỏi; thang điểm 100"
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "49",
+          "Ghi chú": "Xét tuyển học sinh giỏi; thang điểm 100"
+        },
+        {
+          "Tên ngành": "Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "49",
+          "Ghi chú": "Xét tuyển học sinh giỏi; thang điểm 100"
+        },
+        {
+          "Tên ngành": "Tài chính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "49",
+          "Ghi chú": "Xét tuyển học sinh giỏi; thang điểm 100"
+        },
+        {
+          "Tên ngành": "Thuế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "49",
+          "Ghi chú": "Xét tuyển học sinh giỏi; thang điểm 100"
+        },
+        {
+          "Tên ngành": "Kế toán doanh nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "49",
+          "Ghi chú": "Xét tuyển học sinh giỏi; thang điểm 100"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "49",
+          "Ghi chú": "Xét tuyển học sinh giỏi; thang điểm 100"
+        },
+        {
+          "Tên ngành": "Robot và Trí tuệ nhân tạo (hệ kỹ sư)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "49",
+          "Ghi chú": "Xét tuyển học sinh giỏi; thang điểm 100"
+        },
+        {
+          "Tên ngành": "Công nghệ và đối mới sáng tạo",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "49",
+          "Ghi chú": "Xét tuyển học sinh giỏi; thang điểm 100"
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "49",
+          "Ghi chú": "Xét tuyển học sinh giỏi; thang điểm 100"
+        },
+        {
+          "Tên ngành": "Kinh doanh nông nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "49",
+          "Ghi chú": "Xét tuyển học sinh giỏi; thang điểm 100"
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "49",
+          "Ghi chú": "Xét tuyển học sinh giỏi; thang điểm 100"
+        }
+      ],
+      "row_count": 15
+    }
+  ],
+  "table_count": 4,
+  "crawled_at": "2025-07-18T23:28:54.618920",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-kinh-te-tphcm-phan-hieu-vinh-long-KSV.html"
+}

@@ -1,0 +1,813 @@
+{
+  "school_code": "QST",
+  "school_name": "Trường Đại Học Khoa Học Tự Nhiên TPHCM",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Sinh học",
+          "Tổ hợp môn": "A02; B00; B08",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sinh học (Chương trình tăng cường tiếng Anh)",
+          "Tổ hợp môn": "A02; B00; B08",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Sinh học",
+          "Tổ hợp môn": "A02; B00; B08; D90",
+          "Điểm chuẩn": "24.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Sinh học (Chương trình tăng cường tiếng Anh)",
+          "Tổ hợp môn": "A02; B00; B08; D90",
+          "Điểm chuẩn": "24.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Vật lý học (Chương trình tăng cường tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; A02; D90",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nhóm ngành Vật lý học, Công nghệ Vật lý điện tử và tin học, Công nghệ bán dẫn",
+          "Tổ hợp môn": "A00; A01; A02; D90",
+          "Điểm chuẩn": "25.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hoá học",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "25.42",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hóa học (Chương trình tăng cường tiếng Anh)",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "24.65",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học Vật liệu",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "22.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học Vật liệu (Chương trình tăng cường tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "22.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Địa chất học",
+          "Tổ hợp môn": "A00; B00; C04; D07",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hải dương học",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học Môi trường",
+          "Tổ hợp môn": "A00; B00; B08; D07",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học Môi trường (Chương trình tăng cường tiếng Anh)",
+          "Tổ hợp môn": "A00; B00; B08; D07",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nhóm Ngành Toán học, Toán tin, Toán ứng dụng",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "25.55",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "A00; A01; B08; D07",
+          "Điểm chuẩn": "26.85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính (Chương trình Tiên tiến)",
+          "Tổ hợp môn": "A00; A01; B08; D07",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "A00; A01; B08; D07",
+          "Điểm chuẩn": "27.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Chương trình tăng cường tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; B08; D07",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nhóm ngành máy tính và Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; B08; D07",
+          "Điểm chuẩn": "26.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Hoá học (Chương trình tăng cường tiếng Anh)",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Vật liệu",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Kỹ thuật Môi trường",
+          "Tổ hợp môn": "A00; B00; B08; D07",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử - viễn thông (Chương trình tăng cường tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D07; D90",
+          "Điểm chuẩn": "25.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nhóm ngành Kỹ thuật điện tử -viễn thông, Thiết kế vi mạch",
+          "Tổ hợp môn": "A00; A01; D07; D90",
+          "Điểm chuẩn": "25.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật hạt nhân",
+          "Tổ hợp môn": "A00; A01; A02; D90",
+          "Điểm chuẩn": "23.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Vật lý Y khoa",
+          "Tổ hợp môn": "A00; A01; A02; D90",
+          "Điểm chuẩn": "24.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật địa chất",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quán lý tài nguyên và môi trường",
+          "Tổ hợp môn": "A00; B00; B08; D07",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 29
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Sinh học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "665",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sinh học (Chương trình tăng cường tiếng Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "665",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Sinh học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "835",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Sinh học (Chương trình tăng cường tiếng Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "835",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Vật lý học (Chương trình tăng cường tiếng Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "720",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nhóm ngành Vật lý học, Công nghệ Vật lý điện tử và tin học, Công nghệ bán dẫn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "840",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hoá học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "860",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hóa học (Chương trình tăng cường tiếng Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "860",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học Vật liệu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học Vật liệu (Chương trình tăng cường tiếng Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nhóm ngành Địa chất học, Kinh tế đất đai",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "630",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hải dương học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "630",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học Môi trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "630",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học Môi trường (Chương trình tăng cường tiếng Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "630",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nhóm Ngành Toán học, Toán tin, Toán ứng dụng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "870",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "980",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính (Chương trình Tiên tiến)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1052",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1032",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Chương trình tăng cường tiếng Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "925",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nhóm ngành máy tính và Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "945",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Hoá học (Chương trình tăng cường tiếng Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "870",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Vật liệu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "780",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Kỹ thuật Môi trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "640",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử - viễn thông (Chương trình tăng cường tiếng Anh)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "820",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nhóm ngành Kỹ thuật điện tử - viễn thông, Thiết kế vi mạch",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "910",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật hạt nhân",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "735",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Vật lý Y khoa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "840",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật địa chất",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "630",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "690",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 29
+    },
+    {
+      "table_title": "Điểm xét tuyển kết hợp năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Sinh học (Chương trình tăng cường tiếng Anh)",
+          "Tổ hợp môn": "A02; B00; B08",
+          "Điểm chuẩn": "8.3",
+          "Ghi chú": "CCQT kết hợp học bạ"
+        },
+        {
+          "Tên ngành": "Công nghệ Sinh học (Chương trình tăng cường tiếng Anh)",
+          "Tổ hợp môn": "A02; B00; B08; D90",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "CCQT kết hợp học bạ"
+        },
+        {
+          "Tên ngành": "Vật lý học (Chương trình tăng cường tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; A02; D90",
+          "Điểm chuẩn": "8.4",
+          "Ghi chú": "CCQT kết hợp học bạ"
+        },
+        {
+          "Tên ngành": "Hóa học (Chương trình tăng cường tiếng Anh)",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "8.52",
+          "Ghi chú": "CCQT kết hợp học bạ"
+        },
+        {
+          "Tên ngành": "Khoa học Vật liệu (Chương trình tăng cường tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "8.3",
+          "Ghi chú": "CCQT kết hợp học bạ"
+        },
+        {
+          "Tên ngành": "Khoa học Môi trường (Chương trình tăng cường tiếng Anh)",
+          "Tổ hợp môn": "A00; B00; B08; D07",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "CCQT kết hợp học bạ"
+        },
+        {
+          "Tên ngành": "Khoa học máy tính (Chương trình Tiên tiến)",
+          "Tổ hợp môn": "A00; A01; B08; D07",
+          "Điểm chuẩn": "9.58",
+          "Ghi chú": "CCQT kết hợp học bạ"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Chương trình tăng cường tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; B08; D07",
+          "Điểm chuẩn": "9.1",
+          "Ghi chú": "CCQT kết hợp học bạ"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Hoá học (Chương trình tăng cường tiếng Anh)",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "CCQT kết hợp học bạ"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử - viễn thông (Chương trình tăng cường tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D07; D90",
+          "Điểm chuẩn": "8.3",
+          "Ghi chú": "CCQT kết hợp học bạ"
+        }
+      ],
+      "row_count": 10
+    },
+    {
+      "table_title": "ƯTXT, XT thẳng năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Sinh học",
+          "Tổ hợp môn": "A02; B00; B08",
+          "Điểm chuẩn": "8.05",
+          "Ghi chú": "Ưu tiên xét tuyển"
+        },
+        {
+          "Tên ngành": "Sinh học",
+          "Tổ hợp môn": "A02; B00; B08",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "Ưu tiên xét tuyển thẳng"
+        },
+        {
+          "Tên ngành": "Sinh học (Chương trình tăng cường tiếng Anh)",
+          "Tổ hợp môn": "A02; B00; B08",
+          "Điểm chuẩn": "8.3",
+          "Ghi chú": "Ưu tiên xét tuyển"
+        },
+        {
+          "Tên ngành": "Sinh học (Chương trình tăng cường tiếng Anh)",
+          "Tổ hợp môn": "A02; B00; B08",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "Ưu tiên xét tuyển thẳng"
+        },
+        {
+          "Tên ngành": "Công nghệ Sinh học",
+          "Tổ hợp môn": "A02; B00; B08; D90",
+          "Điểm chuẩn": "9.3",
+          "Ghi chú": "Ưu tiên xét tuyển"
+        },
+        {
+          "Tên ngành": "Công nghệ Sinh học",
+          "Tổ hợp môn": "A02; B00; B08; D90",
+          "Điểm chuẩn": "9",
+          "Ghi chú": "Ưu tiên xét tuyển thẳng"
+        },
+        {
+          "Tên ngành": "Công nghệ Sinh học (Chương trình tăng cường tiếng Anh)",
+          "Tổ hợp môn": "A02; B00; B08; D90",
+          "Điểm chuẩn": "9.3",
+          "Ghi chú": "Ưu tiên xét tuyển"
+        },
+        {
+          "Tên ngành": "Công nghệ Sinh học (Chương trình tăng cường tiếng Anh)",
+          "Tổ hợp môn": "A02; B00; B08; D90",
+          "Điểm chuẩn": "9.1",
+          "Ghi chú": "Ưu tiên xét tuyển thẳng"
+        },
+        {
+          "Tên ngành": "Vật lý học (Chương trình tăng cường tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; A02; D90",
+          "Điểm chuẩn": "8.1",
+          "Ghi chú": "Ưu tiên xét tuyển"
+        },
+        {
+          "Tên ngành": "Vật lý học (Chương trình tăng cường tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; A02; D90",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "Ưu tiên xét tuyển thẳng"
+        },
+        {
+          "Tên ngành": "Nhóm ngành Vật lý học, Công nghệ Vật lý điện tử và tin học, Công nghệ bán dẫn",
+          "Tổ hợp môn": "A00; A01; A02; D90",
+          "Điểm chuẩn": "8.7",
+          "Ghi chú": "Ưu tiên xét tuyển"
+        },
+        {
+          "Tên ngành": "Nhóm ngành Vật lý học, Công nghệ Vật lý điện tử và tin học, Công nghệ bán dẫn",
+          "Tổ hợp môn": "A00; A01; A02; D90",
+          "Điểm chuẩn": "8.9",
+          "Ghi chú": "Ưu tiên xét tuyển thẳng"
+        },
+        {
+          "Tên ngành": "Hoá học",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "9.3",
+          "Ghi chú": "Ưu tiên xét tuyển"
+        },
+        {
+          "Tên ngành": "Hoá học",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "8.9",
+          "Ghi chú": "Ưu tiên xét tuyển thẳng"
+        },
+        {
+          "Tên ngành": "Hóa học (Chương trình tăng cường tiếng Anh)",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "9.1",
+          "Ghi chú": "Ưu tiên xét tuyển"
+        },
+        {
+          "Tên ngành": "Hóa học (Chương trình tăng cường tiếng Anh)",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "Ưu tiên xét tuyển thẳng"
+        },
+        {
+          "Tên ngành": "Khoa học Vật liệu",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "Ưu tiên xét tuyển"
+        },
+        {
+          "Tên ngành": "Khoa học Vật liệu",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "Ưu tiên xét tuyển thẳng"
+        },
+        {
+          "Tên ngành": "Khoa học Vật liệu (Chương trình tăng cường tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "Ưu tiên xét tuyển"
+        },
+        {
+          "Tên ngành": "Khoa học Vật liệu (Chương trình tăng cường tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "Ưu tiên xét tuyển thẳng"
+        },
+        {
+          "Tên ngành": "Nhóm ngành Địa chất học, Kinh tế đất đai",
+          "Tổ hợp môn": "A00; B00; C04; D07",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "Ưu tiên xét tuyển"
+        },
+        {
+          "Tên ngành": "Nhóm ngành Địa chất học, Kinh tế đất đai",
+          "Tổ hợp môn": "A00; B00; C04; D07",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "Ưu tiên xét tuyển thẳng"
+        },
+        {
+          "Tên ngành": "Hải dương học",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "Ưu tiên xét tuyển"
+        },
+        {
+          "Tên ngành": "Hải dương học",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "9",
+          "Ghi chú": "Ưu tiên xét tuyển thẳng"
+        },
+        {
+          "Tên ngành": "Khoa học Môi trường",
+          "Tổ hợp môn": "A00; B00; B08; D07",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "Ưu tiên xét tuyển"
+        },
+        {
+          "Tên ngành": "Khoa học Môi trường",
+          "Tổ hợp môn": "A00; B00; B08; D07",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "Ưu tiên xét tuyển thẳng"
+        },
+        {
+          "Tên ngành": "Khoa học Môi trường (Chương trình tăng cường tiếng Anh)",
+          "Tổ hợp môn": "A00; B00; B08; D07",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "Ưu tiên xét tuyển"
+        },
+        {
+          "Tên ngành": "Khoa học Môi trường (Chương trình tăng cường tiếng Anh)",
+          "Tổ hợp môn": "A00; B00; B08; D07",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "Ưu tiên xét tuyển thẳng"
+        },
+        {
+          "Tên ngành": "Nhóm Ngành Toán học, Toán tin, Toán ứng dụng",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "8.7",
+          "Ghi chú": "Ưu tiên xét tuyển thẳng"
+        },
+        {
+          "Tên ngành": "Nhóm Ngành Toán học, Toán tin, Toán ứng dụng",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "9",
+          "Ghi chú": "Ưu tiên xét tuyển"
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "A00; A01; B08; D07",
+          "Điểm chuẩn": "9.85",
+          "Ghi chú": "Ưu tiên xét tuyển"
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "A00; A01; B08; D07",
+          "Điểm chuẩn": "9.7",
+          "Ghi chú": "Ưu tiên xét tuyển thẳng"
+        },
+        {
+          "Tên ngành": "Khoa học máy tính (Chương trình Tiên tiến)",
+          "Tổ hợp môn": "A00; A01; B08; D07",
+          "Điểm chuẩn": "10",
+          "Ghi chú": "Ưu tiên xét tuyển"
+        },
+        {
+          "Tên ngành": "Khoa học máy tính (Chương trình Tiên tiến)",
+          "Tổ hợp môn": "A00; A01; B08; D07",
+          "Điểm chuẩn": "9.8",
+          "Ghi chú": "Ưu tiên xét tuyển thẳng"
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "A00; A01; B08; D07",
+          "Điểm chuẩn": "9.9",
+          "Ghi chú": "Ưu tiên xét tuyển"
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "A00; A01; B08; D07",
+          "Điểm chuẩn": "9.6",
+          "Ghi chú": "Ưu tiên xét tuyển thẳng"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Chương trình tăng cường tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; B08; D07",
+          "Điểm chuẩn": "9",
+          "Ghi chú": "Ưu tiên xét tuyển"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (Chương trình tăng cường tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; B08; D07",
+          "Điểm chuẩn": "9",
+          "Ghi chú": "Ưu tiên xét tuyển thẳng"
+        },
+        {
+          "Tên ngành": "Nhóm ngành máy tính và Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; B08; D07",
+          "Điểm chuẩn": "9.5",
+          "Ghi chú": "Ưu tiên xét tuyển"
+        },
+        {
+          "Tên ngành": "Nhóm ngành máy tính và Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; B08; D07",
+          "Điểm chuẩn": "9.6",
+          "Ghi chú": "Ưu tiên xét tuyển thẳng"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Hoá học (Chương trình tăng cường tiếng Anh)",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "9.1",
+          "Ghi chú": "Ưu tiên xét tuyển"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Hoá học (Chương trình tăng cường tiếng Anh)",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "9.3",
+          "Ghi chú": "Ưu tiên xét tuyển thẳng"
+        },
+        {
+          "Tên ngành": "Công nghệ Vật liệu",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "Ưu tiên xét tuyển"
+        },
+        {
+          "Tên ngành": "Công nghệ Vật liệu",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "Ưu tiên xét tuyển thẳng"
+        },
+        {
+          "Tên ngành": "Công nghệ Kỹ thuật Môi trường",
+          "Tổ hợp môn": "A00; B00; B08; D07",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "Ưu tiên xét tuyển"
+        },
+        {
+          "Tên ngành": "Công nghệ Kỹ thuật Môi trường",
+          "Tổ hợp môn": "A00; B00; B08; D07",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "Ưu tiên xét tuyển thẳng"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện từ - viễn thông (Chương trình tăng cường tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D07; D90",
+          "Điểm chuẩn": "8.4",
+          "Ghi chú": "Ưu tiên xét tuyển"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử - viễn thông (Chương trình tăng cường tiếng Anh)",
+          "Tổ hợp môn": "A00; A01; D07; D90",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "Ưu tiên xét tuyển thẳng"
+        },
+        {
+          "Tên ngành": "Nhóm ngành Kỹ thuật điện tử - viễn thông, Thiết kế vi mạch",
+          "Tổ hợp môn": "A00; A01; D07; D90",
+          "Điểm chuẩn": "8.8",
+          "Ghi chú": "Ưu tiên xét tuyển thẳng"
+        },
+        {
+          "Tên ngành": "Nhóm ngành Kỹ thuật điện tử - viễn thông, Thiết kế vi mạch",
+          "Tổ hợp môn": "A00; A01; D07; D90",
+          "Điểm chuẩn": "9.1",
+          "Ghi chú": "Ưu tiên xét tuyển"
+        },
+        {
+          "Tên ngành": "Kỹ thuật hạt nhân",
+          "Tổ hợp môn": "A00; A01; A02; D90",
+          "Điểm chuẩn": "8.3",
+          "Ghi chú": "Ưu tiên xét tuyển"
+        },
+        {
+          "Tên ngành": "Kỹ thuật hạt nhân",
+          "Tổ hợp môn": "A00; A01; A02; D90",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "Ưu tiên xét tuyển thẳng"
+        },
+        {
+          "Tên ngành": "Vật lý Y khoa",
+          "Tổ hợp môn": "A00; A01; A02; D90",
+          "Điểm chuẩn": "9.1",
+          "Ghi chú": "Ưu tiên xét tuyển"
+        },
+        {
+          "Tên ngành": "Vật lý Y khoa",
+          "Tổ hợp môn": "A00; A01; A02; D90",
+          "Điểm chuẩn": "9",
+          "Ghi chú": "Ưu tiên xét tuyển thẳng"
+        },
+        {
+          "Tên ngành": "Kỹ thuật địa chất",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "Ưu tiên xét tuyển"
+        },
+        {
+          "Tên ngành": "Kỹ thuật địa chất",
+          "Tổ hợp môn": "A00; A01; B00; D07",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "Ưu tiên xét tuyển thẳng"
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "A00; B00; B08; D07",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "Ưu tiên xét tuyển thẳng"
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "A00; B00; B08; D07",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "Ưu tiên xét tuyển"
+        }
+      ],
+      "row_count": 58
+    }
+  ],
+  "table_count": 4,
+  "crawled_at": "2025-07-18T23:23:51.507099",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-khoa-hoc-tu-nhien-tphcm-QST.html"
+}

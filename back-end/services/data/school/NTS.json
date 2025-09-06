@@ -1,0 +1,369 @@
+{
+  "school_code": "NTS",
+  "school_name": "Trường Đại học Ngoại thương (Cơ sở II)",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngành Kinh tế Ngành Quản trị kinh doanh",
+          "Tổ hợp môn": "A01; D01; D06; D07",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Kinh tế Ngành Quản trị kinh doanh",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Tài chính - Ngân hàng Ngành Kế toán Ngành Kinh doanh quốc tế Ngành Marketing",
+          "Tổ hợp môn": "A01; D01; D06; D07",
+          "Điểm chuẩn": "27.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Tài chính - Ngân hàng Ngành Kế toán Ngành Kinh doanh quốc tế Ngành Marketing",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "28.2",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 4
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "31",
+          "Ghi chú": "Giải HSG Tỉnh"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "30",
+          "Ghi chú": "Giải HSG Quốc Gia"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "29",
+          "Ghi chú": "Hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình tiên chuẩn Kinh tế đối ngoại",
+          "Tổ hợp môn": "A00; A01; D01; D06; D07",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Giải HSG Quốc Gia"
+        },
+        {
+          "Tên ngành": "Chương trình tiên chuẩn Kinh tế đối ngoại",
+          "Tổ hợp môn": "A00; A01; D01; D06; D07",
+          "Điểm chuẩn": "27.8",
+          "Ghi chú": "Hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình tiên chuẩn Kinh tế đối ngoại",
+          "Tổ hợp môn": "A00; A01; D01; D06; D07",
+          "Điểm chuẩn": "29.5",
+          "Ghi chú": "Giải HSG Tỉnh"
+        },
+        {
+          "Tên ngành": "Chương trinh tiêu chuẩn Kế toán - Kiểm toán",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "29.3",
+          "Ghi chú": "Giải HSG Tỉnh"
+        },
+        {
+          "Tên ngành": "Chương trinh tiêu chuẩn Kế toán - Kiểm toán",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.8",
+          "Ghi chú": "Giải HSG Quốc Gia"
+        },
+        {
+          "Tên ngành": "Chương trinh tiêu chuẩn Kế toán - Kiểm toán",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.7",
+          "Ghi chú": "Hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Truyền thông Marketing tích hợp",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28.13",
+          "Ghi chú": "Hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Truyền thông Marketing tích hợp",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "30",
+          "Ghi chú": "Giải HSG Quốc Gia"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Truyền thông Marketing tích hợp",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "30",
+          "Ghi chú": "Giải HSG Tỉnh"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Quản trị kinh doanh quốc tế",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "29",
+          "Ghi chú": "Giải HSG Tỉnh"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Quản trị kinh doanh quốc tế",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Giải HSG Quốc Gia"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Quản trị kinh doanh quốc tế",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": "Hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Tài chính quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Giải HSG Quốc Gia"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Tài chính quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28.4",
+          "Ghi chú": "Hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Tài chính quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "29.5",
+          "Ghi chú": "Giải HSG Tỉnh"
+        }
+      ],
+      "row_count": 18
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Chương trình tiên chuẩn Kinh tế đối ngoại",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trinh tiêu chuẩn Kế toán - Kiểm toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Quản trị kinh doanh quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Tài chính quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.7",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 4
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Chương trình tiên chuẩn Kinh tế đối ngoại",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trinh tiêu chuẩn Kế toán - Kiểm toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Quản trị kinh doanh quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình tiêu chuẩn Tài chính quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.7",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 4
+    },
+    {
+      "table_title": "Điểm xét tuyển kết hợp năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28.3",
+          "Ghi chú": "CCQT và hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": "CCQT và Hệ không chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "29.5",
+          "Ghi chú": "CCQT và SAT, SCT"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.3",
+          "Ghi chú": "CCQT và điểm thi tốt nghiệp"
+        },
+        {
+          "Tên ngành": "Chương trình CLC Kinh tế đối ngoại",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "CCQT và hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình CLC Kinh tế đối ngoại",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "27.8",
+          "Ghi chú": "CCQT và Hệ không chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình CLC Kinh tế đối ngoại",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": "CCQT và SAT, SCT"
+        },
+        {
+          "Tên ngành": "Chương trình CLC Kinh tế đối ngoại",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": "CCQT và điểm thi tốt nghiệp"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Truyền thông Marketing tích hợp",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.8",
+          "Ghi chú": "CCQT và hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Truyền thông Marketing tích hợp",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28.4",
+          "Ghi chú": "CCQT và Hệ không chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Truyền thông Marketing tích hợp",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": "CCQT và SAT, SCT"
+        },
+        {
+          "Tên ngành": "Chương trình ĐHNNQT Truyền thông Marketing tích hợp",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.3",
+          "Ghi chú": "CCQT và điểm thi tốt nghiệp"
+        },
+        {
+          "Tên ngành": "Chương trình CLC Quản trị kinh doanh quốc tế",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "26.3",
+          "Ghi chú": "CCQT và hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình CLC Quản trị kinh doanh quốc tế",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": "CCQT và Hệ không chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình CLC Quản trị kinh doanh quốc tế",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": "CCQT và SAT, SCT"
+        },
+        {
+          "Tên ngành": "Chương trình CLC Quản trị kinh doanh quốc tế",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "26.8",
+          "Ghi chú": "CCQT và điểm thi tốt nghiệp"
+        },
+        {
+          "Tên ngành": "Chương trình CLC Ngân hàng và Tài chính quốc tế",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "CCQT và hệ chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình CLC Ngân hàng và Tài chính quốc tế",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": "CCQT và Hệ không chuyên"
+        },
+        {
+          "Tên ngành": "Chương trình CLC Ngân hàng và Tài chính quốc tế",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": "CCQT và SAT, SCT"
+        },
+        {
+          "Tên ngành": "Chương trình CLC Ngân hàng và Tài chính quốc tế",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "CCQT và điểm thi tốt nghiệp"
+        }
+      ],
+      "row_count": 20
+    }
+  ],
+  "table_count": 5,
+  "crawled_at": "2025-07-18T23:24:35.885190",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-ngoai-thuong-co-so-phia-nam-NTS.html"
+}

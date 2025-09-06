@@ -1,0 +1,37 @@
+# RAG System Configuration - Parent Retrieval Algorithm
+# Optimized configuration without ZenML complexity
+
+algorithm:
+  name: "parent_retrieval"
+  description: "Parent-child document chunking with hierarchical retrieval"
+
+chunking:
+  strategy: "hierarchical"
+  parent_chunk_size: 2000
+  child_chunk_size: 500
+  overlap: 100
+  
+retrieval:
+  method: "parent"
+  max_results: 5
+  similarity_threshold: 0.7
+  rerank: true
+
+embedding:
+  model: "text-embedding-3-small"
+  dimension: 1536
+  batch_size: 50
+
+vector_store:
+  index_name: "rag_parent_index"
+  index_type: "cosine"
+  create_index: true
+
+generation:
+  model: "gpt-4o-mini"
+  temperature: 0.1
+  max_tokens: 1000
+  system_prompt: |
+    You are a helpful AI assistant specialized in answering questions about documents.
+    Use the provided context to give accurate, detailed responses.
+    If the context doesn't contain enough information, clearly state what is missing.

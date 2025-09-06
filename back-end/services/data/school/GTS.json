@@ -1,0 +1,747 @@
+{
+  "school_code": "GTS",
+  "school_name": "Trường Đại Học Giao Thông Vận Tải TPHCM",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (chuyên ngành Tiếng Anh thương mại; logistics và vận tải quốc tế) - Chương trình học hoàn toàn bằng tiếng Anh",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "16.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý - Chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu - Chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Mạng máy tính và truyền thông dữ liệu - Chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin - Chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin - Chương trình học hoàn toàn bằng tiếng Anh",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (chuyên ngành Khoa học dữ liệu và AI) - Chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (chuyên ngành Smart logistics) - Chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (chuyên ngành Công nghệ ô tô số) - Chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật giao thông (chuyên ngành Quy hoạch và quản lý giao thông; Logistics và hạ tầng giao thông) - Chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí - Chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô - Chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hóa - Chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng - Chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng - Chương trình học hoàn toàn bằng tiếng Anh",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí- Chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật tàu thủy",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật ô tô - Chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử - viễn thông - Chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và tự động hóa - Chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật môi trường",
+          "Tổ hợp môn": "A00; A01; D01; B00",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình thủy",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình giao thông",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế xây dựng (chuyên ngành Kinh tế xây dựng) - Chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế xây dựng (chuyên ngành Kinh tế và quản lý bất động sản) - Chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng - Chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khai thác vận tải (chuyên ngành Quản trị logistics và vận tải đa phương thức) - Chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khai thác vận tải - Chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế vận tải (chuyên ngành Kinh tế vận tải biển) - Chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế vận tải (chuyên ngành Kinh tế vận tải hàng không) - Chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học hàng hải (chuyên ngành Kỹ thuật điện; điện tử và điều khiển; Cơ điện tử)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học hàng hải (chuyên ngành Quản lý hàng hải) - Chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học hàng hải (chuyên ngành Điều khiển và quản lý tàu biển)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học hàng hải (chuyên ngành Khai thác máy tàu thủy và quản lý kỹ thuật)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học hàng hải (chuyên ngành Quản lý cảng và logistics) - Chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 39
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; A01; D14; D15",
+          "Điểm chuẩn": "1066",
+          "Ghi chú": "Thang điểm 1200"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (chuyên ngành Tiếng anh thương mại, logistics và vận tải quốc tế) – chương trình học hoàn toàn bằng tiếng Anh",
+          "Tổ hợp môn": "D01; A01; D14; D15",
+          "Điểm chuẩn": "930",
+          "Ghi chú": "Thang điểm 1200"
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý – chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "963",
+          "Ghi chú": "Thang điểm 1200"
+        },
+        {
+          "Tên ngành": "Luật (chuyên ngành Luật và chính sách hàng hải)",
+          "Tổ hợp môn": "D01; A01; D14; D15",
+          "Điểm chuẩn": "931",
+          "Ghi chú": "Thang điểm 1200"
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu – chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "1100",
+          "Ghi chú": "Thang điểm 1200"
+        },
+        {
+          "Tên ngành": "Mạng máy tính và truyền thông dữ liệu (chuyên ngành Mạng máy tính và truyền thông dữ liệu; Kỹ thuật thiết kế vi mạch và AI) – chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "900",
+          "Ghi chú": "Thang điểm 1200"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (chuyên ngành Công nghệ thông tin) – chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "900",
+          "Ghi chú": "Thang điểm 1200"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (chuyên ngành Công nghệ thông tin)– chương trình học hoàn toàn bằng tiếng Anh",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "720",
+          "Ghi chú": "Thang điểm 1200"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (chuyên ngành Khoa học dữ liệu và AI) – chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "900",
+          "Ghi chú": "Thang điểm 1200"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (chuyên ngành Smart logistics) – chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "800",
+          "Ghi chú": "Thang điểm 1200"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (chuyên ngành Công nghệ ô tô số) – chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "780",
+          "Ghi chú": "Thang điểm 1200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật giao thông (chuyên ngành Quy hoạch và quản lý giao thông; Logistics và hạ tầng giao thông) – chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "910",
+          "Ghi chú": "Thang điểm 1200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí – chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "979",
+          "Ghi chú": "Thang điểm 1200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô – chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "1.036",
+          "Ghi chú": "Thang điểm 1200"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hóa – chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "979",
+          "Ghi chú": "Thang điểm 1200"
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng – chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "999",
+          "Ghi chú": "Thang điểm 1200"
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng – chương trình học hoàn toàn bằng tiếng Anh",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "930",
+          "Ghi chú": "Thang điểm 1200"
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí (chuyên ngành Quản lý và khai thác Máy xếp dỡ – Xây dựng; Cơ khí tự động) – chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "800",
+          "Ghi chú": "Thang điểm 1200"
+        },
+        {
+          "Tên ngành": "Kỹ thuật tàu thủy (chuyên ngành Kỹ thuật tàu thủy, công trình nổi và quản lý hệ thống công nghiệp)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "720",
+          "Ghi chú": "Thang điểm 1200"
+        },
+        {
+          "Tên ngành": "Kỹ thuật ô tô (chuyên ngành Cơ khí ô tô; Cơ điện tử ô tô) – chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "900",
+          "Ghi chú": "Thang điểm 1200"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện (chuyên ngành Điện công nghiệp; Hệ thống điện giao thông; Năng lượng tái tạo)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "900",
+          "Ghi chú": "Thang điểm 1200"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử – viễn thông – chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "900",
+          "Ghi chú": "Thang điểm 1200"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và tự động hóa – chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "900",
+          "Ghi chú": "Thang điểm 1200"
+        },
+        {
+          "Tên ngành": "Kỹ thuật môi trường (chuyên ngành Kỹ thuật môi trường; Quản lý an toàn và môi trường)",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "838",
+          "Ghi chú": "Thang điểm 1200"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng (chuyên ngành Xây dựng dân dụng và công nghiệp; Kỹ thuật kết cấu công trình; Thiết kế nội thất)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "900",
+          "Ghi chú": "Thang điểm 1200"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình thủy (chuyên ngành Xây dựng và quản lý cảng – công trình giao thông thủy)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "720",
+          "Ghi chú": "Thang điểm 1200"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình giao thông (chuyên ngành Xây dựng cầu đường; Xây dựng đường bộ; Xây dựng công trình giao thông đô thị; Xây dựng đường sắt-metro)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "780",
+          "Ghi chú": "Thang điểm 1200"
+        },
+        {
+          "Tên ngành": "Kinh tế xây dựng (chuyên ngành Kinh tế xây dựng) – chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "900",
+          "Ghi chú": "Thang điểm 1200"
+        },
+        {
+          "Tên ngành": "Kinh tế xây dựng (chuyên ngành Kinh tế và quản lý bất động sản) – chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "900",
+          "Ghi chú": "Thang điểm 1200"
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng – chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "800",
+          "Ghi chú": "Thang điểm 1200"
+        },
+        {
+          "Tên ngành": "Khai thác vận tải (chuyên ngành Quản trị logistics và vận tải đa phương thức) – chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "900",
+          "Ghi chú": "Thang điểm 1200"
+        },
+        {
+          "Tên ngành": "Khai thác vận tải (chuyên ngành Quản lý và kinh doanh vận tải) – chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "800",
+          "Ghi chú": "Thang điểm 1200"
+        },
+        {
+          "Tên ngành": "Kinh tế vận tải (chuyên ngành Kinh tế vận tải biển) – chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "900",
+          "Ghi chú": "Thang điểm 1200"
+        },
+        {
+          "Tên ngành": "Kinh tế vận tải (chuyên ngành Kinh tế vận tải hàng không) – chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "900",
+          "Ghi chú": "Thang điểm 1200"
+        },
+        {
+          "Tên ngành": "Khoa học hàng hải (chuyên ngành Kỹ thuật điện, điện tử và điều khiển; Cơ điện tử)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "720",
+          "Ghi chú": "Thang điểm 1200"
+        },
+        {
+          "Tên ngành": "Khoa học hàng hải (chuyên ngành Quản lý hàng hải) – chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "800",
+          "Ghi chú": "Thang điểm 1200"
+        },
+        {
+          "Tên ngành": "Khoa học hàng hải (chuyên ngành Điều khiển và quản lý tàu biển)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "800",
+          "Ghi chú": "Thang điểm 1200"
+        },
+        {
+          "Tên ngành": "Khoa học hàng hải (chuyên ngành Khai thác máy tàu thủy và quản lý kỹ thuật)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "740",
+          "Ghi chú": "Thang điểm 1200"
+        },
+        {
+          "Tên ngành": "Khoa học hàng hải (chuyên ngành Quản lý cảng và logistics) – chương trình tiên tiến",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "800",
+          "Ghi chú": "Thang điểm 1200"
+        }
+      ],
+      "row_count": 39
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "901",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (chuyên ngành Tiếng anh thương mại, logistics và vận tải quốc tế) – chương trình học hoàn toàn bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "789",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý – chương trình tiên tiến",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "860",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật (chuyên ngành Luật và chính sách hàng hải)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "805",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu – chương trình tiên tiến",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "907",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Mạng máy tính và truyền thông dữ liệu (chuyên ngành Mạng máy tính và truyền thông dữ liệu; Kỹ thuật thiết kế vi mạch và AI) – chương trình tiên tiến",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "800",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (chuyên ngành Công nghệ thông tin) – chương trình tiên tiến",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "808",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (chuyên ngành Công nghệ thông tin)– chương trình học hoàn toàn bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "696",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (chuyên ngành Khoa học dữ liệu và AI) – chương trình tiên tiến",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "800",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (chuyên ngành Smart logistics) – chương trình tiên tiến",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "766",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (chuyên ngành Công nghệ ô tô số) – chương trình tiên tiến",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "661",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật giao thông (chuyên ngành Quy hoạch và quản lý giao thông; Logistics và hạ tầng giao thông) – chương trình tiên tiến",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "630",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí – chương trình tiên tiến",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "808",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô – chương trình tiên tiến",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "828",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hóa – chương trình tiên tiến",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "860",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng – chương trình tiên tiến",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "909",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng – chương trình học hoàn toàn bằng tiếng Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "680",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí (chuyên ngành Quản lý và khai thác Máy xếp dỡ – Xây dựng; Cơ khí tự động) – chương trình tiên tiến",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "680",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật tàu thủy (chuyên ngành Kỹ thuật tàu thủy, công trình nổi và quản lý hệ thống công nghiệp)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "611",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật ô tô (chuyên ngành Cơ khí ô tô; Cơ điện tử ô tô) – chương trình tiên tiến",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "806",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện (chuyên ngành Điện công nghiệp; Hệ thống điện giao thông; Năng lượng tái tạo)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "780",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện tử – viễn thông – chương trình tiên tiến",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "780",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và tự động hóa – chương trình tiên tiến",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "789",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật môi trường (chuyên ngành Kỹ thuật môi trường; Quản lý an toàn và môi trường)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "718",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng (chuyên ngành Xây dựng dân dụng và công nghiệp; Kỹ thuật kết cấu công trình; Thiết kế nội thất)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "780",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình thủy (chuyên ngành Xây dựng và quản lý cảng – công trình giao thông thủy)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình giao thông (chuyên ngành Xây dựng cầu đường; Xây dựng đường bộ; Xây dựng công trình giao thông đô thị; Xây dựng đường sắt-metro)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "661",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế xây dựng (chuyên ngành Kinh tế xây dựng) – chương trình tiên tiến",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "787",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế xây dựng (chuyên ngành Kinh tế và quản lý bất động sản) – chương trình tiên tiến",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "752",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng – chương trình tiên tiến",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "680",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khai thác vận tải (chuyên ngành Quản trị logistics và vận tải đa phương thức) – chương trình tiên tiến",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "780",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khai thác vận tải (chuyên ngành Quản lý và kinh doanh vận tải) – chương trình tiên tiến",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "680",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế vận tải (chuyên ngành Kinh tế vận tải biển) – chương trình tiên tiến",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "780",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế vận tải (chuyên ngành Kinh tế vận tải hàng không) – chương trình tiên tiến",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "780",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học hàng hải (chuyên ngành Kỹ thuật điện, điện tử và điều khiển; Cơ điện tử)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học hàng hải (chuyên ngành Quản lý hàng hải) – chương trình tiên tiến",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "680",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học hàng hải (chuyên ngành Điều khiển và quản lý tàu biển)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "680",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học hàng hải (chuyên ngành Khai thác máy tàu thủy và quản lý kỹ thuật)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "620",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học hàng hải (chuyên ngành Quản lý cảng và logistics) – chương trình tiên tiến",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "736",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 39
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:23:02.864525",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-giao-thong-van-tai-tphcm-GTS.html"
+}

@@ -1,0 +1,2430 @@
+{
+  "nhom_nganh": "Du lịch-Khách sạn",
+  "danh_sach_nganh": [
+    {
+      "ten_nganh": "Du lịch",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm TPHCM - SPS",
+          "data_school": [
+            {
+              "ten_nganh": "Du lịch",
+              "to_hop_mon": "C00; D01; D14; D15",
+              "diem_chuan_2024": "25.25",
+              "diem_chuan_2023": "22"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp Hà Nội - DCN",
+          "data_school": [
+            {
+              "ten_nganh": "Du lịch",
+              "to_hop_mon": "D01; D14; D15",
+              "diem_chuan_2024": "22.4",
+              "diem_chuan_2023": "24.2"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Thương TPHCM - DCT",
+          "data_school": [
+            {
+              "ten_nganh": "Du lịch",
+              "to_hop_mon": "C00; C03; D01; D15",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Phenikaa - PKA",
+          "data_school": [
+            {
+              "ten_nganh": "Du lịch (Định hướng Quản trị du lịch)",
+              "to_hop_mon": "A00; C03; D01; D09; D10; D84; X25",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thủ Dầu Một - TDM",
+          "data_school": [
+            {
+              "ten_nganh": "Du lịch",
+              "to_hop_mon": "C00; C03; C04; C07; D01; D14; D15; X01; X70; X74",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "18.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Hóa Hà Nội - VHH",
+          "data_school": [
+            {
+              "ten_nganh": "Văn hóa du lịch",
+              "to_hop_mon": "C00; C03; C04; X01; X70; D01; D14; D15; X78",
+              "diem_chuan_2024": "27.15",
+              "diem_chuan_2023": "25.41"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tôn Đức Thắng - DTT",
+          "data_school": [
+            {
+              "ten_nganh": "Du lịch (Chuyên ngành Quản lý du lịch)",
+              "to_hop_mon": "C00; C01; C02; C03; C04; D01; D14",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Nông Nghiệp Việt Nam - HVN",
+          "data_school": [
+            {
+              "ten_nganh": "Du lịch",
+              "to_hop_mon": "A00; A01; A07; C01; C02; C03; C04; D01; X01",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Du lịch",
+              "to_hop_mon": "C00; D01; D14; D15",
+              "diem_chuan_2024": "26.8",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sài Gòn - SGD",
+          "data_school": [
+            {
+              "ten_nganh": "Du lịch",
+              "to_hop_mon": "B03; C01; C02; C03; C04; D01; X01; X02; X03; X04",
+              "diem_chuan_2024": "25.81",
+              "diem_chuan_2023": "23.01"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Hóa TPHCM - VHS",
+          "data_school": [
+            {
+              "ten_nganh": "Du lịch",
+              "to_hop_mon": "C00; C14; D01; D04",
+              "diem_chuan_2024": "26.75",
+              "diem_chuan_2023": "23.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hùng Vương - THV",
+          "data_school": [
+            {
+              "ten_nganh": "Du lịch",
+              "to_hop_mon": "C19; C20; C00; D01",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Đoàn - LDA",
+          "data_school": [
+            {
+              "ten_nganh": "Du lịch",
+              "to_hop_mon": "D01; D11; D12; D14; D15; X79",
+              "diem_chuan_2024": "24.63",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Nghệ Thuật Trung Ương - GNT",
+          "data_school": [
+            {
+              "ten_nganh": "Du lịch",
+              "to_hop_mon": "C00; C03; C04; D00",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hạ Long - HLU",
+          "data_school": [
+            {
+              "ten_nganh": "Du lịch (Du lịch và dịch vụ hàng không).",
+              "to_hop_mon": "D01; D14; D15; C00; C04; X78; A01; D07",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Phú Yên - DPY",
+          "data_school": [
+            {
+              "ten_nganh": "Du lịch",
+              "to_hop_mon": "C00; C03; C04; D01; D14; D15",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Mở TPHCM - MBS",
+          "data_school": [
+            {
+              "ten_nganh": "Du lịch",
+              "to_hop_mon": "A00; A01; D01; C03; D10; D09; (Toán, Anh, Công nghệ); (Toán, Lí, Tin); (Toán, Anh, Tin); (Toán, Tin, Công nghệ); D15; D14.",
+              "diem_chuan_2024": "23.4",
+              "diem_chuan_2023": "23.4"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Mỏ Địa Chất - MDA",
+          "data_school": [
+            {
+              "ten_nganh": "Du lịch địa chất",
+              "to_hop_mon": "D01; D10; C04; D07; A07; A06; C03; A04",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "23"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật Vĩnh Long - VLU",
+          "data_school": [
+            {
+              "ten_nganh": "Du lịch",
+              "to_hop_mon": "C00; C03; C04; C14; C19; D01; D15; X01; X02; X70",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Khánh Hòa - UKH",
+          "data_school": [
+            {
+              "ten_nganh": "Du lịch",
+              "to_hop_mon": "A01; C00; D01; D07; D09; D10; D14; D15",
+              "diem_chuan_2024": "15.1",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nguyễn Tất Thành - NTT",
+          "data_school": [
+            {
+              "ten_nganh": "Du lịch",
+              "to_hop_mon": "C00; D01; A07; C03; C04; D09; D10; D14; D15; X02; X26; X27; X28",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Du Lịch - Đại Học Huế - DHD",
+          "data_school": [
+            {
+              "ten_nganh": "Du lịch",
+              "to_hop_mon": "A00; C00; C14; C19; D01; D10; X01; X70",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Duy Tân - DDT",
+          "data_school": [
+            {
+              "ten_nganh": "Ngành Du lịch",
+              "to_hop_mon": "A01; C00; C03; C04; D01; X01 (Văn, Toán, KT&PL)",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "14"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Lang - DVL",
+          "data_school": [
+            {
+              "ten_nganh": "Du lịch",
+              "to_hop_mon": "D01; D09; D10; D14; D15; X26",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Đô - DTD",
+          "data_school": [
+            {
+              "ten_nganh": "Du lịch",
+              "to_hop_mon": "A00; A01; D01; C04; C00; D07; A07; D14; D15; X21; X01; X25",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tiền Giang - TTG",
+          "data_school": [
+            {
+              "ten_nganh": "ĐH Du lịch",
+              "to_hop_mon": "C04; C01; C02; D01; C03; C14; C19; C00; C05; C20",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Lâm nghiệp - LNH",
+          "data_school": [
+            {
+              "ten_nganh": "Du lịch sinh thái",
+              "to_hop_mon": "D01; B03; C02; (Toán, Văn, Tin); (Toán, Văn, Công nghệ); C01; C04; C03; C14; A07",
+              "diem_chuan_2024": "19.5",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Hiến - DVH",
+          "data_school": [
+            {
+              "ten_nganh": "Du lịch",
+              "to_hop_mon": "A00; C00; C04; D01; C16; X01; X70; X74",
+              "diem_chuan_2024": "16.25",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Thái Nguyên - DTZ",
+          "data_school": [
+            {
+              "ten_nganh": "Du lịch",
+              "to_hop_mon": "C00; C03; C04; C14; C19; C20; D01; D10; D66; D84",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hồng Đức - HDT",
+          "data_school": [
+            {
+              "ten_nganh": "Du lịch",
+              "to_hop_mon": "B03; C03; C04; C14; D01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thái Bình Dương - TBD",
+          "data_school": [
+            {
+              "ten_nganh": "Du lịch",
+              "to_hop_mon": "A08; C00; C19; D01; D03; D04; D84; DD2",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ Sài Gòn - DSG",
+          "data_school": [
+            {
+              "ten_nganh": "Du lịch",
+              "to_hop_mon": "(Toán, 2 môn bất kì); (Văn, 2 môn bất kì)",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kiên Giang - TKG",
+          "data_school": [
+            {
+              "ten_nganh": "Du lịch",
+              "to_hop_mon": "C00; C03; C04; C14; C20; D01",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Hóa, Thể Thao Và Du Lịch Thanh Hóa - DVD",
+          "data_school": [
+            {
+              "ten_nganh": "Du lịch",
+              "to_hop_mon": "C00; C04; D01; D66; X78",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Phân hiệu Đại học Thái Nguyên tại Hà Giang - DTG",
+          "data_school": [
+            {
+              "ten_nganh": "Du Lịch",
+              "to_hop_mon": "C00; C14; C20; D01",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Hướng dẫn du lịch",
+      "data": [
+        {
+          "ten_truong": "Đại Học Phenikaa - PKA",
+          "data_school": [
+            {
+              "ten_nganh": "Hướng dẫn Du lịch quốc tế",
+              "to_hop_mon": "C00; C03; D01; D14; D15; D66; X78",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Hóa Hà Nội - VHH",
+          "data_school": [
+            {
+              "ten_nganh": "Lữ hành, hướng dẫn du lịch",
+              "to_hop_mon": "C00; C03; C04; X01; X70; D01; D14; D15; X78",
+              "diem_chuan_2024": "27.67",
+              "diem_chuan_2023": "25.8"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Hóa TPHCM - VHS",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành, chuyên ngành Hướng dẫn du lịch",
+              "to_hop_mon": "C00; C14; D01; D04",
+              "diem_chuan_2024": "26.5",
+              "diem_chuan_2023": "23.5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+      "data": [
+        {
+          "ten_truong": "Đại Học Kinh Tế Quốc Dân - KHA",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "26.71",
+              "diem_chuan_2023": "26.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Hà Nội - SPH",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "D01; D14",
+              "diem_chuan_2024": "27.47",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thương Mại - TMU",
+          "data_school": [
+            {
+              "ten_nganh": "Tài chính - Ngân hàng (Tài chính - Ngân hàng thương mại - Chương trình định hướng chuyên sâu nghề nghiệp quốc tế - IPOP)",
+              "to_hop_mon": "A01; D01; D07; D09; D10; X25; X26; X27; X28",
+              "diem_chuan_2024": "25.5",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thủ Đô Hà Nội - HNM",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "D01; D04; D14; D15; D45; D65; D66; D71; X78; X90",
+              "diem_chuan_2024": "24.88",
+              "diem_chuan_2023": "23.57"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Giao Thông Vận Tải - GHA",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "24.3",
+              "diem_chuan_2023": "23.8"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp Hà Nội - DCN",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "D01; D14; D15",
+              "diem_chuan_2024": "23.77",
+              "diem_chuan_2023": "23.62"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp TPHCM - IUH",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành gồm 03 chuyên ngành: Quản trị dịch vụ du lịch và lữ hành; Quản trị khách sạn; Quản trị nhà hàng và dịch vụ ăn uống",
+              "to_hop_mon": "A01; D01; D09; D10; X25; X26",
+              "diem_chuan_2024": "22.5",
+              "diem_chuan_2023": "22"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Phụ Nữ Việt Nam - HPN",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "A00; A01; C00; D01",
+              "diem_chuan_2024": "25.25",
+              "diem_chuan_2023": "23.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Tế Kỹ Thuật Công Nghiệp - DKK",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành (CS Nam Định)",
+              "to_hop_mon": "C00; C01; C03; C04; C07; C09; D01; D11; D14; D15; X01; X70; X74; X78; X79; X80",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "17.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Thương TPHCM - DCT",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "C00; C03; D01; D15",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Hàng không Việt Nam - HHK",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ thương mại hàng không",
+              "to_hop_mon": "A00; A01; A02; A03; A04; A05; A06; A07; B00; B01; B02; B03; B08; C00; C01; C02; C03; C04; C05; C06; C07; C08; C09; C10; C11; C12; C13; D01; D07; D09; D10; D11; D12; D13; D14; D15; X01; X02; X03; X04; X05; X06; X07; X08; X09; X10; X11; X12; X13; X14; X15",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hà Nội - NHF",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị Dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "D01",
+              "diem_chuan_2024": "33.04",
+              "diem_chuan_2023": "33.9"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thăng Long - DTL",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "A00; A01; A07; D01; D09; D10",
+              "diem_chuan_2024": "23.33",
+              "diem_chuan_2023": "23.84"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thủy Lợi - TLA",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "A00; A01; D01; D07; X02 (Toán, Văn, Tin); X26 (Toán, Anh, Tin)",
+              "diem_chuan_2024": "24.21",
+              "diem_chuan_2023": "22.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Hóa Hà Nội - VHH",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị kinh doanh du lịch",
+              "to_hop_mon": "C00; C03; C04; X01; X70; D01; D14; D15; X78",
+              "diem_chuan_2024": "27.94",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Học Viện Nông Nghiệp Việt Nam - HVN",
+          "data_school": [
+            {
+              "ten_nganh": "Kế toán, Quản trị kinh doanh và Thương mại",
+              "to_hop_mon": "A00; A01; A07; C01; C02; C03; C04; D01; X01",
+              "diem_chuan_2024": "18",
+              "diem_chuan_2023": "22.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Xã Hội và Nhân Văn Hà Nội - QHX",
+          "data_school": [
+            {
+              "ten_nganh": "Quan hệ công chúng",
+              "to_hop_mon": "D01; D14; D15; D66; C00; C03; C04",
+              "diem_chuan_2024": "25.61",
+              "diem_chuan_2023": "25.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Xã Hội và Nhân Văn TPHCM - QSX",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "C00; D01; D14; D15",
+              "diem_chuan_2024": "28.33",
+              "diem_chuan_2023": "27.4"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "A00; A01; C02; D01",
+              "diem_chuan_2024": "24.1",
+              "diem_chuan_2023": "24"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Hóa TPHCM - VHS",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành, chuyên ngành Quản trị lữ hành",
+              "to_hop_mon": "C00; C14; D01; D04",
+              "diem_chuan_2024": "27",
+              "diem_chuan_2023": "24"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kinh Tế Luật TPHCM - QSK",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị kinh doanh (Chuyên ngành Quản trị du lịch và lữ hành)",
+              "to_hop_mon": "A00; A01; D01; D07; X25; X26",
+              "diem_chuan_2024": "25.33",
+              "diem_chuan_2023": "24.56"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Kinh Tế TPHCM - KSA",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành (Management of Tourism Services and Travel)",
+              "to_hop_mon": "A00; A01; D01; D07; D09",
+              "diem_chuan_2024": "25.2",
+              "diem_chuan_2023": "24.6"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tài Chính Marketing - DMS",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "C01; C02; C03; C04; X01; D01; A00; A03; A04; X05; A01; A05; A06; X09; D07; A07; X17; D09; X21; D10; X25",
+              "diem_chuan_2024": "24.2",
+              "diem_chuan_2023": "23.7"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Giao Thông Vận Tải (Cơ sở 2) - GSA",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "A00; A01; D01; C01",
+              "diem_chuan_2024": "22.85",
+              "diem_chuan_2023": "21.7"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nha Trang - TSN",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "D01; X01; X02; C03; C04",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hùng Vương - THV",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "C19; C20; C00; D01",
+              "diem_chuan_2024": "18",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Mở Hà Nội - MHN",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "D01; D09; D10",
+              "diem_chuan_2024": "28.53",
+              "diem_chuan_2023": "30.53"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quy Nhơn - DQN",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "A00; A01; D01; D04; D09; X01; X17; X21; X25; X78",
+              "diem_chuan_2024": "19.85",
+              "diem_chuan_2023": "17.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hạ Long - HLU",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "A00; A01; D01; D10; D04; C00; D14; D45",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hải Dương - DKT",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ di lịch và lữ hành",
+              "to_hop_mon": "A00; A01; C00; C03; D01; D14; D15; D66",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quảng Bình - DQB",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "C00; C03; D01; D15; C04; D14",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hà Tĩnh - HHT",
+          "data_school": [
+            {
+              "ten_nganh": "Kinh tế nông nghiệp",
+              "to_hop_mon": "B03; C01; C02; C03; C04; C14; D01; X01.\r\nX02",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Tài Nguyên và Môi Trường Hà Nội - DMT",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và Lữ hành",
+              "to_hop_mon": "A00; A01; C00; D01; C01; C02; X03; X04; B03; C03; C04; C14; X02",
+              "diem_chuan_2024": "26",
+              "diem_chuan_2023": "22"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Lao Động – Xã Hội - DLX",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "A00; A01; D01",
+              "diem_chuan_2024": "23.04",
+              "diem_chuan_2023": "22.55"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Phân Hiệu Đại Học Đà Nẵng tại Kon Tum - DDP",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch & lữ hành",
+              "to_hop_mon": "X01; C04; C02; D01; C01; C03",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Trà Vinh - DVT",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "C00; C04; D01; D14; D15; X70; X74",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Điện Lực - DDL",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ Du lịch và Lữ hành",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "21.8",
+              "diem_chuan_2023": "21.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Phương Đông - DPD",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị Dịch vụ du lịch và Lữ hành",
+              "to_hop_mon": "A00; C00; C19; C20; D01; D15; D66",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật Vĩnh Long - VLU",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "C00; C03; C04; C14; C19; D01; D15; X01; X02; X70",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kiến Trúc Đà Nẵng - KTD",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị Dịch vụ du lịch và Lữ hành",
+              "to_hop_mon": "A00; A01; B00; D01; X06; X07; X26; X27",
+              "diem_chuan_2024": "19.5",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Doanh và Công Nghệ Hà Nội - DQK",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "A00; A07; C00; X78; X21; X05; X74; C04",
+              "diem_chuan_2024": "22.5",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Khánh Hòa - UKH",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "A00; A01; B08; D01; D07; D09; D10",
+              "diem_chuan_2024": "17.5",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Du Lịch - Đại Học Huế - DHD",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "A00; C00; C14; C19; D01; D10; X01; X70",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Duy Tân - DDT",
+          "data_school": [
+            {
+              "ten_nganh": "Ngành Quản trị Dịch vụ Du lịch & Lữ hành",
+              "to_hop_mon": "A01; C00; C03; C04; D01; X01 (Văn, Toán, KT&PL)",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "14"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Nam Cần Thơ - DNC",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "A00; A01; C00; C03; D01; D14; D5; X25; Y07",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quốc Tế Hồng Bàng - HIU",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "C00; D01; D14; D15; X71; X75",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Lang - DVL",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "D01; D09; D10; D14; D15; X26",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Bắc - UKB",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "A00; A01; D01; D14; D15; C00",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hòa Bình - ETU",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "A10; C00; C04; D01; D15",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đại Nam - DDN",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "C00; C03; C04; D01; D14; X01",
+              "diem_chuan_2024": "18",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đông Á - DAD",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành (Cơ sở đào tạo Đà Nẵng)",
+              "to_hop_mon": "C00; C04; D01; D09; D14; D15; X01; X02; X21",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Sao Đỏ - SDU",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "C00; C04; C14; C20; D01; D15",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Đô - DTD",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "A00; A01; D01; C04; C00; D07; A07; D14; D15; X21; X01; X25",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công Nghệ TPHCM - DKC",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "D01; C03; C04; C01; (Toán, Văn, Tin); X01",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Lạc Hồng - DLH",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "D01; X01; X04; Y09; C04; C03",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thành Đông - DDB",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "A00; A01; C00; D01",
+              "diem_chuan_2024": "14",
+              "diem_chuan_2023": "14"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Yersin Đà Lạt - DYD",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "D01; D09; D10; C03; C04; D15; D14; C00; A07",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Tế Tài Chính TPHCM - UEF",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "D01; C01; (Toán, Văn, Tin); C14; C03; C04",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kinh tế Quản trị kinh doanh Thái Nguyên",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị kinh doanh khách sạn và du lịch",
+              "to_hop_mon": "A00; C00; C04; D01; X01",
+              "diem_chuan_2024": "18",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Ngoại Ngữ Tin Học TPHCM - DNT",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "D01; D14; D15; X78; X26",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "20"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Lâm nghiệp - LNH",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ Du lịch và Lữ hành",
+              "to_hop_mon": "D01; A01; K01; C14; C00; D66; D15; D14; C20; C19",
+              "diem_chuan_2024": "15.7",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Hiến - DVH",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "A00; C00; C04; D01; C16; X01; X70; X74",
+              "diem_chuan_2024": "16.25",
+              "diem_chuan_2023": "22.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quang Trung - DQT",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị Dịch vụ Du lịch và Lữ hành",
+              "to_hop_mon": "A00; A01; A09; C00; C03; C04; C14; D01; D10; D14; D15",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hoa Sen - HSU",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ Du lịch & Lữ hành",
+              "to_hop_mon": "A00; A01; D01; C00",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Phan Thiết - DPT",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị Dịch vụ Du lịch & Lữ hành",
+              "to_hop_mon": "C00; C04; D01; D08; D10; D14; D15",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Trưng Vương - DVP",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "A07; C00; D01; D14",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ Đồng Nai - DCD",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "A00; A01; A07; C04; D01; D09; D10",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Thái Nguyên - DTZ",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "C00; C03; C04; C14; C19; C20; D01; D10; D66; D84",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Phân hiệu Đại Học Lâm nghiệp tại Đồng Nai - LNS",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch & lữ hành",
+              "to_hop_mon": "D01; C03; C04; X01; X02; C00",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Tế Công Nghiệp Long An - DLA",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "D01; X25; X78; D15",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ và Quản Lý Hữu Nghị - DCQ",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "C00; D01; D14; D15",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Phú Xuân - DPX",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "A01; C00; C03; C04; D01; D04; D45; D65; X25; X37",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Gia Định - GDU",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "A00; A01; C00; C01; C03; C14; D01; K01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Bắc - TTB",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "D01; D09; D10; D14; D15; C00; X70; X74",
+              "diem_chuan_2024": "22",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đà Lạt - TDL",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "(Văn, 2 môn bất kì)",
+              "diem_chuan_2024": "20.5",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Phân Hiệu Đại Học Thái Nguyên Tại Lào Cai - DTP",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị DV Du lịch và Lữ hành",
+              "to_hop_mon": "C03; C04; C14; D01",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Hóa, Thể Thao Và Du Lịch Thanh Hóa - DVD",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "C00; C04; D01; D84; X25",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Phân hiệu Đại học Thái Nguyên tại Hà Giang - DTG",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ Du lịch và Lữ hành",
+              "to_hop_mon": "C00; C14; C20; D01",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ Đông Á - DDA",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+              "to_hop_mon": "C00; C01; C02; C03; C04; C14; C19; C20; D01; D04; D06; D14; D15; D66; D78; D83",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "18.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công nghệ Thông tin và Truyền thông Việt Hàn - Đại học Đà Nẵng",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị kinh doanh - Chuyên ngành Quản trị dịch vụ du lịch và lữ hành số",
+              "to_hop_mon": "A00; A01; C03; D01; X02; X26",
+              "diem_chuan_2024": "23.5",
+              "diem_chuan_2023": "22.5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Quản trị du lịch và khách sạn",
+      "data": [
+        {
+          "ten_truong": "Học Viện Ngân Hàng - NHH",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị du lịch",
+              "to_hop_mon": "A01; D01; D07; D09",
+              "diem_chuan_2024": "25.6",
+              "diem_chuan_2023": "24.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Phenikaa - PKA",
+          "data_school": [
+            {
+              "ten_nganh": "Kinh doanh Du lịch số",
+              "to_hop_mon": "A00; C03; D01; D09; D10; D84; X25",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Du Lịch - Đại Học Huế - DHD",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị du lịch và khách sạn (Giảng dạy bằng Tiếng Anh)",
+              "to_hop_mon": "A00; C00; C14; C19; D01; D10; X01; X70",
+              "diem_chuan_2024": "23",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kinh tế Quản trị kinh doanh Thái Nguyên",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị du lịch và khách sạn (dạy và học bằng tiếng Anh)",
+              "to_hop_mon": "A00; C00; C04; D01; X01",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Quản trị khách sạn",
+      "data": [
+        {
+          "ten_truong": "Đại Học Kinh Tế Quốc Dân - KHA",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị khách sạn",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "26.94",
+              "diem_chuan_2023": "26.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Ngoại thương - NTH",
+          "data_school": [
+            {
+              "ten_nganh": "Chương trình ĐHNNQT Quản trị khách sạn",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "28.1",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thương Mại - TMU",
+          "data_school": [
+            {
+              "ten_nganh": "Tài chính - Ngân hàng (Tài chính - Ngân hàng thương mại)",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "25.5",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thủ Đô Hà Nội - HNM",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị khách sạn",
+              "to_hop_mon": "D01; D04; D14; D15; D45; D65; D66; D71; X78; X90",
+              "diem_chuan_2024": "24.8",
+              "diem_chuan_2023": "23.25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp Hà Nội - DCN",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị khách sạn",
+              "to_hop_mon": "D01; D14; D15",
+              "diem_chuan_2024": "23.56",
+              "diem_chuan_2023": "23.56"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Tế Kỹ Thuật Công Nghiệp - DKK",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị khách sạn (CS Nam Định)",
+              "to_hop_mon": "C00; C01; C03; C04; C07; C09; D01; D11; D14; D15; X01; X70; X74; X78; X79; X80",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Thương TPHCM - DCT",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị khách sạn",
+              "to_hop_mon": "C00; C03; D01; D15",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Phenikaa - PKA",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị khách sạn",
+              "to_hop_mon": "A00; C03; D01; D09; D10; D84; X25",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thăng Long - DTL",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị khách sạn",
+              "to_hop_mon": "A00; A01; A07; D01; D09; D10",
+              "diem_chuan_2024": "22.85",
+              "diem_chuan_2023": "24.1"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Xã Hội và Nhân Văn Hà Nội - QHX",
+          "data_school": [
+            {
+              "ten_nganh": "Quản lý thông tin",
+              "to_hop_mon": "D01; D14; D15; D66; C00; C03; C04",
+              "diem_chuan_2024": "28.26",
+              "diem_chuan_2023": "25"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Kinh Tế TPHCM - KSA",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị khách sạn (Hospitality Management)",
+              "to_hop_mon": "A00; A01; D01; D07; D09",
+              "diem_chuan_2024": "25.5",
+              "diem_chuan_2023": "25.2"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tài Chính Marketing - DMS",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị khách san",
+              "to_hop_mon": "C01; C02; C03; C04; X01; D01; A00; A03; A04; X05; A01; A05; A06; X09; D07; A07; X17; D09; X21; D10; X25",
+              "diem_chuan_2024": "23.5",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nha Trang - TSN",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị khách sạn",
+              "to_hop_mon": "",
+              "diem_chuan_2024": "21",
+              "diem_chuan_2023": "22"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Mở Hà Nội - MHN",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị khách sạn",
+              "to_hop_mon": "D01; D09; D10",
+              "diem_chuan_2024": "28.13",
+              "diem_chuan_2023": "29.28"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quy Nhơn - DQN",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị khách sạn",
+              "to_hop_mon": "A00; A01; D01; D04; D09; X01; X17; X21; X25; X78",
+              "diem_chuan_2024": "18.35",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hạ Long - HLU",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị khách sạn",
+              "to_hop_mon": "A00; A01; D01; D10; C04; X01; C03; D11",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Tài Nguyên và Môi Trường Hà Nội - DMT",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị khách sạn",
+              "to_hop_mon": "A00; A01; C00; D01; C01; C02; X03; X04; B03; C03; C04; C14; X02",
+              "diem_chuan_2024": "25.45",
+              "diem_chuan_2023": "22.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công nghiệp Vinh - DCV",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị Khách sạn",
+              "to_hop_mon": "A00; D01; C00; D15",
+              "diem_chuan_2024": "25",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Điện Lực - DDL",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị khách sạn",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kiến Trúc Đà Nẵng - KTD",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị khách sạn",
+              "to_hop_mon": "A00; A01; B00; D01; X06; X07; X26; X27",
+              "diem_chuan_2024": "19.5",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Khánh Hòa - UKH",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị khách sạn",
+              "to_hop_mon": "A00; A01; B08; D01; D07; D09; D10",
+              "diem_chuan_2024": "17.4",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Du Lịch - Đại Học Huế - DHD",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị khách sạn",
+              "to_hop_mon": "A00; C00; C14; C19; D01; D10; X01; X70",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Duy Tân - DDT",
+          "data_school": [
+            {
+              "ten_nganh": "Ngành Quản trị Khách sạn",
+              "to_hop_mon": "A01; C00; C03; C04; D01; X01 (Văn, Toán, KT&PL)",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "14"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Nam Cần Thơ - DNC",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị khách sạn",
+              "to_hop_mon": "A00; A01; C00; C03; D01; D14; D5; X25; Y07",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quốc Tế Hồng Bàng - HIU",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị khách sạn",
+              "to_hop_mon": "C00; D01; D14; D15; X71; X75",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Lang - DVL",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị khách sạn",
+              "to_hop_mon": "D01; D09; D10; D14; D15; X26",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hòa Bình - ETU",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị khách sạn",
+              "to_hop_mon": "A10; C00; C04; D01; D15",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đại Nam - DDN",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị khách sạn",
+              "to_hop_mon": "C00; C03; C04; D01; D14; X01",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đông Á - DAD",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị khách sạn (Cơ sở đào tạo Đà Nẵng)",
+              "to_hop_mon": "C00; C04; D01; D09; D14; D15; X01; X02; X21",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Đô - DTD",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị khách sạn",
+              "to_hop_mon": "A00; A01; D01; C04; C00; D07; A07; D14; D15; X21; X01; X25",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công Nghệ TPHCM - DKC",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị khách sạn",
+              "to_hop_mon": "D01; C03; C04; C01; (Toán, Văn, Tin); X01",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thành Đông - DDB",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị khách sạn",
+              "to_hop_mon": "A00; A01; C00; D01",
+              "diem_chuan_2024": "14",
+              "diem_chuan_2023": "14"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Thành Đô - TDD",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị khách sạn",
+              "to_hop_mon": "A00; A01; C0G; C00; D01; D09",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "16.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Tế Tài Chính TPHCM - UEF",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị khách sạn",
+              "to_hop_mon": "D01; C01; (Toán, Văn, Tin); C14; C03; C04",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Ngoại Ngữ Tin Học TPHCM - DNT",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị khách sạn",
+              "to_hop_mon": "D01; D14; D15; X78; X26",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "20"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Hiến - DVH",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị khách sạn",
+              "to_hop_mon": "A00; C00; C04; D01; C16; X01; X70; X74",
+              "diem_chuan_2024": "16.15",
+              "diem_chuan_2023": "23.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quang Trung - DQT",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị Khách sạn – Nhà hàng",
+              "to_hop_mon": "A00; A01; A09; C00; C03; C04; C14; D01; D10; D14; D15",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hoa Sen - HSU",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị khách sạn",
+              "to_hop_mon": "A00; A01; D01; C00",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Phan Thiết - DPT",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị Khách sạn (khu nghỉ dưỡng, resort & spa)",
+              "to_hop_mon": "C00; C04; D01; D10; D14; D15; X78",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ Đồng Nai - DCD",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị khách sạn",
+              "to_hop_mon": "A00; A01; A07; C04; D01; D09; D10",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hồng Đức - HDT",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị khách sạn",
+              "to_hop_mon": "B03; C03; C04; C14; D01",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Tư thục Quốc Tế Sài Gòn - SIU",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị khách sạn",
+              "to_hop_mon": "A00; A01; A07; A09; C00; D01",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Thái Bình Dương - TBD",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị khách sạn",
+              "to_hop_mon": "A08; C00; C19; D01; D03; D04; D84; DD2",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Hùng Vương TPHCM - DHV",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị khách sạn",
+              "to_hop_mon": "A00; A01; D01; C00; C03",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Gia Định - GDU",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị khách sạn",
+              "to_hop_mon": "A00; A01; C00; C01; C03; C14; D01; K01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Hóa, Thể Thao Và Du Lịch Thanh Hóa - DVD",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị khách sạn",
+              "to_hop_mon": "C00; C04; D01; D84; X25",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghệ Đông Á - DDA",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị khách sạn",
+              "to_hop_mon": "C00; C01; C02; C03; C04; C14; C19; C20; D01; D04; D06; D14; D15; D66; D78; D83",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Quản trị nhà hàng - khách sạn",
+      "data": [
+        {
+          "ten_truong": "Học Viện Hàng không Việt Nam - HHK",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị khách sạn nhà hàng",
+              "to_hop_mon": "A00; A01; A02; A03; A04; A05; A06; A07; B00; B01; B02; B03; B08; C00; C01; C02; C03; C04; C05; C06; C07; C08; C09; C10; C11; C12; C13; D01; D07; D09; D10; D11; D12; D13; D14; D15; X01; X02; X03; X04; X05; X06; X07; X08; X09; X10; X11; X12; X13; X14; X15",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tôn Đức Thắng - DTT",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị kinh doanh (Chuyên ngành: Quản trị nhà hàng - khách sạn) - Chương trình dự bị đại học bằng tiếng Anh",
+              "to_hop_mon": "A00; A01; C01; C02; D01; D07",
+              "diem_chuan_2024": "27",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Quản trị nhà hàng và dịch vụ ăn uống",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp Hà Nội - DCN",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị nhà hàng và dịch vụ ăn uống",
+              "to_hop_mon": "D01; D14; D15",
+              "diem_chuan_2024": "23.19",
+              "diem_chuan_2023": "22.8"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sài Gòn - SGD",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị nhà hàng và dịch vụ ăn uống",
+              "to_hop_mon": "A00; A01; A02; A03; A04; A05; A06; A07; B00; B01; B02; B03; B08; C01; C02; C03; C04; D01; D07; D09; D10; X01; X02; X03; X04; X05; X06; X07; X08; X09; X10; X11; X12; X13; X14; X15; X16; X17; X18; X19; X20; X21; X22; X23; X24; X25; X26; X27; X28; X53; X54",
+              "diem_chuan_2024": "23.51",
+              "diem_chuan_2023": "22.8"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật TPHCM - SPK",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị NH và DV ăn uống (đào tạo bằng tiếng Việt)",
+              "to_hop_mon": "A00; A01; C02; D01; D07",
+              "diem_chuan_2024": "23.27",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tài Chính Marketing - DMS",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị nhà hàng và dịch vụ ăn uống",
+              "to_hop_mon": "C01; C02; C03; C04; X01; D01; A00; A03; A04; X05; A01; A05; A06; X09; D07; A07; X17; D09; X21; D10; X25",
+              "diem_chuan_2024": "23",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hạ Long - HLU",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị nhà hàng và dịch vụ ăn uống",
+              "to_hop_mon": "C04; C03; D01; C00; X74; X01; X78; D15",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nguyễn Tất Thành - NTT",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị Nhà hàng và Dịch vụ ăn uống",
+              "to_hop_mon": "C00; D01; A07; C03; C04",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Du Lịch - Đại Học Huế - DHD",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị nhà hàng và dịch vụ ăn uống",
+              "to_hop_mon": "A00; C00; C14; C19; D01; D10; X01; X70",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Duy Tân - DDT",
+          "data_school": [
+            {
+              "ten_nganh": "Ngành Quản trị Nhà hàng & Dịch vụ Ăn uống",
+              "to_hop_mon": "A01; C00; C03; C04; D01; X01 (Văn, Toán, KT&PL)",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Nam Cần Thơ - DNC",
+          "data_school": [
+            {
+              "ten_nganh": "QT nhà hàng và dịch vụ ăn uống",
+              "to_hop_mon": "A00; A01; C00; C03; D01; D14; D5; X25; Y07",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Lang - DVL",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị nhà hàng và Dịch vụ ăn uống",
+              "to_hop_mon": "D01; D09; D10; D14; D15; X26",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đông Á - DAD",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị nhà hàng và Dịch vụ ăn uống (Cơ sở đào tạo Đà Nẵng)",
+              "to_hop_mon": "C00; C04; D01; D09; D14; D15; X01; X02; X21",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công Nghệ TPHCM - DKC",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị nhà hàng và dịch vụ ăn uống",
+              "to_hop_mon": "D01; C03; C04; C01; (Toán, Văn, Tin); X01",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Tế Tài Chính TPHCM - UEF",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị nhà hàng và dịch vụ ăn uống",
+              "to_hop_mon": "D01; C01; (Toán, Văn, Tin); C14; C03; C04",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Văn Hiến - DVH",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị nhà hàng và dịch vụ ăn uống",
+              "to_hop_mon": "A00; C00; C04; D01; C16; X01; X70; X74",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hoa Sen - HSU",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị nhà hàng & Dịch vụ ăn uống",
+              "to_hop_mon": "A00; A01; D01; C00",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Phan Thiết - DPT",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị Nhà hàng và Dịch vụ Ăn uống",
+              "to_hop_mon": "C00; C04; D01; D10; D14; D15; X78",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Quản trị sự kiện",
+      "data": [
+        {
+          "ten_truong": "Đại Học Kinh Tế Quốc Dân - KHA",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị giải trí và sự kiện",
+              "to_hop_mon": "A00; A01; D01; D07",
+              "diem_chuan_2024": "36.55",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Kinh Tế TPHCM - KSA",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị sự kiện và dịch vụ giải trí (Event and Leisure Service Management)",
+              "to_hop_mon": "A00; A01; D01; D07; D09",
+              "diem_chuan_2024": "26.1",
+              "diem_chuan_2023": "25.51"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Duy Tân - DDT",
+          "data_school": [
+            {
+              "ten_nganh": "Ngành Quản trị Sự kiện",
+              "to_hop_mon": "A01; C00; C03; C04; D01; X01 (Văn, Toán, KT&PL)",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "14.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Quốc Tế Hồng Bàng - HIU",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị sự kiện",
+              "to_hop_mon": "A01; C00; C03; C04; D01; X26",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công Nghệ TPHCM - DKC",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị sự kiện",
+              "to_hop_mon": "D01; C03; C04; C01; (Toán, Văn, Tin); X01",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Kinh Tế Tài Chính TPHCM - UEF",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị sự kiện",
+              "to_hop_mon": "D01; C01; (Toán, Văn, Tin); C14; C03; C04",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hoa Sen - HSU",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị sự kiện",
+              "to_hop_mon": "A00; A01; D01; D03; D09",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Hùng Vương TPHCM - DHV",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị nhà hàng - dịch vụ ăn uống",
+              "to_hop_mon": "A00; A01; D01; C00; C03",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Quốc tế học",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm TPHCM - SPS",
+          "data_school": [
+            {
+              "ten_nganh": "Quốc tế học",
+              "to_hop_mon": "D14; D09",
+              "diem_chuan_2024": "24.42",
+              "diem_chuan_2023": "23.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hà Nội - NHF",
+          "data_school": [
+            {
+              "ten_nganh": "Quốc tế học",
+              "to_hop_mon": "D01",
+              "diem_chuan_2024": "25.27",
+              "diem_chuan_2023": "33.48"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Xã Hội và Nhân Văn Hà Nội - QHX",
+          "data_school": [
+            {
+              "ten_nganh": "Quản trị khách sạn",
+              "to_hop_mon": "D01; D14; D15; D66; C00; C03; C04",
+              "diem_chuan_2024": "26.18",
+              "diem_chuan_2023": "24"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Xã Hội và Nhân Văn TPHCM - QSX",
+          "data_school": [
+            {
+              "ten_nganh": "Quốc tế học",
+              "to_hop_mon": "D01; D09; D14; D15",
+              "diem_chuan_2024": "25.75",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sài Gòn - SGD",
+          "data_school": [
+            {
+              "ten_nganh": "Quốc tế học",
+              "to_hop_mon": "B03; C01; C02; C03; C04; D01; X01; X02; X03; X04",
+              "diem_chuan_2024": "23.64",
+              "diem_chuan_2023": "22.77"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Ngoại Ngữ Đà Nẵng - DDF",
+          "data_school": [
+            {
+              "ten_nganh": "Quốc tế học",
+              "to_hop_mon": "D01; D09; D14; D10; D15",
+              "diem_chuan_2024": "22.05",
+              "diem_chuan_2023": "21.78"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Ngoại Ngữ Huế - DHF",
+          "data_school": [
+            {
+              "ten_nganh": "Quốc tế học",
+              "to_hop_mon": "D01; D14; D15; D66; X78",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Vinh - TDV",
+          "data_school": [
+            {
+              "ten_nganh": "Quốc tế học",
+              "to_hop_mon": "D01; D14; D15; D66",
+              "diem_chuan_2024": "18",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Việt Nhật - ĐHQG Hà Nội - VJU",
+          "data_school": [
+            {
+              "ten_nganh": "Đổi mới và Phát triển toàn cầu – BGDI",
+              "to_hop_mon": "A01; D01; D07; D08; D09; D10; D14; D15; X78; X25",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nguyễn Trãi - NTU",
+          "data_school": [
+            {
+              "ten_nganh": "Quốc tế học",
+              "to_hop_mon": "C00; C03; C04; D01; D09; D14; D15; D66; X78",
+              "diem_chuan_2024": "18",
+              "diem_chuan_2023": "22"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Khoa Quốc Tế - Đại Học Thái Nguyên - DTQ",
+          "data_school": [
+            {
+              "ten_nganh": "Quốc tế học",
+              "to_hop_mon": "C00; C01; C02; C14; A01; D01; D10; D15; D05",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đà Lạt - TDL",
+          "data_school": [
+            {
+              "ten_nganh": "Quốc tế học",
+              "to_hop_mon": "D01; C03; C04; X02; X01; B03; D14; D15; X79; X78; D13; C00; X71; X70; C12; X75; X74; C13; Y07; X67; X66",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Tài nguyên và Du lịch sinh thái",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Nông Lâm TPHCM - NLS",
+          "data_school": [
+            {
+              "ten_nganh": "Tài nguyên và du lịch sinh thái",
+              "to_hop_mon": "A00, B00, B02, D01, D07, D08",
+              "diem_chuan_2024": "19.5",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Văn hóa Du lịch",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Đà Lạt - TDL",
+          "data_school": [
+            {
+              "ten_nganh": "Văn hóa Du lịch",
+              "to_hop_mon": "D01; C03; C04; X02; X01; B03; D14; D15; X79; X78; D13; C00; X71; X70; C12; X75; X74; C13; Y07; X67; X66",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Địa lý học",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm TPHCM - SPS",
+          "data_school": [
+            {
+              "ten_nganh": "Địa lý học",
+              "to_hop_mon": "C00; C04; C20; D15; X74",
+              "diem_chuan_2024": "25.17",
+              "diem_chuan_2023": "19.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Tự Nhiên Hà Nội - QHT",
+          "data_school": [
+            {
+              "ten_nganh": "Địa lý tự nhiên",
+              "to_hop_mon": "A00; A01; A04; A06; A07; B00; B02; C04; D01; D10; D20; X01; X21; X25",
+              "diem_chuan_2024": "22.4",
+              "diem_chuan_2023": "20.3"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Xã Hội và Nhân Văn TPHCM - QSX",
+          "data_school": [
+            {
+              "ten_nganh": "Địa lý học",
+              "to_hop_mon": "A01; C00; D01; D15",
+              "diem_chuan_2024": "22",
+              "diem_chuan_2023": "21"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sài Gòn - SGD",
+          "data_school": [
+            {
+              "ten_nganh": "Địa lý học",
+              "to_hop_mon": "C00; C04; C09; C11; C13; D15; X74; X75; X76; X77",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm - Đại Học Đà Nẵng - DDS",
+          "data_school": [
+            {
+              "ten_nganh": "Địa lý học (chuyên ngành Địa lý du lịch)",
+              "to_hop_mon": "C00; C20; X74; C04",
+              "diem_chuan_2024": "24.25",
+              "diem_chuan_2023": "19.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đồng Tháp - SPD",
+          "data_school": [
+            {
+              "ten_nganh": "Địa lý học",
+              "to_hop_mon": "A07; C00; C03; C04; C20; D15; X74",
+              "diem_chuan_2024": "25.2",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "school_code": "DPQ",
+  "school_name": "Trường Đại Học Phạm Văn Đồng",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Giáo dục Mầm non",
+          "Tổ hợp môn": "M01; M02",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Tiểu học",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "25.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Toán học",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "24.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tin học",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "22.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Vật lý",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "23.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Ngữ văn",
+          "Tổ hợp môn": "C00; D78; C19; C20",
+          "Điểm chuẩn": "26.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tiếng Anh",
+          "Tổ hợp môn": "D01; D78; D84; D90",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Khoa học Tự nhiên",
+          "Tổ hợp môn": "A00; B00; D01; D90",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế phát triển",
+          "Tổ hợp môn": "C04; C20; D01; D10",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "C04; C20; D01; D10",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "C04; C20; D01; D10",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Cơ khí",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Cơ - Điện tử",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 14
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Giáo dục Mầm non",
+          "Tổ hợp môn": "M01; M02",
+          "Điểm chuẩn": "23.19",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Giáo dục Tiểu học",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "27.1",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Sư phạm Toán học",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "27.12",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Sư phạm Tin học",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "26.08",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Sư phạm Vật lý",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "26.62",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Sư phạm Ngữ văn",
+          "Tổ hợp môn": "C00; D78; C19; C20",
+          "Điểm chuẩn": "27.2",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Sư phạm Tiếng Anh",
+          "Tổ hợp môn": "D01; D78; D84; D90",
+          "Điểm chuẩn": "26.4",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Sư phạm Khoa học Tự nhiên",
+          "Tổ hợp môn": "A00; B00; D01; D90",
+          "Điểm chuẩn": "26.27",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Kinh tế phát triển",
+          "Tổ hợp môn": "C04; C20; D01; D10",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "C04; C20; D01; D10",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "C04; C20; D01; D10",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Công nghệ Thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Cơ khí",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "Học bạ lớp 12"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Cơ - Điện tử",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "Học bạ lớp 12"
+        }
+      ],
+      "row_count": 14
+    }
+  ],
+  "table_count": 2,
+  "crawled_at": "2025-07-18T23:26:36.055693",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-pham-van-dong-DPQ.html"
+}

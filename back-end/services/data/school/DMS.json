@@ -1,0 +1,1143 @@
+{
+  "school_code": "DMS",
+  "school_name": "Trường Đại Học Tài Chính Marketing",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D72; D78; D96",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Toán kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "24.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "24.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "CT tiếng Anh toàn phần"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "CT tích hợp"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "25.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "CT tiếng Anh toàn phần"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "23.8",
+          "Ghi chú": "CT tích hợp"
+        },
+        {
+          "Tên ngành": "Bất động sản",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "23.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "25.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "CT tiếng Anh toàn phần"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "22.2",
+          "Ghi chú": "CT tích hợp"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "24.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "CT tích hợp"
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "24.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": "CT tích hợp"
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; A0l; D0l; D96",
+          "Điểm chuẩn": "24.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "D01; D72; D78; D96",
+          "Điểm chuẩn": "24.2",
+          "Ghi chú": "CT đặc thù"
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "D01; D72; D78; D96",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "CT đặc thù"
+        },
+        {
+          "Tên ngành": "Quản trị nhà hàng và dịch vụ ăn uống",
+          "Tổ hợp môn": "D01; D72; D78; D96",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "CT đặc thù"
+        }
+      ],
+      "row_count": 23
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D72; D78; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Diện xét tuyển 2"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D72; D78; D96",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "Diện xét tuyển 4"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D72; D78; D96",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Diện xét tuyển 1"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D72; D78; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Diện xét tuyển 3"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D72; D78; D96",
+          "Điểm chuẩn": "27.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Diện xét tuyển 1"
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Diện xét tuyển 3"
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Diện xét tuyển 2"
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Diện xét tuyển 4"
+        },
+        {
+          "Tên ngành": "Toán kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Diện xét tuyển 1"
+        },
+        {
+          "Tên ngành": "Toán kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Diện xét tuyển 3"
+        },
+        {
+          "Tên ngành": "Toán kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Toán kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Diện xét tuyển 2"
+        },
+        {
+          "Tên ngành": "Toán kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "Diện xét tuyển 4"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Diện xét tuyển 2"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "Diện xét tuyển 4"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": "Diện xét tuyển 1"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Diện xét tuyển 3"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Diện xét tuyển 3"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Diện xét tuyển 2"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "Diện xét tuyển 4"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "Diện xét tuyển 1"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Diện xét tuyển 1"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Diện xét tuyển 3"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Diện xét tuyển 2"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Diện xét tuyển 4"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": "Diện xét tuyển 1"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Diện xét tuyển 3"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "28.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Diện xét tuyển 2"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Diện xét tuyển 4"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Diện xét tuyển 2"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": "Diện xét tuyển 4"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Diện xét tuyển 1"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Diện xét tuyển 3"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Diện xét tuyển 2"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "Diện xét tuyển 4"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Diện xét tuyển 1"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Diện xét tuyển 3"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Bất động sản",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Diện xét tuyển 2"
+        },
+        {
+          "Tên ngành": "Bất động sản",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Diện xét tuyển 4"
+        },
+        {
+          "Tên ngành": "Bất động sản",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "Diện xét tuyển 1"
+        },
+        {
+          "Tên ngành": "Bất động sản",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "Diện xét tuyển 3"
+        },
+        {
+          "Tên ngành": "Bất động sản",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "Diện xét tuyển 3"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "28.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Diện xét tuyển 2"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Diện xét tuyển 4"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": "Diện xét tuyển 1"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Diện xét tuyển 2"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Diện xét tuyển 4"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Diện xét tuyển 1"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Diện xét tuyển 3"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Diện xét tuyển 3"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "27.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Diện xét tuyển 2"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "Diện xét tuyển 4"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Diện xét tuyển 1"
+        },
+        {
+          "Tên ngành": "Tài chính – Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Diện xét tuyển 4"
+        },
+        {
+          "Tên ngành": "Tài chính – Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Diện xét tuyển 1"
+        },
+        {
+          "Tên ngành": "Tài chính – Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Diện xét tuyển 3"
+        },
+        {
+          "Tên ngành": "Tài chính – Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính – Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Diện xét tuyển 2"
+        },
+        {
+          "Tên ngành": "Tài chính – Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Diện xét tuyển 2"
+        },
+        {
+          "Tên ngành": "Tài chính – Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "Diện xét tuyển 4"
+        },
+        {
+          "Tên ngành": "Tài chính – Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Diện xét tuyển 1"
+        },
+        {
+          "Tên ngành": "Tài chính – Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Diện xét tuyển 3"
+        },
+        {
+          "Tên ngành": "Tài chính – Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "26.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Diện xét tuyển 1"
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Diện xét tuyển 3"
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Diện xét tuyển 2"
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Diện xét tuyển 4"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "28.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Diện xét tuyển 2"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Diện xét tuyển 4"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": "Diện xét tuyển 1"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Diện xét tuyển 3"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Diện xét tuyển 3"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "26.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Diện xét tuyển 2"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Diện xét tuyển 4"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Diện xét tuyển 1"
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Diện xét tuyển 3"
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Diện xét tuyển 2"
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "Diện xét tuyển 4"
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Diện xét tuyển 1"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Diện xét tuyển 2"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Diện xét tuyển 4"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Diện xét tuyển 1"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Diện xét tuyển 3"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "D01; D72; D78; D96",
+          "Điểm chuẩn": "27.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "D01; D72; D78; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Diện xét tuyển 2"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "D01; D72; D78; D96",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "Diện xét tuyển 4"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "D01; D72; D78; D96",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "Diện xét tuyển 1"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "D01; D72; D78; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Diện xét tuyển 3"
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "D01; D72; D78; D96",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "Diện xét tuyển 1"
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "D01; D72; D78; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Diện xét tuyển 3"
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "D01; D72; D78; D96",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "D01; D72; D78; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Diện xét tuyển 2"
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "D01; D72; D78; D96",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "Diện xét tuyển 4"
+        },
+        {
+          "Tên ngành": "Quản trị nhà hàng và dịch vụ ăn uống",
+          "Tổ hợp môn": "D01; D72; D78; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Diện xét tuyển 2"
+        },
+        {
+          "Tên ngành": "Quản trị nhà hàng và dịch vụ ăn uống",
+          "Tổ hợp môn": "D01; D72; D78; D96",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "Diện xét tuyển 4"
+        },
+        {
+          "Tên ngành": "Quản trị nhà hàng và dịch vụ ăn uống",
+          "Tổ hợp môn": "D01; D72; D78; D96",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "Diện xét tuyển 1"
+        },
+        {
+          "Tên ngành": "Quản trị nhà hàng và dịch vụ ăn uống",
+          "Tổ hợp môn": "D01; D72; D78; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "Diện xét tuyển 3"
+        },
+        {
+          "Tên ngành": "Quản trị nhà hàng và dịch vụ ăn uống",
+          "Tổ hợp môn": "D01; D72; D78; D96",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 115
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "780",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "850",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Toán kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "800",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "850",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "920",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "820",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "800",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Bất động sản",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "900",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "850",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "750",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính – Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "880",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính – Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "860",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "850",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "850",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "780",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "750",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "750",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị nhà hàng và dịch vụ ăn uống",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 23
+    },
+    {
+      "table_title": "Điểm thi riêng năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D72; D78; D96",
+          "Điểm chuẩn": "250",
+          "Ghi chú": "V - SAT"
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "250",
+          "Ghi chú": "V - SAT"
+        },
+        {
+          "Tên ngành": "Toán kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "250",
+          "Ghi chú": "V - SAT"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "250",
+          "Ghi chú": "V - SAT"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "230",
+          "Ghi chú": "V - SAT"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "250",
+          "Ghi chú": "V - SAT"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "300",
+          "Ghi chú": "V - SAT"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "230",
+          "Ghi chú": "V - SAT"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "250",
+          "Ghi chú": "V - SAT"
+        },
+        {
+          "Tên ngành": "Bất động sản",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "250",
+          "Ghi chú": "V - SAT"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "250",
+          "Ghi chú": "V - SAT"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "250",
+          "Ghi chú": "V - SAT"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "250",
+          "Ghi chú": "V - SAT"
+        },
+        {
+          "Tên ngành": "Tài chính – Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "280",
+          "Ghi chú": "V - SAT"
+        },
+        {
+          "Tên ngành": "Tài chính – Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "250",
+          "Ghi chú": "V - SAT"
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "250",
+          "Ghi chú": "V - SAT"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "250",
+          "Ghi chú": "V - SAT"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "250",
+          "Ghi chú": "V - SAT"
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "250",
+          "Ghi chú": "V - SAT"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "250",
+          "Ghi chú": "V - SAT"
+        }
+      ],
+      "row_count": 20
+    }
+  ],
+  "table_count": 4,
+  "crawled_at": "2025-07-18T23:25:14.695752",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-tai-chinh-marketing-DMS.html"
+}

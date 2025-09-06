@@ -1,0 +1,1389 @@
+{
+  "school_code": "KSA",
+  "school_name": "Đại Học Kinh Tế TPHCM",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Tiếng Anh thương mại",
+          "Tổ hợp môn": "D01; D96",
+          "Điểm chuẩn": "26.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế chính trị",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế đầu tư",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thẩm định giá và quản trị tài sản",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thống kê kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.01",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Toán tài chính",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.72",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Phân tích rủi ro và định phí bảo hiểm",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông số và thiết kế đa phương tiện",
+          "Tổ hợp môn": "A00; A01; D01; V00",
+          "Điểm chuẩn": "26.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh số",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.41",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị bệnh viện",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ marketing",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Bất động sản",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.72",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh thương mại",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.54",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính công",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thuế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thị trường chứng khoán",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.03",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đầu tư tài chính",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.03",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị Hải quan - Ngoại thương",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Bảo hiểm",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình Kế toán tích hợp chứng chỉ nghề nghiệp quốc tế (của tổ chức nghề nghiệp ICAEW và ACCA)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán công",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán doanh nghiệp",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý công",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24.93",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống hoạch định nguồn lực doanh nghiệp",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.51",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "25.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; D96",
+          "Điểm chuẩn": "25.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.43",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Robot và Trí tuệ nhân tạo (hệ kỹ sư)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều khiển thông minh và tự động hóa",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "23.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ nghệ thuật (Arttech)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ và đổi mới sáng tạo",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "An toàn thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Logistics (hệ kỹ sư)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc và thiết kế đô thị thông minh",
+          "Tổ hợp môn": "A00; A01; D01; V00",
+          "Điểm chuẩn": "24.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh nông nghiệp",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị sự kiện và dịch vụ giải trí",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Cử nhân ISB ASEAN Co-op",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.3",
+          "Ghi chú": "Chương trình Cử nhân tài năng; Asean Co-op"
+        },
+        {
+          "Tên ngành": "Cử nhân Tài năng ISB BBus",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.15",
+          "Ghi chú": "Chương trình Cử nhân tài năng; Asean Co-op"
+        }
+      ],
+      "row_count": 56
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Tiếng Anh thương mại",
+          "Tổ hợp môn": "D01; D02; D03; D04; D05; D06; DD2",
+          "Điểm chuẩn": "68",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A00:A01: D26: D27: D28: D29: D30: AH3: D01: D02: D03: D04: D05: D06: DD2:D07: D21: D22: D23: D24: D25: AH2",
+          "Điểm chuẩn": "69",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Kinh tế chính trị",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "55",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Kinh tế đầu tư",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "62",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Thẩm định giá và quản trị tài sán",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Thống kê kinh doanh",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "60",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Toán tài chính",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "59",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Phân tích rủi ro và định phí bảo hiểm",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "49",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Truyền thông số và thiết kế đa phương tiện",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2",
+          "Điểm chuẩn": "77",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Quán trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "55",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Kinh doanh số",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "68",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Quản trị bệnh viện",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "77",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Công nghệ marketing",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "73",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Bất động sản",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "53",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "71",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Kinh doanh thương mại",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "71",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "72",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Tài chính công",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "57",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Thuế",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "56",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "63",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Thị trường chứng khoán",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "52",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Tài chính",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "66",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Đầu tư tài chính",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "60",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Quản trị Hải quan - Ngoại thương",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "56",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Bảo hiểm",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "69",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Tài chính quốc tế",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "72",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Chương trình Kế toán tích hợp chứng chỉ nghề nghiệp quốc tế (của tố chức nghề nghiệp ICAEW và ACCA)",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "64",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Kế toán công",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "58",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Kế toán doanh nghiệp",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "56",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "70",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Quản lý công",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "51",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "67",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin kinh doanh",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "67",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Hệ thống hoạch định nguồn lực doanh nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "53",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Luật kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2",
+          "Điểm chuẩn": "70",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2",
+          "Điểm chuẩn": "67",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "74",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "67",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "65",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Robot và Trí tuệ nhân tạo (hệ kỹ sư)",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "63",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Điều khiến thông minh và tự động hóa (hệ kỹ sư)",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "61",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Công nghệ nghệ thuật (Arttech)",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "65",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Công nghệ và đổi mới sáng tạo",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "59",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "An toàn thông tin",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "49",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "85",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Công nghệ Logistic (hệ kỹ sư)",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "68",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Kiến trúc và thiết kế đô thị thông minh",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2",
+          "Điểm chuẩn": "56",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Kinh doanh nông nghiệp",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "54",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "56",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "62",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Quản trị sự kiện và dịch vụ giải trí",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "68",
+          "Ghi chú": "Điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Cử nhân ISB Asean Co-op",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "72",
+          "Ghi chú": "Chương trình cử nhân tài năng; Cử nhân ASEAN Co_op"
+        },
+        {
+          "Tên ngành": "Cử nhân Tài năng ISB BBus",
+          "Tổ hợp môn": "A00; A01; D26; D27; D28; D29; D30; AH3; D01; D02; D03; D04; D05; D06; DD2; D07; D21; D22; D23; D24; D25; AH2",
+          "Điểm chuẩn": "73",
+          "Ghi chú": "Chương trình cử nhân tài năng; Cử nhân ASEAN Co_op"
+        }
+      ],
+      "row_count": 56
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Tiếng Anh thương mại",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "880",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "920",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế chính trị",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "830",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế đầu tư",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "870",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thẩm định giá và quản trị tài sản",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "820",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thống kê kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "880",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Toán tài chính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "880",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Phân tích rủi ro và định phí bảo hiểm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "810",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông số và thiết kế đa phương tiện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "940",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "830",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh số",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "900",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị bệnh viện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "810",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "930",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "930",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Bất động sản",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "800",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "930",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh thương mại",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "910",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "945",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính công",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "830",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thuế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "820",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "860",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thị trường chứng khoán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "820",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "875",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đầu tư tài chính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "865",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị Hải quan - Ngoại thương",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "820",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Bảo hiểm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "800",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "935",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "920",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chương trình Kế toán tích hợp chứng chỉ nghề nghiệp quốc tế (của tố chức nghề nghiệp ICAEW và ACCA)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "820",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán công",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "860",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán doanh nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "835",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "930",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý công",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "800",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "870",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "910",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống hoạch định nguồn lực doanh nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "830",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh doanh quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "905",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "905",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "950",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "900",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "875",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Robot và Trí tuệ nhân tạo (hệ kỹ sư)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "900",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều khiến thông minh và tự động hóa (hệ kỹ sư)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "800",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "850",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ nghệ thuật (Arttech)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "900",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ và đổi mới sáng tạo",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "885",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "An toàn thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "800",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuổi cung ứng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "995",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Logistic (hệ kỹ sư)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "930",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc và thiết kế đô thị thông minh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "830",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh nông nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "810",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "820",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "850",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị sự kiện và dịch vụ giải trí",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "860",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 54
+    },
+    {
+      "table_title": "ƯTXT, XT thẳng năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Tiếng Anh thương mại",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "66",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "67",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Kinh tế chính trị",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "53",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Kinh tế đầu tư",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "59",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Thẩm định giá và quản trị tài sản",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Thống kê kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "55",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Toán tài chính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "56",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Phân tích rủi ro và định phí bảo hiểm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "48",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Truyền thông số và thiết kế đa phương tiện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "76",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "55",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Kinh doanh số",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "65",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Quản trị bệnh viện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "76",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Công nghệ marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "72",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Bất động sản",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "71",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Kinh doanh thương mại",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "68",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Tài chính công",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "54",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Thuế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "52",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "59",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Thị trường chứng khoán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Tài chính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "63",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Đầu tư tài chính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "59",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Quản trị Hải quan - Ngoại thương",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "53",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Bảo hiểm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "48",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "67",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Tài chính quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "70",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Chương trình Kế toán tích hợp chứng chỉ nghề nghiệp quốc tế (của tố chức nghề nghiệp ICAEW và ACCA)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "61",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Kế toán công",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "56",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Kế toán doanh nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "53",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "68",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Quản lý công",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "64",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "64",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Hệ thống hoạch định nguồn lực doanh nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "51",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Luật kinh doanh quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "68",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "65",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "72",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "66",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "62",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Robot và Trí tuệ nhân tạo (hệ kỹ sư)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "60",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Điều khiến thông minh và tự động hóa (hệ kỹ sư)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "56",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Công nghệ nghệ thuật (Arttech)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "65",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Công nghệ và đổi mới sáng tạo",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "56",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "An toàn thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "49",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuổi cung ứng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "83",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Công nghệ Logistic (hệ kỹ sư)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "67",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Kiến trúc và thiết kế đô thị thông minh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "53",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Kinh doanh nông nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "50",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "53",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "61",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Quản trị sự kiện và dịch vụ giải trí",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "67",
+          "Ghi chú": "Xét tuyển học sinh giỏi; điểm tối đa là 100"
+        },
+        {
+          "Tên ngành": "Cử nhân ISB Asean Co-op",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "72",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Cử nhân Tài năng ISB BBus",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "73",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 56
+    }
+  ],
+  "table_count": 4,
+  "crawled_at": "2025-07-18T23:25:05.212745",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-kinh-te-tphcm-KSA.html"
+}

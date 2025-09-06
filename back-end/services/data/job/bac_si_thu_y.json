@@ -1,0 +1,493 @@
+{
+  "nhom_nganh": "Bác sĩ thú y",
+  "danh_sach_nganh": [
+    {
+      "ten_nganh": "Thú y",
+      "data": [
+        {
+          "ten_truong": "Học Viện Nông Nghiệp Việt Nam - HVN",
+          "data_school": [
+            {
+              "ten_nganh": "Thú y",
+              "to_hop_mon": "A00; A01; B00; C03; C04; D01; D07; X01; X07; X08",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "19"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Thú y",
+              "to_hop_mon": "A02; B00; B08; D07",
+              "diem_chuan_2024": "23.3",
+              "diem_chuan_2023": "23.7"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hùng Vương - THV",
+          "data_school": [
+            {
+              "ten_nganh": "Thú y",
+              "to_hop_mon": "(Toán, Văn, Công nghệ); (Toán, Công nghệ, GDKTPL); (Toán, Sinh, Tin); D01",
+              "diem_chuan_2024": "18",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Vinh - TDV",
+          "data_school": [
+            {
+              "ten_nganh": "Thú y",
+              "to_hop_mon": "B00; B04; C03; C14; D01",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học An Giang - QSA",
+          "data_school": [
+            {
+              "ten_nganh": "Thú y",
+              "to_hop_mon": "A00; B02; B03; C02; D07; X12; X28; X65",
+              "diem_chuan_2024": "19.58",
+              "diem_chuan_2023": "22.26"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đồng Tháp - SPD",
+          "data_school": [
+            {
+              "ten_nganh": "Thú y",
+              "to_hop_mon": "A00; B00; B03; B08; C02; C08",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Nguyên - TTN",
+          "data_school": [
+            {
+              "ten_nganh": "Thú y",
+              "to_hop_mon": "B00; B03; B08; D07; X08",
+              "diem_chuan_2024": "18.15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hà Tĩnh - HHT",
+          "data_school": [
+            {
+              "ten_nganh": "Nông nghiệp công nghệ cao\r\n(Khoa học cây trồng)",
+              "to_hop_mon": "A00; B00; B03; C01; C02; C04; C14; D01; D07; X01.",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Trà Vinh - DVT",
+          "data_school": [
+            {
+              "ten_nganh": "Thú y",
+              "to_hop_mon": "A02; B00; B08; X12; X14; X16; X28",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nông Lâm TPHCM - NLS",
+          "data_school": [
+            {
+              "ten_nganh": "Thú y",
+              "to_hop_mon": "A00, B00, B03, C02, D07, D08",
+              "diem_chuan_2024": "24.5",
+              "diem_chuan_2023": "24"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Sư Phạm Kỹ Thuật Vĩnh Long - VLU",
+          "data_school": [
+            {
+              "ten_nganh": "Thú y",
+              "to_hop_mon": "A01; A02; B00; B02; B04; B08; C04; D01; X13",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nguyễn Tất Thành - NTT",
+          "data_school": [
+            {
+              "ten_nganh": "Thú y",
+              "to_hop_mon": "A00; B00; D07; B08",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đông Á - DAD",
+          "data_school": [
+            {
+              "ten_nganh": "Thú y (Cơ sở đào tạo Đà Nẵng)",
+              "to_hop_mon": "A00; A02 (0.5); B00; B02; B03; B08; X09; X13; X14",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Phân hiệu Đại học Nông Lâm TPHCM tại Ninh Thuận - NLN",
+          "data_school": [
+            {
+              "ten_nganh": "Thú y (Phân hiệu Ninh Thuận)",
+              "to_hop_mon": "A00, B00, B03, C02, D07, D08",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Đô - DTD",
+          "data_school": [
+            {
+              "ten_nganh": "Thú y",
+              "to_hop_mon": "B00; A06; B02; C02; X10; X14; D01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công Nghệ TPHCM - DKC",
+          "data_school": [
+            {
+              "ten_nganh": "Thú y",
+              "to_hop_mon": "D07; B00; A00; B03; C02; X09",
+              "diem_chuan_2024": "18",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Đông Đô - DDU",
+          "data_school": [
+            {
+              "ten_nganh": "Thú y",
+              "to_hop_mon": "A00; A01; B00; B04; B08; D01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Công nghệ Miền Đông - MIT",
+          "data_school": [
+            {
+              "ten_nganh": "Thú y",
+              "to_hop_mon": "A00; B00; C08; D07",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kinh Tế Nghệ An - CEA",
+          "data_school": [
+            {
+              "ten_nganh": "Thú y",
+              "to_hop_mon": "C03; A01; B00; D01",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Lâm nghiệp - LNH",
+          "data_school": [
+            {
+              "ten_nganh": "Thú y",
+              "to_hop_mon": "B00; A00; B03; C02; (Toán, Văn, Tin); (Toán, Văn, Công nghệ); D01; D10",
+              "diem_chuan_2024": "15.8",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Phân hiệu Đại Học Lâm nghiệp tại Đồng Nai - LNS",
+          "data_school": [
+            {
+              "ten_nganh": "Thú y",
+              "to_hop_mon": "D01; B03; C02; X02; X03; X04; B00",
+              "diem_chuan_2024": "18",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nông Lâm Huế - DHL",
+          "data_school": [
+            {
+              "ten_nganh": "Thú y",
+              "to_hop_mon": "A00; B00; C04; D01; X04; X12",
+              "diem_chuan_2024": "17.5",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Phân hiệu Đại học Nông Lâm TPHCM tại Gia Lai - NLG",
+          "data_school": [
+            {
+              "ten_nganh": "Thú y (Phân hiệu Gia Lai)",
+              "to_hop_mon": "A00, B00, B03, C02, D07, D08",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nông Lâm Thái Nguyên - DTN",
+          "data_school": [
+            {
+              "ten_nganh": "Thú y",
+              "to_hop_mon": "A00; A07; A09; B00; C00; C02; C04; C20; D01; D14",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Nông Lâm Bắc Giang - DBG",
+          "data_school": [
+            {
+              "ten_nganh": "Thú y",
+              "to_hop_mon": "A00; A01; A07; B00; C03; D07; D08; X13; X15; X16; D30; D25; D35",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kiên Giang - TKG",
+          "data_school": [
+            {
+              "ten_nganh": "Thú y (dự kiến 2025)",
+              "to_hop_mon": "A02; B00; B01; B03; B08; C13",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Chăn nuôi",
+      "data": [
+        {
+          "ten_truong": "Đại Học Cần Thơ - TCT",
+          "data_school": [
+            {
+              "ten_nganh": "Chăn nuôi",
+              "to_hop_mon": "A00; A02; B00; B08",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hùng Vương - THV",
+          "data_school": [
+            {
+              "ten_nganh": "Khoa học cây trồng",
+              "to_hop_mon": "(Toán, Văn, Công nghệ); (Toán, Công nghệ, GDKTPL); (Toán, Sinh, Tin); D01",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Vinh - TDV",
+          "data_school": [
+            {
+              "ten_nganh": "Chăn nuôi",
+              "to_hop_mon": "B04; B00; C03; C14; D01",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học An Giang - QSA",
+          "data_school": [
+            {
+              "ten_nganh": "Chăn nuôi",
+              "to_hop_mon": "A00; A05; B03; C04; D07; X12; X28; X65",
+              "diem_chuan_2024": "18.2",
+              "diem_chuan_2023": "17.3"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Nguyên - TTN",
+          "data_school": [
+            {
+              "ten_nganh": "Chăn nuôi",
+              "to_hop_mon": "B00; B03; B08; D07; X08",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Bạc Liêu - DBL",
+          "data_school": [
+            {
+              "ten_nganh": "Chăn nuôi\r\n(Chăn nuôi và CN Thú Y)",
+              "to_hop_mon": "B00; B03; C01; C02; C03; C04; D01; X04; X14; X16",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nông Lâm TPHCM - NLS",
+          "data_school": [
+            {
+              "ten_nganh": "Chăn nuôi",
+              "to_hop_mon": "A00, B00, B03, C02, D07, D08",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Lâm nghiệp - LNH",
+          "data_school": [
+            {
+              "ten_nganh": "Chăn nuôi",
+              "to_hop_mon": "B00; A00; B03; C02; (Toán, Văn, Tin); (Toán, Văn, Công nghệ); D01; D10",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Phân hiệu Đại Học Lâm nghiệp tại Đồng Nai - LNS",
+          "data_school": [
+            {
+              "ten_nganh": "Chăn nuôi",
+              "to_hop_mon": "D01; B03; C02; X02; X03; X04; B00",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nông Lâm Huế - DHL",
+          "data_school": [
+            {
+              "ten_nganh": "Chăn nuôi",
+              "to_hop_mon": "A00; B00; C04; D01; X04; X12",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Nông Lâm Thái Nguyên - DTN",
+          "data_school": [
+            {
+              "ten_nganh": "Chăn nuôi thú y",
+              "to_hop_mon": "A00; A07; A09; B00; C00; C02; C04; C20; D01; D14",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Nông Lâm Bắc Giang - DBG",
+          "data_school": [
+            {
+              "ten_nganh": "Chăn nuôi",
+              "to_hop_mon": "A00; A01; A07; B00; C03; D07; D08; X13; X15; X16; D30; D25; D35",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Tây Bắc - TTB",
+          "data_school": [
+            {
+              "ten_nganh": "Chăn nuôi",
+              "to_hop_mon": "A02; B00; B03; B08; X13; X14; X16; D01",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Phân Hiệu Đại Học Thái Nguyên Tại Lào Cai - DTP",
+          "data_school": [
+            {
+              "ten_nganh": "Chăn nuôi",
+              "to_hop_mon": "B03; C01; C02; D01",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Kiên Giang - TKG",
+          "data_school": [
+            {
+              "ten_nganh": "Chăn nuôi (chuyên ngành chăn nuôi thú cưng)",
+              "to_hop_mon": "A02; B00; B01; B03; B08; C13",
+              "diem_chuan_2024": "14.25",
+              "diem_chuan_2023": "14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Chăn nuôi thú y",
+      "data": [
+        {
+          "ten_truong": "Học Viện Nông Nghiệp Việt Nam - HVN",
+          "data_school": [
+            {
+              "ten_nganh": "Chăn nuôi thú y - Thủy sản",
+              "to_hop_mon": "A00; A01; B00; C03; C04; D01; D07; X01; X03; X04",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Hồng Đức - HDT",
+          "data_school": [
+            {
+              "ten_nganh": "Chăn nuôi - Thú y",
+              "to_hop_mon": "B03; C01; C02; C04; C14",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

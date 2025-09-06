@@ -1,0 +1,201 @@
+{
+  "school_code": "LCH",
+  "school_name": "Trường Sĩ Quan Chính Trị - Đại Học Chính Trị",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền Nhà nước",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "26.22",
+          "Ghi chú": "TS nam miền Bắc"
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền Nhà nước",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.55",
+          "Ghi chú": "TS nam miền Bắc; Tiêu chí phụ 1: Văn >= 9.5"
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền Nhà nước",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "25.41",
+          "Ghi chú": "TS nam miền Bắc"
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền Nhà nước",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "24.92",
+          "Ghi chú": "TS nam miền Nam"
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền Nhà nước",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "27.2",
+          "Ghi chú": "TS nam miền Nam; Tiêu chí phụ 1: Văn >= 7.5"
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền Nhà nước",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "23.2",
+          "Ghi chú": "TS nam miền Nam"
+        }
+      ],
+      "row_count": 6
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền Nhà nước",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "28.325",
+          "Ghi chú": "TS nam miền Bắc"
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền Nhà nước",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "26.796",
+          "Ghi chú": "TS nam miền Bắc"
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền Nhà nước",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "26.777",
+          "Ghi chú": "TS nam miền Bắc"
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền Nhà nước",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "27.137",
+          "Ghi chú": "TS nam miền Nam"
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền Nhà nước",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "25.033",
+          "Ghi chú": "TS nam miền Nam"
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền Nhà nước",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "24.992",
+          "Ghi chú": "TS nam miền Nam"
+        }
+      ],
+      "row_count": 6
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền Nhà nước",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "15.65",
+          "Ghi chú": "TS nam miền Bắc"
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền Nhà nước",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "16.7",
+          "Ghi chú": "TS nam miền Bắc"
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền Nhà nước",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "16.2",
+          "Ghi chú": "TS nam miền Bắc"
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền Nhà nước",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "16.425",
+          "Ghi chú": "TS nam miền Nam"
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền Nhà nước",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "16.55",
+          "Ghi chú": "TS nam miền Nam"
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền Nhà nước",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "15.925",
+          "Ghi chú": "TS nam miền Nam"
+        }
+      ],
+      "row_count": 6
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền Nhà nước",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "16.7",
+          "Ghi chú": "TS nam miền Bắc"
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền Nhà nước",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "16.2",
+          "Ghi chú": "TS nam miền Bắc"
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền Nhà nước",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "15.65",
+          "Ghi chú": "TS nam miền Bắc"
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền Nhà nước",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "16.425",
+          "Ghi chú": "TS nam miền Nam"
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền Nhà nước",
+          "Tổ hợp môn": "A00",
+          "Điểm chuẩn": "16.55",
+          "Ghi chú": "TS nam miền Nam"
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và chính quyền Nhà nước",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "15.925",
+          "Ghi chú": "TS nam miền Nam"
+        }
+      ],
+      "row_count": 6
+    }
+  ],
+  "table_count": 4,
+  "crawled_at": "2025-07-18T23:24:17.922135",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/truong-si-quan-chinh-tri-dai-hoc-chinh-tri-LCH.html"
+}

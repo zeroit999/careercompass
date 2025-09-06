@@ -1,0 +1,105 @@
+{
+  "school_code": "PBH",
+  "school_name": "Trường Sĩ Quan Pháo Binh",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngành Chỉ huy tham mưu Pháo binh",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "21.7",
+          "Ghi chú": "Thí sinh nam miền Bắc"
+        },
+        {
+          "Tên ngành": "Ngành Chỉ huy tham mưu Pháo binh",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "22.25",
+          "Ghi chú": "Thí sinh nam miền Nam"
+        }
+      ],
+      "row_count": 2
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Chỉ huy tham mưu Pháo binh",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "24.648",
+          "Ghi chú": "Thí sinh nam miền Bắc"
+        },
+        {
+          "Tên ngành": "Chỉ huy tham mưu Pháo binh",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "24.681",
+          "Ghi chú": "Thí sinh nam miền Nam"
+        }
+      ],
+      "row_count": 2
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Chỉ huy tham mưu Pháo binh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.15",
+          "Ghi chú": "Thí sinh nam miền Bắc"
+        },
+        {
+          "Tên ngành": "Chỉ huy tham mưu Pháo binh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.625",
+          "Ghi chú": "Thí sinh nam miền Nam"
+        }
+      ],
+      "row_count": 2
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Chỉ huy tham mưu Pháo binh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.15",
+          "Ghi chú": "Thí sinh nam miền Bắc"
+        },
+        {
+          "Tên ngành": "Chỉ huy tham mưu Pháo binh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.625",
+          "Ghi chú": "Thí sinh nam miền Nam"
+        }
+      ],
+      "row_count": 2
+    }
+  ],
+  "table_count": 4,
+  "crawled_at": "2025-07-18T23:28:52.635655",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/truong-si-quan-phao-binh-PBH.html"
+}

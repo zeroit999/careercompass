@@ -1,0 +1,417 @@
+{
+  "school_code": "QHQ",
+  "school_name": "Trường Quốc Tế - ĐHQG Hà Nội",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D03; D06; D96; D97; DD0",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán, Phân tích và Kiểm toán",
+          "Tổ hợp môn": "A00; A01; D01; D03; D06; D96; D97; DD0",
+          "Điểm chuẩn": "22.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý",
+          "Tổ hợp môn": "A00; A01; D01; D03; D06; D96; D97; DD0",
+          "Điểm chuẩn": "22.35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tin học và Kỹ thuật máy tính",
+          "Tổ hợp môn": "A00; A01; D01; D03; D06; D07; D23; D24",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Phân tích dữ liệu kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D03; D06; D07; D23; D24",
+          "Điểm chuẩn": "24.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing (song bằng VNU-HELP, Malaysia)",
+          "Tổ hợp môn": "A00; A01; D01; D03; D06; D96; D97; DD0",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tự động hóa và Tin học (Kỹ sư)",
+          "Tổ hợp môn": "A00; A01; D01; D03; D06; D07; D23; D24",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D78; D90",
+          "Điểm chuẩn": "25.15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin ứng dụng",
+          "Tổ hợp môn": "A00; A01; D01; D03; D06; D07; D23; D24",
+          "Điểm chuẩn": "22.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính và kinh doanh số",
+          "Tổ hợp môn": "A00; A01; D01; D03; D06; D07; D23; D24",
+          "Điểm chuẩn": "23.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật hệ thống công nghiệp và Logistics",
+          "Tổ hợp môn": "A00; A01; D01; D03; D06; D07; D23; D24",
+          "Điểm chuẩn": "23.35",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 11
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán, Phân tích và Kiểm toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tin học và Kỹ thuật máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Phân tích dữ liệu kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "83",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tự động hóa và Tin học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "81",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "84",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin ứng dụng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "82",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính và kinh doanh số",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "81",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật hệ thống công nghiệp và Logistics",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 11
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "775",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "764",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tin học và Kỹ thuật máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "876",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Phân tích dữ liệu kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "893",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 4
+    },
+    {
+      "table_title": "Điểm xét tuyển kết hợp năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.3",
+          "Ghi chú": "CCTAQT kết hợp kết quả thi ĐGNL của ĐHQGHN"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": "CCTAQT Kết hợp học bạ THPT"
+        },
+        {
+          "Tên ngành": "Kế toán, Phân tích và Kiểm toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": "CCTAQT Kết hợp học bạ THPT"
+        },
+        {
+          "Tên ngành": "Kế toán, Phân tích và Kiểm toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.67",
+          "Ghi chú": "CCTAQT kết hợp kết quả thi ĐGNL của ĐHQGHN"
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.43",
+          "Ghi chú": "CCTAQT kết hợp kết quả thi ĐGNL của ĐHQGHN"
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.8",
+          "Ghi chú": "CCTAQT Kết hợp học bạ THPT"
+        },
+        {
+          "Tên ngành": "Tin học và Kỹ thuật máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.05",
+          "Ghi chú": "CCTAQT kết hợp kết quả thi ĐGNL của ĐHQGHN"
+        },
+        {
+          "Tên ngành": "Tin học và Kỹ thuật máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": "CCTAQT Kết hợp học bạ THPT"
+        },
+        {
+          "Tên ngành": "Phân tích dữ liệu kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "25.1",
+          "Ghi chú": "CCTAQT Kết hợp học bạ THPT"
+        },
+        {
+          "Tên ngành": "Phân tích dữ liệu kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.18",
+          "Ghi chú": "CCTAQT kết hợp kết quả thi ĐGNL của ĐHQGHN"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.93",
+          "Ghi chú": "CCTAQT kết hợp kết quả thi ĐGNL của ĐHQGHN"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": "CCTAQT Kết hợp học bạ THPT"
+        },
+        {
+          "Tên ngành": "Tự động hóa và Tin học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "CCTAQT Kết hợp học bạ THPT"
+        },
+        {
+          "Tên ngành": "Tự động hóa và Tin học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": "CCTAQT kết hợp kết quả thi ĐGNL của ĐHQGHN"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.2",
+          "Ghi chú": "CCTAQT kết hợp kết quả thi ĐGNL của ĐHQGHN"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "25.3",
+          "Ghi chú": "CCTAQT Kết hợp học bạ THPT"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin ứng dụng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.6",
+          "Ghi chú": "CCTAQT kết hợp kết quả thi ĐGNL của ĐHQGHN"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin ứng dụng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "25.3",
+          "Ghi chú": "CCTAQT Kết hợp học bạ THPT"
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính và kinh doanh số",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.43",
+          "Ghi chú": "CCTAQT kết hợp kết quả thi ĐGNL của ĐHQGHN"
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính và kinh doanh số",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.8",
+          "Ghi chú": "CCTAQT Kết hợp học bạ THPT"
+        },
+        {
+          "Tên ngành": "Kỹ thuật hệ thống công nghiệp và Logistics",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.47",
+          "Ghi chú": "CCTAQT kết hợp kết quả thi ĐGNL của ĐHQGHN"
+        },
+        {
+          "Tên ngành": "Kỹ thuật hệ thống công nghiệp và Logistics",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.6",
+          "Ghi chú": "CCTAQT Kết hợp học bạ THPT"
+        }
+      ],
+      "row_count": 22
+    },
+    {
+      "table_title": "Chứng chỉ quốc tế năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1100",
+          "Ghi chú": "Xét CCQT SAT"
+        },
+        {
+          "Tên ngành": "Kế toán, Phân tích và Kiểm toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1120",
+          "Ghi chú": "Xét CCQT SAT"
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1340",
+          "Ghi chú": "Xét CCQT SAT"
+        },
+        {
+          "Tên ngành": "Tin học và Kỹ thuật máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1260",
+          "Ghi chú": "Xét CCQT SAT"
+        },
+        {
+          "Tên ngành": "Phân tích dữ liệu kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1160",
+          "Ghi chú": "Xét CCQT SAT"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1260",
+          "Ghi chú": "Xét CCQT SAT"
+        },
+        {
+          "Tên ngành": "Tự động hóa và Tin học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1130",
+          "Ghi chú": "Xét CCQT SAT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1300",
+          "Ghi chú": "Xét CCQT SAT"
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính và kinh doanh số",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1270",
+          "Ghi chú": "Xét CCQT SAT"
+        },
+        {
+          "Tên ngành": "Kỹ thuật hệ thống công nghiệp và Logistics",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1130",
+          "Ghi chú": "Xét CCQT SAT"
+        }
+      ],
+      "row_count": 10
+    }
+  ],
+  "table_count": 5,
+  "crawled_at": "2025-07-18T23:27:02.115757",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/truong-quoc-te-dai-hoc-quoc-gia-ha-noi-QHQ.html"
+}

@@ -1,0 +1,501 @@
+{
+  "school_code": "DNT",
+  "school_name": "Trường Đại Học Ngoại Ngữ Tin Học TPHCM",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "Tiếng Anh hệ số 2"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "A01; D01; D04; D14",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật Bản",
+          "Tổ hợp môn": "D01; D06; D14; D15",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "D01; D10; D14; D15",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "Tiếng Anh hệ số 2"
+        },
+        {
+          "Tên ngành": "Đông phương học",
+          "Tổ hợp môn": "D01; D06; D14; D15",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ công chúng",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "Tiếng Anh hệ số 2"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A01; D01; D07; D11",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "Tiếng Anh hệ số 2"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A01; D01; D07; D11",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "Tiếng Anh hệ số 2"
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A01; D01; D07; D11",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A01; D01; D07; D11",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "A01; D01; D07; D11",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A01; C00; D01; D66",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A01; D01; D15; D66",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A01; D01; D07; D11",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "Tiếng Anh hệ số 2"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "Tiếng Anh hệ số 2"
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "Tiếng Anh hệ số 2"
+        }
+      ],
+      "row_count": 20
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": "Đợt 2"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Tiếng Anh nhân hệ số 2"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "A01; D01; D04; D14",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "A01; D01; D04; D14",
+          "Điểm chuẩn": "19.25",
+          "Ghi chú": "Đợt 2"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật Bản",
+          "Tổ hợp môn": "D01; D06; D14; D15",
+          "Điểm chuẩn": "18.25",
+          "Ghi chú": "Đợt 2"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "D01; D10; D14; D15",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "18.75",
+          "Ghi chú": "Đợt 2"
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": "Tiếng Anh nhân hệ số 2"
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": "Đợt 2"
+        },
+        {
+          "Tên ngành": "Đông phương học",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "18.75",
+          "Ghi chú": "Đợt 2"
+        },
+        {
+          "Tên ngành": "Đông phương học",
+          "Tổ hợp môn": "D01; D06; D14; D15",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ công chúng",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": "Đợt 2"
+        },
+        {
+          "Tên ngành": "Quan hệ công chúng",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": "Tiếng Anh nhân hệ số 2"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A01; D01; D07; D11",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": "Tiếng Anh nhân hệ số 2"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A01; D01; D07; D11",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": "Đợt 2"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A01; D01; D07; D11",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": "Tiếng Anh nhân hệ số 2"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A01; D01; D07; D11",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": "Đợt 2"
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18.75",
+          "Ghi chú": "Đợt 2"
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A01; D01; D07; D11",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A01; D01; D07; D11",
+          "Điểm chuẩn": "18.25",
+          "Ghi chú": "Đợt 2"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A01; D01; D07; D11",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A01; D01; D07; D11",
+          "Điểm chuẩn": "18.25",
+          "Ghi chú": "Đợt 2"
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "A01; D01; D07; D11",
+          "Điểm chuẩn": "18.25",
+          "Ghi chú": "Đợt 2"
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "A01; D01; D07; D11",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A01; C00; D01; D66",
+          "Điểm chuẩn": "18.25",
+          "Ghi chú": "Đợt 2"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A01; C00; D01; D66",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A01; D01; D15; D66",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A01; D01; D15; D66",
+          "Điểm chuẩn": "18.25",
+          "Ghi chú": "Đợt 2"
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18.25",
+          "Ghi chú": "Đợt 2"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18.75",
+          "Ghi chú": "Đợt 2"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A01; D01; D07; D11",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": "Đợt 2"
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A01; D01; D07; D11",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": "Tiếng Anh nhân hệ số 2"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Tiếng Anh nhân hệ số 2"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "24.25",
+          "Ghi chú": "Đợt 2"
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "24.25",
+          "Ghi chú": "Đợt 2"
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Tiếng Anh nhân hệ số 4"
+        }
+      ],
+      "row_count": 38
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đông phương học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ công chúng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 18
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:30:02.953501",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-ngoai-ngu-tin-hoc-tphcm-DNT.html"
+}

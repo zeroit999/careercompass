@@ -1,0 +1,105 @@
+{
+  "school_code": "HGH",
+  "school_name": "Trường Sĩ Quan Phòng Hóa",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngành Chỉ huy Kỹ thuật hóa học",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "22.55",
+          "Ghi chú": "TS nam miền Bắc"
+        },
+        {
+          "Tên ngành": "Ngành Chỉ huy Kỹ thuật hóa học",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "21.25",
+          "Ghi chú": "TS nam miền Nam"
+        }
+      ],
+      "row_count": 2
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngành Chỉ huy Kỹ thuật hóa học",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "26.165",
+          "Ghi chú": "TS Nam miền Bắc"
+        },
+        {
+          "Tên ngành": "Ngành Chỉ huy Kỹ thuật hóa học",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "24.941",
+          "Ghi chú": "TS Nam miền Nam"
+        }
+      ],
+      "row_count": 2
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngành Chỉ huy Kỹ thuật hóa học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.05",
+          "Ghi chú": "TS Nam miền Bắc"
+        },
+        {
+          "Tên ngành": "Ngành Chỉ huy Kỹ thuật hóa học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.425",
+          "Ghi chú": "TS Nam miền Nam"
+        }
+      ],
+      "row_count": 2
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngành Chỉ huy Kỹ thuật hóa học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.05",
+          "Ghi chú": "TS Nam miền Bắc"
+        },
+        {
+          "Tên ngành": "Ngành Chỉ huy Kỹ thuật hóa học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.425",
+          "Ghi chú": "TS Nam miền Nam"
+        }
+      ],
+      "row_count": 2
+    }
+  ],
+  "table_count": 4,
+  "crawled_at": "2025-07-18T23:28:10.361682",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/truong-si-quan-phong-hoa-HGH.html"
+}

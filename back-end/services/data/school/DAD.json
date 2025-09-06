@@ -1,0 +1,1329 @@
+{
+  "school_code": "DAD",
+  "school_name": "Trường Đại Học Đông Á",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Thiết kế thời trang",
+          "Tổ hợp môn": "A00; A01; V00; V01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D78; D90",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D78; D90",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "Phân hiệu tại Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "A01; D01; D04; D78",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "A01; D01; D04; D78",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "Phân hiệu tại Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật Bản",
+          "Tổ hợp môn": "A01; D01; D06; D78",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "A01; D01; D78; DD2",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý văn hóa",
+          "Tổ hợp môn": "A00; C00; D01; D78",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế",
+          "Tổ hợp môn": "A00; C00; D01; D78",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế",
+          "Tổ hợp môn": "A00; C00; D01; D78",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "Phân hiệu tại Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "A00; C00; D01; D78",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "A00; A01; D01; D78",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "A01; D01; D04; D78",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "Phân hiệu tại Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D78",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A01; D01; D04; D78",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "Phân hiệu tại Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01; D78",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A01; D01; D04; D78",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "Phân hiệu tại Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D78",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; A01; D01; D78",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A01; D01; D04; D78",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "Phân hiệu tại Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Tài chính - ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; D78",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính ngân hàng",
+          "Tổ hợp môn": "A01; D01; D04; D78",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "Phân hiệu tại Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D78",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A01; D01; D04; D78",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "Phân hiệu tại Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "A00; C00; D01; D78",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "A00; C00; D01; D78",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; C00; D01; D78",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; C00; D01; D78",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật máy tính",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "Phân hiệu tại Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (CN thiết kế vi mạch bán dẫn)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "Phân hiệu tại Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Xây dựng",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Xây dựng",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "Phân hiệu tại Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Ô tô",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Ô tô",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "Phân hiệu tại Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Điện - Điện tử",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Điện - Điện tử",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "Phân hiệu tại Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hóa",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hóa",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "Phân hiệu tại Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "Phân hiệu tại Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; B00; B08; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; B00; B08; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "Phân hiệu tại Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Nông nghiệp",
+          "Tổ hợp môn": "A00; B00; B08; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nông nghiệp",
+          "Tổ hợp môn": "A00; B00; B08; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "Phân hiệu tại Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "A00; B00; D08; D90",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dược",
+          "Tổ hợp môn": "A00; B00; D07; D90",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "A00; B00; B08; D90",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "A00; B00; B08; D90",
+          "Điểm chuẩn": "19",
+          "Ghi chú": "Phân hiệu tại Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Hộ sinh",
+          "Tổ hợp môn": "A00; B00; B08; D90",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dinh dưỡng",
+          "Tổ hợp môn": "A00; B00; B08; D90",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phục hồi chức năng",
+          "Tổ hợp môn": "A00; B00; B08; D90",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị DV Du lịch và Lữ hành",
+          "Tổ hợp môn": "C00; D01; D78; D90",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị DV Du lịch và Lữ hành",
+          "Tổ hợp môn": "C00; D01; D78; D90",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "Phân hiệu tại Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Quản trị Khách sạn",
+          "Tổ hợp môn": "C00; D01; D78; D90",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "C00; D01; D78; D90",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "Phân hiệu tại Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Quản trị Nhà hàng và DV Ăn uống",
+          "Tổ hợp môn": "C00; D01; D78; D90",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 59
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Thiết kế thời trang",
+          "Tổ hợp môn": "A00; A01; V00; V01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "Thiết kế thời trang",
+          "Tổ hợp môn": "A00; A01; V00; V01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D14; C03",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D14; C03",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "A01; D01; D04; C03",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "A01; D01; D04; C03",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật Bản",
+          "Tổ hợp môn": "A01; D01; D06; C03",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật Bản",
+          "Tổ hợp môn": "A01; D01; D06; C03",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "A01; D01; C03; DD2",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "A01; D01; C03; DD2",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "Quản lý văn hoá",
+          "Tổ hợp môn": "A00; C00; D01; D78",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "Quản lý văn hoá",
+          "Tổ hợp môn": "A00; C00; D01; D78",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "Quan hệ Quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "Quan hệ Quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "A00; C00; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "A00; C00; D01; C01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "Digital Marketing (CN)",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "Digital Marketing (CN)",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "Kinh doanh Quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "Kinh doanh Quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "Tài chính – Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "Tài chính – Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; C00; D01; C01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; C00; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; C00; D01; C01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; C00; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "Kỹ thuật máy tính",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "Kỹ thuật máy tính",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "Thiết kế IC & hệ thống nhúng (CN)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "Thiết kế IC & hệ thống nhúng (CN)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "Mạng máy tính & an toàn thông tin (CN)",
+          "Tổ hợp môn": "A00; A01; D01; C03",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "Mạng máy tính & an toàn thông tin (CN)",
+          "Tổ hợp môn": "A00; A01; D01; C03",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "Công nghệ phần mềm (CN)",
+          "Tổ hợp môn": "A00; A01; D01; C04",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "Công nghệ phần mềm (CN)",
+          "Tổ hợp môn": "A00; A01; D01; C04",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "Thiết kế đồ hoạ (CN)",
+          "Tổ hợp môn": "A00; A01; D01; C02",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "Thiết kế đồ hoạ (CN)",
+          "Tổ hợp môn": "A00; A01; D01; C02",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "XD hạ tầng logistics kỹ thuật (CN)",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "XD hạ tầng logistics kỹ thuật (CN)",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "XD dân dụng & công nghiệp (CN)",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "XD dân dụng & công nghiệp (CN)",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "XD đường sắt – metro (CN)",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "XD đường sắt – metro (CN)",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "XD CT giao thông kỹ thuật (CN)",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "XD CT giao thông kỹ thuật (CN)",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật xây dựng",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật xây dựng",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "Kỹ thuật ô tô (CN)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "Kỹ thuật ô tô điện (CN)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "Kỹ thuật ô tô điện (CN)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "Kỹ thuật ô tô (CN)",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "Thiết kế vi mạch bán dẫn (CN)",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "Thiết kế vi mạch bán dẫn (CN)",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện – điện tử",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện – điện tử",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "CNKT điều khiển & tự động hoá",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "CNKT điều khiển & tự động hoá",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; B00; B08; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; B00; B08; D01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "Nông nghiệp",
+          "Tổ hợp môn": "A00; B00; B08; D01",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "Nông nghiệp",
+          "Tổ hợp môn": "A00; B00; B08; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "A00; B00; D07; C02",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "A00; B00; D07; C02",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "A00; B00; B08; B03",
+          "Điểm chuẩn": "6.5",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "A00; B00; B08; B03",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "Hộ sinh",
+          "Tổ hợp môn": "A00; B00; B08; B03",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "Hộ sinh",
+          "Tổ hợp môn": "A00; B00; B08; B03",
+          "Điểm chuẩn": "6.5",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "Dinh dưỡng",
+          "Tổ hợp môn": "A00; B00; B08; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "Dinh dưỡng",
+          "Tổ hợp môn": "A00; B00; B08; D07",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch & lữ hành",
+          "Tổ hợp môn": "C00; D01; A01; C03",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch & lữ hành",
+          "Tổ hợp môn": "C00; D01; A01; C03",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "C00; D01; A01; C03",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "C00; D01; A01; C03",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "KQ Học tập 3 HK"
+        },
+        {
+          "Tên ngành": "Quản trị nhà hàng & dịch vụ ăn uống",
+          "Tổ hợp môn": "C00; D01; A01; C03",
+          "Điểm chuẩn": "6",
+          "Ghi chú": "KQ Học tập lớp 12"
+        },
+        {
+          "Tên ngành": "Quản trị nhà hàng & dịch vụ ăn uống",
+          "Tổ hợp môn": "C00; D01; A01; C03",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "KQ Học tập 3 HK"
+        }
+      ],
+      "row_count": 96
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Thiết kế thời trang",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": "Phân hiệu tại Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": "Phân hiệu tại Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật Bản",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý văn hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": "Phân hiệu tại Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": "Phân hiệu tại Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": "Phân hiệu tại Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": "Phân hiệu tại Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": "Phân hiệu tại Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Tài chính - ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": "Phân hiệu tại Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": "Phân hiệu tại Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": "Phân hiệu tại Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (CN thiết kế vi mạch bán dẫn)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": "Phân hiệu tại Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": "Phân hiệu tại Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Ô tô",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Ô tô",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": "Phân hiệu tại Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Điện - Điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Điện - Điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": "Phân hiệu tại Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": "Phân hiệu tại Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": "Phân hiệu tại Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": "Phân hiệu tại Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Nông nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nông nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": "Phân hiệu tại Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "850",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dược",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "850",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "750",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "750",
+          "Ghi chú": "Phân hiệu tại Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Hộ sinh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "750",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dinh dưỡng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phục hồi chức năng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "750",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị DV Du lịch và Lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị DV Du lịch và Lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": "Phân hiệu tại Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Quản trị Khách sạn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": "Phân hiệu tại Đắk Lắk"
+        },
+        {
+          "Tên ngành": "Quản trị Nhà hàng và DV Ăn uống",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 59
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:28:42.902779",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-dong-a-DAD.html"
+}

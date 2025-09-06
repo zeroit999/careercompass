@@ -1,0 +1,147 @@
+{
+  "school_code": "YDN",
+  "school_name": "Trường Đại học Kỹ thuật Y Dược Đà Nẵng",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "B00; B08; A00; D07",
+          "Điểm chuẩn": "25.47",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "B00; B08; A00; D07",
+          "Điểm chuẩn": "23.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều dưỡng đa khoa",
+          "Tổ hợp môn": "B00; B08; A00; D07",
+          "Điểm chuẩn": "20.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều dưỡng nha khoa",
+          "Tổ hợp môn": "B00; B08; A00; D07",
+          "Điểm chuẩn": "20.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều dưỡng gây mê hồi sức",
+          "Tổ hợp môn": "B00; B08; A00; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xét nghiệm y học",
+          "Tổ hợp môn": "B00; B08; A00; D07",
+          "Điểm chuẩn": "20.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật hình ảnh y học",
+          "Tổ hợp môn": "B00; B08; A00; D07",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phục hồi chức năng",
+          "Tổ hợp môn": "B00; B08; A00; D07",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 8
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Điều dưỡng đa khoa",
+          "Tổ hợp môn": "B00; B08; A00; D07",
+          "Điểm chuẩn": "24.99",
+          "Ghi chú": "TS có điểm XT bằng ĐC thì ưu tiên thứ tự NV, sau đó là điểm môn Toán"
+        },
+        {
+          "Tên ngành": "Điều dưỡng nha khoa",
+          "Tổ hợp môn": "B00; B08; A00; D07",
+          "Điểm chuẩn": "24.92",
+          "Ghi chú": "TS có điểm XT bằng ĐC thì ưu tiên thứ tự NV, sau đó là điểm môn Toán"
+        },
+        {
+          "Tên ngành": "Điều dưỡng gây mê hồi sức",
+          "Tổ hợp môn": "B00; B08; A00; D07",
+          "Điểm chuẩn": "24.38",
+          "Ghi chú": "TS có điểm XT bằng ĐC thì ưu tiên thứ tự NV, sau đó là điểm môn Toán"
+        },
+        {
+          "Tên ngành": "Kỹ thuật xét nghiệm y học",
+          "Tổ hợp môn": "B00; B08; A00; D07",
+          "Điểm chuẩn": "25.59",
+          "Ghi chú": "TS có điểm XT bằng ĐC thì ưu tiên thứ tự NV, sau đó là điểm môn Toán"
+        },
+        {
+          "Tên ngành": "Kỹ thuật hình ảnh y học",
+          "Tổ hợp môn": "B00; B08; A00; D07",
+          "Điểm chuẩn": "24.36",
+          "Ghi chú": "TS có điểm XT bằng ĐC thì ưu tiên thứ tự NV, sau đó là điểm môn Toán"
+        },
+        {
+          "Tên ngành": "Kỹ thuật phục hồi chức năng",
+          "Tổ hợp môn": "B00; B08; A00; D07",
+          "Điểm chuẩn": "24.87",
+          "Ghi chú": "TS có điểm XT bằng ĐC thì ưu tiên thứ tự NV, sau đó là điểm môn Toán"
+        }
+      ],
+      "row_count": 6
+    },
+    {
+      "table_title": "Điểm xét tuyển kết hợp năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "B00; B08; A00; D07",
+          "Điểm chuẩn": "23.45",
+          "Ghi chú": "Xét kết hợp điểm thi tốt nghiệp THPT với CCTA Quốc tế"
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "B00; B08; A00; D07",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Xét kết hợp điểm thi tốt nghiệp THPT với CCTA Quốc tế"
+        },
+        {
+          "Tên ngành": "Kỹ thuật phục hồi chức năng",
+          "Tổ hợp môn": "B00; B08; A00; D07",
+          "Điểm chuẩn": "19.85",
+          "Ghi chú": "Xét kết hợp điểm thi tốt nghiệp THPT với CCTA Quốc tế"
+        }
+      ],
+      "row_count": 3
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:25:27.600513",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-ky-thuat-y-duoc-da-nang-YDN.html"
+}

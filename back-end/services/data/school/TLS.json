@@ -1,0 +1,105 @@
+{
+  "school_code": "TLS",
+  "school_name": "Trường Đại Học Thủy Lợi (Cơ sở 2)",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kỹ thuật xây dựng công trình thủy",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "15.35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật tài nguyên nước (Quy hoạch, thiết kế và quản lý công trình thủy lợi)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "15.85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Nhóm ngành Kỹ thuật xây dựng (Kỹ thuật xây dựng dân dụng và công nghiệp; Kỹ thuật xây dựng công trình giao thông)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "15.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "17.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cấp thoát nước",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "15.55",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật xây dựng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "16.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý xây dựng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "15.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo và khoa học dữ liệu",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "18.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D07; D08",
+          "Điểm chuẩn": "21.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "17.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "17.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế xây dựng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "15.85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "17.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "21.05",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 14
+    }
+  ],
+  "table_count": 1,
+  "crawled_at": "2025-07-18T23:29:01.770462",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-thuy-loi-co-so-2-TLS.html"
+}

@@ -1,0 +1,99 @@
+{
+  "school_code": "DHI",
+  "school_name": "Khoa Quốc tế - Đại học Huế",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quan hệ Quốc tế",
+          "Tổ hợp môn": "C00; D01; D14; D15",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "C00; D01; D14; D15",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế tài nguyên thiên nhiên",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 3
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quan hệ Quốc tế",
+          "Tổ hợp môn": "C00; D01; D14; D15",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "C00; D01; D14; D15",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế tài nguyên thiên nhiên",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 3
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quan hệ Quốc tế",
+          "Tổ hợp môn": "C00; D01; D14; D15",
+          "Điểm chuẩn": "790",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "C00; D01; D14; D15",
+          "Điểm chuẩn": "790",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế tài nguyên thiên nhiên",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 3
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:27:54.935658",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/khoa-quoc-te-dai-hoc-hue-DHI.html"
+}

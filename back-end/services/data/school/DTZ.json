@@ -1,0 +1,501 @@
+{
+  "school_code": "DTZ",
+  "school_name": "Trường Đại Học Khoa Học Thái Nguyên",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ và Văn hóa các dân tộc thiếu số Việt Nam",
+          "Tổ hợp môn": "C00; C14; D01; D84",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (Tiếng Anh ứng dụng)",
+          "Tổ hợp môn": "D01; D14; D15; D66",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (Song ngữ Anh - Hàn)",
+          "Tổ hợp môn": "D01; D14; D15; D66",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (Song ngữ Anh - Trung)",
+          "Tổ hợp môn": "D01; D14; D15; D66",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (Tiếng Anh ứng dụng)",
+          "Tổ hợp môn": "D01; D14; D15; D66",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (Tiếng Anh ứng dụng)",
+          "Tổ hợp môn": "D01; D14; D15; D66",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Lịch sử (Lịch sử - Địa lý và Kinh tế pháp luật)",
+          "Tổ hợp môn": "C00; C14; D01; D84",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CT đào tạo định hướng giảng dạy"
+        },
+        {
+          "Tên ngành": "Văn học",
+          "Tổ hợp môn": "C00; C14; D01; D84",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CT đào tạo định hướng giảng dạy"
+        },
+        {
+          "Tên ngành": "Trung Quốc học",
+          "Tổ hợp môn": "C00; D01; D04; D66",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hàn Quốc học",
+          "Tổ hợp môn": "C00; D01; DD2; D66",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Báo chí (Báo chí đa phương tiện)",
+          "Tổ hợp môn": "C00; C14; D01; D84",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thông tin - Thư viện (Thư viện - Thiết bị trường học và Văn thư)",
+          "Tổ hợp môn": "C00; C14; D01; D84",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học quản lý (Quản lý nhân lực)",
+          "Tổ hợp môn": "C00; C14; D01; D84",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật (Luật, Dịch vụ pháp luật)",
+          "Tổ hợp môn": "C00; C14; C20; D01",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học (Kỹ thuật xét nghiệm Y - Sinh; Công nghệ sinh dược và nông nghiệp công nghệ cao)",
+          "Tổ hợp môn": "A00; B00; B08; D07",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ bán dẫn",
+          "Tổ hợp môn": "A00; A01; D07; C01",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hóa học (Hóa học - Sinh học - Vật lý)",
+          "Tổ hợp môn": "A00; B00; C08; D07",
+          "Điểm chuẩn": "16.5",
+          "Ghi chú": "CT đào tạo định hướng giảng dạy"
+        },
+        {
+          "Tên ngành": "Toán học",
+          "Tổ hợp môn": "A00; C14; D01; D84",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "CT đào tạo định hướng giảng dạy"
+        },
+        {
+          "Tên ngành": "Toán Tin",
+          "Tổ hợp môn": "A00; C14; D01; D84",
+          "Điểm chuẩn": "16.5",
+          "Ghi chú": "CT đào tạo định hướng giảng dạy"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Hoá học (Công nghệ Hóa phân tích)",
+          "Tổ hợp môn": "A00; A16; B00; C14",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "C00; C14; D01; D84",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch",
+          "Tổ hợp môn": "C00; C04; C20; D01",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch",
+          "Tổ hợp môn": "C00; C04; C20; D01",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "C00; C20; D01; D66",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý Thể dục thể thao",
+          "Tổ hợp môn": "C00; C14; D01; D84",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý Tài nguyên và Môi trường",
+          "Tổ hợp môn": "A00; B00; C20; D01",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 26
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ và Văn hóa các dân tộc thiểu số Việt Nam",
+          "Tổ hợp môn": "C00; C14; D01; D84",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ và Văn hóa các dân tộc thiếu số Việt Nam",
+          "Tổ hợp môn": "C00; C14; D01; D84",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (Tiếng Anh ứng dụng)",
+          "Tổ hợp môn": "D01; D14; D15; D66",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (Tiếng Anh ứng dụng)",
+          "Tổ hợp môn": "D01; D14; D15; D66",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (Song ngữ Anh - Hàn)",
+          "Tổ hợp môn": "D01; D14; D15; D66",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Song ngữ Anh - Hàn",
+          "Tổ hợp môn": "D01; D14; D15; D66",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (Song ngữ Anh - Trung)",
+          "Tổ hợp môn": "D01; D14; D15; D66",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Song ngữ Anh - Trung",
+          "Tổ hợp môn": "D01; D14; D15; D66",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (Tiếng Anh ứng dụng)",
+          "Tổ hợp môn": "D01; D14; D15; D66",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (Tiếng Anh ứng dụng)",
+          "Tổ hợp môn": "D01; D14; D15; D66",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Phân hiệu tại Hà Giang"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (Tiếng Anh ứng dụng)",
+          "Tổ hợp môn": "D01; D14; D15; D66",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh (Tiếng Anh ứng dụng)",
+          "Tổ hợp môn": "D01; D14; D15; D66",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Phân hiệu tại Lào Cai"
+        },
+        {
+          "Tên ngành": "Lịch sử (Lịch sử - Địa lý và Kinh tế pháp luật)",
+          "Tổ hợp môn": "C00; C14; D01; D84",
+          "Điểm chuẩn": "19",
+          "Ghi chú": "CTĐT định hướng giảng dạy"
+        },
+        {
+          "Tên ngành": "Lịch sử (Lịch sử - Địa lý và Kinh tế pháp luật)",
+          "Tổ hợp môn": "C00; C14; D01; D84",
+          "Điểm chuẩn": "19",
+          "Ghi chú": "CT đào tạo định hướng giảng dạy"
+        },
+        {
+          "Tên ngành": "Văn học",
+          "Tổ hợp môn": "C00; C14; D01; D84",
+          "Điểm chuẩn": "19",
+          "Ghi chú": "CT đào tạo định hướng giảng dạy"
+        },
+        {
+          "Tên ngành": "Văn học",
+          "Tổ hợp môn": "C00; C14; D01; D84",
+          "Điểm chuẩn": "19",
+          "Ghi chú": "CTĐT định hướng giảng dạy"
+        },
+        {
+          "Tên ngành": "Trung Quốc học",
+          "Tổ hợp môn": "C00; D01; D04; D66",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Trung Quốc học",
+          "Tổ hợp môn": "D01; C00; D04; D66",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hàn Quốc học",
+          "Tổ hợp môn": "C00; D01; DD2; D66",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hàn Quốc học",
+          "Tổ hợp môn": "C00; D01; DD2; D66",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Báo chí (Báo chí đa phương tiện)",
+          "Tổ hợp môn": "C00; C14; D01; D84",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Báo chí (Báo chí đa phương tiện)",
+          "Tổ hợp môn": "C00; D01; C14; D84",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thông tin - Thư viện (Thư viện - Thiết bị Trường học và Văn thư)",
+          "Tổ hợp môn": "C00; C14; D01; D84",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thông tin - Thư viện (Thư viện - Thiết bị trường học và Văn thư)",
+          "Tổ hợp môn": "C00; D01; C14; D84",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học quản lý (Quản lý nhân lực)",
+          "Tổ hợp môn": "C00; C14; D01; D84",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học quản lý (Quản lý nhân lực)",
+          "Tổ hợp môn": "C00; C14; D01; D84",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật (Luật, Dịch vụ pháp luật)",
+          "Tổ hợp môn": "C00; C14; C20; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật (Luật, Dịch vụ pháp luật)",
+          "Tổ hợp môn": "C00; C14; C20; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học (Kỹ thuật xét nghiệm Y - Sinh; Công nghệ sinh dược và nông nghiệp công nghệ cao)",
+          "Tổ hợp môn": "A00; B00; B08; D07",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học (Kỹ thuật xét nghiệm Y - Sinh; Công nghệ sinh dược và nông nghiệp công nghệ cao)",
+          "Tổ hợp môn": "A00; B00; B08; D07",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ bán dẫn",
+          "Tổ hợp môn": "A00; A01; D07; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ bán dẫn",
+          "Tổ hợp môn": "A00; A01; C01; D07",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hóa học (Hóa học - Sinh học - Vật lý)",
+          "Tổ hợp môn": "A00; B00; C08; D07",
+          "Điểm chuẩn": "19",
+          "Ghi chú": "CT đào tạo định hướng giảng dạy"
+        },
+        {
+          "Tên ngành": "Hóa học",
+          "Tổ hợp môn": "A00; B00; C08; D07",
+          "Điểm chuẩn": "19",
+          "Ghi chú": "CTĐT định hướng giảng dạy"
+        },
+        {
+          "Tên ngành": "Toán học",
+          "Tổ hợp môn": "A00; C14; D01; D84",
+          "Điểm chuẩn": "19",
+          "Ghi chú": "CT đào tạo định hướng giảng dạy"
+        },
+        {
+          "Tên ngành": "Toán học",
+          "Tổ hợp môn": "A00; C14; D01; D84",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Toán Tin",
+          "Tổ hợp môn": "A00; C14; D01; D84",
+          "Điểm chuẩn": "19",
+          "Ghi chú": "CT đào tạo định hướng giảng dạy"
+        },
+        {
+          "Tên ngành": "Toán tin",
+          "Tổ hợp môn": "A00; C14; D01; D84",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Hoá học (Công nghệ Hóa phân tích)",
+          "Tổ hợp môn": "A00; A16; B00; C14",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật Hoá học (Công nghệ Hóa phân tích)",
+          "Tổ hợp môn": "A00; A16; B00; C14",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "C00; C14; D01; D84",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "C00; C14; D01; D84",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch",
+          "Tổ hợp môn": "C00; C04; C20; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch",
+          "Tổ hợp môn": "C00; C04; C20; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch",
+          "Tổ hợp môn": "C00; C04; C20; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch",
+          "Tổ hợp môn": "C00; C04; C20; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Phân hiệu tại Hà Giang"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "C00; C20; D01; D66",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành (Quản trị khách sạn và khu nghỉ dưỡng cao cấp và các chuyên ngành khác)",
+          "Tổ hợp môn": "C00; C20; D01; D66",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý Thể dục thể thao",
+          "Tổ hợp môn": "C00; C14; D01; D84",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý Thể dục thể thao",
+          "Tổ hợp môn": "C00; D01; C14; D84",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý Tài nguyên và Môi trường",
+          "Tổ hợp môn": "A00; B00; C20; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quàn lý Tài nguyên và Môi trường",
+          "Tổ hợp môn": "A00; B00; C20; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 52
+    }
+  ],
+  "table_count": 2,
+  "crawled_at": "2025-07-18T23:30:44.361720",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-khoa-hoc-thai-nguyen-DTZ.html"
+}

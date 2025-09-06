@@ -1,0 +1,33 @@
+{
+  "school_code": "VPH",
+  "school_name": "Trường Sĩ Quan Kĩ Thuật Quân Sự - Hệ Quân sự - Đại Học Trần Đại Nghĩa",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2019",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Chỉ huy tham mưu thông tin - Thí sinh Nam miền Bắc",
+          "Tổ hợp môn": "A00, A01",
+          "Điểm chuẩn": "23.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Chỉ huy tham mưu thông tin - Thí sinh Nam miền Nam",
+          "Tổ hợp môn": "A00, A01",
+          "Điểm chuẩn": "22.7",
+          "Ghi chú": "Thí sinh mức 22,70 điểm: Tiêu chí phụ 1: Điểm môn Toán ≥ 8,20. Tiêu chí phụ 2: Điểm môn Lý ≥ 6,25."
+        }
+      ],
+      "row_count": 2
+    }
+  ],
+  "table_count": 1,
+  "crawled_at": "2025-07-18T23:33:00.606912",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/truong-si-quan-ki-thuat-quan-su-he-quan-su-dai-hoc-tran-dai-nghia-VPH.html"
+}

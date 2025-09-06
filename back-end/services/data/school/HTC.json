@@ -1,0 +1,297 @@
+{
+  "school_code": "HTC",
+  "school_name": "Học Viện Tài chính",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "34.73",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "26.13",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Digital Marketing (theo định hướng ICDL)",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "35.31",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng 1",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.38",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng 2",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng 3",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hải quan và Logistics (theo định hướng FIATA)",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "36.15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Phân tích tài chính (theo định hướng ICAEW)",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "35.36",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính doanh nghiệp (theo định hướng ACCA)",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "35.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán doanh nghiệp (theo định hướng ACCA)",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "34.35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán (theo định hướng ICAEW)",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "35.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.03",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 14
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "29",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "29.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Digital Marketing (theo định hướng ICDL)",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "26.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng 1",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng 2",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng 3",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "29.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hải quan và Logistics (theo định hướng FIATA)",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Phân tích tài chính (theo định hướng ICAEW)",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính doanh nghiệp (theo định hướng ACCA)",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "29.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán doanh nghiệp (theo định hướng ACCA)",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán (theo định hướng ICAEW)",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "26.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 14
+    },
+    {
+      "table_title": "Điểm xét tuyển kết hợp năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "34.73",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "26.13",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Digital Marketing (theo định hướng ICDL)",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "35.31",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng 1",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.38",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng 2",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng 3",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hải quan và Logistics (theo định hướng FIATA)",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "36.15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Phân tích tài chính (theo định hướng ICAEW)",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "35.36",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính doanh nghiệp (theo định hướng ACCA)",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "35.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán doanh nghiệp (theo định hướng ACCA)",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "34.35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán (theo định hướng ICAEW)",
+          "Tổ hợp môn": "A01; D01; D07",
+          "Điểm chuẩn": "35.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.03",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 14
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:22:14.668900",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-tai-chinh-HTC.html"
+}

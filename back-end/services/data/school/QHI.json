@@ -1,0 +1,363 @@
+{
+  "school_code": "QHI",
+  "school_name": "Trường Đại Học Công Nghệ – Đại Học Quốc Gia Hà Nội",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "27.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ nông nghiệp",
+          "Tổ hợp môn": "A00; A01; B00",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và tự động hoá",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "27.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "27.12",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật năng lượng",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "24.59",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "26.87",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Mạng máy tính và truyền thông dữ liệu",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "26.92",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Robot",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "25.99",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế công nghiệp và đồ họa",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "24.64",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật máy tính",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "26.97",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Vật lý kỹ thuật",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "25.24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Cơ kỹ thuật",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "26.03",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật xây dựng",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "23.91",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ – điện tử",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "26.27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ hàng không vũ trụ",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "24.61",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "27.58",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử – viễn thông",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "26.3",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 17
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ nông nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và tự động hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật năng lượng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Mạng máy tính & truyền thông dữ liệu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Robot",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế công nghiệp và đồ họa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Vật lý kỹ thuật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Cơ kỹ thuật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Hàng không vũ trụ",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ KT điện tử – viễn thông",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 17
+    },
+    {
+      "table_title": "Chứng chỉ quốc tế năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Công nghệ nông nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.8",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và tự động hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "CCQT ACT, A-Level"
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.75",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Kỹ thuật năng lượng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.9",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Mạng máy tính & truyền thông dữ liệu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Robot",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.11",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Thiết kế công nghiệp và đồ họa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.1",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Kỹ thuật máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26.25",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Vật lý kỹ thuật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.4",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Cơ kỹ thuật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.6",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.12",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Công nghệ Hàng không vũ trụ",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.7",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.15",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "CCQT ACT, A-Level"
+        },
+        {
+          "Tên ngành": "Công nghệ KT điện tử – viễn thông",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "CCQT SAT"
+        }
+      ],
+      "row_count": 19
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:22:37.034455",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-cong-nghe-dai-hoc-quoc-gia-ha-noi-QHI.html"
+}

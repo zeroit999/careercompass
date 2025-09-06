@@ -1,0 +1,171 @@
+{
+  "school_code": "DFA",
+  "school_name": "Trường Đại học Tài chính Quản trị kinh doanh",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kinh tế (Chuyên ngành: Quản lý kinh tế; Kinh tế - Luật)",
+          "Tổ hợp môn": "A00; A01; D01; 004",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chuyên ngành: Quản trị doanh nghiệp; Quản trị Marketing; Quản trị kinh doanh du lịch)",
+          "Tổ hợp môn": "A00; A01; D01; C04",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế (Chuyên ngành: Thương mại quốc tế)",
+          "Tổ hợp môn": "A00; A01; D01; C14",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng (Chuyên ngành: Tài chính doanh nghiệp; Thuế; Ngân hàng; Thẩm định giá)",
+          "Tổ hợp môn": "A00; A01; D01; C14",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán (Chuyên ngành: Kế toán công, Kế toán doanh nghiệp, Kế toán tin)",
+          "Tổ hợp môn": "A00; A01; D01; C03",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán (Chuyên ngành: Kiểm toán)",
+          "Tổ hợp môn": "A00; A01; D01; C03",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý (Chuyên ngành: Công nghệ Thương mại điện tử)",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 7
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kinh tế (Chuyên ngành: Quản lý kinh tế; Kinh tế - Luật)",
+          "Tổ hợp môn": "A00; A01; D01; 004",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chuyên ngành: Quản trị doanh nghiệp; Quản trị Marketing; Quản trị kinh doanh du lịch)",
+          "Tổ hợp môn": "A00; A01; D01; C04",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế (Chuyên ngành: Thương mại quốc tế)",
+          "Tổ hợp môn": "A00; A01; D01; C14",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng (Chuyên ngành: Tài chính doanh nghiệp; Thuế; Ngân hàng; Thẩm định giá)",
+          "Tổ hợp môn": "A00; A01; D01; C14",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán (Chuyên ngành: Kế toán công, Kế toán doanh nghiệp, Kế toán tin)",
+          "Tổ hợp môn": "A00; A01; D01; C03",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán (Chuyên ngành: Kiểm toán)",
+          "Tổ hợp môn": "A00; A01; D01; C03",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý (Chuyên ngành: Công nghệ Thương mại điện tử)",
+          "Tổ hợp môn": "A00; A01; D01; C01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 7
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Kinh tế (Chuyên ngành: Quản lý kinh tế; Kinh tế - Luật)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (Chuyên ngành: Quản trị doanh nghiệp; Quản trị Marketing; Quản trị kinh doanh du lịch)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế (Chuyên ngành: Thương mại quốc tế)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng (Chuyên ngành: Tài chính doanh nghiệp; Thuế; Ngân hàng; Thẩm định giá)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán (Chuyên ngành: Kế toán công, Kế toán doanh nghiệp, Kế toán tin)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán (Chuyên ngành: Kiểm toán)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý (Chuyên ngành: Công nghệ Thương mại điện tử)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 7
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:29:53.520743",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-tai-chinh-quan-tri-kinh-doanh-DFA.html"
+}

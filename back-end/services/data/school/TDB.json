@@ -1,0 +1,69 @@
+{
+  "school_code": "TDB",
+  "school_name": "Trường Đại Học Thể Dục Thể Thao Bắc Ninh",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Y sinh học TDTT",
+          "Tổ hợp môn": "T00; T01; T02; T05",
+          "Điểm chuẩn": "18.35",
+          "Ghi chú": "Điểm thi tốt nghiệp THPT kết hợp năng khiếu"
+        },
+        {
+          "Tên ngành": "Quản lý TDTT",
+          "Tổ hợp môn": "T00; T01; T02; T05",
+          "Điểm chuẩn": "18.35",
+          "Ghi chú": "Điểm thi tốt nghiệp THPT kết hợp năng khiếu"
+        },
+        {
+          "Tên ngành": "Huấn luyện thể thao",
+          "Tổ hợp môn": "T00; T01; T02; T05",
+          "Điểm chuẩn": "18.35",
+          "Ghi chú": "Điểm thi tốt nghiệp THPT kết hợp năng khiếu"
+        }
+      ],
+      "row_count": 3
+    },
+    {
+      "table_title": "Điểm xét tuyển kết hợp năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Y sinh học TDTT",
+          "Tổ hợp môn": "T00; T01; T02; T05",
+          "Điểm chuẩn": "18.35",
+          "Ghi chú": "Học bạ kết hợp năng khiếu"
+        },
+        {
+          "Tên ngành": "Quản lý TDTT",
+          "Tổ hợp môn": "T00; T01; T02; T05",
+          "Điểm chuẩn": "18.35",
+          "Ghi chú": "Học bạ kết hợp năng khiếu"
+        },
+        {
+          "Tên ngành": "Huấn luyện thể thao",
+          "Tổ hợp môn": "T00; T01; T02; T05",
+          "Điểm chuẩn": "18.35",
+          "Ghi chú": "Học bạ kết hợp năng khiếu"
+        }
+      ],
+      "row_count": 3
+    }
+  ],
+  "table_count": 2,
+  "crawled_at": "2025-07-18T23:30:31.383741",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-the-duc-the-thao-bac-ninh-TDB.html"
+}

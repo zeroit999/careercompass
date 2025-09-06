@@ -1,0 +1,93 @@
+{
+  "school_code": "HVC",
+  "school_name": "Học viện cán bộ TPHCM",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Chính trị học",
+          "Tổ hợp môn": "C00; C03; C04; C14",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng & CQNN",
+          "Tổ hợp môn": "C00; C03; C04; C14",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "C00; C14; D01; D14",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 5
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Chính trị học",
+          "Tổ hợp môn": "C00; C03; C04; C14",
+          "Điểm chuẩn": "23.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Xây dựng Đảng và Chính quyền Nhà nước",
+          "Tổ hợp môn": "C00; C03; C04; C14",
+          "Điểm chuẩn": "24.95",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "26.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "C00; C03; D01; D14",
+          "Điểm chuẩn": "23.55",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 5
+    }
+  ],
+  "table_count": 2,
+  "crawled_at": "2025-07-18T23:27:13.557697",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-can-bo-tphcm-HVC.html"
+}

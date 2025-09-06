@@ -1,0 +1,57 @@
+{
+  "school_code": "MTH",
+  "school_name": "Trường Đại Học Mỹ Thuật Việt Nam",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2022",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Sư phạm mỹ thuật",
+          "Tổ hợp môn": "H00",
+          "Điểm chuẩn": "31.63",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Lý luận, lịch sử và phê bình mỹ thuật",
+          "Tổ hợp môn": "H00",
+          "Điểm chuẩn": "25.56",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hội họa",
+          "Tổ hợp môn": "H00",
+          "Điểm chuẩn": "30.63",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đồ họa",
+          "Tổ hợp môn": "H00",
+          "Điểm chuẩn": "26.66",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điêu khắc",
+          "Tổ hợp môn": "H00",
+          "Điểm chuẩn": "26.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế đồ họa",
+          "Tổ hợp môn": "H00",
+          "Điểm chuẩn": "29.73",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 6
+    }
+  ],
+  "table_count": 1,
+  "crawled_at": "2025-07-18T23:32:41.184741",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-my-thuat-viet-nam-MTH.html"
+}

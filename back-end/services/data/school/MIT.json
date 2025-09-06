@@ -1,0 +1,495 @@
+{
+  "school_code": "MIT",
+  "school_name": "Trường Đại học Công nghệ Miền Đông",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "A01; C00; D01; D15",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đông phương học (chuyên ngành Hàn Quốc học)",
+          "Tổ hợp môn": "A01; C00; D01; D15",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Digital marketing",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý công nghiệp",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistic và quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thú y",
+          "Tổ hợp môn": "A00; B00; C08; D07",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "A00; B00; C08; D07",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 15
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": "ĐTB cả năm L12"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": "ĐTB học kì 1 L12"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "16.5",
+          "Ghi chú": "ĐTB 3 môn học bạ L12"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "16.5",
+          "Ghi chú": "ĐTB 3 môn học bạ L12"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": "ĐTB cả năm L12"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": "ĐTB học kì 1 L12"
+        },
+        {
+          "Tên ngành": "Đông phương học (chuyên ngành Hàn Quốc học)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": "ĐTB học kì 1 L12"
+        },
+        {
+          "Tên ngành": "Đông phương học (chuyên ngành Hàn Quốc học)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "16.5",
+          "Ghi chú": "ĐTB 3 môn học bạ L12"
+        },
+        {
+          "Tên ngành": "Đông phương học (chuyên ngành Hàn Quốc học)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": "ĐTB cả năm L12"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (chuyên ngành Quản trị kinh doanh; Quản trị hàng không; Quản trị truyền thông)",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "16.5",
+          "Ghi chú": "ĐTB 3 môn học bạ L12"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (chuyên ngành Quản trị kinh doanh; Quản trị hàng không; Quản trị truyền thông)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": "ĐTB cả năm L12"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (chuyên ngành Quản trị kinh doanh; Quản trị hàng không; Quản trị truyền thông)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": "ĐTB học kì 1 L12"
+        },
+        {
+          "Tên ngành": "Digital marketing",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "16.5",
+          "Ghi chú": "ĐTB 3 môn học bạ L12"
+        },
+        {
+          "Tên ngành": "Digital marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": "ĐTB cả năm L12"
+        },
+        {
+          "Tên ngành": "Digital marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": "ĐTB học kì 1 L12"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": "ĐTB học kì 1 L12"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "16.5",
+          "Ghi chú": "ĐTB 3 môn học bạ L12"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": "ĐTB cả năm L12"
+        },
+        {
+          "Tên ngành": "Fintech (Công nghệ tài chính)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "16.5",
+          "Ghi chú": "ĐTB 3 môn học bạ L12"
+        },
+        {
+          "Tên ngành": "Fintech (Công nghệ tài chính)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": "ĐTB cả năm L12"
+        },
+        {
+          "Tên ngành": "Fintech (Công nghệ tài chính)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": "ĐTB học kì 1 L12"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": "ĐTB cả năm L12"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": "ĐTB học kì 1 L12"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "16.5",
+          "Ghi chú": "ĐTB 3 môn học bạ L12"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "16.5",
+          "Ghi chú": "ĐTB 3 môn học bạ L12"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": "ĐTB cả năm L12"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": "ĐTB học kì 1 L12"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (chuyên ngành Công nghệ phần mềm; An toàn thông tin; Trí tuệ nhân tạo)",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "16.5",
+          "Ghi chú": "ĐTB 3 môn học bạ L12"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (chuyên ngành Công nghệ phần mềm; An toàn thông tin; Trí tuệ nhân tạo)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": "ĐTB cả năm L12"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin (chuyên ngành Công nghệ phần mềm; An toàn thông tin; Trí tuệ nhân tạo)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": "ĐTB học kì 1 L12"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": "ĐTB học kì 1 L12"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "16.5",
+          "Ghi chú": "ĐTB 3 môn học bạ L12"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": "ĐTB cả năm L12"
+        },
+        {
+          "Tên ngành": "Quản lý công nghiệp",
+          "Tổ hợp môn": "A00; A01; C01; D01",
+          "Điểm chuẩn": "16.5",
+          "Ghi chú": "ĐTB 3 môn học bạ L12"
+        },
+        {
+          "Tên ngành": "Quản lý công nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": "ĐTB cả năm L12"
+        },
+        {
+          "Tên ngành": "Quản lý công nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": "ĐTB học kì 1 L12"
+        },
+        {
+          "Tên ngành": "Logistic và quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "16.5",
+          "Ghi chú": "ĐTB 3 môn học bạ L12"
+        },
+        {
+          "Tên ngành": "Logistic và quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": "ĐTB cả năm L12"
+        },
+        {
+          "Tên ngành": "Logistic và quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": "ĐTB học kì 1 L12"
+        },
+        {
+          "Tên ngành": "Thú y",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": "ĐTB cả năm L12"
+        },
+        {
+          "Tên ngành": "Thú y",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": "ĐTB học kì 1 L12"
+        },
+        {
+          "Tên ngành": "Thú y",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "16.5",
+          "Ghi chú": "ĐTB 3 môn học bạ L12"
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "ĐTB 3 môn học bạ L12"
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "ĐTB cả năm L12"
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "ĐTB học kì 1 L12"
+        }
+      ],
+      "row_count": 45
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "530",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "530",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đông phương học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "530",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "530",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Digital marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "530",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "530",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "570",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "530",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "530",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "570",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "530",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý công nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "530",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistic và quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "530",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thú y",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "530",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "630",
+          "Ghi chú": "HL cả năm L12 đạt loại Giỏi"
+        }
+      ],
+      "row_count": 15
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:29:43.693869",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-cong-nghe-mien-dong-MIT.html"
+}

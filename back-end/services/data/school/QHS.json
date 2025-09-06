@@ -1,0 +1,177 @@
+{
+  "school_code": "QHS",
+  "school_name": "Trường Đại Học Giáo Dục - ĐHQG Hà Nội",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Sư phạm Toán và Khoa học Tự nhiên",
+          "Tổ hợp môn": "A00; A01; B00; D01",
+          "Điểm chuẩn": "26.58",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Ngữ văn, Lịch sử, Lịch sử và Địa lý",
+          "Tổ hợp môn": "D01; C00; D14; D15",
+          "Điểm chuẩn": "28.76",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học Giáo dục và Khác",
+          "Tổ hợp môn": "A00; B00; C00; D01",
+          "Điểm chuẩn": "24.92",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục tiểu học",
+          "Tổ hợp môn": "A00; B00; C00; D01",
+          "Điểm chuẩn": "28.89",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục mầm non",
+          "Tổ hợp môn": "A00; B00; C00; D01",
+          "Điểm chuẩn": "27.85",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 5
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Sư phạm Toán và Khoa học tự nhiên, gồm 5 ngành: Sư phạm Toán học; Sư phạm Vật lí; Sư phạm Hoá học; Sư phạm Sinh học; Sư phạm Khoa học tự nhiên.",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "106",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Ngữ văn, Lịch sử, Lịch sử-Địa lí, gồm 3 ngành: Sư phạm Ngữ văn; Sư phạm Lịch sử; Sư phạm Lịch sử-Địa lí",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "100",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học giáo dục và khác, gồm 6 ngành: Quản trị trường học; Quản trị chất lượng giáo dục; Quản trị Công nghệ giáo dục; Khoa học giáo dục; Tham vấn học đường; Tâm lí học (chuyên ngành Tâm lí học lâm sàng trẻ em và vị thành niên)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Tiểu học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "103",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Mầm non",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "100",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 5
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Sư phạm Toán và Khoa học tự nhiên, gồm 5 ngành: Sư phạm Toán học; Sư phạm Vật lí; Sư phạm Hoá học; Sư phạm Sinh học; Sư phạm Khoa học tự nhiên.",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "996",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Ngữ văn, Lịch sử, Lịch sử-Địa lí, gồm 3 ngành: Sư phạm Ngữ văn; Sư phạm Lịch sử; Sư phạm Lịch sử-Địa lí",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "996",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học giáo dục và khác, gồm 6 ngành: Quản trị trường học; Quản trị chất lượng giáo dục; Quản trị Công nghệ giáo dục; Khoa học giáo dục; Tham vấn học đường; Tâm lí học (chuyên ngành Tâm lí học lâm sàng trẻ em và vị thành niên)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "996",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Tiểu học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "996",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Mầm non",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "996",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 5
+    },
+    {
+      "table_title": "Chứng chỉ quốc tế năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Sư phạm Toán và Khoa học tự nhiên, gồm 5 ngành: Sư phạm Toán học; Sư phạm Vật lí; Sư phạm Hoá học; Sư phạm Sinh học; Sư phạm Khoa học tự nhiên.",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1350",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Sư phạm Ngữ văn, Lịch sử, Lịch sử-Địa lí, gồm 3 ngành: Sư phạm Ngữ văn; Sư phạm Lịch sử; Sư phạm Lịch sử-Địa lí",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1350",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Khoa học giáo dục và khác, gồm 6 ngành: Quản trị trường học; Quản trị chất lượng giáo dục; Quản trị Công nghệ giáo dục; Khoa học giáo dục; Tham vấn học đường; Tâm lí học (chuyên ngành Tâm lí học lâm sàng trẻ em và vị thành niên)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1350",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Giáo dục Tiểu học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1350",
+          "Ghi chú": "CCQT SAT"
+        },
+        {
+          "Tên ngành": "Giáo dục Mầm non",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1350",
+          "Ghi chú": "CCQT SAT"
+        }
+      ],
+      "row_count": 5
+    }
+  ],
+  "table_count": 4,
+  "crawled_at": "2025-07-18T23:24:44.995294",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-giao-duc-ha-noi-QHS.html"
+}

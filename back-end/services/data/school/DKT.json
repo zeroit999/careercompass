@@ -1,0 +1,345 @@
+{
+  "school_code": "DKT",
+  "school_name": "Trường Đại Học Hải Dương",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Giáo dục Mầm non (CĐ)",
+          "Tổ hợp môn": "C00; C19; C20; D01",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Mầm non (trình độ đại học)",
+          "Tổ hợp môn": "C00; C19; C20; D01",
+          "Điểm chuẩn": "26.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Tiểu học",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Giáo dục Chính trị",
+          "Tổ hợp môn": "D01; C00; C14; C20",
+          "Điểm chuẩn": "24.15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Toán học",
+          "Tổ hợp môn": "A00; A01; A02; D01",
+          "Điểm chuẩn": "25.11",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tin học",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "20.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Ngữ Văn",
+          "Tổ hợp môn": "C00; C03; D01; D14",
+          "Điểm chuẩn": "26.62",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Lịch Sử",
+          "Tổ hợp môn": "C00; C03; D14",
+          "Điểm chuẩn": "26.35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Địa lí",
+          "Tổ hợp môn": "D01; C00; C20; C04",
+          "Điểm chuẩn": "26.85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Anh",
+          "Tổ hợp môn": "D01; D14; D15",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Khoa học tự nhiên",
+          "Tổ hợp môn": "A00; A02; B00; D01",
+          "Điểm chuẩn": "23.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D09; D10; A01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hỗ trợ giáo dục người khuyết tật",
+          "Tổ hợp môn": "B03; C00; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 22
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Giáo dục Mầm non (CĐ)",
+          "Tổ hợp môn": "C00; C19; C20; D01",
+          "Điểm chuẩn": "25.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Mầm non (trình độ đại học)",
+          "Tổ hợp môn": "C00; C19; C20; D01",
+          "Điểm chuẩn": "27.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Tiểu học",
+          "Tổ hợp môn": "A00; A01; C00; D01",
+          "Điểm chuẩn": "28.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Giáo dục Chính trị",
+          "Tổ hợp môn": "D01; C00; C14; C20",
+          "Điểm chuẩn": "26.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Toán học",
+          "Tổ hợp môn": "A00; A01; A02; D01",
+          "Điểm chuẩn": "28.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tin học",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Ngữ Văn",
+          "Tổ hợp môn": "C00; C03; D01; D14",
+          "Điểm chuẩn": "27.85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Lịch Sử",
+          "Tổ hợp môn": "C00; C03; D14",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Địa lí",
+          "Tổ hợp môn": "D01; C00; C20; C04",
+          "Điểm chuẩn": "27.35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Anh",
+          "Tổ hợp môn": "D01; D14; D15",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Khoa học tự nhiên",
+          "Tổ hợp môn": "A00; A02; B00; D01",
+          "Điểm chuẩn": "27.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D09; D10; A01",
+          "Điểm chuẩn": "15.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "15.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "15.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "15.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "15.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "15.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "15.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "15.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "15.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "15.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hỗ trợ giáo dục người khuyết tật",
+          "Tổ hợp môn": "B03; C00; D01",
+          "Điểm chuẩn": "15.5",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 22
+    },
+    {
+      "table_title": "Điểm xét tuyển kết hợp năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Giáo dục thể chất",
+          "Tổ hợp môn": "T00; T01; T02; T03",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Kết quả thi tốt nghiệp THPT với năng khiếu"
+        },
+        {
+          "Tên ngành": "Giáo dục thể chất",
+          "Tổ hợp môn": "T00; T01; T02; T03",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "Học bạ THPT với năng khiếu"
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Anh",
+          "Tổ hợp môn": "D01; D14; D15",
+          "Điểm chuẩn": "26.63",
+          "Ghi chú": "Kết quả thi tốt nghiệp THPT với CCTA QT"
+        },
+        {
+          "Tên ngành": "Sư phạm tiếng Anh",
+          "Tổ hợp môn": "D01; D14; D15",
+          "Điểm chuẩn": "26.63",
+          "Ghi chú": "Học bạ THPT với CCTA QT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D09; D10; A01",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": "Kết quả thi tốt nghiệp THPT với CCTA QT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; D09; D10; A01",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": "Học bạ THPT với CCTA QT"
+        }
+      ],
+      "row_count": 6
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:26:31.873921",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-hai-duong-DKT.html"
+}

@@ -1,0 +1,1569 @@
+{
+  "school_code": "TDM",
+  "school_name": "Trường Đại học Thủ Dầu Một",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Giáo dục học",
+          "Tổ hợp môn": "C00; D01; C14; C15",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Mầm non",
+          "Tổ hợp môn": "M00; M05; M07; M11",
+          "Điểm chuẩn": "23.04",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Tiểu học",
+          "Tổ hợp môn": "A00; C00; D01; A16",
+          "Điểm chuẩn": "26.47",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế đồ họa",
+          "Tổ hợp môn": "V00; V01; A00; D01",
+          "Điểm chuẩn": "20.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Âm nhạc",
+          "Tổ hợp môn": "N03; M03; M06; M10",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; A01; D15; D78",
+          "Điểm chuẩn": "22.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "D01; D04; A01; D78",
+          "Điểm chuẩn": "23.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "D01; A01; D15; D78",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý nhà nước",
+          "Tổ hợp môn": "C14; C00; D01; A16",
+          "Điểm chuẩn": "22.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế",
+          "Tổ hợp môn": "A00; C00; D01; D78",
+          "Điểm chuẩn": "22.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "C00; D01; C14; B08",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "C00; D01; D09; V01",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; A16",
+          "Điểm chuẩn": "21.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01; A16",
+          "Điểm chuẩn": "23.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "21.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; A16",
+          "Điểm chuẩn": "21.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; A16",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "A00; A01; D01; A16",
+          "Điểm chuẩn": "20.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "C14; C00; D01; A16",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ sinh học",
+          "Tổ hợp môn": "A00; D01; B00; B08",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hóa học",
+          "Tổ hợp môn": "A00; B00; D07; A16",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Toán học",
+          "Tổ hợp môn": "A00; A01; D07; A16",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỳ thuật phần mềm",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "20.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý công nghiệp",
+          "Tổ hợp môn": "A00; A01; C01; A16",
+          "Điểm chuẩn": "16.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "22.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điện",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật điều khiển và tự động hóa",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật môi trường",
+          "Tổ hợp môn": "A00; D01; B00; B08",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; A02; B00; B08",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "V00; V01; A00; A16",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xây dựng",
+          "Tổ hợp môn": "A00; A01; C01; D90",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "C00; D01; C19; C15",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch",
+          "Tổ hợp môn": "D01; D14; D15; D78",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý Tài nguyên và Môi trường",
+          "Tổ hợp môn": "A00; D01; B00; B08",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý đất đai",
+          "Tổ hợp môn": "A00; D01; B00; B08",
+          "Điểm chuẩn": "15.5",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 38
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Giáo dục học",
+          "Tổ hợp môn": "C00; D01; C14; C15",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục học",
+          "Tổ hợp môn": "C00; D01; C14; C15",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục học",
+          "Tổ hợp môn": "C00; D01; C14; C15",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Giáo dục học",
+          "Tổ hợp môn": "C00; D01; C14; C15",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Thiết kế đồ họa",
+          "Tổ hợp môn": "V00; V01; A00; D01",
+          "Điểm chuẩn": "24.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế đồ họa",
+          "Tổ hợp môn": "V00; V01; A00; D01",
+          "Điểm chuẩn": "8.4",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Thiết kế đồ họa",
+          "Tổ hợp môn": "V00; V01; A00; D01",
+          "Điểm chuẩn": "8.4",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Thiết kế đồ họa",
+          "Tổ hợp môn": "V00; V01; A00; D01",
+          "Điểm chuẩn": "24.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Âm nhạc",
+          "Tổ hợp môn": "N03; M03; M06; M10",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Âm nhạc",
+          "Tổ hợp môn": "N03; M03; M06; M10",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Âm nhạc",
+          "Tổ hợp môn": "N03; M03; M06; M10",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Âm nhạc",
+          "Tổ hợp môn": "N03; M03; M06; M10",
+          "Điểm chuẩn": "18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; A01; D15; D78",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; A01; D15; D78",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; A01; D15; D78",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; A01; D15; D78",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "D01; D04; A01; D78",
+          "Điểm chuẩn": "8.8",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "D01; D04; A01; D78",
+          "Điểm chuẩn": "8.8",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "D01; D04; A01; D78",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "D01; D04; A01; D78",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "D01; A01; D15; D78",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "D01; A01; D15; D78",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "D01; A01; D15; D78",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "D01; A01; D15; D78",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý Nhà nước",
+          "Tổ hợp môn": "C14; C00; D01; A16",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Quản lý Nhà nước",
+          "Tổ hợp môn": "C14; C00; D01; A16",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Quản lý Nhà nước",
+          "Tổ hợp môn": "C14; C00; D01; A16",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý Nhà nước",
+          "Tổ hợp môn": "C14; C00; D01; A16",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế",
+          "Tổ hợp môn": "C14; C00; D01; D78",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế",
+          "Tổ hợp môn": "C14; C00; D01; D78",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế",
+          "Tổ hợp môn": "C14; C00; D01; D78",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế",
+          "Tổ hợp môn": "C14; C00; D01; D78",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "C00; D01; C14; B08",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "C00; D01; C14; B08",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "C00; D01; C14; B08",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "C00; D01; C14; B08",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "C00; D01; D09; V01",
+          "Điểm chuẩn": "8.7",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "C00; D01; D09; V01",
+          "Điểm chuẩn": "8.7",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "C00; D01; D09; V01",
+          "Điểm chuẩn": "26.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "C00; D01; D09; V01",
+          "Điểm chuẩn": "26.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị Kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; A16",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị Kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; A16",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Quản trị Kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; A16",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Quản trị Kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; A16",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01; A16",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01; A16",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01; A16",
+          "Điểm chuẩn": "8.9",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01; A16",
+          "Điểm chuẩn": "8.9",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; A16",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; A16",
+          "Điểm chuẩn": "8.5",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; A16",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; A16",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; A16",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; A16",
+          "Điểm chuẩn": "8.3",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; A16",
+          "Điểm chuẩn": "8.3",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; A16",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "A00; A01; D01; A16",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "A00; A01; D01; A16",
+          "Điểm chuẩn": "8.3",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "A00; A01; D01; A16",
+          "Điểm chuẩn": "8.3",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "A00; A01; D01; A16",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "C14; C00; D01; A16",
+          "Điểm chuẩn": "8.2",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "C14; C00; D01; A16",
+          "Điểm chuẩn": "8.2",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "C14; C00; D01; A16",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "C14; C00; D01; A16",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Sinh học",
+          "Tổ hợp môn": "A00; D01; B00; B08",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Công nghệ Sinh học",
+          "Tổ hợp môn": "A00; D01; B00; B08",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Công nghệ Sinh học",
+          "Tổ hợp môn": "A00; D01; B00; B08",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Sinh học",
+          "Tổ hợp môn": "A00; D01; B00; B08",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hóa học",
+          "Tổ hợp môn": "A00; B00; D07; A16",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Hóa học",
+          "Tổ hợp môn": "A00; B00; D07; A16",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Hóa học",
+          "Tổ hợp môn": "A00; B00; D07; A16",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hóa học",
+          "Tổ hợp môn": "A00; B00; D07; A16",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Toán học",
+          "Tổ hợp môn": "A00; B00; D07; A16",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Toán học",
+          "Tổ hợp môn": "A00; B00; D07; A16",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Toán học",
+          "Tổ hợp môn": "A00; B00; D07; A16",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Toán học",
+          "Tổ hợp môn": "A00; B00; D07; A16",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Phần mềm",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Phần mềm",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Phần mềm",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Phần mềm",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Công nghệ Thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "8.1",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Công nghệ Thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "8.1",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý công nghiệp",
+          "Tổ hợp môn": "A00; A01; C01; A16",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý công nghiệp",
+          "Tổ hợp môn": "A00; A01; C01; A16",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Quản lý công nghiệp",
+          "Tổ hợp môn": "A00; A01; C01; A16",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Quản lý công nghiệp",
+          "Tổ hợp môn": "A00; A01; C01; A16",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "8.7",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "8.7",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "25.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "25.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Cơ điện tử",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Cơ điện tử",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Cơ điện tử",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Cơ điện tử",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điện",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điện",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điện",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điện",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điều khiển và tự động hóa",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điều khiển và tự động hóa",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điều khiển và tự động hóa",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điều khiển và tự động hóa",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Môi trường",
+          "Tổ hợp môn": "A00; D01; B00; B08",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Môi trường",
+          "Tổ hợp môn": "A00; D01; B00; B08",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Môi trường",
+          "Tổ hợp môn": "A00; D01; B00; B08",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Môi trường",
+          "Tổ hợp môn": "A00; D01; B00; B08",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; A02; B00; B08",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; A02; B00; B08",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; A02; B00; B08",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; A02; B00; B08",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "V00; V01; A00; A16",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "V00; V01; A00; A16",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "V00; V01; A00; A16",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "V00; V01; A00; A16",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Xây dựng",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Xây dựng",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Xây dựng",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Xây dựng",
+          "Tổ hợp môn": "A00; A01; D01; D90",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Công tác Xã hội",
+          "Tổ hợp môn": "C00; D01; C19; C15",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Công tác Xã hội",
+          "Tổ hợp môn": "C00; D01; C19; C15",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác Xã hội",
+          "Tổ hợp môn": "C00; D01; C19; C15",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác Xã hội",
+          "Tổ hợp môn": "C00; D01; C19; C15",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Du lịch",
+          "Tổ hợp môn": "D01; D14; D15; D78",
+          "Điểm chuẩn": "8.2",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Du lịch",
+          "Tổ hợp môn": "D01; D14; D15; D78",
+          "Điểm chuẩn": "8.2",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Du lịch",
+          "Tổ hợp môn": "D01; D14; D15; D78",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch",
+          "Tổ hợp môn": "D01; D14; D15; D78",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý Tài nguyên và Môi trường",
+          "Tổ hợp môn": "A00; D01; B00; B08",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Quản lý Tài nguyên và Môi trường",
+          "Tổ hợp môn": "A00; D01; B00; B08",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Quản lý Tài nguyên và Môi trường",
+          "Tổ hợp môn": "A00; D01; B00; B08",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý Tài nguyên và Môi trường",
+          "Tổ hợp môn": "A00; D01; B00; B08",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý đất đai",
+          "Tổ hợp môn": "A00; D01; B00; B08",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        },
+        {
+          "Tên ngành": "Quản lý đất đai",
+          "Tổ hợp môn": "A00; D01; B00; B08",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý đất đai",
+          "Tổ hợp môn": "A00; D01; B00; B08",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý đất đai",
+          "Tổ hợp môn": "A00; D01; B00; B08",
+          "Điểm chuẩn": "8",
+          "Ghi chú": "HSG 1 trong 3 năm"
+        }
+      ],
+      "row_count": 144
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Giáo dục học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế đồ họa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế đồ họa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Âm nhạc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Âm nhạc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "550",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "750",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "750",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "670",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "670",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý Nhà nước",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "560",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý Nhà nước",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "560",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "750",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Truyền thông đa phương tiện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "750",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị Kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị Kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "800",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "800",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "770",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "770",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "750",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "750",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "750",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "750",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Sinh học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "570",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Sinh học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "570",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hóa học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "570",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hóa học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "570",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Toán học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Toán học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Phần mềm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Phần mềm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "750",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "750",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "630",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "630",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý công nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "570",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý công nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "570",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "800",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "800",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Cơ điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Cơ điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điều khiển và tự động hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "620",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điều khiển và tự động hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "620",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Môi trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "570",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Môi trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "570",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "570",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "570",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "570",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiến trúc",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "570",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "570",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Xây dựng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "570",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác Xã hội",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "560",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công tác Xã hội",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "560",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "650",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý Tài nguyên và Môi trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý Tài nguyên và Môi trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý đất đai",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý đất đai",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "600",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 72
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:23:42.256786",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-thu-dau-mot-TDM.html"
+}

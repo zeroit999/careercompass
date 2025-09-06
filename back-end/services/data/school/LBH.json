@@ -1,0 +1,153 @@
+{
+  "school_code": "LBH",
+  "school_name": "Trường Sĩ Quan Lục Quân 2 - Đại học Nguyễn Huệ",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Chỉ huy tham mưu Lục quân",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "24.68",
+          "Ghi chú": "TS nam Quân khu 4 (Quảng Trị và TT-Huế)"
+        },
+        {
+          "Tên ngành": "Chỉ huy tham mưu Lục quân",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": "TS nam Quân khu 5"
+        },
+        {
+          "Tên ngành": "Chỉ huy tham mưu Lục quân",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "23.89",
+          "Ghi chú": "TS nam Quân khu 7"
+        },
+        {
+          "Tên ngành": "Chỉ huy tham mưu Lục quân",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "25.24",
+          "Ghi chú": "TS nam Quân khu 9; Tiêu chí phụ 1: Toán >= 8.40; Tiêu chí phụ 2: Lý >= 8.00"
+        }
+      ],
+      "row_count": 4
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Chỉ huy tham mưu Lục quân",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "27.356",
+          "Ghi chú": "TS nam Quân khu 4 (Quảng Trị và TT-Huế)"
+        },
+        {
+          "Tên ngành": "Chỉ huy tham mưu Lục quân",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "26.189",
+          "Ghi chú": "TS nam Quân khu 5"
+        },
+        {
+          "Tên ngành": "Chỉ huy tham mưu Lục quân",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "26.828",
+          "Ghi chú": "TS nam Quân khu 7"
+        },
+        {
+          "Tên ngành": "Chỉ huy tham mưu Lục quân",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "28.2",
+          "Ghi chú": "TS nam Quân khu 9"
+        }
+      ],
+      "row_count": 4
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Chỉ huy tham mưu Lục quân",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.075",
+          "Ghi chú": "TS nam Quân khu 4 (Quảng Trị và TT-Huế)"
+        },
+        {
+          "Tên ngành": "Chỉ huy tham mưu Lục quân",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.625",
+          "Ghi chú": "TS nam Quân khu 5"
+        },
+        {
+          "Tên ngành": "Chỉ huy tham mưu Lục quân",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.275",
+          "Ghi chú": "TS nam Quân khu 7"
+        },
+        {
+          "Tên ngành": "Chỉ huy tham mưu Lục quân",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.8",
+          "Ghi chú": "TS nam Quân khu 9"
+        }
+      ],
+      "row_count": 4
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Chỉ huy tham mưu Lục quân",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.075",
+          "Ghi chú": "TS nam Quân khu 4 (Quảng Trị và TT-Huế)"
+        },
+        {
+          "Tên ngành": "Chỉ huy tham mưu Lục quân",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.625",
+          "Ghi chú": "TS nam Quân khu 5"
+        },
+        {
+          "Tên ngành": "Chỉ huy tham mưu Lục quân",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.275",
+          "Ghi chú": "TS nam Quân khu 7"
+        },
+        {
+          "Tên ngành": "Chỉ huy tham mưu Lục quân",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17.8",
+          "Ghi chú": "TS nam Quân khu 9"
+        }
+      ],
+      "row_count": 4
+    }
+  ],
+  "table_count": 4,
+  "crawled_at": "2025-07-18T23:25:20.010740",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/truong-si-quan-luc-quan-2-dai-hoc-nguyen-hue-LBH.html"
+}

@@ -1,0 +1,285 @@
+{
+  "school_code": "PVU",
+  "school_name": "Trường Đại Học Dầu Khí Việt Nam",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Khoa học Máy tính (Khoa học dữ liệu, Trí tuệ nhân tạo)",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Hóa học (Lọc-Hóa dầu)",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Địa chất (Địa chất - Địa vật lý Dầu khí)",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Dầu khí (Khoan-Khai thác Mỏ Dầu khí)",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 4
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Khoa học Máy tính (Khoa học dữ liệu, Trí tuệ nhân tạo)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "7",
+          "Ghi chú": "Hệ liên kết, TB điểm tổng kết các HK (05 HK đối với HS tốt nghiệp 2024 và 06 học kỳ với TS tốt nghiệp năm 2023 trở về trước)"
+        },
+        {
+          "Tên ngành": "Khoa học Máy tính (Khoa học dữ liệu, Trí tuệ nhân tạo)",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "31",
+          "Ghi chú": "Hệ chính quy; ĐTB 4 môn Toán, Lý, Hóa, Anh"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Hóa học (Lọc-Hóa dầu)",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "31",
+          "Ghi chú": "Hệ chính quy; ĐTB 4 môn Toán, Lý, Hóa, Anh"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Hóa học (Lọc-Hóa dầu)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "7",
+          "Ghi chú": "Hệ liên kết, TB điểm tổng kết các HK (05 HK đối với HS tốt nghiệp 2024 và 06 học kỳ với TS tốt nghiệp năm 2023 trở về trước)"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Địa chất (Địa chất - Địa vật lý Dầu khí)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "7",
+          "Ghi chú": "Hệ liên kết, TB điểm tổng kết các HK (05 HK đối với HS tốt nghiệp 2024 và 06 học kỳ với TS tốt nghiệp năm 2023 trở về trước)"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Địa chất (Địa chất - Địa vật lý Dầu khí)",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "31",
+          "Ghi chú": "Hệ chính quy; ĐTB 4 môn Toán, Lý, Hóa, Anh"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Dầu khí (Khoan-Khai thác Mỏ Dầu khí)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "7",
+          "Ghi chú": "Hệ liên kết, TB điểm tổng kết các HK (05 HK đối với HS tốt nghiệp 2024 và 06 học kỳ với TS tốt nghiệp năm 2023 trở về trước)"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Dầu khí (Khoan-Khai thác Mỏ Dầu khí)",
+          "Tổ hợp môn": "A00; A01; D07",
+          "Điểm chuẩn": "31",
+          "Ghi chú": "Hệ chính quy; ĐTB 4 môn Toán, Lý, Hóa, Anh"
+        }
+      ],
+      "row_count": 8
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Khoa học Máy tính (Khoa học dữ liệu, Trí tuệ nhân tạo)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": "Hệ liên kết"
+        },
+        {
+          "Tên ngành": "Khoa học Máy tính (Khoa học dữ liệu, Trí tuệ nhân tạo)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "95",
+          "Ghi chú": "Hệ chính quy"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Hóa học (Lọc-Hóa dầu)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": "Hệ liên kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Hóa học (Lọc-Hóa dầu)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "95",
+          "Ghi chú": "Hệ chính quy"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Địa chất (Địa chất - Địa vật lý Dầu khí)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": "Hệ liên kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Địa chất (Địa chất - Địa vật lý Dầu khí)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "95",
+          "Ghi chú": "Hệ chính quy"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Dầu khí (Khoan-Khai thác Mỏ Dầu khí)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "95",
+          "Ghi chú": "Hệ chính quy"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Dầu khí (Khoan-Khai thác Mỏ Dầu khí)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": "Hệ liên kết"
+        }
+      ],
+      "row_count": 8
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Khoa học Máy tính (Khoa học dữ liệu, Trí tuệ nhân tạo)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "750",
+          "Ghi chú": "Hệ chính quy"
+        },
+        {
+          "Tên ngành": "Khoa học Máy tính (Khoa học dữ liệu, Trí tuệ nhân tạo)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": "Hệ liên kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Hóa học (Lọc-Hóa dầu)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": "Hệ liên kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Hóa học (Lọc-Hóa dầu)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "750",
+          "Ghi chú": "Hệ chính quy"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Địa chất (Địa chất - Địa vật lý Dầu khí)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": "Hệ liên kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Địa chất (Địa chất - Địa vật lý Dầu khí)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "750",
+          "Ghi chú": "Hệ chính quy"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Dầu khí (Khoan-Khai thác Mỏ Dầu khí)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "750",
+          "Ghi chú": "Hệ chính quy"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Dầu khí (Khoan-Khai thác Mỏ Dầu khí)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "700",
+          "Ghi chú": "Hệ liên kết"
+        }
+      ],
+      "row_count": 8
+    },
+    {
+      "table_title": "Điểm Đánh giá Tư duy năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Khoa học Máy tính (Khoa học dữ liệu, Trí tuệ nhân tạo)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "60",
+          "Ghi chú": "Hệ liên kết"
+        },
+        {
+          "Tên ngành": "Khoa học Máy tính (Khoa học dữ liệu, Trí tuệ nhân tạo)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "72",
+          "Ghi chú": "Hệ chính quy"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Hóa học (Lọc-Hóa dầu)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "72",
+          "Ghi chú": "Hệ chính quy"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Hóa học (Lọc-Hóa dầu)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "60",
+          "Ghi chú": "Hệ liên kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Địa chất (Địa chất - Địa vật lý Dầu khí)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "72",
+          "Ghi chú": "Hệ chính quy"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Địa chất (Địa chất - Địa vật lý Dầu khí)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "60",
+          "Ghi chú": "Hệ liên kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Dầu khí (Khoan-Khai thác Mỏ Dầu khí)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "60",
+          "Ghi chú": "Hệ liên kết"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Dầu khí (Khoan-Khai thác Mỏ Dầu khí)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "72",
+          "Ghi chú": "Hệ chính quy"
+        }
+      ],
+      "row_count": 8
+    }
+  ],
+  "table_count": 5,
+  "crawled_at": "2025-07-18T23:30:00.758673",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-dau-khi-viet-nam-PVU.html"
+}

@@ -1,0 +1,153 @@
+{
+  "school_code": "ANH",
+  "school_name": "Học Viện An Ninh Nhân Dân",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngành Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "18.69",
+          "Ghi chú": "Đối với nam (Không tuyển nữ)"
+        },
+        {
+          "Tên ngành": "Ngành Y khoa (gửi đào tạo tại Học viện Quân y)",
+          "Tổ hợp môn": "B00; A00",
+          "Điểm chuẩn": "18.75",
+          "Ghi chú": "Đối với Nam"
+        },
+        {
+          "Tên ngành": "Ngành Y khoa (gửi đào tạo tại Học viện Quân y)",
+          "Tổ hợp môn": "B00; A00",
+          "Điểm chuẩn": "20.85",
+          "Ghi chú": "Đối với Nữ"
+        },
+        {
+          "Tên ngành": "Ngành Nghiệp vụ an ninh",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "21.43",
+          "Ghi chú": "Nam, vùng 1, bài thi CA1"
+        },
+        {
+          "Tên ngành": "Ngành Nghiệp vụ an ninh",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "21.6",
+          "Ghi chú": "Nam, vùng 1, bài thi CA2; (tiêu chí phụ TS có tổng điểm 3 môn thuộc tổ hợp xét tuyển (tỉ lệ 40%) và điểm bài thi đánh giá của BCA (tỉ lệ 60%) cùng đạt mức điểm xét tuyển 21.60 điểm, chưa tính điểm ưu tiên)"
+        },
+        {
+          "Tên ngành": "Ngành Nghiệp vụ an ninh",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "21.87",
+          "Ghi chú": "Nam, vùng 2, bài thi CA2"
+        },
+        {
+          "Tên ngành": "Ngành Nghiệp vụ an ninh",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "22.1",
+          "Ghi chú": "Nam, vùng 2, bài thi CA1"
+        },
+        {
+          "Tên ngành": "Ngành Nghiệp vụ an ninh",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "22.02",
+          "Ghi chú": "Nam, vùng 3, bài thi CA1"
+        },
+        {
+          "Tên ngành": "Ngành Nghiệp vụ an ninh",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "22.29",
+          "Ghi chú": "Nam, vùng 3, bài thi CA2"
+        },
+        {
+          "Tên ngành": "Ngành Nghiệp vụ an ninh",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "19.97",
+          "Ghi chú": "Nam, vùng 8, bài thi CA1"
+        },
+        {
+          "Tên ngành": "Ngành Nghiệp vụ an ninh",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "21.49",
+          "Ghi chú": "Nam, vùng 8, bài thi CA2"
+        },
+        {
+          "Tên ngành": "Ngành Nghiệp vụ an ninh",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "24.72",
+          "Ghi chú": "Nữ, vùng 1, bài thi CA2"
+        },
+        {
+          "Tên ngành": "Ngành Nghiệp vụ an ninh",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "24.21",
+          "Ghi chú": "Nữ, vùng 1, bài thi CA1"
+        },
+        {
+          "Tên ngành": "Ngành Nghiệp vụ an ninh",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "24.2",
+          "Ghi chú": "Nữ, vùng 2, bài thi CA2"
+        },
+        {
+          "Tên ngành": "Ngành Nghiệp vụ an ninh",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "23.42",
+          "Ghi chú": "Nữ, vùng 2, bài thi CA1"
+        },
+        {
+          "Tên ngành": "Ngành Nghiệp vụ an ninh",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "23.35",
+          "Ghi chú": "Nữ, vùng 3, bài thi CA1"
+        },
+        {
+          "Tên ngành": "Ngành Nghiệp vụ an ninh",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "25.42",
+          "Ghi chú": "Nữ, vùng 3, bài thi CA2"
+        },
+        {
+          "Tên ngành": "Ngành Nghiệp vụ an ninh",
+          "Tổ hợp môn": "A00; A01; C03; D01",
+          "Điểm chuẩn": "17.5",
+          "Ghi chú": "Nữ, vùng 8, bài thi CA2"
+        },
+        {
+          "Tên ngành": "Ngành An ninh mạng và phòng chống tội phạm công nghệ cao",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "21.17",
+          "Ghi chú": "Nam, phía Bắc"
+        },
+        {
+          "Tên ngành": "Ngành An ninh mạng và phòng chống tội phạm công nghệ cao",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "19.39",
+          "Ghi chú": "Nam, phía Nam"
+        },
+        {
+          "Tên ngành": "Ngành An ninh mạng và phòng chống tội phạm công nghệ cao",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "Nữ, phía Bắc"
+        },
+        {
+          "Tên ngành": "Ngành An ninh mạng và phòng chống tội phạm công nghệ cao",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "20.71",
+          "Ghi chú": "Nữ, phía Nam"
+        }
+      ],
+      "row_count": 22
+    }
+  ],
+  "table_count": 1,
+  "crawled_at": "2025-07-18T23:22:58.010368",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-an-ninh-nhan-dan-ANH.html"
+}

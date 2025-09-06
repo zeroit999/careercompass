@@ -1,0 +1,189 @@
+{
+  "school_code": "DQU",
+  "school_name": "Trường Đại Học Quảng Nam",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Giáo dục Mầm non",
+          "Tổ hợp môn": "M00; M01; M02; M03",
+          "Điểm chuẩn": "24.26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Giáo dục Tiểu học",
+          "Tổ hợp môn": "A00; C00; C14; D01",
+          "Điểm chuẩn": "25.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Toán",
+          "Tổ hợp môn": "A00; A01; C14; D01",
+          "Điểm chuẩn": "24.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Vật lý",
+          "Tổ hợp môn": "A00; A01; A02; D11",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Sinh",
+          "Tổ hợp môn": "A02; B00; D08; D13",
+          "Điểm chuẩn": "21.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Ngữ văn",
+          "Tổ hợp môn": "C00; C19; C20; D14",
+          "Điểm chuẩn": "25.74",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sư phạm Tiếng Anh",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "23.94",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D11; D66",
+          "Điểm chuẩn": "14",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Lịch sử",
+          "Tổ hợp môn": "A08; C00; C19; D14",
+          "Điểm chuẩn": "23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Việt Nam học (Văn hóa - Du lịch)",
+          "Tổ hợp môn": "A09; C00; C20; D01",
+          "Điểm chuẩn": "14",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị Kinh doanh",
+          "Tổ hợp môn": "D01; A00; D84; D96",
+          "Điểm chuẩn": "14",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Thông tin",
+          "Tổ hợp môn": "A00; A01; C14; D01",
+          "Điểm chuẩn": "14",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Bảo vệ thực vật",
+          "Tổ hợp môn": "A02; B00; D08; D13",
+          "Điểm chuẩn": "14",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 13
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Giáo dục Mầm non",
+          "Tổ hợp môn": "M00; M01; M02; M03",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "HK lớp 12 loại Giỏi"
+        },
+        {
+          "Tên ngành": "Giáo dục Tiểu học",
+          "Tổ hợp môn": "A00; C00; C14; D01",
+          "Điểm chuẩn": "27.53",
+          "Ghi chú": "HK lớp 12 loại Giỏi"
+        },
+        {
+          "Tên ngành": "Sư phạm Toán",
+          "Tổ hợp môn": "A00; A01; C14; D01",
+          "Điểm chuẩn": "27.4",
+          "Ghi chú": "HK lớp 12 loại Giỏi"
+        },
+        {
+          "Tên ngành": "Sư phạm Vật lý",
+          "Tổ hợp môn": "A00; A01; A02; D11",
+          "Điểm chuẩn": "27.97",
+          "Ghi chú": "HK lớp 12 loại Giỏi"
+        },
+        {
+          "Tên ngành": "Sư phạm Sinh",
+          "Tổ hợp môn": "A02; B00; D08; D13",
+          "Điểm chuẩn": "27.21",
+          "Ghi chú": "HK lớp 12 loại Giỏi"
+        },
+        {
+          "Tên ngành": "Sư phạm Ngữ văn",
+          "Tổ hợp môn": "C00; C19; C20; D14",
+          "Điểm chuẩn": "27.28",
+          "Ghi chú": "HK lớp 12 loại Giỏi"
+        },
+        {
+          "Tên ngành": "Sư phạm Tiếng Anh",
+          "Tổ hợp môn": "A01; D01; D14; D15",
+          "Điểm chuẩn": "27.15",
+          "Ghi chú": "HK lớp 12 loại Giỏi"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D11; D66",
+          "Điểm chuẩn": "19.85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Lịch sử",
+          "Tổ hợp môn": "A08; C00; C19; D14",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Việt Nam học",
+          "Tổ hợp môn": "A09; C00; C20; D01",
+          "Điểm chuẩn": "18.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "D01; A00; D84; D96",
+          "Điểm chuẩn": "19.95",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Thông tin",
+          "Tổ hợp môn": "A00; A01; C14; D01",
+          "Điểm chuẩn": "19.15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Bảo vệ thực vật",
+          "Tổ hợp môn": "A02; B00; D08; D13",
+          "Điểm chuẩn": "19.05",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 13
+    }
+  ],
+  "table_count": 2,
+  "crawled_at": "2025-07-18T23:26:49.732943",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-quang-nam-DQU.html"
+}

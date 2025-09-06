@@ -1,0 +1,1239 @@
+{
+  "school_code": "DCN",
+  "school_name": "Trường Đại Học Công Nghiệp Hà Nội",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Thiết kế thời trang",
+          "Tổ hợp môn": "A00; A01; D01; D14",
+          "Điểm chuẩn": "23.56",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "24.68",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "D01; D04",
+          "Điểm chuẩn": "25.58",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc (LK2+2 với ĐHKHKT Quảng Tây)",
+          "Tổ hợp môn": "D01; D04",
+          "Điểm chuẩn": "24.91",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật",
+          "Tổ hợp môn": "D01; D06",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "DD2; D01",
+          "Điểm chuẩn": "24.86",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ học",
+          "Tổ hợp môn": "C00; D01; D14",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế đầu tư",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "24.64",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Trung Quốc học",
+          "Tổ hợp môn": "D04; D01",
+          "Điểm chuẩn": "24.51",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ đa phương tiện",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "24.91",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "24.31",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "25.33",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Phân tích dữ liệu kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "24.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính – Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "24.74",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "24.01",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "24.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "24.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "24.01",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "25.32",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Mạng máy tính và truyền thông dữ liệu",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "24.35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "24.68",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "24.44",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật máy tính",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "24.55",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "25.22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "An toàn thông tin",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "24.39",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "24.35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "25.41",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử ô tô",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "24.97",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "24.82",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật nhiệt",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "23.57",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Robot và trí tuệ nhân tạo",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "25.01",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế cơ khí và kiểu dáng công nghiệp",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "22.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện, điện tử",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "24.51",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "24.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử y sinh",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "21.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hóa",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "26.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật sản xuất thông minh",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "22.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật hoá học",
+          "Tổ hợp môn": "A00; B00; D07",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật môi trường",
+          "Tổ hợp môn": "A00; B00; D07",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; B00; D01",
+          "Điểm chuẩn": "25.89",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật khuôn mẫu",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "23.19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Năng lượng tái tạo",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "20.65",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí động lực",
+          "Tổ hợp môn": "A00; B00; D07",
+          "Điểm chuẩn": "23.93",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật hệ thống công nghiệp",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "23.61",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; B00; D07",
+          "Điểm chuẩn": "22.65",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ vật liệu dệt, may",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "20.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ dệt, may",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "21.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hóa dược",
+          "Tổ hợp môn": "A00; B00; D07",
+          "Điểm chuẩn": "21.55",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch",
+          "Tổ hợp môn": "D01; D14; D15",
+          "Điểm chuẩn": "22.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "A01; D01; D14",
+          "Điểm chuẩn": "23.77",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "A01; D01; D14",
+          "Điểm chuẩn": "23.56",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị nhà hàng và dịch vụ ăn uống",
+          "Tổ hợp môn": "A01; D01; D14",
+          "Điểm chuẩn": "23.19",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 52
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Thiết kế thời trang",
+          "Tổ hợp môn": "A00; A01; D01; D14",
+          "Điểm chuẩn": "27.17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "27.37",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "D01; D04",
+          "Điểm chuẩn": "27.62",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc (Chương trình liên kết đào tạo 2+2 với ĐH Khoa học kỹ thuật Quảng Tây - Trung Quốc)",
+          "Tổ hợp môn": "D01; D04",
+          "Điểm chuẩn": "26.85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật",
+          "Tổ hợp môn": "D01; D06",
+          "Điểm chuẩn": "27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "D01; DD2",
+          "Điểm chuẩn": "27.22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ học",
+          "Tổ hợp môn": "C00; D01; D14",
+          "Điểm chuẩn": "26.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế đầu tư",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "27.64",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Trung Quốc học",
+          "Tổ hợp môn": "D01; D04",
+          "Điểm chuẩn": "26.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ đa phương tiện",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "27.95",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "27.87",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "28.55",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Phân tích dữ liệu kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "27.58",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "28.01",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "27.69",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "28.11",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "27.84",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "27.49",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "28.77",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Mạng máy tính và truyền thông dữ liệu",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "28.16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "28.42",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "28.01",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật máy tính",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "28.01",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "28.89",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "An toàn thông tin",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "28.29",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "27.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "28.71",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử ô tô",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "27.84",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "28.11",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật nhiệt",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "26.36",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Robot và trí tuệ nhân tạo",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "28.44",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế cơ khí và kiểu dáng công nghiệp",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "26.62",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện; điện tử",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "27.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "27.92",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử y sinh",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "27.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hóa",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "28.97",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật sản xuất thông minh",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "26.99",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật hóa học",
+          "Tổ hợp môn": "A00; B00; D07",
+          "Điểm chuẩn": "26.91",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật môi trường",
+          "Tổ hợp môn": "A00; B00; D07",
+          "Điểm chuẩn": "26.55",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "28.91",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật khuôn mẫu",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "26.73",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Năng lượng tái tạo",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí động lực",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "27.49",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật hệ thống công nghiệp",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "27.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; B00; D07",
+          "Điểm chuẩn": "27.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ vật liệu dệt; may",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "26.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ dệt; may",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "25.74",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hóa dược",
+          "Tổ hợp môn": "A00; B00; D07",
+          "Điểm chuẩn": "27.94",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch",
+          "Tổ hợp môn": "D01; D14; D15",
+          "Điểm chuẩn": "26.16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "A01; D01; D14",
+          "Điểm chuẩn": "27.26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "A01; D01; D14",
+          "Điểm chuẩn": "27.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị nhà hàng và dịch vụ ăn uống",
+          "Tổ hợp môn": "A01; D01; D14",
+          "Điểm chuẩn": "27.03",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 52
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế đầu tư",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Phân tích dữ liệu kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị nhà hàng và dịch vụ ăn uống",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 15
+    },
+    {
+      "table_title": "Điểm Đánh giá Tư duy năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Công nghệ đa phương tiện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.61",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.01",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Mạng máy tính và truyền thông dữ liệu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.04",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.01",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.07",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.29",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.02",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử ô tô",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật nhiệt",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Robot và trí tuệ nhân tạo",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện; điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.06",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử y sinh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.07",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.01",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật sản xuất thông minh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.57",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật hóa học",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.53",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật khuôn mẫu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.16",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Năng lượng tái tạo",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.36",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí động lực",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.53",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật hệ thống công nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.41",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hóa dược",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.26",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 25
+    },
+    {
+      "table_title": "Điểm xét tuyển kết hợp năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Thiết kế thời trang",
+          "Tổ hợp môn": "A00; A01; D01; D14",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "26.19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc",
+          "Tổ hợp môn": "D01; D04",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Trung Quốc (Chương trình liên kết đào tạo 2+2 với ĐH Khoa học kỹ thuật Quảng Tây - Trung Quốc)",
+          "Tổ hợp môn": "D01; D04",
+          "Điểm chuẩn": "26.01",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Nhật",
+          "Tổ hợp môn": "D01; D06",
+          "Điểm chuẩn": "24.99",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Hàn Quốc",
+          "Tổ hợp môn": "D01; DD2",
+          "Điểm chuẩn": "24.74",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngôn ngữ học",
+          "Tổ hợp môn": "D01; D14; C00",
+          "Điểm chuẩn": "26.68",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế đầu tư",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "25.67",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Trung Quốc học",
+          "Tổ hợp môn": "D01; D04",
+          "Điểm chuẩn": "24.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ đa phương tiện",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "26.46",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "25.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Phân tích dữ liệu kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "25.77",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "25.04",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "25.17",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "25.81",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "25.74",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị văn phòng",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "24.73",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "26.15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Mạng máy tính và truyền thông dữ liệu",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "25.76",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "25.67",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "26.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật máy tính",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "25.76",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "An toàn thông tin",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ khí",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "24.91",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "26.01",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật cơ điện tử ô tô",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "25.92",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật ô tô",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "24.21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật nhiệt",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "27.38",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Robot và trí tuệ nhân tạo",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "25.77",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thiết kế cơ khí và kiểu dáng công nghiệp",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "25.71",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện; điện tử",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "25.82",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử - viễn thông",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "25.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điện tử y sinh",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "27.99",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật điều khiển và tự động hóa",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật sản xuất thông minh",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "26.58",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật hóa học",
+          "Tổ hợp môn": "A00; B00; D07",
+          "Điểm chuẩn": "25.99",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật môi trường",
+          "Tổ hợp môn": "A00; B00; D07",
+          "Điểm chuẩn": "25.62",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ kỹ thuật khuôn mẫu",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "26.73",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Năng lượng tái tạo",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "25.56",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật cơ khí động lực",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "28.32",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thực phẩm",
+          "Tổ hợp môn": "A00; B00; D07",
+          "Điểm chuẩn": "25.78",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ vật liệu dệt; may",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "27.12",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ dệt; may",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hóa dược",
+          "Tổ hợp môn": "A00; B00; D07",
+          "Điểm chuẩn": "25.91",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Du lịch",
+          "Tổ hợp môn": "D01; D14; D15",
+          "Điểm chuẩn": "25.79",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "A01; D01; D14",
+          "Điểm chuẩn": "25.38",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "A01; D01; D14",
+          "Điểm chuẩn": "25.76",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị nhà hàng và dịch vụ ăn uống",
+          "Tổ hợp môn": "A01; D01; D14",
+          "Điểm chuẩn": "26.73",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 51
+    }
+  ],
+  "table_count": 5,
+  "crawled_at": "2025-07-18T23:22:47.878593",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-cong-nghiep-ha-noi-DCN.html"
+}

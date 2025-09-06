@@ -1,0 +1,69 @@
+{
+  "school_code": "TDS",
+  "school_name": "Trường Đại Học Thể Dục Thể Thao TPHCM",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Y sinh học thể dục thể thao",
+          "Tổ hợp môn": "T00; T04; T05; T06",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Điểm thi TN THPT kết hợp với năng khiếu"
+        },
+        {
+          "Tên ngành": "Quản lý thể dục thể thao",
+          "Tổ hợp môn": "T00; T04; T05; T06",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Điểm thi TN THPT kết hợp với năng khiếu"
+        },
+        {
+          "Tên ngành": "Huấn luyện thể thao",
+          "Tổ hợp môn": "T00; T04; T05; T06",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Điểm thi TN THPT kết hợp với năng khiếu"
+        }
+      ],
+      "row_count": 3
+    },
+    {
+      "table_title": "Điểm xét tuyển kết hợp năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Y sinh học thể dục thể thao",
+          "Tổ hợp môn": "T00; T04; T05; T06",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Học bạ kết hợp với năng khiếu"
+        },
+        {
+          "Tên ngành": "Quản lý thể dục thể thao",
+          "Tổ hợp môn": "T00; T04; T05; T06",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Học bạ kết hợp với năng khiếu"
+        },
+        {
+          "Tên ngành": "Huấn luyện thể thao",
+          "Tổ hợp môn": "T00; T04; T05; T06",
+          "Điểm chuẩn": "24",
+          "Ghi chú": "Học bạ kết hợp với năng khiếu"
+        }
+      ],
+      "row_count": 3
+    }
+  ],
+  "table_count": 2,
+  "crawled_at": "2025-07-18T23:27:33.769878",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-the-duc-the-thao-tphcm-TDS.html"
+}

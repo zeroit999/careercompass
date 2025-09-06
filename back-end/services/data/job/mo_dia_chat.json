@@ -1,0 +1,276 @@
+{
+  "nhom_nganh": "Mỏ - Địa chất",
+  "danh_sach_nganh": [
+    {
+      "ten_nganh": "Kỹ thuật trắc địa - bản đồ",
+      "data": [
+        {
+          "ten_truong": "Trường Đại học Tài Nguyên và Môi Trường Hà Nội - DMT",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật trắc địa bản đồ",
+              "to_hop_mon": "A00; A01; D15; D01; C01; C02; X03; X04; X02; C04; B03; C03; C14",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Mỏ Địa Chất - MDA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật trắc địa - bản đồ",
+              "to_hop_mon": "A00; A01; C04; D01; D10",
+              "diem_chuan_2024": "15.5",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Huế - DHT",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật trắc địa - bản đồ",
+              "to_hop_mon": "A00; C04; D01; D84; X25",
+              "diem_chuan_2024": "15.5",
+              "diem_chuan_2023": "15.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Tài Nguyên và Môi Trường TPHCM - DTM",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật trắc địa – bản đồ",
+              "to_hop_mon": "C01; C02; C03; C04; B03; D01; X01; X03; X04",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Kỹ thuật địa chất",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Tự Nhiên TPHCM - QST",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật địa chất",
+              "to_hop_mon": "A00; A01; B00; D07; D10; D01; C04; C01; C02; X26; X06",
+              "diem_chuan_2024": "19.5",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Tài Nguyên và Môi Trường Hà Nội - DMT",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật địa chất",
+              "to_hop_mon": "A00; A01; D15; D01; C01; C02; X03; X04; X02; C04; B03; C03; C14",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Mỏ Địa Chất - MDA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật địa chất",
+              "to_hop_mon": "A00; C04; D01; A01; C01; C02; D07; D10",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Dầu Khí Việt Nam - PVU",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật Địa chất",
+              "to_hop_mon": "A00; A01; A02; B00; C01; C02; D07; X11; X12; X10; X07; X08; X06",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "18.5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Địa chất học",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Tự Nhiên TPHCM - QST",
+          "data_school": [
+            {
+              "ten_nganh": "Nhóm ngành Địa chất học",
+              "to_hop_mon": "A00; A01; B00; C04; D10; D07; D01; X26; X02; A06; B02; C02; A07; C01",
+              "diem_chuan_2024": "19.5",
+              "diem_chuan_2023": ""
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Khoa Học Tự Nhiên Hà Nội - QHT",
+          "data_school": [
+            {
+              "ten_nganh": "Địa chất học",
+              "to_hop_mon": "A00; A01; A04; A06; A07; B00; B03; C01; C02; C04; D01; D07; D08; D09; D10; X01; X05; X09; X21; X25",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "20"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Mỏ Địa Chất - MDA",
+          "data_school": [
+            {
+              "ten_nganh": "Địa chất học",
+              "to_hop_mon": "D01; D10; C04; D07; C01; A06; A00; A04",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "16"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại học Tài Nguyên và Môi Trường TPHCM - DTM",
+          "data_school": [
+            {
+              "ten_nganh": "Địa chất học",
+              "to_hop_mon": "C01; C02; C03; C04; B03; D01; X01; X03; X04",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Công nghệ, kỹ thuật dầu khí",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Bách Khoa Đà Nẵng - DDK",
+          "data_school": [
+            {
+              "ten_nganh": "Công nghệ dầu khí và khai thác dầu",
+              "to_hop_mon": "A00; A01; C01; C02; D01; D07",
+              "diem_chuan_2024": "22.8",
+              "diem_chuan_2023": "21.75"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Mỏ Địa Chất - MDA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật dầu khí",
+              "to_hop_mon": "A00; A01; D07; D01; C02; B00; B02; B08",
+              "diem_chuan_2024": "19",
+              "diem_chuan_2023": "18.5"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Dầu Khí Việt Nam - PVU",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật Dầu khí",
+              "to_hop_mon": "A00; A01; A02; B00; C01; C02; D07; X11; X12; X10; X07; X08; X06",
+              "diem_chuan_2024": "20",
+              "diem_chuan_2023": "18.5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Đá quý Đá mỹ nghệ",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Mỏ Địa Chất - MDA",
+          "data_school": [
+            {
+              "ten_nganh": "Đá quý, đá mỹ nghệ",
+              "to_hop_mon": "C04; D01; C01; C02; A00; A04; D10; D15",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Kỹ thuật mỏ",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Mỏ Địa Chất - MDA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ Thuật Mỏ",
+              "to_hop_mon": "A00; A01; B03; C02; C03; C04; D01; D10",
+              "diem_chuan_2024": "17",
+              "diem_chuan_2023": "17"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp Quảng Ninh - DDM",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật mỏ",
+              "to_hop_mon": "A00; A01; D01; D04; X17; X21; X23",
+              "diem_chuan_2024": "15",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Kỹ thuật địa vật lý",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Mỏ Địa Chất - MDA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật Địa vật Lí",
+              "to_hop_mon": "A00; A01; D07; A04; A06; B00; B02; B08",
+              "diem_chuan_2024": "16",
+              "diem_chuan_2023": "18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_nganh": "Kỹ thuật tuyển khoáng",
+      "data": [
+        {
+          "ten_truong": "Trường Đại Học Mỏ Địa Chất - MDA",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật tuyển khoáng",
+              "to_hop_mon": "A00; A01; B03; C02; C03; C04; D01; D10",
+              "diem_chuan_2024": "18",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        },
+        {
+          "ten_truong": "Trường Đại Học Công Nghiệp Quảng Ninh - DDM",
+          "data_school": [
+            {
+              "ten_nganh": "Kỹ thuật tuyển khoáng",
+              "to_hop_mon": "A00; A01; D01; D04; X17; X21; X23",
+              "diem_chuan_2024": "",
+              "diem_chuan_2023": "15"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

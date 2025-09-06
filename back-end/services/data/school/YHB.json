@@ -1,0 +1,213 @@
+{
+  "school_code": "YHB",
+  "school_name": "Trường Đại Học Y Hà Nội",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": "28.83",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "26.86",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "25.46",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "28.27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y khoa Phân hiệu Thanh Hóa",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "26.67",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y học dự phòng",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "22.94",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y học cổ truyền",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "25.29",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều dưỡng chương trình tiên tiến",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "24.59",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều dưỡng Phân hiệu Thanh Hóa",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "20.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hộ sinh",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "22.95",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dinh dưỡng",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "23.33",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Răng hàm mặt",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "27.67",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phục hồi hình răng",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "24.15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xét nghiệm Y học",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "25.35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Xét nghiệm y học Phân hiệu Thanh Hóa",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phục hồi chức năng",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "24.07",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Phục hồi chức năng Phân hiệu Thanh Hóa",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "19",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khúc xạ nhãn khoa",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "25.38",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y tế công cộng",
+          "Tổ hợp môn": "B08",
+          "Điểm chuẩn": "22.35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y tế công cộng",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": "24.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y tế công cộng",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "22.85",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 21
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Điều dưỡng Phân hiệu Thanh Hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "77.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hộ sinh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "76.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Xét nghiệm y học Phân hiệu Thanh Hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "87.5",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 3
+    },
+    {
+      "table_title": "Điểm xét tuyển kết hợp năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "26.55",
+          "Ghi chú": "Kết hợp điểm thi tốt nghiệp THPT với CCNN QT"
+        },
+        {
+          "Tên ngành": "Y khoa Phân hiệu Thanh Hóa",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "25.07",
+          "Ghi chú": "Kết hợp điểm thi tốt nghiệp THPT với CCNN QT"
+        },
+        {
+          "Tên ngành": "Điều dưỡng chương trình tiên tiến",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "21.75",
+          "Ghi chú": "Kết hợp điểm thi tốt nghiệp THPT với CCNN QT"
+        },
+        {
+          "Tên ngành": "Răng hàm mặt",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "26.1",
+          "Ghi chú": "Kết hợp điểm thi tốt nghiệp THPT với CCNN QT"
+        }
+      ],
+      "row_count": 4
+    }
+  ],
+  "table_count": 3,
+  "crawled_at": "2025-07-18T23:22:24.634509",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-y-ha-noi-YHB.html"
+}

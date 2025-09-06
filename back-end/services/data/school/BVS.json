@@ -1,0 +1,429 @@
+{
+  "school_code": "BVS",
+  "school_name": "Học Viện Công Nghệ Bưu Chính Viễn Thông (Cơ sở TP.HCM)",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Công nghệ đa phương tiện",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "23.95",
+          "Ghi chú": "TTNV<=3"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "18.4",
+          "Ghi chú": "TTNV<=3"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "24.24",
+          "Ghi chú": "TTNV<=5"
+        },
+        {
+          "Tên ngành": "Marketing chất lượng cao",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "TTNV<=5"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "20.95",
+          "Ghi chú": "TTNV<=23"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "25.17",
+          "Ghi chú": "TTNV<=8"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin chất lượng cao",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "23.25",
+          "Ghi chú": "TTNV<=3"
+        },
+        {
+          "Tên ngành": "An toàn thông tin",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "24.68",
+          "Ghi chú": "TTNV<=11"
+        },
+        {
+          "Tên ngành": "Công nghệ Kỹ thuật Điện, điện tử",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "20.85",
+          "Ghi chú": "TTNV<=4"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điện tử viễn thông",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "23.23",
+          "Ghi chú": "TTNV<=7"
+        },
+        {
+          "Tên ngành": "Công nghệ Inernet vạn vật (IoT)",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "18",
+          "Ghi chú": "TTNV<=3"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điều khiển và tự động hóa",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "19.65",
+          "Ghi chú": "TTNV<=6"
+        }
+      ],
+      "row_count": 12
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Công nghệ đa phương tiện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.93",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.88",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.01",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.03",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "An toàn thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Kỹ thuật Điện, điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.08",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điện tử viễn thông",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Inernet vạn vật (loT)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.33",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điều khiển và tự động hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.18",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 12
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Công nghệ đa phương tiện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.93",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.88",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.01",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.03",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "An toàn thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Kỹ thuật Điện, điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.08",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điện tử viễn thông",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Inernet vạn vật (loT)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.33",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điều khiển và tự động hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.18",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 12
+    },
+    {
+      "table_title": "Điểm Đánh giá Tư duy năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Công nghệ đa phương tiện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.93",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.28",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.88",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.01",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.03",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "An toàn thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Kỹ thuật Điện, điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.08",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điện tử viễn thông",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ Inernet vạn vật (loT)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "18.33",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điều khiển và tự động hóa",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "16.18",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 12
+    },
+    {
+      "table_title": "Điểm xét tuyển kết hợp năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Công nghệ đa phương tiện",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "23.46",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "0",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "23.87",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "21.53",
+          "Ghi chú": "Học bạ và CCQT, CT chất lượng cao"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "22.8",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "22.2",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D01",
+          "Điểm chuẩn": "23.36",
+          "Ghi chú": "Học bạ và CCQT, CT chất lượng cao"
+        },
+        {
+          "Tên ngành": "An toàn thông tin",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "21.89",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Công nghệ Kỹ thuật Điện, điện tử",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "24.36",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điện tử viễn thông",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "23.77",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Công nghệ Inernet vạn vật (loT)",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "24.83",
+          "Ghi chú": "Học bạ và CCQT"
+        },
+        {
+          "Tên ngành": "Kỹ thuật Điều khiển và tự động hóa",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "23.7",
+          "Ghi chú": "Học bạ và CCQT"
+        }
+      ],
+      "row_count": 12
+    }
+  ],
+  "table_count": 5,
+  "crawled_at": "2025-07-18T23:25:22.771726",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-cong-nghe-buu-chinh-vien-thong-phia-nam-BVS.html"
+}

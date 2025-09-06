@@ -1,0 +1,194 @@
+services:
+  # Redis for rate limiting and caching
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    command: redis-server --appendonly yes
+    networks:
+      - career_compass_network
+
+  # MongoDB for RAG system
+  mongodb:
+    image: mongo:7
+    ports:
+      - "27017:27017"
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: password
+    volumes:
+      - mongodb_data:/data/db
+    networks:
+      - career_compass_network
+
+  # CV Evaluation Service (Flask)
+  cv-evaluation:
+    build: .
+    ports:
+      - "5000:5000"
+    environment:
+      - FLASK_HOST=0.0.0.0
+      - FLASK_PORT=5000
+      - FLASK_DEBUG=false
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - JWT_SECRET_KEY=${JWT_SECRET_KEY}
+      - FLASK_SECRET_KEY=${FLASK_SECRET_KEY}
+      - ALLOWED_ORIGINS=${ALLOWED_ORIGINS}
+      - REDIS_URL=redis://redis:6379
+      - RATE_LIMIT_STORAGE=redis
+      - ENVIRONMENT=production
+    command: ["python", "services/evaluate_cv_simple.py"]
+    depends_on:
+      - redis
+    volumes:
+      - cv_uploads:/app/data/interview/cv
+    networks:
+      - career_compass_network
+    restart: unless-stopped
+
+  # Interview Service (Flask)
+  interview:
+    build: .
+    ports:
+      - "5005:5005"
+    environment:
+      - FLASK_HOST=0.0.0.0
+      - FLASK_PORT=5005
+      - FLASK_DEBUG=false
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - JWT_SECRET_KEY=${JWT_SECRET_KEY}
+      - FLASK_SECRET_KEY=${FLASK_SECRET_KEY}
+      - ALLOWED_ORIGINS=${ALLOWED_ORIGINS}
+      - REDIS_URL=redis://redis:6379
+      - RATE_LIMIT_STORAGE=redis
+      - ENVIRONMENT=production
+    command: ["python", "services/interview.py"]
+    depends_on:
+      - redis
+    volumes:
+      - interview_data:/app/data/interview
+    networks:
+      - career_compass_network
+    restart: unless-stopped
+
+  # Major List Service (FastAPI)
+  major-list:
+    build: .
+    ports:
+      - "8001:8001"
+    environment:
+      - ENVIRONMENT=production
+    command:
+      [
+        "uvicorn",
+        "services.list_major:app",
+        "--host",
+        "0.0.0.0",
+        "--port",
+        "8001",
+      ]
+    volumes:
+      - job_data:/app/services/data/job
+    networks:
+      - career_compass_network
+    restart: unless-stopped
+
+  # University List Service (FastAPI)
+  university-list:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      - ENVIRONMENT=production
+    command:
+      [
+        "uvicorn",
+        "services.list_university:app",
+        "--host",
+        "0.0.0.0",
+        "--port",
+        "8000",
+      ]
+    volumes:
+      - job_data:/app/services/data/job
+    networks:
+      - career_compass_network
+    restart: unless-stopped
+
+  # RAG Career Counseling Service (Flask)
+  rag-career-counseling:
+    build: .
+    ports:
+      - "5002:5002"
+    environment:
+      - FLASK_HOST=0.0.0.0
+      - FLASK_PORT=5002
+      - FLASK_DEBUG=false
+      - JWT_SECRET_KEY=${JWT_SECRET_KEY}
+      - FLASK_SECRET_KEY=${FLASK_SECRET_KEY}
+      - ALLOWED_ORIGINS=${ALLOWED_ORIGINS}
+      - REDIS_URL=redis://redis:6379
+      - MONGODB_URI=mongodb://admin:password@mongodb:27017
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - ENVIRONMENT=production
+    command: ["python", "rag/tools/web_server.py"]
+    depends_on:
+      - redis
+      - mongodb
+    volumes:
+      - rag_data:/app/rag/data
+    networks:
+      - career_compass_network
+    restart: unless-stopped
+
+  # Health Check Service
+  health-check:
+    build: .
+    ports:
+      - "5004:5004"
+    environment:
+      - FLASK_HOST=0.0.0.0
+      - FLASK_PORT=5004
+      - ENVIRONMENT=production
+    command: ["python", "services/health_check.py"]
+    depends_on:
+      - cv-evaluation
+      - interview
+      - major-list
+      - university-list
+      - rag-career-counseling
+    networks:
+      - career_compass_network
+    restart: unless-stopped
+
+  # Nginx Reverse Proxy (Optional)
+  nginx:
+    image: nginx:alpine
+    ports:
+      - "80:80"
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
+    depends_on:
+      - cv-evaluation
+      - interview
+      - major-list
+      - university-list
+      - rag-career-counseling
+      - health-check
+    networks:
+      - career_compass_network
+    restart: unless-stopped
+
+volumes:
+  redis_data:
+  mongodb_data:
+  cv_uploads:
+  interview_data:
+  job_data:
+  rag_data:
+
+networks:
+  career_compass_network:
+    driver: bridge

@@ -1,0 +1,201 @@
+{
+  "school_code": "VHS",
+  "school_name": "Trường Đại Học Văn Hóa TPHCM",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngành Văn hóa các dân tộc thiểu số Việt Nam",
+          "Tổ hợp môn": "C00; D01; D09; D15",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Văn hóa học, chuyên ngành Văn hóa Việt Nam",
+          "Tổ hợp môn": "C00; D01; D09; D15",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Văn hóa học, chuyên ngành Công nghiệp Văn hóa",
+          "Tổ hợp môn": "C00; D01; D09; D15",
+          "Điểm chuẩn": "26.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Văn hóa học, chuyên ngành Truyền thông Văn hóa",
+          "Tổ hợp môn": "C00; D01; D09; D15",
+          "Điểm chuẩn": "27.85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Quản lý văn hóa, chuyên ngành Quản lý hoạt động văn hóa xã hội",
+          "Tổ hợp môn": "C00; D01; D09; D15",
+          "Điểm chuẩn": "25.85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Quản lý văn hóa, chuyên ngành Quản lý di sản văn hóa và phát triển du lịch",
+          "Tổ hợp môn": "C00; D01; D09; D15",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Quản lý văn hóa, chuyên ngành Tổ chức, dàn dựng chương trình văn hóa nghệ thuật",
+          "Tổ hợp môn": "C00; D01; D09; D15",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Quản lý văn hóa, chuyên ngành Tổ chức sự kiện văn hóa, thể thao, du lịch",
+          "Tổ hợp môn": "C00; D01; D09; D15",
+          "Điểm chuẩn": "27.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Thông tin - Thư viện",
+          "Tổ hợp môn": "C00; D01; D09; D15",
+          "Điểm chuẩn": "24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Bảo tàng học",
+          "Tổ hợp môn": "C00; D01; D09; D15",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Kinh doanh xuất bản phẩm",
+          "Tổ hợp môn": "C00; D01; D10; D15",
+          "Điểm chuẩn": "25.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Du lịch",
+          "Tổ hợp môn": "C00; D01; D10; D15",
+          "Điểm chuẩn": "26.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Quản trị dịch vụ du lịch và lữ hành, chuyên ngành Quản trị lữ hành",
+          "Tổ hợp môn": "C00; D01; D10; D15",
+          "Điểm chuẩn": "27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Quản trị dịch vụ du lịch và lữ hành, chuyên ngành Hướng dẫn du lịch",
+          "Tổ hợp môn": "C00; D01; D10; D15",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 14
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngành Văn hóa các dân tộc thiểu số Việt Nam",
+          "Tổ hợp môn": "C00; D01; D09; D15",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Văn hóa học, chuyên ngành Văn hóa Việt Nam",
+          "Tổ hợp môn": "C00; D01; D09; D15",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Văn hóa học, chuyên ngành Công nghiệp Văn hóa",
+          "Tổ hợp môn": "C00; D01; D09; D15",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Văn hóa học, chuyên ngành Truyền thông Văn hóa",
+          "Tổ hợp môn": "C00; D01; D09; D15",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Quản lý văn hóa, chuyên ngành Quản lý hoạt động văn hóa xã hội",
+          "Tổ hợp môn": "C00; D01; D09; D15",
+          "Điểm chuẩn": "26.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Quản lý văn hóa, chuyên ngành Quản lý di sản văn hóa và phát triển du lịch",
+          "Tổ hợp môn": "C00; D01; D09; D15",
+          "Điểm chuẩn": "25.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Quản lý văn hóa, chuyên ngành Tổ chức, dàn dựng chương trình văn hóa nghệ thuật",
+          "Tổ hợp môn": "C00; D01; D09; D15",
+          "Điểm chuẩn": "22.03",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Quản lý văn hóa, chuyên ngành Tổ chức sự kiện văn hóa, thể thao, du lịch",
+          "Tổ hợp môn": "C00; D01; D09; D15",
+          "Điểm chuẩn": "27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Thông tin - Thư viện",
+          "Tổ hợp môn": "C00; D01; D09; D15",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Bảo tàng học",
+          "Tổ hợp môn": "C00; D01; D09; D15",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Kinh doanh xuất bản phẩm",
+          "Tổ hợp môn": "C00; D01; D10; D15",
+          "Điểm chuẩn": "26",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Du lịch",
+          "Tổ hợp môn": "C00; D01; D10; D15",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Quản trị dịch vụ du lịch và lữ hành, chuyên ngành Quản trị lữ hành",
+          "Tổ hợp môn": "C00; D01; D10; D15",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Ngành Quản trị dịch vụ du lịch và lữ hành, chuyên ngành Hướng dẫn du lịch",
+          "Tổ hợp môn": "C00; D01; D10; D15",
+          "Điểm chuẩn": "26.2",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 14
+    }
+  ],
+  "table_count": 2,
+  "crawled_at": "2025-07-18T23:24:47.241400",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-van-hoa-tphcm-VHS.html"
+}

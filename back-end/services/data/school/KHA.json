@@ -1,0 +1,2841 @@
+{
+  "school_code": "KHA",
+  "school_name": "Đại Học Kinh Tế Quốc Dân",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D09; D10",
+          "Điểm chuẩn": "35.6",
+          "Ghi chú": "Môn Tiếng Anh hệ số 2"
+        },
+        {
+          "Tên ngành": "Kinh tế học (ngành Kinh tế)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế và quản lý đô thị (ngành Kinh tế)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.01",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế và quản lý nguồn nhân lực (ngành Kinh tế)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.34",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế đầu tư",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế phát triển",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.54",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thống kê kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "36.23",
+          "Ghi chú": "Môn Toán hệ số 2"
+        },
+        {
+          "Tên ngành": "Toán kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "36.2",
+          "Ghi chú": "Môn Toán hệ số 2"
+        },
+        {
+          "Tên ngành": "Quan hệ công chúng",
+          "Tổ hợp môn": "A01; D01; C03; C04",
+          "Điểm chuẩn": "28.18",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.78",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Bất động sản",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.83",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.71",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh thương mại",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.57",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28.02",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.3",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Bảo hiểm",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.71",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.29",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.79",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học quản lý",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý công",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.96",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "36.36",
+          "Ghi chú": "Môn Toán hệ số 2"
+        },
+        {
+          "Tên ngành": "Quản lý dự án",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.91",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "35.55",
+          "Ghi chú": "Môn Toán hệ số 2"
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "35.94",
+          "Ghi chú": "Môn Toán hệ số 2"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "35.17",
+          "Ghi chú": "Môn Toán hệ số 2"
+        },
+        {
+          "Tên ngành": "An toàn thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "35",
+          "Ghi chú": "Môn Toán hệ số 2"
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.89",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh nông nghiệp",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.81",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế nông nghiệp",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.71",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.94",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.76",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế tài nguyên thiên nhiên",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.87",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý đất đai",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (E-BBA)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.01",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khởi nghiệp và phát triển kinh doanh (BBAE)/ngành QTKD",
+          "Tổ hợp môn": "A01; D01; D07; D09",
+          "Điểm chuẩn": "36.25",
+          "Ghi chú": "Môn Tiếng Anh hệ số 2"
+        },
+        {
+          "Tên ngành": "Định phí Bảo hiểm & Quản trị rủi ro (Actuary)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.57",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu trong Kinh tế & Kinh doanh (DSEB)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.97",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán tích hợp chứng chỉ quốc tế (ICAEW CFAB)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh số (E-BDB)/ngành QTKD",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Phân tích kinh doanh (BA)/ngành QTKD",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.48",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị điều hành thông minh (E-SOM)/ngành QTKD",
+          "Tổ hợp môn": "A01; D01; D07; D10",
+          "Điểm chuẩn": "26.96",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị chất lượng và Đổi mới (E-MQI)/ngành QTKD",
+          "Tổ hợp môn": "A01; D01; D07; D10",
+          "Điểm chuẩn": "26.86",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính (BFT)/ngành TC-NH",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.96",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính và Đầu tư (BFI)/ngành TC-NH",
+          "Tổ hợp môn": "A01; D01; D07; D10",
+          "Điểm chuẩn": "36.36",
+          "Ghi chú": "Môn Tiếng Anh hệ số 2"
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn quốc tế (IHME)",
+          "Tổ hợp môn": "A01; D01; D09; D10",
+          "Điểm chuẩn": "35.65",
+          "Ghi chú": "Môn Tiếng Anh hệ số 2"
+        },
+        {
+          "Tên ngành": "Kiểm toán tích hợp chứng chỉ quốc tế (ICAEW CFAB)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế tài chính (FE)/ngành Kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.96",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý CCU tích hợp chứng chỉ Logistic quốc tế (LSIC)",
+          "Tổ hợp môn": "A01; D01; D07; D10",
+          "Điểm chuẩn": "36.42",
+          "Ghi chú": "Môn Tiếng Anh hệ số 2"
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "35.46",
+          "Ghi chú": "Môn Toán hệ số 2"
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "34.5",
+          "Ghi chú": "Môn Toán hệ số 2"
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "34.06",
+          "Ghi chú": "Môn Toán hệ số 2"
+        },
+        {
+          "Tên ngành": "Quản trị giải trí và sự kiện",
+          "Tổ hợp môn": "A01; D01; D09; D10",
+          "Điểm chuẩn": "36.55",
+          "Ghi chú": "Môn Tiếng Anh hệ số 2"
+        },
+        {
+          "Tên ngành": "Quản lý công và Chính sách (E-PMP)/ngành Kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "A01; D01; D07; D09",
+          "Điểm chuẩn": "35.8",
+          "Ghi chú": "Môn Tiếng Anh hệ số 2"
+        },
+        {
+          "Tên ngành": "Quản trị lữ hành",
+          "Tổ hợp môn": "A01; D01; D07; D09",
+          "Điểm chuẩn": "35.75",
+          "Ghi chú": "Môn Tiếng Anh hệ số 2"
+        },
+        {
+          "Tên ngành": "Truyền thông Marketing",
+          "Tổ hợp môn": "A01; D01; D07; D09",
+          "Điểm chuẩn": "37.49",
+          "Ghi chú": "Môn Tiếng Anh hệ số 2"
+        },
+        {
+          "Tên ngành": "Luật kinh doanh",
+          "Tổ hợp môn": "A01; D01; D07; D09",
+          "Điểm chuẩn": "35.26",
+          "Ghi chú": "Môn Tiếng Anh hệ số 2"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh thương mại",
+          "Tổ hợp môn": "A01; D01; D07; D09",
+          "Điểm chuẩn": "36.59",
+          "Ghi chú": "Môn Tiếng Anh hệ số 2"
+        },
+        {
+          "Tên ngành": "Quản lý thị trường",
+          "Tổ hợp môn": "A01; D01; D07; D09",
+          "Điểm chuẩn": "35.88",
+          "Ghi chú": "Môn Tiếng Anh hệ số 2"
+        },
+        {
+          "Tên ngành": "Thẩm định giá",
+          "Tổ hợp môn": "A01; D01; D07; D09",
+          "Điểm chuẩn": "36.05",
+          "Ghi chú": "Môn Tiếng Anh hệ số 2"
+        }
+      ],
+      "row_count": 66
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế học (ngành Kinh tế)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế và quản lý đô thị (ngành Kinh tế)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế và QL NNL (ngành Kinh tế)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.02",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế đầu tư",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế phát triển",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.67",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.03",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thống kê kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Toán kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ công chúng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.37",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.53",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.67",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Bất động sản",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh thương mại",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.64",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.73",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Bảo hiểm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.96",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học quản lý",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý công",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.48",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.13",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý dự án",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.48",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.53",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "An toàn thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.48",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.55",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh nông nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.33",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế nông nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.33",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế tài nguyên thiên nhiên",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.33",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý đất đai",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (E-BBA)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.87",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khởi nghiệp & phát triển KD (BBAE)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Định phí BH & Quản trị rủi ro (Actuary)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.78",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu trong KT & KD (DSEB)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán tích hợp CCQT (ACT-ICAEW)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.02",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh số (E-BDB)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.93",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Phân tích kinh doanh (BA)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.57",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị điều hành thông minh (E-SOM)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị chất lượng và Đổi mới (E-MQI)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.33",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính (BFT)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.07",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đầu tư và tài chính (BFI)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn quốc tế (IHME)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán tích hợp CCQT (AUD-ICAEW)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.81",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế học tài chính (FE)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và QLCCC tích hợp CCQT (LSIC)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.74",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị giải trí và sự kiện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý công và Chính sách (E-PMP)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "POHE-Quản trị khách sạn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "POHE-Quản trị lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "POHE-Truyền thông Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.01",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "POHE-Luật kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "POHE-Quản trị kinh doanh thương mại",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.93",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý thị trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "POHE-Thẩm định giá",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.33",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 66
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế học (ngành Kinh tế)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế và quản lý đô thị (ngành Kinh tế)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế và QL NNL (ngành Kinh tế)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.02",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế đầu tư",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế phát triển",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.67",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.03",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thống kê kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Toán kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ công chúng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.37",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.53",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.67",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Bất động sản",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh thương mại",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.64",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.73",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Bảo hiểm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.96",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học quản lý",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý công",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.48",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.13",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý dự án",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.48",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.53",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "An toàn thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.48",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.55",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh nông nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.33",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế nông nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.33",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế tài nguyên thiên nhiên",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.33",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý đất đai",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (E-BBA)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.87",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khởi nghiệp & phát triển KD (BBAE)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Định phí BH & Quản trị rủi ro (Actuary)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.78",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu trong KT & KD (DSEB)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán tích hợp CCQT (ACT-ICAEW)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.02",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh số (E-BDB)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.93",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Phân tích kinh doanh (BA)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.57",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị điều hành thông minh (E-SOM)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị chất lượng và Đổi mới (E-MQI)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.33",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính (BFT)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.07",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đầu tư và tài chính (BFI)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn quốc tế (IHME)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán tích hợp CCQT (AUD-ICAEW)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.81",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế học tài chính (FE)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và QLCCC tích hợp CCQT (LSIC)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.74",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị giải trí và sự kiện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý công và Chính sách (E-PMP)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "POHE-Quản trị khách sạn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "POHE-Quản trị lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "POHE-Truyền thông Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.01",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "POHE-Luật kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "POHE-Quản trị kinh doanh thương mại",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.93",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý thị trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "POHE-Thẩm định giá",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.33",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 66
+    },
+    {
+      "table_title": "Điểm Đánh giá Tư duy năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế học (ngành Kinh tế)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế và quản lý đô thị (ngành Kinh tế)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế và QL NNL (ngành Kinh tế)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.02",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế đầu tư",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế phát triển",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.67",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.03",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thống kê kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Toán kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.8",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quan hệ công chúng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.37",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.53",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.67",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Bất động sản",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.7",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh thương mại",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.64",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.73",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Bảo hiểm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.96",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học quản lý",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý công",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.48",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.13",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý dự án",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.48",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.53",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.27",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "An toàn thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.48",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.55",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh nông nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.33",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế nông nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.33",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế tài nguyên thiên nhiên",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.33",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý đất đai",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (E-BBA)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.87",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khởi nghiệp & phát triển KD (BBAE)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Định phí BH & Quản trị rủi ro (Actuary)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.78",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu trong KT & KD (DSEB)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán tích hợp CCQT (ACT-ICAEW)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.02",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh doanh số (E-BDB)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.93",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Phân tích kinh doanh (BA)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.57",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị điều hành thông minh (E-SOM)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị chất lượng và Đổi mới (E-MQI)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.33",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính (BFT)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.07",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Đầu tư và tài chính (BFI)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn quốc tế (IHME)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.24",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kiểm toán tích hợp CCQT (AUD-ICAEW)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.81",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kinh tế học tài chính (FE)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Logistics và QLCCC tích hợp CCQT (LSIC)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.74",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.05",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.45",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị giải trí và sự kiện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý công và Chính sách (E-PMP)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.35",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "POHE-Quản trị khách sạn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "POHE-Quản trị lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.75",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "POHE-Truyền thông Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.01",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "POHE-Luật kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.23",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "POHE-Quản trị kinh doanh thương mại",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.93",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản lý thị trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.25",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "POHE-Thẩm định giá",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.33",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 66
+    },
+    {
+      "table_title": "Điểm xét tuyển kết hợp năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A01; D01; D09; D10",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.85",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Kinh tế học (ngành Kinh tế)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Kinh tế học (ngành Kinh tế)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.87",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Kinh tế và quản lý đô thị (ngành Kinh tế)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.2",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Kinh tế và quản lý đô thị (ngành Kinh tế)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.2",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Kinh tế và QL NNL (ngành Kinh tế)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.95",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Kinh tế và QL NNL (ngành Kinh tế)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.02",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Kinh tế đầu tư",
+          "Tổ hợp môn": "A00; A01; D01; B00",
+          "Điểm chuẩn": "27.25",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Kinh tế đầu tư",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.45",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Kinh tế phát triển",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.84",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Kinh tế phát triển",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.67",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Kinh tế quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.9",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Kinh tế quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.03",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Thống kê kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.25",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Thống kê kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.25",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Toán kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.57",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Toán kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.8",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Quan hệ công chúng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.37",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Quan hệ công chúng",
+          "Tổ hợp môn": "A01; D01; C03; C04",
+          "Điểm chuẩn": "27.75",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.53",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.34",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.9",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.67",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Bất động sản",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.9",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Bất động sản",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.33",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.7",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28.16",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Kinh doanh thương mại",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.64",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Kinh doanh thương mại",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.73",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.4",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28.16",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.73",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Bảo hiểm",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.1",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Bảo hiểm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.25",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.45",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.1",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.96",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.73",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Khoa học quản lý",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.75",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Khoa học quản lý",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.15",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Quản lý công",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.25",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Quản lý công",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.3",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.48",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.35",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.13",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.7",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Quản lý dự án",
+          "Tổ hợp môn": "A00; A01; D01; B00",
+          "Điểm chuẩn": "26.8",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Quản lý dự án",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.48",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.53",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.81",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.27",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.15",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.22",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.71",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.05",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.31",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "An toàn thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.48",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "An toàn thông tin",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "28.02",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.55",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Kinh doanh nông nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.33",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Kinh doanh nông nghiệp",
+          "Tổ hợp môn": "A00; A01; D01; B00",
+          "Điểm chuẩn": "25.2",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Kinh tế nông nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.33",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Kinh tế nông nghiệp",
+          "Tổ hợp môn": "A00; A01; D01; B00",
+          "Điểm chuẩn": "25.2",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.2",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.57",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.9",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.11",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.4",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.75",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Kinh tế tài nguyên thiên nhiên",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.33",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Kinh tế tài nguyên thiên nhiên",
+          "Tổ hợp môn": "A00; A01; D01; B00",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Quản lý đất đai",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Quản lý đất đai",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "25.4",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (E-BBA)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.65",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (E-BBA)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.87",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Khởi nghiệp & phát triển KD (BBAE)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.45",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Khởi nghiệp & phát triển KD (BBAE)",
+          "Tổ hợp môn": "A01; D01; D07; D09",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Định phí BH & Quản trị rủi ro (Actuary)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.78",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Định phí BH & Quản trị rủi ro (Actuary)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.1",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu trong KT & KD (DSEB)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.5",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu trong KT & KĐ (DSEB)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.52",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Kế toán tích hợp CCQT (ACT-ICAEW)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Kế toán tích hợp CCQT (ACT-ICAEW)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.02",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Kinh doanh số (E-BDB)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.93",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Kinh doanh số (E-BDB)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.2",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Phân tích kinh doanh (BA)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.57",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Phân tích kinh doanh (BA)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.44",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Quản trị điều hành thông minh (E-SOM)",
+          "Tổ hợp môn": "A01; D01; D07; D10",
+          "Điểm chuẩn": "26.1",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Quản trị điều hành thông minh (E-SOM)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.25",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Quản trị chất lượng và Đồi mới (E-MQ1)",
+          "Tổ hợp môn": "A01; D01; D07; D10",
+          "Điểm chuẩn": "25.2",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Quản trị chất lượng và Đổi mới (E-MQI)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.33",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính (BFT)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.55",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính (BFT)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.07",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Tài chính và đầu tư (BFI)",
+          "Tổ hợp môn": "A01; D01; D07; D10",
+          "Điểm chuẩn": "26.9",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Đầu tư và tài chính (BFI)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.05",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn quốc tế (IHME)",
+          "Tổ hợp môn": "A01; D01; D09; D10",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn quốc tế (IHME)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.24",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Kiểm toán tích hợp CCQT (AUD-ICAEW)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.4",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Kiểm toán tích hợp CCQT (AUD-ICAEW)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.81",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Kinh tế học tài chính (FE)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Kinh tế học tài chính (FE)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.25",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Logistics và QLCCC tích hợp CCQT (LSIC)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Logistics và QLCCC tích hợp CCQT (LSIC)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "22.74",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "2600",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.05",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.45",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Quản trị giải trí và sự kiện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Quản trị giải trí và sự kiện",
+          "Tổ hợp môn": "A01; D01; D09; D10",
+          "Điểm chuẩn": "27.6",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Quản lý công và Chính sách (E-PMP)",
+          "Tổ hợp môn": "A00; A01; D01; D07",
+          "Điểm chuẩn": "24.5",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "Quản lý công và Chính sách (E-PMP)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.35",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "POHE-Quản trị khách sạn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "POHE-Quản trị khách sạn",
+          "Tổ hợp môn": "A01; D01; D07; D09",
+          "Điểm chuẩn": "26.65",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "POHE-Quản trị lữ hành",
+          "Tổ hợp môn": "A01; D01; D07; D09",
+          "Điểm chuẩn": "26.4",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "POHE-Quản trị lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.75",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "POHE-Truyền thông Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "23.01",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "POHE-Truyền thông Marketing",
+          "Tổ hợp môn": "A01; D01; D07; D09",
+          "Điểm chuẩn": "27.85",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "POHE-Luật kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.23",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "POHE-Luật kinh doanh",
+          "Tổ hợp môn": "A01; D01; D07; D09",
+          "Điểm chuẩn": "26.57",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "POHE-Quản trị kinh doanh thương mại",
+          "Tổ hợp môn": "A01; D01; D07; D09",
+          "Điểm chuẩn": "27.2",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "POHE-Quản trị kinh doanh thương mại",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "21.93",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "Quản lý thị trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "20.25",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        },
+        {
+          "Tên ngành": "POHE-Quản lý thị trường",
+          "Tổ hợp môn": "A01; D01; D07; D09",
+          "Điểm chuẩn": "26",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "POHE-Thẩm định giá",
+          "Tổ hợp môn": "A01; D01; D07; D09",
+          "Điểm chuẩn": "25.2",
+          "Ghi chú": "Điểm thi tốt nghiệp kết hợp CCQT"
+        },
+        {
+          "Tên ngành": "POHE-Thẩm định giá",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "19.33",
+          "Ghi chú": "CCTAQT kết hợp với điểm thi HSA/APT/TSA 2023 hoặc 2024"
+        }
+      ],
+      "row_count": 131
+    },
+    {
+      "table_title": "Chứng chỉ quốc tế năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26.44",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Kinh tế học (ngành Kinh tế)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Kinh tế và quản lý đô thị (ngành Kinh tế)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "25.13",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Kinh tế và QL NNL (ngành Kinh tế)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "25.83",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Kinh tế đầu tư",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.38",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Kinh tế phát triển",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "25.83",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Kinh tế quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28.5",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Thống kê kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Toán kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "25.69",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Quan hệ công chúng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.89",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.38",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28.13",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Bất động sản",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "25.13",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28.88",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Kinh doanh thương mại",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.94",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28.73",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.94",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Bảo hiểm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.56",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28.37",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Khoa học quản lý",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.93",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Quản lý công",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.56",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin quản lý",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26.38",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Quản lý dự án",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26.44",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26.06",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.1",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.75",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Hệ thống thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "25.69",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "25.13",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "An toàn thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28.31",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Kinh doanh nông nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26.15",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Kinh tế nông nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.38",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26.06",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26.25",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.38",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Quản lý đất đai",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.38",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh (E-BBA)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26.63",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Khởi nghiệp & phát triển KD (BBAE)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.38",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Định phí BH & Quản trị rủi ro (Actuary)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26.44",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu trong KT & KD (DSEB)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28.01",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Kế toán tích hợp CCQT (ACT-ICAEW)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.19",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Kinh doanh số (E-BDB)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.75",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Phân tích kinh doanh (BA)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28.69",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Quản trị điều hành thông minh (E-SOM)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "25.31",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Quản trị chất lượng và Đổi mới (E-MQI)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.38",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Công nghệ tài chính (BFT)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.19",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Đầu tư và tài chính (BFI)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.56",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Quản trị khách sạn quốc tế (IHME)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26.44",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Kiểm toán tích hợp CCQT (AUD-ICAEW)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28.55",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Kinh tế học tài chính (FE)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "25.65",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Logistics và QLCCC tích hợp CCQT (LSIC)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28.01",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Kỹ thuật phần mềm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "25.65",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Quản trị giải trí và sự kiện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.19",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Quản lý công và Chính sách (E-PMP)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.38",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "POHE-Quản trị khách sạn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26.01",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "POHE-Quản trị lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.56",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "POHE-Truyền thông Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "28.31",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "POHE-Luật kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26.44",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "POHE-Quản trị kinh doanh thương mại",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.19",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "Quản lý thị trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.38",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        },
+        {
+          "Tên ngành": "POHE-Thẩm định giá",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "24.74",
+          "Ghi chú": "CCQT SAT hoặc ACT"
+        }
+      ],
+      "row_count": 65
+    }
+  ],
+  "table_count": 6,
+  "crawled_at": "2025-07-18T23:22:09.669441",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-kinh-te-quoc-dan-KHA.html"
+}

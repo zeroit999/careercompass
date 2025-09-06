@@ -1,0 +1,51 @@
+{
+  "school_code": "HVA",
+  "school_name": "Học Viện Âm Nhạc Huế",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2016",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Âm nhạc học",
+          "Tổ hợp môn": "0",
+          "Điểm chuẩn": "0",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Sáng tác âm nhạc",
+          "Tổ hợp môn": "0",
+          "Điểm chuẩn": "0",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Thanh nhạc",
+          "Tổ hợp môn": "0",
+          "Điểm chuẩn": "0",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Biểu diễn nhạc cụ phương tây",
+          "Tổ hợp môn": "0",
+          "Điểm chuẩn": "0",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Biểu diễn nhạc cụ truyền thống",
+          "Tổ hợp môn": "0",
+          "Điểm chuẩn": "0",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 5
+    }
+  ],
+  "table_count": 1,
+  "crawled_at": "2025-07-18T23:32:26.215582",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-am-nhac-hue-HVA.html"
+}

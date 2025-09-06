@@ -1,0 +1,153 @@
+{
+  "school_code": "UKB",
+  "school_name": "Trường Đại Học Kinh Bắc",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; A01; D14; D10",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; C04; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; C04; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; C04; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "A00; A01; B00; D90",
+          "Điểm chuẩn": "22.5",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y học cổ truyền",
+          "Tổ hợp môn": "A00; A01; B00; D90",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "A00; A01; B00; D90",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "15",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 10
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "D01; A01; D14; D10",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "Hoặc ĐTB lớp 12 từ 5.0"
+        },
+        {
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00; A01; C04; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "Hoặc ĐTB lớp 12 từ 5.0"
+        },
+        {
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00; A01; C04; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "Hoặc ĐTB lớp 12 từ 5.0"
+        },
+        {
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "Hoặc ĐTB lớp 12 từ 5.0"
+        },
+        {
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "Hoặc ĐTB lớp 12 từ 5.0"
+        },
+        {
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; C04; D01",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "Hoặc ĐTB lớp 12 từ 5.0"
+        },
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "A00; A01; B00; D90",
+          "Điểm chuẩn": "0",
+          "Ghi chú": "Học lực lớp 12 xếp loại Giỏi trở lên"
+        },
+        {
+          "Tên ngành": "Y học cổ truyền",
+          "Tổ hợp môn": "A00; A01; B00; D90",
+          "Điểm chuẩn": "0",
+          "Ghi chú": "Học lực lớp 12 xếp loại Giỏi trở lên"
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "A00; A01; B00; D90",
+          "Điểm chuẩn": "0",
+          "Ghi chú": "Học lực lớp 12 xếp loại Giỏi trở lên"
+        },
+        {
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "A00; A01; D01; C00",
+          "Điểm chuẩn": "15",
+          "Ghi chú": "Hoặc ĐTB lớp 12 từ 5.0"
+        }
+      ],
+      "row_count": 10
+    }
+  ],
+  "table_count": 2,
+  "crawled_at": "2025-07-18T23:28:35.693654",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-kinh-bac-UKB.html"
+}

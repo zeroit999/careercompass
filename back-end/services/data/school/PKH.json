@@ -1,0 +1,105 @@
+{
+  "school_code": "PKH",
+  "school_name": "Học Viện Phòng Không – Không Quân",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "23.7",
+          "Ghi chú": "TS nam miền Bắc; Tiêu chí phụ 1: Toán >= 7; Tiêu chí phụ 2: Lý >= 8.25"
+        },
+        {
+          "Tên ngành": "Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "22.05",
+          "Ghi chú": "TS nam miền Nam"
+        }
+      ],
+      "row_count": 2
+    },
+    {
+      "table_title": "Điểm học bạ năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "25.831",
+          "Ghi chú": "TS Nam miền Bắc"
+        },
+        {
+          "Tên ngành": "Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử",
+          "Tổ hợp môn": "A00; A01",
+          "Điểm chuẩn": "25.81",
+          "Ghi chú": "TS Nam miền Nam"
+        }
+      ],
+      "row_count": 2
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.5",
+          "Ghi chú": "TS Nam miền Bắc"
+        },
+        {
+          "Tên ngành": "Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.875",
+          "Ghi chú": "TS Nam miền Nam"
+        }
+      ],
+      "row_count": 2
+    },
+    {
+      "table_title": "Điểm ĐGNL HCM năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.5",
+          "Ghi chú": "TS Nam miền Bắc"
+        },
+        {
+          "Tên ngành": "Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "15.875",
+          "Ghi chú": "TS Nam miền Nam"
+        }
+      ],
+      "row_count": 2
+    }
+  ],
+  "table_count": 4,
+  "crawled_at": "2025-07-18T23:23:21.352695",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-phong-khong-khong-quan-PKH.html"
+}

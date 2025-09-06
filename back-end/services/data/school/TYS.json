@@ -1,0 +1,93 @@
+{
+  "school_code": "TYS",
+  "school_name": "Trường Đại Học Y Khoa Phạm Ngọc Thạch",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "26.57",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y học cổ truyền",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "24.6",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dược học",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "25.51",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "B00; B03",
+          "Điểm chuẩn": "23.57",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Hộ sinh",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "22.4",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Dinh dưỡng",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "23.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Răng Hàm Mặt",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "26.49",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật xét nghiệm y học",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "24.9",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật hình ảnh y học",
+          "Tổ hợp môn": "B00; A00",
+          "Điểm chuẩn": "24.1",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Kỹ thuật phục hồi chức năng",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": "24.01",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Khúc xạ nhãn khoa",
+          "Tổ hợp môn": "B00; A00",
+          "Điểm chuẩn": "24.06",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Y tế công cộng",
+          "Tổ hợp môn": "B00; B03; A00",
+          "Điểm chuẩn": "21.35",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 12
+    }
+  ],
+  "table_count": 1,
+  "crawled_at": "2025-07-18T23:23:45.077809",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-y-khoa-pham-ngoc-thach-TYS.html"
+}

@@ -1,0 +1,141 @@
+{
+  "school_code": "QHD",
+  "school_name": "Trường Quản Trị và Kinh Doanh - ĐHQG Hà Nội",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản trị Doanh nghiệp và Công nghệ",
+          "Tổ hợp môn": "D01; A01; D07; D08",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing và Truyền thông",
+          "Tổ hợp môn": "D01; D09; D10; D96",
+          "Điểm chuẩn": "21.2",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị Nhân lực và Nhân tài",
+          "Tổ hợp môn": "D01; D09; D10; D96",
+          "Điểm chuẩn": "21",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị và An ninh",
+          "Tổ hợp môn": "D01; A01; D07; D08",
+          "Điểm chuẩn": "22",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 4
+    },
+    {
+      "table_title": "Điểm ĐGNL HN năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản trị Doanh nghiệp và Công nghệ",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "85",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Marketing và Truyền thông",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "83",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị Nhân lực và Nhân tài",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "80",
+          "Ghi chú": ""
+        },
+        {
+          "Tên ngành": "Quản trị và An ninh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "85",
+          "Ghi chú": ""
+        }
+      ],
+      "row_count": 4
+    },
+    {
+      "table_title": "Điểm xét tuyển kết hợp năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản trị Doanh nghiệp và Công nghệ",
+          "Tổ hợp môn": "D01; A01; D07; D08",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": "Ielts 5.5, Xét kết hợp KQ học tập 3 năm THPT của 2 môn còn lại trong THXT đạt tối thiểu 8.0 điểm/ môn (trong đó bắt buộc có môn Toán), từng kỳ không có môn học nào dưới 7.0."
+        },
+        {
+          "Tên ngành": "Marketing và Truyền thông",
+          "Tổ hợp môn": "D01; D09; D10; D96",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": "Ielts 5.5, Xét kết hợp KQ học tập 3 năm THPT của 2 môn còn lại trong THXT đạt tối thiểu 8.0 điểm/ môn (trong đó bắt buộc có môn Toán), từng kỳ không có môn học nào dưới 7.0."
+        },
+        {
+          "Tên ngành": "Quản trị Nhân lực và Nhân tài",
+          "Tổ hợp môn": "D01; D09; D10; D96",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": "Ielts 5.5, Xét kết hợp KQ học tập 3 năm THPT của 2 môn còn lại trong THXT đạt tối thiểu 8.0 điểm/ môn (trong đó bắt buộc có môn Toán), từng kỳ không có môn học nào dưới 7.0."
+        },
+        {
+          "Tên ngành": "Quản trị và An ninh",
+          "Tổ hợp môn": "D01; A01; D07; D08",
+          "Điểm chuẩn": "5.5",
+          "Ghi chú": "Ielts 5.5, Xét kết hợp KQ học tập 3 năm THPT của 2 môn còn lại trong THXT đạt tối thiểu 8.0 điểm/ môn (trong đó bắt buộc có môn Toán), từng kỳ không có môn học nào dưới 7.0."
+        }
+      ],
+      "row_count": 4
+    },
+    {
+      "table_title": "Chứng chỉ quốc tế năm 2024",
+      "headers": [
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "Tên ngành": "Quản trị Doanh nghiệp và Công nghệ",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1340",
+          "Ghi chú": "CCTAQT SAT"
+        },
+        {
+          "Tên ngành": "Marketing và Truyền thông",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "1340",
+          "Ghi chú": "CCTAQT SAT"
+        }
+      ],
+      "row_count": 2
+    }
+  ],
+  "table_count": 4,
+  "crawled_at": "2025-07-18T23:28:57.449543",
+  "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/truong-quan-tri-va-kinh-doanh-dh-quoc-gia-ha-noi-QHD.html"
+}

@@ -1,0 +1,89 @@
+pipeline {
+    environment {
+        REGISTRY_HOST = "registry.jee.vn"
+        REGISTRY_PUBLISHER = "huit_dev"
+        REGISTRY_CRED = "registry"
+
+        REMOTE_URL = "https://jenkins.dev.huit.vn/job/34.2.Career-Compass-BE/buildWithParameters"
+        REMOTE_BUILD_TOKEN = "eMz5WSCw2GexKUKRCCBn8pbwbK09hlFjTldhdnRZUa283Hxlf0AsyVyBPum4VI3n"
+
+        service = ""
+    }
+    agent any
+    parameters {
+        choice(
+            name: 'PROJECT',
+            choices: ['hck', 'rag', 'cv', 'uni', 'maj', 'inter'],
+            description: 'Select the project to build'
+        )
+    }
+    stages {
+        stage('Clone repository') {
+            steps {
+                script {
+                    checkout scm
+                }
+            }
+        }
+        stage('Init') {
+            steps {
+                script {
+                    PROJECT_NAMES = [
+                        "hck": "career-compass-health",
+                        "rag": "career-compass-rag",
+                        "cv": "career-compass-cv",
+                        "uni": "career-compass-university",
+                        "maj": "career-compass-major",
+                        "inter": "career-compass-interview"
+                    ]
+
+                    env.PROJECT_NAME = PROJECT_NAMES[params.PROJECT]
+                    if (!env.PROJECT_NAME) {
+                        error "Invalid project name: ${params.PROJECT}. Valid options are: ${PROJECT_NAMES.keySet().join(', ')}"
+                    }
+
+                    DOCKERFILE_PATH = "back-end/Dockerfile.${params.PROJECT}"
+                    if (!fileExists(DOCKERFILE_PATH)) {
+                        error "Dockerfile not found for project: ${params.PROJECT}. Expected at: ${DOCKERFILE_PATH}"
+                    }
+
+                }
+            }
+        }
+        stage('Build image') {
+            steps {
+                script {
+                    dir("back-end"){
+                        service = docker.build("${REGISTRY_HOST}/${REGISTRY_PUBLISHER}/${PROJECT_NAME}:latest", "-f Dockerfile.${params.PROJECT} .")
+                    }
+                }
+            }
+        }
+        stage('Push image') {
+            steps {
+                script {
+                    docker.withRegistry("https://${REGISTRY_HOST}", REGISTRY_CRED) {
+                        service.push("latest")
+                    }
+                }
+            }
+        }
+        stage('Call Remote') {
+            steps {
+                script {
+                    withCredentials([usernamePassword(credentialsId: 'jenkin_huit_dev', usernameVariable: "USERNAME", passwordVariable: "PASSWORD")]) {
+                        sh """
+                            curl -u ${USERNAME}:${PASSWORD} -X GET \
+                            "${REMOTE_URL}?token=${REMOTE_BUILD_TOKEN}&PROJECT=${params.PROJECT}"
+                        """
+                    }
+                }
+            }
+        }
+        stage('Cleaning up') {
+            steps{
+                sh "docker image prune -f"
+            }
+        }
+    }
+}
